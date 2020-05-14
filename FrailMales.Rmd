@@ -1,0 +1,126 @@
+---
+title: "FrailMaleMortalityABSouth"
+author: "jim (and jesse, soon)"
+output:
+  html_document: default
+  pdf_document: default
+---
+#### tasks/tactics ####
+20200512 would be nice to corroborate maternal misery with the SSR of a known population with horrible material conditions
+Ji: modern mumbai? or Rio (to which Steckel refers)
+Js: antebellum NE slums are a separate fish to fry
+
+census of india 1891 p64 maybe something? --  mention female survive famine more  p247 ratio for <1
+https://dsal.uchicago.edu/statistics/1876_excel/index.html 1881 India census
+
+Frail males are familiar. A wide range of research demonstrates that tough times during pregnancy skews the sex ratio in live births. So Steckel's picture of slave pregnancy in the AB South points to the proposition that slave births would have been skewed toward females. We can test this by comparing sex ratio among the young in slave and free populations in the AB Sotuh.
+
+
+#### Bio-social mechanisms and evidence ####
+
+
+```{r pressure, echo=FALSE, out.width = '70%'}
+knitr::include_graphics("DrixlerSRstillbirths.jpg")
+```  
+Take Drixler evidence : SR in SB of 1.3 or more, and rates of SB relative to living, to see 1.05 pulled down to 1.02
+SR in stillbirths (SB) maybe 1.30, implies male SBR  1.23 times the female, with a 15% rate of SB (but plausibly low for the dreadful maternity scenario)
+
+Hui-Lung et Al. (1997) say "Disparity in the crude fetal death rates for blacks and whites is explained almost entirely by differences in birth weight distribution." (1979: **blacks 14.6** per thousand, whites 8.2 )  https://www.sciencedirect.com/science/article/abs/pii/S0029784496003754
+
+
+
+
+
+
+
+
+
+
+
+? The famous famine in WWII Holland -- Steck: Stein et al
+
+Steckel 1986 EEH  p186 wartime famine in Holland reduced birth weight 300g   energy supplements during last two trimesters rural Guatemla increased birth weight 120g   chronic poor nutrition not a general problem among working slaves     short maternal stature [not] an important factor [in slaves' low birth weight]   birth weights of whites exceed blacks in US by ~200g
+
+Alabama 1860 census   thinking about how to clarify counting of infants    
+Covington Co 8 m  18f  I count 8 18 fractional ages ... use PUMS for 1 yo?
+Wow, state-level infant sex ratios for slaves ~95%  white >1.05
+  
+### A Priori Anti-Steckel
+
+Were slave newborns small enough for the Steckel mortality effect? McIntire, Bloom Et Al birth-weight neonatal mortality risk is at weights below 3rd percentile .03% vs .3% in Dallas TX hospitals in the 1980s https://www.cdc.gov/growthcharts/html_charts/wtageinf.htm 
+ 
+ percentile    male    female 
+------------   ------ ---------
+  3rd          2355g    2414g  
+  10th          2774     2747   
+ 50th           3530     3399              
+------------   ------ ---------
+
+Planters would have noticed that feeding kids was worthwhile Stulp & Barrett (2014)  Indeed, lack of nutrition, particularly protein deficiency, is recognized as one of the main contributors to reduced infant growth in developing countries, and supplementary food programs have been shown to produce clear improvements in growth rates and reduced stunting Edozien, Khan & Waslien, 1976; Beaton & Ghassemi, 1982; Silventoinen, 2003
+
+
+
+
+
+LITERATURE
+
+3. Coelho PRP, McGuire RA. Diets versus diseases: the anthropometrics of slave children. J Econ Hist. 2000;60:232–246. [PubMed] [Google Scholar]
+4. Steckel RH. Diets versus diseases in the anthropometrics of slave children: a reply. J Econ Hist. 2000;60:247–259. [Google Scholar]
+
+  
+Richard L. Naeye et al. ("Neonatal Mortality, the Male Disadvantage," PED 48
+[1971], 902-6) for some thoughts on the reason for excessive male mortality.
+Kenneth F. Kiple, Blacks in Colonial Cuba, 1774-1899 (Gainesville, Fla., 1976),
+
+
+Carson (2008 JEH) on Black stature in US no mention of childhood/catchup
+
+Kiple (2002 Caribbean Slave: A Biological History)  n91
+ and Tanner Foerus into man  p48 ?women resilient?
+also p208 n64 re sex ratios
+
+
+Friedman, Higman, Meredith all use Engerman's Trinidad data ..
+
+Northern chills, southern fevers: Race-specific mortality in American cities, 1730-1900 C Warren - The Journal of Southern History, 1997 - JSTOR
+
+Plantation Slave Mortality in Trinidad
+A. Meredith John Pages 161-182   Published online: 04 Jun 2010
+Download citation https://doi.org/10.1080/0032472031000143306
+
+Heights and human welfare: Recent developments and new directions
+RH Steckel - Explorations in Economic History, 2009 - Elsevier
+
+
+
+Intergenerational persistence in health in developing countries: The penalty of gender inequality?
+S Bhalotra, SB Rawlings - Journal of Public Economics, 2011 - Elsevier
+This paper is motivated to investigate the often neglected payoff to investments in the health
+of girls and women in terms of next generation outcomes. This paper investigates the
+intergenerational persistence of health across time and region as well as across the …
+  Cited by 123 Related articles All 25 versions 
+[PDF] gertstulp.com
+Evolutionary perspectives on human height variation
+G Stulp, L Barrett - Biological Reviews, 2016 - Wiley Online Library
+Human height is a highly variable trait, both within and between populations, has a high
+heritability, and influences the manner in which people behave and are treated in society.
+Although we know much about human height, this information has rarely been brought …
+  Cited by 119 Related articles All 9 versions
+[HTML] nih.gov
+[HTML] Height of nations: a socioeconomic analysis of cohort differences and patterns among women in 54 low-to middle-income countries
+SV Subramanian, E Özaltin, JE Finlay - PLoS One, 2011 - ncbi.nlm.nih.gov
+
+The economic rationale for investing in stunting reduction
+J Hoddinott, H Alderman, JR Behrman… - Maternal & child …, 2013 - Wiley Online Library
+This paper outlines the economic rationale for investments that reduce stunting. We present
+a framework that illustrates the functional consequences of stunting in the 1000 days after
+conception throughout the life cycle: from childhood through to old age. We summarize the …
+  Cited by 351 Related articles All 22 versions
+[PDF] typepad.com
+Pre‐industrial inequality
+B Milanovic, PH Lindert, JG Williamson - The economic journal, 2011 - academic.oup.com
+Is inequality largely the result of the Industrial Revolution? Or, were pre‐industrial incomes
+as unequal as they are today? This article infers inequality across individuals within each of
+the 28 pre‐industrial societies, for which data were available, using what are known as …
+  Cited by 336 Related articles All 18 versions 
+
