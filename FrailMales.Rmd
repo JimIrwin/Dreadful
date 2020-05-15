@@ -1,43 +1,65 @@
 ---
-title: "FrailMaleMortalityABSouth"
-author: "jim (and jesse, soon)"
+title: "Frail Males -- Slave Mortality in the AnteBellum South"
+author: "jim and jesse"
 output:
   html_document: default
   pdf_document: default
 ---
-#### tasks/tactics ####
-20200512 would be nice to corroborate maternal misery with the SSR of a known population with horrible material conditions
-Ji: modern mumbai? or Rio (to which Steckel refers)
-Js: antebellum NE slums are a separate fish to fry
 
-census of india 1891 p64 maybe something? --  mention female survive famine more  p247 ratio for <1
-https://dsal.uchicago.edu/statistics/1876_excel/index.html 1881 India census
+Frail males are familiar to students of biology (less so, to economists and historians). A wide range of research ^[(bio? medical? social science?)] demonstrates that tough times during pregnancy skews the sex ratio in live births, and that tough times in infancy skews the infant sex ratio. (Healthy population: 1.053 boys per girl at birth, then some levelling as frail males die more, countered by maternal mortality for a while, until older age claims the frail male sooner, resulting in low sex ratios among older adults).
 
-Frail males are familiar. A wide range of research demonstrates that tough times during pregnancy skews the sex ratio in live births. So Steckel's picture of slave pregnancy in the AB South points to the proposition that slave births would have been skewed toward females. We can test this by comparing sex ratio among the young in slave and free populations in the AB Sotuh.
+In the 1970s, research on slavery in the antebellum South pointed to a population whose material conditions of life were consistent with three facts: hard work, a growing population, and political stability (until the Civil War. Conditions  with 
+- slaves working hard and producing lots of output  and 
+- reproducing like white population. 
+- political stability (cf Haitia; Nat Turner, Denmark Vesey)      until?  ...   union troops nearby ...  AGENCY
 
 
-#### Bio-social mechanisms and evidence ####
+1. economists (Fogel and Engerman and later)  show that southern slaves  produced a lot (debate on how/why), 
+eliminates old discussions that view plantations as chaotic and violent prison with starving inmates. Lots of work, fueled by lots of food.   
 
+2. historians (Blassingham and Genovese) show that slaves were people, not passive victims.   Agency / Space 
+eliminates discussions of how masters  "treated" the slaves.  Explore how slaves carved out space for their own families and communities. Debate over +/- incentives ...  debate on how much slaves able to transcend ...
+
+3. ecos and hist remind of contrasts to sugar areas (WI and Brazil) ...worse demog; LR poorer ... 
+
+_____________________________________________
+Almost a consensus ... with one key exception: Steckel's view of slave life "A Dreadful Childhood" (1986 and later).
+Steckel says slave infants and children had "a dreadful childhood," as bad as the worst urban slums of India or Brazil.
+Evidence from Ships's manifests, slaves being transported by sea from old South to New Orleans, are measured to identify them in order to enforce the ban on US participation in the Atlantic slave trade (since 1807). In the manifests records,
+Steckel finds evidence of tiny children, and infers low birthweight, and high mortality as infants and kids. Mothers overworked; children underfed (Steckel says). Material conditions as bad as worst urban slums of India or Brazil.
+
+So Steckel presents US slaves as a  "peculiar" population: tiny kids, tall adults, via "catch-up" growth. A different perspective on slave life: awful conditions for kids, then lots of food when working. So perhaps the enslaved were powerless to protect their children? Ouch.
+But maybe ... scrunching ?   theory & evidence:  breastfeeding ?  theory & evidence: how powerless were slaves ?   
+
+Richard Steckel's picture of a dreadful pregnancy and childhood in the AB South points to the proposition that slave births would have been skewed toward females. We can test this by comparing sex ratio among the young in slave and free populations in the AB South.
+So Steckel's picture of slave pregnancy in the AB South points to the proposition that slave births would have been skewed toward females. We can test this by comparing sex ratio among the young in slave and free populations in the AB Sotuh.
+
+
+To advance Steckel's view, we pose the null hypothesis that the southern slave population's SR1 is the same as the white population's, against the alternative that the slave SR1 is lower. Point estimate is -9.5% 
+
+To refute Steckel's view, we pose the null hypothesis that the slave SR1 is at least 5% points below the white SR1, against the alternative that the slave SR1 is closer to the white value.
+
+
+### Bio-social mechanisms and evidence ###
+
+
+#### Fetal Mortality ####
+Relative to females, the frail males are culled in utero by maternal stress and malnutrition. With stillbirth rates on the order of 13% (like early 20th C black populations), the natural SR of 1.05 will be pulled down  
 
 ```{r pressure, echo=FALSE, out.width = '70%'}
 knitr::include_graphics("DrixlerSRstillbirths.jpg")
 ```  
-Take Drixler evidence : SR in SB of 1.3 or more, and rates of SB relative to living, to see 1.05 pulled down to 1.02
-SR in stillbirths (SB) maybe 1.30, implies male SBR  1.23 times the female, with a 15% rate of SB (but plausibly low for the dreadful maternity scenario)
 
-Hui-Lung et Al. (1997) say "Disparity in the crude fetal death rates for blacks and whites is explained almost entirely by differences in birth weight distribution." (1979: **blacks 14.6** per thousand, whites 8.2 )  https://www.sciencedirect.com/science/article/abs/pii/S0029784496003754
+Take Drixler evidence : SR in SB of 1.3 or more, and rates of SB relative to living, to see 1.053 pulled down to 1.026^[That 1.026 will then be pulled down further by infant mortality which is borne more by the frail male, probably 1.2x as much. So if after the stillbirth culling we have a SR of 1.026, a 30% infant mortality rate will leave infant sex ratio of 0.95. The 1.026 comes from a SR in stillbirths (SB) of say 1.30, which implies male SBR  1.234 times the female, with a 12% rate of SB (low for the dreadful maternity scenario)].
 
+Potentially relevant to stillbirth effects, Sweden 1999-2000 infant mortality among preemies (born at 23-24 weeks) was 55% for males and 32% for females. That in [Ingemarsson] (https://jimirwin.github.io/Dreadful/lit.html#Ingemarsson), who also cites Hassold et al for 1.32 sex ratio in chromosonally normal spontaneous abortions.
 
+Hui-Lung et Al. ([1997 Obstetrics & Gynecology (https://www.sciencedirect.com/science/article/abs/pii/S0029784496003754)] say "Disparity in the crude fetal death rates for blacks and whites is explained almost entirely by differences in birth weight distribution." (1979: blacks 14.6 **per thousand**, whites 8.2 )  
 
-
-
-
+See Kiple for ???
 
 
 
-
-
-? The famous famine in WWII Holland -- Steck: Stein et al
 
 Steckel 1986 EEH  p186 wartime famine in Holland reduced birth weight 300g   energy supplements during last two trimesters rural Guatemla increased birth weight 120g   chronic poor nutrition not a general problem among working slaves     short maternal stature [not] an important factor [in slaves' low birth weight]   birth weights of whites exceed blacks in US by ~200g
 
@@ -60,67 +82,13 @@ Planters would have noticed that feeding kids was worthwhile Stulp & Barrett (20
 
 
 
+##[LITERATURE](https://jimirwin.github.io/Dreadful/DreadfulLit.html)##
 
 
-LITERATURE
+#### tasks/tactics ####
+20200512 would be nice to corroborate maternal misery with the SSR of a known population with horrible material conditions
+Ji: modern mumbai? or Rio (to which Steckel refers)
+Js: antebellum NE slums are a separate fish to fry
 
-3. Coelho PRP, McGuire RA. Diets versus diseases: the anthropometrics of slave children. J Econ Hist. 2000;60:232–246. [PubMed] [Google Scholar]
-4. Steckel RH. Diets versus diseases in the anthropometrics of slave children: a reply. J Econ Hist. 2000;60:247–259. [Google Scholar]
-
-  
-Richard L. Naeye et al. ("Neonatal Mortality, the Male Disadvantage," PED 48
-[1971], 902-6) for some thoughts on the reason for excessive male mortality.
-Kenneth F. Kiple, Blacks in Colonial Cuba, 1774-1899 (Gainesville, Fla., 1976),
-
-
-Carson (2008 JEH) on Black stature in US no mention of childhood/catchup
-
-Kiple (2002 Caribbean Slave: A Biological History)  n91
- and Tanner Foerus into man  p48 ?women resilient?
-also p208 n64 re sex ratios
-
-
-Friedman, Higman, Meredith all use Engerman's Trinidad data ..
-
-Northern chills, southern fevers: Race-specific mortality in American cities, 1730-1900 C Warren - The Journal of Southern History, 1997 - JSTOR
-
-Plantation Slave Mortality in Trinidad
-A. Meredith John Pages 161-182   Published online: 04 Jun 2010
-Download citation https://doi.org/10.1080/0032472031000143306
-
-Heights and human welfare: Recent developments and new directions
-RH Steckel - Explorations in Economic History, 2009 - Elsevier
-
-
-
-Intergenerational persistence in health in developing countries: The penalty of gender inequality?
-S Bhalotra, SB Rawlings - Journal of Public Economics, 2011 - Elsevier
-This paper is motivated to investigate the often neglected payoff to investments in the health
-of girls and women in terms of next generation outcomes. This paper investigates the
-intergenerational persistence of health across time and region as well as across the …
-  Cited by 123 Related articles All 25 versions 
-[PDF] gertstulp.com
-Evolutionary perspectives on human height variation
-G Stulp, L Barrett - Biological Reviews, 2016 - Wiley Online Library
-Human height is a highly variable trait, both within and between populations, has a high
-heritability, and influences the manner in which people behave and are treated in society.
-Although we know much about human height, this information has rarely been brought …
-  Cited by 119 Related articles All 9 versions
-[HTML] nih.gov
-[HTML] Height of nations: a socioeconomic analysis of cohort differences and patterns among women in 54 low-to middle-income countries
-SV Subramanian, E Özaltin, JE Finlay - PLoS One, 2011 - ncbi.nlm.nih.gov
-
-The economic rationale for investing in stunting reduction
-J Hoddinott, H Alderman, JR Behrman… - Maternal & child …, 2013 - Wiley Online Library
-This paper outlines the economic rationale for investments that reduce stunting. We present
-a framework that illustrates the functional consequences of stunting in the 1000 days after
-conception throughout the life cycle: from childhood through to old age. We summarize the …
-  Cited by 351 Related articles All 22 versions
-[PDF] typepad.com
-Pre‐industrial inequality
-B Milanovic, PH Lindert, JG Williamson - The economic journal, 2011 - academic.oup.com
-Is inequality largely the result of the Industrial Revolution? Or, were pre‐industrial incomes
-as unequal as they are today? This article infers inequality across individuals within each of
-the 28 pre‐industrial societies, for which data were available, using what are known as …
-  Cited by 336 Related articles All 18 versions 
-
+census of india 1891 p64 maybe something? --  mention female survive famine more  p247 ratio for <1
+https://dsal.uchicago.edu/statistics/1876_excel/index.html 1881 India census
