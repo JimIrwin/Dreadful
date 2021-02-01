@@ -1,5 +1,5 @@
 ---
-title: "SSMM-Log : Captain's Log for the SSMM/SR1 Project "
+title: "SSMM-Log : Captains' Log for the SSMM/SR1 Project "
 author: "jri & jrm"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
@@ -7,37 +7,89 @@ output: html_document
   
 <a name="TOC"></a>
 [Our Applications or "cases"](#cases)
-Note: JIH Paper validation portion moved to new file, in EconHist (Js&Ji dropbox folder)
 
 ## highlights     
-2020.0120 Race issue: Nigeria blacks with SRB 105.7 (n=864k) Ayeni [1975 Annals of Human Biology](https://www.dropbox.com/s/o28ir3y05i5r33d/Ayeni1975AnnHuBio?dl=0) 
 
-## To do
+**Punnett 1904** SRB increasing with SES in London.
 
-Romaniuk 1967 in Brass, CoaleAJ, et al. "The Demography of the Democratic Republic of the Congo" Ch 6 of Brass, CoaleAJ, et al. *Demography of Tropical Africa*  p278 SRB 97.8 58K births  0.978 implies 95 % confidence limits 0.96 to 1.005
-   no evidence for the Congo that female children are preferred to male children    ... the low SRB is consistent with a low SR in the age groups 0 to 1, 1 to 4, and 5 to 9 years, reported in all districts.    ... To a small extent, the deviation of the observed sex ratio from the expected one (1.03 fo 1.06) can be explained by the undercount of the children who have died shortly after their birth.  ... reported death rate under age 1 is only 104 per thousand live births, while the estimated infant death rate amounts to 164.  It is very likely that most (perhaps 80 or even 90 percent) of those omitted deaths are children born during the last year,
+**SRB & Birth order** Maybe negative birth-order effects on SRB are SES effects, with higher birth orders proxying for family-size (as in Hanushek 1992 JPE) which in turn proxies for low SES. Or is it son-biased selection? with people ending childbearing when they get a son? Punnett's tables have some striking examples, which I see as reflecting stopping once a son is "achieved" ... 
 
-Low Gestational Weight Gain Skews
-Human Sex Ratios towards Females
-Kristen J. Navara*
 
-Chacon-Puignau & JaffeK (2019 SocBio) Pro our view, but what is magnitude?    
+For JIH, list of key milestones/ancestors of our arguments:
 
-CHECK ON     
-[Some problems related to the collection of demographic data in the population censuses taken in Latin America during the 1980s](https://pubmed.ncbi.nlm.nih.gov/12314803/)
-Arretx C, Chackiel J.     
-Swende (2011 IntJBioMedRes dL)	Term birth weight and sex ratio of offspring of a nigerian obstetric population     
+SRB&SES: ?Almond&Edlund (  );      Klasen (1994 WorldDev ); Naeye et al. (1971 Pediatrics); Teitelbaum & Mantel (1971 JBiosSc c102) & Teitelbaum (1970 JBiosSc c115); Winston (1931 AJSoc c48); Reg-Gen 1921 Pt 2 (cited in Russell 1936) for SES & SRB in England and Wales; Punnett 1903 for SRB reduced by
 
-Onyiriuka & Ikeanyi	Sex Ratio at Birth: A Retrospective Audit of the Birth Records of a Nigerian Hospital     
+**Issue**  "sociobiological interpretation" as per Abernathy and Yip -- refering to Trivers-Willard idea that higher SES people favor sons ... p280 "If a competitive edge (because of health or social position) enhances  male reproductive success, then parents should work especially hard to  give sons a good start. Moreover, since reproductively successful men  can make a greater contribution to inclusive fitness than women who are  reproductively successful by female standards, well-off parents should  maximize their advantage by concentrating on sons." Can we ignore the socio-bio BS? I hope so, maybe by implicitly adopting A&Y's alternative: p288 "A plausible challenge to the sociobiological interpretation of the present findings is that the convergence of infant boys' and girls' mortality in the high social status sector occurs because of the female physiological advantage and because child rearing at this pinnacle is so good. That is, the marginal gains still possible for girls are nearly zero, whereas boys, who are more vulnerable ... can still derive  significant incremental benefit from the best care"
 
+
+## To do 
+
+Jim -- Obeke? email    
+
+US life tables and B/W imr and SRB and SR2 ?
+
+
+CHECK on WyllieJ:Sex differences in infant mortality. CanadPublicHealthJ24:177-1
+Refers to lower SRB in ENgland than US/Canada
+
+Almond, Edlund, Li, Zhang  in ITO & ROSE  WORK NEEDED -- CHECK CITES RE SRB
+
+
+<br>
+
+### possible items for Jesse to check into     
+
+Navara [(2014 PLoS One)^["Low Gestational Weight Gain Skews Human Sex Ratios towards Females] reports SRB of 100 to 117 for pregnancy weight gains of 20lbs to 60lbs, and generally her effects seem very strong -- maybe overly so? Is it from her "binary p4 logistic regression analysis"?
+
+[Some problems related to the collection of demographic data in the population censuses taken in Latin America during the 1980s](https://pubmed.ncbi.nlm.nih.gov/12314803/) Arretx C, Chackiel J. **Maybe relevant to Rodrigo's point about demographers and measurement<br>
+
+#### Jesse Library checks
+Preston & Haines, *Fatal Years*
+
+Crew (1948 pages 108, 112 among 30 results in search in GoogleBooks version) Our interest is based on Teitelbaum (1970 JBiosS) saying "Crew (1948) extended this proposition from the family to the community level,
+arguing that if a socio-economic effect is at work, rich communities would be expected to exhibit higher live-birth sex ratios than poor communities."
+MAYBE CREW IS VALUABLE TO US FOR SRB-SES link? 
+ 
+ 
+The Registrar-General's decennial supplement, England and Wales: 1921. Occupational mortality, fertility and infant mortality, Part 2
+maybe in [UK Parl. Papers](http://www.columbia.edu/cgi-bin/cul/resolve?clio5324056) (Proquest). Cited in Russell [(1936)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F458F2A8D2C07D4F201C7177B0D5931/S0022172400043722a.pdf/statistical-study-of-the-sex-ratio-at-birth.pdf)"Statistical Study of the Sex Ratio at Birth", which has SRB by occupational classes.
+
+### USA 1870 to 1940
+
+Abramowicz & Barnett (1970 AJDC) Figure 1 show dramatic decline in NY City  IMR from 1900 to 1940, then flat
+Ferrie & Troesken 2008 EEH Chicago's mortality transition 1850-1925
+Haines 2001 -- again 1870 to 1940 the decline -- look at US census data ...
+
+1890 city data is U0 U5   State-level data is single year
+No IPUMS for 1890.
+1890 Mass
+
+1900 IPUMS data and published data, is consistent for whites, not for blacks. <br>
+US total white SR2: Census 102.8 IPUMS 102.8     <br>
+US total black SR2: Census  98.5 IPUMS 105.4 (102.3 to 108.6 99% CI) <br>
+Consider white data for SR5 SR2 relation (since census volumes give SR1 and SR5)
+white national
+cens sr1 102.9 sr2 102.8 sr5 102.6
+pums sr1 103.9 sr2 102.8 sr5 102.8
 
 ## Log 2020.01
 
-2020.0121 Start compiling race-related SRB in ssmLit  
+2020.0131 found 1960 data, by state, SR1 etc, and from CDC SRB. 1960 SR1 urban/rural 104.7/103.8
+1960 low nonwhite SR2 in Phil 99.0  NYC 97.8 Chicago 97.9  nationwide: ?
+1980 show SR improvement, but maybe we need to look to 2000 for further SR gains? If so, a contrast from height data, where 1950-2000 shows no gains.
+
+2020.0129 looking at MASS in 20C   1950 census v2  maybe Tab33p53 for Boston?   1910 I notice Boston is small, compared to Chicago, and the SR cycles across low ages (as if heaping at work?)
+
+2020.0126 Notice EEH July 2011 has special issue "Socioeconomic Inequalities in Death" <br>
+Possible cases: southern Sweden 1815-1968 from [Bengtsson & Dribe (2011 EEH)](https://www.sciencedirect.com/science/article/pii/S0014498311000192), maybe see also their [(2009 SS&Med)](https://www.sciencedirect.com/science/article/pii/S0277953609000926). Dutch regions, 1812-1909, from VanPoppel & Jonker [(2005 EHR)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0289.2005.00305.x)           <br>
+Boston & MASS <br>
+1940 Boston SR a little lower than the state -- SR5 103.3 vs 104.0    SR2 102.6 vs 103.7  Conjecture the bigger gap at SR2 reflects child mortality is much lower than infant. Urban MASS more generally is similar to state, because MASS is only 11% rural at this time!
+
+
+2020.0121 Start compiling race-related SRB in [ssmLit](https://jimirwin.github.io/Dreadful/SSMLit.html#blackSRB)<br>  
 2020.0120 Race issue: Nigeria blacks with SRB 105.7 (n=864k) Ayeni [1975 Annals of Human Biology](https://www.dropbox.com/s/o28ir3y05i5r33d/Ayeni1975AnnHuBio?dl=0) <br>
-Important discussion   1965-1972 SW Nigeria, Yorubas.    SRB 105.7 in over 800k births.   
-
-
+Important discussion for racial-SRB issue  1965-1972 SW Nigeria, Yorubas.    SRB 105.7 in over 800k births. So I start a section in our lit file.
+  
 ### to check ###
 [Preston piece](https://www.ncbi.nlm.nih.gov/sites/books/NBK62373/)<br>
 Jim: for England and Wales 1968-77, check JamesWH & Rostron, JBiosocSci 1985 
