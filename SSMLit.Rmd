@@ -10,7 +10,7 @@ output: html_document
 ## Overview ##
 Our Applications or "cases": [Std of Living in 19C England](#ENG), 
 [Ireland](#IRE), [NorthAmerica](#NorAm).    
-Some [Data Sources](#Data),  [India Census](#IndiaCensus), [Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)    
+Some [Data Sources](#Data), [US data](#USA), [India Census](#IndiaCensus); [Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)    
 Possible headings to come: Historical applications, Other historical literature, Other literature  
 
 
@@ -67,6 +67,7 @@ ThomsonA et al 1967
 older ...  Plowden p. 57 for hearty girls (in famine)
 
 <a name="ENG"></a>
+
 ## the English Standard of Living (19th-C economic history & demography)
 
 Strong pessimists  "Classical View"  Engels Dickens Blake?
@@ -333,6 +334,7 @@ McKeown 1976 1979 (cited by Engerman 1994)
 Hatton, T., and Bernice E. Bray. 2010. Long run trends in the heights of European men, 19th-20th centuries. Economics and Human Biology 8 (3): 405-13. 1850s and later
 
 <a name="IRE"></a>
+
 ### Ireland ### 
 Pre-famine Ireland:  consensus that it was poor but healthy (taller than English -- but all might be pretty short?).   
 *IMR* is an unsettled issue (JRI not aware of others). Mokyr suggest 224 per K, and others suggest IMR above other Europeans. But the SR1 is inconsistent with that sort of IMR, absent mortal female-gender bias. E.g. suppose 25% infant mortality, male IMR 120% of female (for probabilities of death 272 and 227 per K), and SRB of 1.05: the SR of exact 1-yr-olds is 100.6; SR1 would be greater, because the M/F ratio is decreasing over the 0-12 month. For example, in a population with constant 25% infant mortality over the interval, SR1 would be about 103; with 2/3 of deaths in the first 3 months, SR1 moves down toward 102). Maybe IMR of 150 generates exact Yr1 SR of 102.6 so SR1 values of 103.5 would be reasonable ...
@@ -464,6 +466,10 @@ Humphries, Jane and Timothy Leunig. 2009. Was Dick Whittington taller than those
 
 ## North America ##
 
+Cutler & Miller (2005 Demog)
+   A substantioal mortality "penalty" to living in urban places therefore developed as American cities grew during the 19C (Haines 2001), n5: Historical data limitations make it difficult to pinpoint when this mortality penalty first emerged. Szreter and Mooney (1998) provided evidence that an urban mortality penalty was evident in Great Britain as early as 1830. Ji: maybe they mean Table 6, showing LE in provincial cities pop>100,000  1830s 29 Eng&W 41   
+
+
 Haines (2001 Annals Demog) p35
      
      Concerning the death rates for young children (aged 1-4) the ratios were much higher, with urban mortality being 94% higher in 1890 and 100% higher in 1900. For infants the excess urban mortality was 88% in 1890 and 48% in 1900.    ... The rural urban differential seems to have been true earlier as well. For seven New York counties in 1865, the probability of dying before reaching age five was .229 in urban areas but .192 in rural locations (Haines, 1977).   
@@ -474,8 +480,16 @@ NOTICE: small differential of 1865 -- we should consider 1890 ...
 Haines (2001 nber)
 1870 to 1940 mortality decline (like NYC -- see LOG)
 
+Preston & Haines (1991) *Fatal Years* 1900 IMR and childMR rates
+
+### MASS
+
+Richards (1909)   p78 TabIII shows Age 0-1 death rate rising 1865 to 1875, then modest decline
+
+1865 205.28   1875 226.56   1885 212.49    1895 215.89  1900 190.1
 
 
+[Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 ### Philadephia Almshouse 
 
 Goldin & Margo (1989 EEH) almshouse 4931 births   1848-1873
@@ -644,6 +658,7 @@ p389
 
 
 <a name="BOYS"></a>
+
 #### Missing Boys?
 Jim: goofball article that largely misses the point that bad material conditions of life generate a low sex-ratio! It uses SR4 -- too much noise? We'd say look for difference of SRs?  **Table 5** uses black SR1 for SBR (data lacking) -- but key is they show the Blacks' sex ratios in 1980/84 (1980 census, presumably)
 rising with age -- SR1 99.4 SR04 101.0 for 1980  and SR1 98.7  SR04 101.4 for 1985/90 (either the 1985 census, or 1991).   
@@ -826,6 +841,7 @@ Scotland 1851 is with England
 
 
 <a name="Data"></a>
+
 ## Data Sources and Links ##
 
 ### UN Sources ##
@@ -877,7 +893,9 @@ Looking at UN? pop by age data: Ghana Cameroon   1-4 yrs
 https://population.un.org/wpp/Download/Standard/Interpolated/
 
 
-### USA
+<a name="USA"></a>
+
+### USA ###
 
 Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
 
@@ -897,22 +915,29 @@ These may contain age/sex/race, but odd text files ...
 
 maybe [State Intercensal Datasets: 2000-2010](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-state.html)
 
-NOT 2000 state-volumes "Summary Population and Housing Characteristics" e.g. [Rhode Isle](https://www.census.gov/prod/cen2000/phc-1-41.pdf)  not single years of age
+NOT 2000 state-volumes "Summary Population and Housing Characteristics" e.g. [Rhode Isle](https://www.census.gov/prod/cen2000/phc-1-41.pdf)  not single years of age. PHC-1-41 is not what we're after (but does have U5)
 
 Not useful: [1990-2000](www.census.gov/data/datasets/time-series/demo/popest/intercensal-1990-2000-national.html)
 
 [Census of Population and Housing, Decennial Pubs?](https://www.census.gov/prod/www/decennial.html)
 
+**2000**  For NYC I find [Total Population by Single Years of Age and Sex - 2000](https://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/census2000/sf1p6a6i.xls)
+
 **1990** [1990 Census of Population, General Population Characteristics, United States](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
+States 262a-g Northeast metro/not etc tables 64, 65 
 
 **1980** [1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary.](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Table 41 (Single Years of Age by Race, Spanish Origin, and Sex: 1980)
 [NY](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu80134unse_bw.pdf)
 pdf77 16a  age x sex Table 18 p72   pdf111 NYC&NENJ urbanized area
+ 
 
+**1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br>
+Table 17 p85 race by sex
+Table 19 p87   Table 24 p102 SSMA's 
+[PA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/00496492v1p40s1ch3.pdf) pdf 51 t24 Phila
 
+[NY ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf)
 
-
-1970 census
 
 1960 Vital Statistics [Vol 1 Natality,](https://www.cdc.gov/nchs/data/vsus/nat60_1.pdf) SRB by state 1-27   Also, p 1-9 for national SRB white 1.055  nonwhite 1.018     2-4 Live births by specified race and sex: US and States pdf54
 
@@ -943,11 +968,28 @@ ILL [Tables 13-19](https://www2.census.gov/library/publications/decennial/1960/p
 This report presents statistics on age by sex and color for the urban, rural-nonfarm, and rural-farm population of the United States.
 
 
-[1950 US Census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html)
+[**1950** US Census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html) <br>
+[**Volume 2**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html) has our age data for SRs. Table 15 is state; Table 33 is SSMAs, urban, cities, etc.  
+[Penn T33](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf) is pdf 2-25
 Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
 Table 39  5-yr ages    white/nonwhite    1880 to 1950
-1950census does not have negro 
+1950census does not have negro <br>
 
+1950 For U2, we extrapolate on the full count's 1&2 age group by taking 48.5% of them as the age 1 (based on the 20%-sample counts). Maybe 1960 has full-count data for 1950?    Table 33 NY pdf 23-41
+using the 20% sample (Table 51)   <br>
+Table 51 says 1950 data from 20% sample; says Tab 14,15, 33 are complete count. 
+
+
+
+US Census of Pop (via my zip 21983999v2p1 probably Vol 2 Part 1) <br>
+Vol I Number of Inhabitants (comprising Series P-A bulletins) <br>
+Vol II Characteristics of the Population (comprising Series P-A, P-B, and P-C bulletins) <br>
+Vol III Special Reports: ... Nonwhite Pop by Race, <br>
+<br>
+Population Volume II   ... compruses 54 parts ... 1. US Summary 2. Alabama  ... 21 Mass
+Looks like I have Pt 1 -- US Summary. <br>  Pt 32 is NY   [ch3](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch3.pdf) for U1 and 2-yr or 5-yr age and sex <br>
+[ch 4](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch4.pdf) Tab 51 for single-year <br>
+Part 38 is [PA](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38.pdf) tables 15, 33
 PE-11 has Nonwhite SR2 is 101.1, census has 101.0 
 
 1950 [Vital Statistics](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_1.pdf) 
@@ -955,23 +997,46 @@ p81 Registered live births and live births adjusted for underregistration, by ra
 p81 Male births per 1,000 female births, by race: US, 1935-1950
 1950 Vital Stats [Vol 2](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_2.pdf) p187 live births by race & sex, US and states. pdf193 Table 18 page 187
 
+US total    
 Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single year of age for “White” and for all “Nonwhite”. For our black SR02 in 1950 (100.9), we reduced the nonwhite value by 0.1, based on the difference between the negro and nonwhite sex-ratios for under-age-5 (via Table 97). A 1950 black SR02 of 101.0 results from applying the same correction to the nonwhite SR02 from the spredsheet for 1950 in the National Intercensal Tables: 1900-1990 (released in 2004). 
 
 
 
 **1940**
+
 Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages.
+
+pdf 35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf) has Phila age by single years
+
+https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p3ch6.pdf NY
 
 1940  98.9 if we use the PE-11 XLS (2004) SR2 adjusted for Black vs Nonwhite for 99.0-0.1     
 2004 PE-11 release for 1940 nonwhite has SR1 98.4  SR1-2 99.5 suggesting heaping    
-1940census  has u1 and u5 negro  and more detailed for nonwhite. From that
+1940 census  has u1 and u5 negro  and more detailed for nonwhite. From that
    negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
  I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
 
 1930 
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
 
-1920  use census, based on small difference and 1910-based doubts of PE11 for older data
+**1920**  
+[1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
+v2 [ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    pdf29 Table 13 single age  Regions and States <br>
+[ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
+
+
+v3 Tables 1 to 13; Table 8 is Ages for cities <br>
+e.g. [Georgia](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)<br> 
+
+[Kansas etc.](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf) <br> 
+
+
+[NewYork](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch06.pdf) <br> NYC Ch4 Table 15 pdf10
+
+[Ohio, Penn](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch07.pdf) Table 3, e.g. pdf p3 p769  (Ohio) has u1 u5,  <br>
+
+
+W/B use census, based on small difference and 1910-based doubts of PE11 for older data
 DROP IT BY .2 to 98.5
 census SR2 negro 98.4  nonwhite 98.6  
 PE-11 nonwhite 98.7
@@ -985,10 +1050,11 @@ Table 29 is national totals, including the 1910 "negro" values which I found els
 1910 Vol 2 NOT AGES  has state detail, section for each state, Table 1 has state and county
 
 
-1900 Much like 1890, single-year for states; age-groups for cites
+**1900** Much like 1890, single-year for states (Table 2); age-groups for cities    
 vol 1 tables 1-4 NO age data; 
-
-1890 census
+[vol 2](https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf) <br>
+<br>
+**1890** census
 Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1: US; Table 2 Ages by months, years  : states and territories;  pp104- Table 3 sex by age groups;  Table 4 ages by periods of years of native white; 
 Table 8 Ages by periods of years ... for cities having 25,000 inhab or more 
 
@@ -996,10 +1062,16 @@ Vital Statistics Pt 1 (v4?) p514 Table 1 has u1 u5 for US, states, cities?
 
 1890 Bulletins  no. 100 Social Statistics of the Cities
 
-1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html)
+**1880** Ages in [Table XXI](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf)
+1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
+[Ages u1 and 1to5](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf)
 
-[1870](https://www.census.gov/programs-surveys/decennial-census/library/publications.1870.html)
- Table   XXIII state-level ages      XXV large age groups
+
+[1870](https://www.census.gov/programs-surveys/decennial-census/library/publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages.   XXV large age groups
+   City-level data for SRs not found. V1 Tab XXV has school age counts.
+
+1860 state-level ages u1 1-5 (as in ICPSR); so use IPUMS full instead
+
 
 ### US Census for the Black SR1 ###
 population volumes from 1850 and 1860 give U1, 1-u5, 5-u10 etc, for Whites, Free Colored Slaves.  Negro Population 1790-1915 Ch 4 provides SR1 for blacks 1850, 1860, 1870, 1900, 1910 and explains that 1880 and 1890 includes "indians, chinese, japanese" with blacks. So we need to extrapolate to fill in -- calculate non-white totals 

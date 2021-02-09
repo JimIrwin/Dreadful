@@ -8,7 +8,15 @@ output: html_document
 <a name="TOC"></a>
 [Our Applications or "cases"](#cases)
 
-## highlights     
+### highlights     
+
+Urban Penalty Paper   
+"A substantial mortality 'penalty' to living in urban places therefore developed as American cities grew during the 19C (Haines 2001), n5: Historical data limitations make it difficult to pinpoint when this mortality penalty first emerged.
+
+
+#### older highlights
+
+USA 1860 to 2000  "racial" differences in SRs are most dramatic; less striking is the path toward 1990/2000 healthy SRs. Until 1990, the black SR2 tends to be 4 points below the white. State of NY SR2 rises 3.4 points in the 160 years after 1860.
 
 **Punnett 1904** SRB increasing with SES in London.
 
@@ -24,17 +32,13 @@ SRB&SES: ?Almond&Edlund (  );      Klasen (1994 WorldDev ); Naeye et al. (1971 P
 
 ## To do 
 
-Jim -- Obeke? email    
-
-US life tables and B/W imr and SRB and SR2 ?
-
-
+Jim -- Obeke? email    <br>
+US life tables and B/W imr and SRB and SR2 ? <br>
+<br>
 CHECK on WyllieJ:Sex differences in infant mortality. CanadPublicHealthJ24:177-1
 Refers to lower SRB in ENgland than US/Canada
-
+<br>
 Almond, Edlund, Li, Zhang  in ITO & ROSE  WORK NEEDED -- CHECK CITES RE SRB
-
-
 <br>
 
 ### possible items for Jesse to check into     
@@ -44,15 +48,16 @@ Navara [(2014 PLoS One)^["Low Gestational Weight Gain Skews Human Sex Ratios tow
 [Some problems related to the collection of demographic data in the population censuses taken in Latin America during the 1980s](https://pubmed.ncbi.nlm.nih.gov/12314803/) Arretx C, Chackiel J. **Maybe relevant to Rodrigo's point about demographers and measurement<br>
 
 #### Jesse Library checks
-Preston & Haines, *Fatal Years*
 
-Crew (1948 pages 108, 112 among 30 results in search in GoogleBooks version) Our interest is based on Teitelbaum (1970 JBiosS) saying "Crew (1948) extended this proposition from the family to the community level,
-arguing that if a socio-economic effect is at work, rich communities would be expected to exhibit higher live-birth sex ratios than poor communities."
+Crew (1948 pages 108, 112 among 30 results in search in GoogleBooks version) Our interest is based on Teitelbaum (1970 JBiosS) saying "Crew (1948) extended this proposition from the family to the community level, arguing that if a socio-economic effect is at work, rich communities would be expected to exhibit higher live-birth sex ratios than poor communities."
 MAYBE CREW IS VALUABLE TO US FOR SRB-SES link? 
- 
- 
+<br>
 The Registrar-General's decennial supplement, England and Wales: 1921. Occupational mortality, fertility and infant mortality, Part 2
 maybe in [UK Parl. Papers](http://www.columbia.edu/cgi-bin/cul/resolve?clio5324056) (Proquest). Cited in Russell [(1936)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F458F2A8D2C07D4F201C7177B0D5931/S0022172400043722a.pdf/statistical-study-of-the-sex-ratio-at-birth.pdf)"Statistical Study of the Sex Ratio at Birth", which has SRB by occupational classes.
+<br>
+[The determinants and consequences of population trends: ... findings on ... pop changes and eco and social conditions](https://www.worldcat.org/title/determinants-and-consequences-of-population-trends-a-summary-of-the-findings-of-studies-on-the-relationships-between-population-changes-and-economic-and-social-conditions/oclc/1147077) Cited in Higgs & Hong [(2009 EEH)](https://doi.org/10.1016/j.eeh.2009.05.001) for 19C urban penalty. Worth checking when we have library access (not at Internet Archive)
+
+<p>Long shot to check: Lives of Their Own: Blacks, Italians, and Poles in Pittsburgh, 1900-1960 </p>
 
 ### USA 1870 to 1940
 
@@ -61,8 +66,8 @@ Ferrie & Troesken 2008 EEH Chicago's mortality transition 1850-1925
 Haines 2001 -- again 1870 to 1940 the decline -- look at US census data ...
 
 1890 city data is U0 U5   State-level data is single year
-No IPUMS for 1890.
-1890 Mass
+No IPUMS for 1890. <br>
+
 
 1900 IPUMS data and published data, is consistent for whites, not for blacks. <br>
 US total white SR2: Census 102.8 IPUMS 102.8     <br>
@@ -72,7 +77,24 @@ white national
 cens sr1 102.9 sr2 102.8 sr5 102.6
 pums sr1 103.9 sr2 102.8 sr5 102.8
 
-## Log 2020.01
+
+
+## Log 2020.02
+
+2021.0207 Ji got *Fatal Years* yesterday, noticed remark that South Atl had low infant mortality. Will check Va, SC, Ga ... <br>
+In 1900, white SR2s in South 103-104; better than the Northeast's Mass NY  PA which are about 101.  But what would they look like if you dropped off the poorest 1/2 of the population?
+<br>
+1900 US SR2 102.2 (white 102.8 black 98.5)  MA 100.9  NY 101.6  PA 101.3 OH 102.2 Ill 102.3  MI 102.7   MS 101.3  GA 100.6  KT 103.5  MO 102.8 TX 103.8
+
+2021.0205 Ji delineating NE-US SRs path over 20th C ... lots of questions; e.g. city of Philly SR2-white: 1950 105.6  1960 103.8 -- with 3.5% decrease of white population; does a 1.8 point decline make sense?
+<br>
+USA 1850-2000 <br>
+e.g. New York & NYC, 1860 sees fairly small SR2 gap, NY 102.9 with NYrural 103.6  and NYurban 101.8 and NYC 102.3 (does NYC include some rural in 1860?)<br>
+For State of NY, some SR2 decline 1860&1880 to 1900: NY 102.9 to 101.6; rising to peak in 1940, 104.7, some decline to 1960 trough 103.1; growth since, to 105.1 in 1990. So SR2 says small (1.3 point) decline 1880 to 1900; sizable (3.1 point) rise 1900 to 1940. Small (1.6 point) decline 1940 to 1960. Recovery by 1980.<br>
+NYC, for now, we can trace out the SR5: in 101-102 range 1860 to 1910, with a modest rise from 1900's 101.1 to 1940's 104.2, then sag in 1960 & 1970 (with a remarkably low 97.8 nonwhite SR2 in 1960). 
+<br>PUNCHLINE: USE FULL-COUNT IPUMS data. Although interested in urban mortality/health from 1860-1960, we generally lack cities' urban SR data until 1880, and then it is SR5. SR2 starts with the 1910 census. For 1860, with the full-count IPUMS, we have SR1, SR2, SR5, for cities. We can get full-counts for 1880 1900 data there?
+<br>SRusa0states.wk4 sheet called "presenting". 
+Compiled US census data for SR2 and SR5. Tendency for SR1<SR2 in the census data (male-biased heaping at age 1), so use SR2.  
 
 2020.0131 found 1960 data, by state, SR1 etc, and from CDC SRB. 1960 SR1 urban/rural 104.7/103.8
 1960 low nonwhite SR2 in Phil 99.0  NYC 97.8 Chicago 97.9  nationwide: ?
@@ -421,11 +443,13 @@ Not useful: [1990-2000](www.census.gov/data/datasets/time-series/demo/popest/int
 
 **1990** [1990 Census of Population, General Population Characteristics, United States](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
 
+
+
 **1980** [1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary.](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Table 41 (Single Years of Age by Race, Spanish Origin, and Sex: 1980)
 
 1960 PE11XLS  single year, white/black/other
 
-1950 US Census  Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
+**1950** US Census  Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
 Table 39  5-yr ages    white/nonwhite    1880 to 1950
 1950census does not have negro 
 PE-11 has Nonwhite SR2 is 101.1, census has 101.0 
