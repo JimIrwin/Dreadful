@@ -8,8 +8,8 @@ output: html_document
 <a name="TOC"></a>
 
 ## Overview ##
-Our Applications or "cases": [Std of Living in 19C England](#ENG), 
-[Ireland](#IRE), [NorthAmerica](#NorAm).    
+Our Applications or "cases": [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
+[Ireland](#IRE), [19C Mort Decline](#URB), [NorthAmerica](#NorAm).    
 Some [Data Sources](#Data), [US data](#USA), [India Census](#IndiaCensus); [Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)    
 Possible headings to come: Historical applications, Other historical literature, Other literature  
 
@@ -23,8 +23,9 @@ Sanders & Stoecker, "Where have all the young men gone? Using sex ratios to meas
 Valente [2015](https://www.dropbox.com/s/y5g4p32v20rc0ov/valenteJHealthEc2015.pdf?dl=0), Civil conflict, gender-specific fetal loss, and selection: A new test of the Trivers–Willard hypothesis
 
 *WISH LIST* items for Jess to find in NYC
-Preston & Haines, Fatal Years    
-Hawley, Amos H. "Population composition" in *The study of population: An inventory and appraisal* (1959): 361-382, edited by by Philip Morris Hauser; Otis Dudley Duncan (1959, 1961, 1972 ... U Chicago -- maybe a textbook?)     
+
+note: *Frail Years* found at NYPL; Hauser et al at Inet Archive (Hawley, Amos H. “Population composition” in The study of population: An inventory and appraisal (1959): 361-382, edited by by Philip Morris Hauser; Otis Dudley Duncan (1959, 1961, 1972 … U Chicago))
+
 
 Posted as News -- before Dec 18   
 
@@ -268,10 +269,23 @@ Carnarvon, Denbign, Flint,
 Radnor, Brecon   E, middle, N to S  
 South, frow W to E: Pembroke, Carmanthan, Glamorgan
 
+<a name="ENGdemo"></a>
 
 ### 19th C England demography    
 
-2019 Davenport, Satchell, Shaw-Taylor (2019) [History of the Family](https://www.tandfonline.com/doi/full/10.1080/1081602X.2018.1525755)
+
+WoodsR (2000 CUP) <br>
+p252 FIG 7-2  early child mortality (1-4) series is volatile, but decline is evident starting in the 1860s; Infant mortality stays high into the 20C
+p263n18 The decline in the SRB from 1052 in 1841–45 to 1039 in 1906–10 was considered in chapter 2 as a means of detecting biased birth registration. See figure 2.10 and table 2.2
+p52 Figure 2.10 uses the SRBs reported in Office of Population Censuses and Surveys, Birth
+Statistics: Historical Series of Statistics from Registrations of Births in England and Wales,
+1837–1983, Series FM1 No. 13 (London: HMSO, 1987), table 1.1, p. 19.
+See HealthDept  PDFp7 Eng&Wales  Fig 1 SRB declines from 104.5ish to 103.5 1886/1900
+
+
+
+<br>
+2019 Davenport, Satchell, Shaw-Taylor (2019)  [History of the Family](https://www.tandfonline.com/doi/full/10.1080/1081602X.2018.1525755)
 ABS The malign contribution of northern industrial cities to the stagnation of national life expectancy over the period 1820–1870 forms part of one of the most long-running debates in English economic history, regarding the impact of early industrialisation on living standards.   ...   We conclude (1) that any worsening of water quality in urban areas c.1800–1850 was not confined to new or rapidly growing industrial or manufacturing towns; and (2) infants probably rarely drank untreated water, so high infant or diarrhoeal mortality rates should not be read as indicators of poor water quality, in the English context.
   ATTACK SZRETER  
   life expectancy improved at the aggregate national level between 1750 and 1820, and survival rates of infants and young children rose dramatically in London and probablyin other urban centres over the same period (Davenport,2015; Landers,1993, Chapters4–5; Wrigley, Davies, Oeppen, & Schofield,1997, p. 272)    Using a mixture of scant empirical evidence and extrapolation, Szreter and Mooney(1998) argued influentially that life expectancy fell in the national population between1820 and 1840 as a consequence of worsening conditions especially in northern indus-trial and manufacturing cities (Figure 1). 
@@ -326,7 +340,10 @@ Haines, M. R. (1995), “Socio-economic differences in Infant and Child Mortalit
 1994 Williams, Naomi, and Graham Mooney. "Infant mortality in an ‘age of great cities’: London and the English provincial cities compared, c. 1840–1910." Continuity and Change 9, no. 2 (1994): 185-212.     
 By the 1880s, over half of all infant deaths in England and Wales occurred in only 43 out of approximately 600 Registration Districts: London's share alone accounted for over 13 per cent.2  National infant mortality was increasingly being driven by the behaviour of the towns and cities.     p191   table with 1860-99 mean IMR, by town
 
+Szreter 1988 -- attacking McKeown (I say, via Haines & Preston (1991 HRT) "McKeown grossly underestimated the role of public-health programs, as Szreter (1988) has shown clearly in England."
+
 McKeown 1976 1979 (cited by Engerman 1994)
+
 
 ### Britain 1850-1900/WWI
 
@@ -460,36 +477,330 @@ Baten & Blum 2012 EHDR nice figure with heights for geographic areas -- NW Europ
 Hatton, T., and Bernice E. Bray. 2010. Long run trends in the heights of European men, 19th-20th centuries. Economics and Human Biology 8 (3): 405-13. 1850s and later  <br>
 Humphries, Jane and Timothy Leunig. 2009. Was Dick Whittington taller than those he left behind? Anthropometric measures, migration and the quality of life in early nineteenth century London. Explorations in Economic History 46 (1):120-131.   early 19C ... 
 
+<a name="URB"></a>
+
+## Urban Penalty & Mortality Transition 1850 to 1950 ##
+
+TIMING -- to what extent have we data for 1850-1900?
+USA 1936 onward
+NewEngland, NY, PA, MI, IN from ?
+Boston   NYC   Philly  Baltimore   
+
+Philly  
+
+#### Various International Perspectives ####
+
+Gallardo-Albarrán (2020 EHR)^[Sanitary infrastructures and the decline of mortality in Germany, 1877–1913]  Does he have mortality data for 1877-1900?
+
+The History of the Family, Volume 24, Issue 2 (2019)
+[Urban sanitation and the decline of mortality](https://www.tandfonline.com/doi/full/10.1080/1081602X.2019.1605923)
+
+with
+de Looper et al. [(2019 Hi Fam)](https://www.dropbox.com/s/88jmiamvft8o6h2/deLooper2019HiFamily?dl=0) "Sanitary improvement and mortality decline in Sydney, New South Wales, 1857–1906"  refers to "Explanations of the urban mortality decline from the 1870s in Europe and the United States have emphasised the role of improvements in water supply and in sewerage infrastructure (e.g. Brown, 1988; Haines, 2001; Schofield & Reher, 1991)" NOTE "**from the 1870s**" -- Haines 2001, 
+228 2. Nineteenth-century mortality decline and sanitary improvement
+Death rates in England, France, Germany, Sweden and the United States, among other such countries, declined sharply during the late nineteenth and early twentieth centuries
+(Condran & Cheney, 1982; Haines & Kintner, 2000; Schofield & Reher, 1991; Sundin & Willner, 2009; Vallin, 1991). These rapid declines reinforced the attenuation of epidemic crisis mortality that had already taken place by the mid-nineteenth century, and marked the beginning of a new mortality regime characterised by lower rates and lower variability (Schofield & Reher, 1991; Vallin, 1991). p238 Death rates per 1000 in New South Wales: Sydney and Rest of NSW <br> 
+1860ish  ~25 15   1880ish ~20 13   1890 ~15 12   1900 12ish 10   1906 10 9 <br>
+Tending to decline 185s/60 to 1885, more steadily 1885-1906
+
+<p>Kesztenbaum & Rosenthal [(2017 JUrbEco)](https://www.dropbox.com/s/0hz7vc3lrfvzgs3/Kesztenbaum%26Rosenthal2016JUrbEcon?dl=0) <br>   The Parisian experience we analyze here extends a large prior literature that examines the evolution of mortality at the city level. The decline of mortality between 1870 and 1914 was widespread in large cities across the North Atlantic economies (Costa and Kahn, 2015). The sharp reduction of mortality occurred in the U.S. (Cutler and Miller, 2005; Troesken, 1999), in Germany (Brown, 1989), and in the U.K. (Szreter, 1988) among other countries. This decline initially allowed urban mortality to reach parity with that of rural areas, which had long enjoyed a health advantage (Woods, 2003). Urban mortality then continued to fall, finally giving cities the life expectancy advantage over rural areas they currently enjoy (including in the developing world, see Bocquier et al., 2011). </p>
+
+Floud, Fogel, Harris, Hong (2011), "The changing body: health, nutrition, and human development in the western world since 1700"
 
 
 <a name="NorAm"></a>
 
 ## North America ##
 
-Cutler & Miller (2005 Demog)
-   A substantioal mortality "penalty" to living in urban places therefore developed as American cities grew during the 19C (Haines 2001), n5: Historical data limitations make it difficult to pinpoint when this mortality penalty first emerged. Szreter and Mooney (1998) provided evidence that an urban mortality penalty was evident in Great Britain as early as 1830. Ji: maybe they mean Table 6, showing LE in provincial cities pop>100,000  1830s 29 Eng&W 41   
+<a name="CANmort></a>
+
+### Canada 
+
+Cranfield & Inwood (2007 EcHuBio) 
+<br>
+p217 It is clear that mortality risk fell during the 20th century  ... However, the 19th century remains a statistical ‘dark age’ that conceals the precise beginning of secular improvement in life expectancy (Pouyez et al., 1983, pp. 292–298 [Sagueny]; Pelletier et al., 1997 [QUE PopStudies])     ...  Only in the small Ontario town of Ingersoll is there clear evidence of an age-adjusted mortality decline before 1900  ... decline in age-specific mortality in Ingersoll began as early as the 1870s or 1880s. This timing is consistent with the most recent American evidence (Haines, 2000, p. 333) 
+<br>
+p218 Overall, these studies show little sign of declining infant mortality anywhere in Canada before 1900 or even 1910     ...   suggest that infant mortality was stable or rising at the same time adolescent and adult mortality rates already began to fall (as is thought to have occurred in Britain
+
+[Bourbeau, Légaré, Émond](http://www.publications.gc.ca/Collection/Statcan/91F0015M/91F0015MIE1997003.pdf) 
+
+p26 T4.1 Life Exp at birth slowly rising across censuses, by 1yr or less, until 1860s Canada and 1870s QUe  which have ~2.5yr rises ... 
+<br>Tab4.2 1q0 4Q1   
+Canada 0q1 187ish until 1861, then declining (flat 1880-1890)
+Canada 4q1   declining 1801 on (flat 1851-61)
+Queb 0q1 flat (like Can 1801) until 1871, then decline
+Que  4q1 decline 1801 on (slow in 1860s)
+
+McQuillan 1985 life tables for Ontario <br>
+p42 "mortality conditions improved gradually but steadily ... 1861-1921" <br> 
+Ontario female Eo ~40 1850  1900 ~50   1920 ~70  
+Ontario mortality below national average, signifcantly lower than rates in Quebec <br>
+
+### USA
+
+Haines 2008 EH.Net  American mortality did not experience a sustained and irreversible decline until about the 1870s
 
 
-Haines (2001 Annals Demog) p35
+Clay, Troesken, Haines (2014 REStat) lead pipes and IMR 1900-1920
+
+<p>
+Hacker (2010 HiMeth) 
+p46 Most early observers agreed that the latter half of the cen-tury was characterized by substantial mortality decline; al-though opinions differed about the date of its onset.<br>
+p50 Pope (1992) for 1st half   "Haines’s (1998) construction of life tables for the white, black, and overall populations is the most im-portant work for the last half of the century<br>
+p51 Researchers relying on the Haines (1998) life tables need to be aware of a few potential problems with their interpreta-tion and use.  1849 CHolera epidemic    1867 cholera epidemic  <br>
+p55 Despite concerns about selection and censoring biases, it is clear from recent studies that mortality increased sig-nificantly after 1830 and remained relatively high until the 1870s, at which point it began its long and sustained de-cline. Although genealogical-based estimates of male life expectancy are biased upwards, especially in the eighteenth and early nineteenth centuries, they represent our best source for decennial trends in life expectancy between 1790 and 1890.  <br> 
+TABLE 4 **Male e20 by decade** 1790s 41.4 slow slide to 38.0 in the 1860s 1870s 41  1880s 42.2  1890s 43.2 <br>
+**1860s** nadir
+<br>p56 3-yr decline : more moderate decline in AB life expectancy than suggested by the unadjusted genealogical estimates.  however ... revisions ... do not negate ... "antebellum paradox"  	
+<br>p68 Table 8 
+IMR 1790s 18.0% ... 1840s 22.9%  1850s 24.7%  1860s 20.7%   1870s 17.5%   1880s  14.9%    1890s 13.1%    
+E5 1840s 50.1 1850s 49.0 1860s 43.2 1870s 52.5 1880s 54.1 1890s 55.4
+<br>p74 Table 9 seems to be an error ... 
+<br>p76  ... the crude assump-tions about the overestimation of adult life expectancy in genealogical-based estimates and sex differentials in adult life expectancy made in tables 4 and 5 are sources of po-tential error. Another weakness is the required method of inferring a complete life table from a single parameter, life expectancy at age 20. Historical demographers in Europe and elsewhere have called attention to the changing relation-ship between infant, childhood, and adult mortality over the course of the nineteenth century (Woods 1993). It is unlikely that the United States was an exception. Empirical research on infant and childhood mortality in the United States is sorely needed. Source material, however, remains a major issue.
+
+	
+<p>	
+Condran (2008 JHiMedAlSci) 
+p485  "the rapid decline in death rates during the second half of the [485] nineteenth century and the first few decades of the twentieth.
+<br>TABLE 1 Diptheria mortality 1810-1857? stays below 100 per 100K, then varies in the range 50-100 until 1900, when it declines, to 0 by 1930 </p>
+
+<p>MillerG (2008 QJE)  links decline of IMR to women's suffrage, 1900 to 1936, Death Reg  States
+<br> Table 1  census mortality stats <br>
+ IMR 1900 163   1910 120   1920  95    1930  71 <br>
+ 1-4 1900 18.8  1910 11.9  1920 9.3   1930 5.8    
+<br>	To investigate how women’s suffrage was related to child survival, state-level mortality data by age/sex and by cause are needed. However, there was no national system of death records in the United States prior to 1933 (Haines 2001). Using the published historical series, I have constructed an unbalanced panel of annual state-level deaths by age/sex and by cause for the years 1900–1936.
+
+LeeK-S (2007 PBioMed) poorly cited Figure 1 illustrates ignorance of US IMR before 1915 or so
+
+
+Cutler & Miller (2005 Demog & ERRATUM)
+<br>p1 Mortality rates fell by 40% from 1900 to 1940 ... Together with the late 19th C, no other documented period in American history witnessed such rapidly falling mortality rates.  ...   coincided with the disappearance of the "urban penalty" -- the higher mortality rates observed on urban areas throughout the [p2] 19th C.
+<br>p3 "decennial census statistics clearly show that the striking mortality declines began before the turn of the century. The crude death rate during the 1850s ... 22 per 1,000 (Meeker 1972). This rate had fallen to about 18 by 1900 and decline to about 11 by 1940" citing US Census Bureau 1941; US Census Office 1902.
+<br>p4 A substantial mortality “penalty” to living in urban places therefore developed as American cities grew during the 19C (Haines 2001), n5: Historical data limitations make it difficult to pinpoint when this mortality penalty first emerged. Szreter and Mooney (1998) provided evidence that an urban mortality penalty was evident in Great Britain as early as 1830. <i>Jim: maybe they mean Table 6, showing LE in provincial cities pop>100,000 1830s 29 Eng&W 41</i>
+<br>p7 Table 2: Infant and Child MR in "Major Cities, 1900-1936"<br>
+IMR 1900 189.31  1920 119.53   1936 71.3 <br>
+CMR 1900  28.18  1920  12.60   1936  5.22 <br>
+cities of at least 100,000 in 1900, and "A few smaller cities for which unusually good historical information is available were also included" Table 3: Balt, Chicago, Cinci, Cleve, Detroit, JerseyCity, Louisville, Memphis, Milwaukee, New Orleans, Phil, Pittsb, St Louis.<br>
+Memphis interventions all after 1936 ... hmmmm
+<br>p13 "In our sample of major cities, the reduction in mortality from 1900 to 1936 was about 30% ...  Infant and child mortality fell by 62% and 81% ... clean water responsible for 74% (46/62)" BUT CHECK ERRATUM.
+
+<p>Cain & Rotella (2001 Annals Demog), "Death and spending: Urban mortality and municipal expenditure on sanitation." <br>  1899-1929 48 cities<br> The mortality data come from the Mortality Statistics of Cities which annually published death-by-cause statistics.  COMAPRE THESE TO VITAL RATES DATA?
+<br> https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm
+
+</p>
+
+Haines [(2001 Annals Demog)](https://www.dropbox.com/s/q0l6vqaohlubi0a/Haines2001AnnDemog.pdf?dl=0) "The urban mortality transition in the United States, 1800–1940" 
+<br>p33 In the United States in the XIXth century, as in Europe in that era, there was a substantial mortality “penalty” to living in urban places (e.g., Williamson, 1982, 1990, ch. 9; Davis, 1973; Weber, 1899, ch 6; Brown, 1991; Vögele, 1994). By 1940, that urban penalty had  been largely eliminated; and it was healthier, in many cases, to reside in a city than in the countryside. Part of the study of the great mortality transition in the United States is related to this phenomenon.    
+<br>A significant problem with the history of mortality in the United States stems from the paucity of good statistical information—on levels, trends, and differentials. It is possible, however, using a variety of sources and demographic estimation methods, partially to reconstruct the course of mortality in the United States from 1800 onwards and, more particularly, to provide some insight into differentials. When census data, vital statistics, local records, and genealogical data are culled for what they can reveal, the outlines appear.   
+<br>p34 In the early XIXth century, the U S was a relatively low mortality region by the standards of Western Europe. Since it was not particularly urban (only 6.1% in 1800), a crude death rate in the range of 20-25 per 1,000 population would not have been unusual. 
+  ... Mortality was likely lowest in New England and rose as the latitude moved further south. Such evidence as we have (mostly for New England the Middle Atlantic states) does indicate a substantial urban penalty ... 1900 within Death Reg Area (six New England states (MASS, CT, VT, ME, NH, RI), NY, PA, MI, IN, DC)   URB PENALTY 1900 IPUMS-based suggest 
+  1894 mort 122% of rural     1910   113% <br>
+Death Reg Area: e0 penalty for white males 1900/02 10.0 yrs  1909/11 7.8 yrs   1939 2.6 years (whole US)
+<br>BTW US-white SR2 1900 102.8 1910 103.2  1940 104.3   1980 105.5
+NYC SR2 1910 102.7  1940 104.8
+<br   cites Higgs for urban mort 150% of rural in the 1880s  121% 1910-20
+   cites Condran/Crimmins for 1890s penalty falling; urb pen from TB, diarheal, other infectious/communcial
      
-     Concerning the death rates for young children (aged 1-4) the ratios were much higher, with urban mortality being 94% higher in 1890 and 100% higher in 1900. For infants the excess urban mortality was 88% in 1890 and 48% in 1900.    ... The rural urban differential seems to have been true earlier as well. For seven New York counties in 1865, the probability of dying before reaching age five was .229 in urban areas but .192 in rural locations (Haines, 1977).   
+<br>p35 For the seven states with reasonable registration data in both 1890 and 1900, the ratio of urban to rural overall CDR ... in 1890 census 1.32 ... 1.17 in 1900 (See Table 2). Concernig the death rates for young children (aged 1-4) the ratios were much higher, with urban mortality being 94% higher in 1890 and 100% higher in 1900. For infants the excess urban mortality was 88% in 1890 and 48% in 1900.    ... The rural urban differential seems to have been true earlier as well. For seven New York counties in 1865, the probability of dying before reaching age five was .229 in urban areas but .192 in rural locations (Haines, 1977).   
 NOTICE: small differential of 1865 -- we should consider 1890 ...
+<br>p36 Given the paucity of vital statistics data in the XIXth century, it is difficult to describe the process of the mortality transition. One place to start is with city vital registration.  ... One must conclude that large American cities had become virtual charnel houses by the middle of the XIXth century and that this contributed notably to the rising mortality in the United States before the American Civil War. 
 
-1890 and 1900 census volumes show fairly benign SR5 values, 
+BTW 1890 and 1900 census volumes show fairly benign SR5 values, 
 
-Haines (2001 nber)
-1870 to 1940 mortality decline (like NYC -- see LOG)
+<br>p41 The rural advantage seems simply to have been that rural residents were farther from each other, reducing chances of contagion and contamination of water supplies.  ...  Also, the XXth century mortality decline was significantly propelled by the elimination of excess urban deaths (Preston
+and Haines, 1991, 36-39; Taeuber and Taeuber, 1958, 274-275).
+<br> P&H 36-39 is on rural mort advantage;
 
-Preston & Haines (1991) *Fatal Years* 1900 IMR and childMR rates
+Haines (2001 nber -- see Annals article): 1870 to 1940 mortality decline (like NYC -- see LOG)
 
-### MASS
+<br>Easterlin (2000) Camb Ec Hi 20C Although mortality has been reduced dramatically in this century, there
+have been periods of more and less rapid decline. From 1900 to 1954 the
+rate of decline was high, with the greatest drop occurring from 1936 to
+1954 (see Table 9.2). 
+<br>Haines (2000) Camb Ec Hi 19C
+p173 Consistent control of mortality in terms of a sustained decline and a damping of mortality peaks only comes after the 1870s
 
-Richards (1909)   p78 TabIII shows Age 0-1 death rate rising 1865 to 1875, then modest decline
+<br> Haines (2000 in Haines & Steckel eds)
+p333  The evidence in Table 8.2 is consistent with interpretations given here. Both the expectation of life at birth and the infant mortality rate (and the crude death rate estimates in Table 8.3) show sustained improvement in mortality ... only from about the 1870s onward.    ... New findings of rising mortality in the 1840s and 1850s    
+  
+
+<br> Haines (1998 HiMeth) "Estimated life tables for the United States, 1850–1910"
+p149 Mortality in the U   S before the early part of the 20th C remains a controv topic.
+
+p154 These results confirm the impression of mortality fluc-tuating before ca. 1880 and a fairly steady decline in death rates thereafter, when the modern mortality transition for the white population began.
+
+Condran & Preston (1992) on declines in American child mortality between 1900 and 1930
+
+Preston & Haines (1991) *Fatal Years* 1900 IMR and childMR rates (or 1895, retrospective source)
+<br>p49 Little is known about trends, levels, and differentials in American mortality in the nineteenth century. It is not altogether clear when or even whether mortality declined in the United States during the period 
+<br> description of Death Registration Area (DRA) and discussion of mortality data
+<br>p50 Mass 1842 starts vital registration  Gutman 1956  
+"By 1860, the Mass death registration were quite good"
+<br>p52  Table 2.2 compiles previous estimates of nineteenth-century mortality in the United States. ...  available life table information. On the whole, the results indicate little or no decline before the 1870s, higher mortality in urban areas, and much higher mortality among blacks. <br> By the 1890s, it is likely that mortality was declining in both rural
+and urban areas, although the absence of high-quality data of national scope leaves the matter open. <br>Whatever the progress of the mortality decline in nineteenth-century America, accurate data on mortality levels become available for part of the country with the formation of the Death Registration Area in 1900
+<br> presents Haines 1979a e0 at census years <br>
+male 1850 36.5 1860 40.7 1870 42.1 1880 38.2  1890 43.9  1900 46.3<br>
+wmale 1850 37.7 1860 na 1870 43.1 1880 39.6  1890 45.1  1900 47.6<br>
+and Fogel 1860 value which is similar
+ Table 2.3  DRA values white IMR .124  urb .138  rur .100  black .234 
+<br>p98 Child Mortality Index Cleveland stands out for much lower mort, under 1/2 of NYC or Bost
+
+<br> p208 "the mortality decline since (p209) the middle of the 19th c" alluding to McKeown's explanation for "British mortality improvements between 1848 and 1972"  
+
+p208 1900 U5MR 18%  "Its population was also highly literate and exceptionally well-fed."  "The high level of mortality that existed amidst the relatively affluent American population"   
+p209 Further evidence that lack of know-how rather than lack of resources was principally responsible for foreshortening life in the United States in the 1890s is the pattern of social-class differences in child mortality.    ... Particularly telling is the mortality of offspring of doctors, which was only 6 percent below the national average.
+p210 race  and size of place  "Larger cities had higher child mortality in the late nineteenth century, despite having administrative structures that facilitated the introduction of public-health measures"
+
+<br> Forum on *Fatal Years* in *Health Transition Review* 1991
+
+<br> Caldwell (1991 HTR) discussing lack of SES effects on IMR in US 1890s; also many quotes re: P&H say 1890s mort high, SES not matter ...    
+Interesting to pursue re:literacy in 1900 census -- 
+<br>Preston & Haines (1991 HRT) re:Caldwell "The prominent position with which both of us take issue is that child  mortality declines in the twentieth century are primarily attributable to increases in living  standards as measured by per capita income or dietary intake."
+p243 The probability that an American child will die before age five has
+ declined from 0.180 in 1895 to 0.012 today.
+<br>SmithDS has interesting remarks on mortality in slave voyages. Otherwise arguing against H&P regressions? Not important for us now ...
+
+Ewbank & Preston (1990) on declines in American child mortality between 1900 and 1930 SEEMS NOT PUBLISHED
+
+<p>Fogel (1986 in Engerman & Gallman) deterioration 1800 to 1850ish improve to 1870ish
+<br> p465 declining e10 from 1790 to 1860 for native-born white male (nwm), some recovery to 1870, but still below 1810 level;  p467 nwm e10 18C3q 55.8  18C4Q 51.9  19CQ1 52.3  Q2 48.9 Q3 55.3   20CQ1 56.9 (includes foreign-born)
+
+
+	<br>for objections to McKeown's nutritional argument for mortality decline: p443 "Even more basic is the absence of adequate evidence on mortality rates. Before 1837 in Great Britain and before 1900 in the United States information on death rates [p444] is so sparse that historical demographers are at odds not only on the levels of mortality but even on the direction of change (Vinovskis 1972; Easterlin1977; Lindert1983). " </p>
+
+<p>Meckel [(1985 JIH)](https://www.jstor.org/stable/204138) on BOSTON<br> disagreement on 19th C urban demography; "Beyond general agreement that death rates were falling  during the last decade or two of the  century, the range of opinion is broad": mortality declining throughout 19C; or stable to 1850, then falling; or rising 1850 to 1880, then declining ...
+<br>p403 Table 4, Boston death rates, age 0-4<br>
+1845 73.1 1855 98.9  1860 80.5  1865 96.9  1875 97.6  1880 87.4
+</p>
+
+
+<p>Condran & Crimmins [(1980 JHiGeo)](https://doi.org/10.1016/0305-7488(80)90111-5) DRA states, 1890-1900 urban/rural </p>
+
+p99
+Estimating 1qO from 1870 to 1930 presented a special problem because of the exceptionally poor quality of both the census enumeration of infants and the birth registration data available for Philadelphia
+
+
+<br>Knodel 1977?
+
+<br>Haines (1977 Demog) Mortality in nineteenth century America: estimates from New York and Pennsylvania census data, 1865 and 1900
+
+Higgs (1979 EEH)  18 large cities, 1871-1900<br>
+Higgs (1973 EEH) "Mortality in rural America, 1870-1920: Estimates and Conjectures" via Fogel (1986 E&G): Higgs points to nutritional cause, as residual to explain rural mortality decline similar to urban 1870 to WW1 ...  Overall Death Rate, UrbanDR, %Urban implies ruralDR
+
+
+<br>Meeker (1972) "The improving health of the United States, 1850-1915."   Cutler & Miller cit/accept his estimate of CDR 22/1000 for the 1850s.
+
+
+Abramowicz & Barnett (1970 AJDC) Figure 1 show dramatic decline in NY City  IMR from 1900 to 1940, then flat (NYC)
+
+<a name="MASSdem"></a>
+
+### MASS Mort
+
+<p>Alsan & Goldin (2019 JPE) 1880-1920 sse below for [MASSdem](#MASSdem) 
+<br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
+<br>	p627 IMR1  1880 urb 180  rur 130  1900 u 160  r 130 1910 u 135 r 118
+1920 u 100  r 080
+<br> So their urban tends to decline from 180 in 1880 to 173 in 1896 to 95 in 1920  Rural tends to rise 1880 130 to 150 1893, then decline to 90 in 1920 (with 1918 pandemic spikes)
+<br>Appendix A
+
+</p>
+
+
+<p>Alsan & Goldin (2019 JPE) 1880-1920 
+<br> IMR almost flat 1880-1896, then decline (graph)
+<br>	p627 IMR1  1880 urb 180  rur 130  1900 u 160  r 130 1910 u 135 r 118
+1920 u 100  r 080
+<br> So their urban tends to decline from 180 in 1880 to 173 in 1896 to 95 in 1920  Rural tends to rise 1880 130 to 150 1893, then decline to 90 in 1920 (with 1918 pandemic spikes)
+<br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
+<br>Appendix A refers to Secretary of the Commonwealth of Massachusetts,
+Report on Births, Marriages, and Deaths  
+</p>
+
+
+Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7) 
+
+
+Meckel (1985 JIH)
+
+Vinovskis (1981 AcadPr) "Fertility in Massachusetts from the Revolution to the Civil War". According to P&H p51 Vinovskis (1981: ch. 2) ... suggests that little change occurred in the mortality level in Massachusetts between 1790 and 1860
+Vinovskis (1972 JEH)    Mortality Rates and Trends in Mass before 1860:
+
+Gutman (1956) 1956 UColunmbia PhD "The Accuracy of Vital Statistics in Massachusetts, 1842-1901"
+
+Richards (1909) "A Study of New England Mortality"
+<br> p78 TabIII shows Age 0-1 death rate rising 1865 to 1875, then modest decline, but above 1865 level until after 1895  WHAT DO P&H HAVE?
 
 1865 205.28   1875 226.56   1885 212.49    1895 215.89  1900 190.1
 
-
 [Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+### NY Mort
+
+Current views would have 1880 IMR high (200?) and low in 1940 --
+1880/1900/1940 SR2 
+prediction:  1880 101.1   1900 102.4  1940 104.6  ... 1940 census NY-NY 104.8 (n=160k) yes! 
+actuals      1880 101.5               1940 104.8 (published -- 1880 is PUMSfull)
+ 1880 is 101.7 if you add Brooklyn
+Duffy (1974)
+<br>Abramowicz & BarnettHL (1970 AMJDC) IMR 1900 on; starts at ~142 in 1900, by 1940 maybe <25
+
+Billings (1886?) via P&H NYC & Chicago see rise 1880 to 1900  NY 33 to 40+  Chi 38 to 46
+Billings 1880ish m e0=29.0 (wm 33.3 ) (Brooklyn higher)  
+Glover   1900 NYC m e0=40.6 
+
+Bolduan & Weiner [(1935 JPediatrics)](https://www.dropbox.com/s/tbi8su5emdyjng5/bolduan%26weiner1935JPediatrics.pdf?dl=0), "Infant mortality in New York City one hundred years ago." <br> They have peak IMR in 1870, at about 235; 200 or less in 1880; 140 in 1900; 115 in 1910  60 in 1930
+
+my simulator<br> SRB 105 pulled down to SR2 of  ... IMR:SR2
+IMR 236 SR2 100.3 / 101.1 by IMR 198 / 140 for 102.4 / 102.9 by IMR 115 / 103.9 by IMR 60 / 40:104.6
+
+
+### Philad Mort 
+<p>Condran & Cheney 1982 
+p97 The mortality decline which accompanied the process of industrialization in Europe and the United States has been the focus of historical demographic research aimed at pinpointing the factors underlying its inception.
+Accompanied? or came painfully later? Maybe see *Easterlin* how beneficent the market?
+<br>Urban mortality rates, for example, remained high for some time after
+rural mortality rates had begun their decline (Condran and Crimmins, 1980; Higgs, 1973; Knodel, 1977)
+<br> Throughout the time period from 1870 to 1930, the mortality regime in Philadelphia was characterized by crude death rates which were high and fluctuating from year to year. Some of the fluctuation may have been due to the inadequacy of the extrapolated population figures or the death register, but much can probably be explained by genuine shifts in the levels of infectious disease from one year to the next. A decline in the crude death rates occurred between 1890 and 1900. The crude death rate of 23/1000 in 1892 was not surpassed again except during the influenza epidemic of 1918
+ Figure 1 death rates Chicago low by 1897 
+ highly variable, downwardish 1870-1915 (pandemic 1918)
+Table 1 death probabilities 1-5 drops  <br>
+1870 142  1880 121 1890 111 1900 89  1910 68  1920 41  1930 23
+p100 claiming high deaths 1-4 create artifact of IMR via life table
+</p>
+
+### Baltimore
+Howard 1924
+
+### Chicago
+
+<p>Ferrie & Troesken (2008 EEH) CHICAGO 1850-1925<br> See also Cutler & Miller's cite to 2004 mimeo</p>
+<br>Death Rate per 1000: 1870s  21.2   1915-25 12.5 [exluding FLU pandemic]  
+<br>1870s figure is same as from annual data 1894
+<br> 1873-1930 Chicago Dept of Health Annual Reports (Ferrie & Troesken cite); I find Report for 1894 has table with annual death rates 1851 to 1894. 
+<br> Baltimore 1915 43% of infant deaths from diarrhea (Troesken 2004 27-8; Woodbury 1926)
+<br>1870s figure is same as from annual data 1894 annual report Chicago Dept of Health ranks 16 largest cities in 1894 in terms of CDR, ranging from 15-16 in Chic, Detr, Milw, Cleve,
+At end, gives death rates by year; 1885-93 just under 20; similar to 1877-1880; surge to 23 in 1882&1883; 1860s rise and fall; 1857-1862 slides down from 26.5 to 20.0; 1851,1852, 1854: 37 or higher.
+
+
+Cain 1972 1974 1977
+via P&H Chicago e0 rises 1880 to 1900  NY 33 to 40+  Chi 38 to 46
+
+### New Oreans
+Lentzner 1987
+
+### Crap to Mostly Ignore (even if we cite it) ###
+<p>Costa & Kahn (2015 AER-P&P) 1900-1930 p564 The urban mortality premium relative to rural areas in 1880 was ten years in Philadelphia (Haines 2001).  ... We will show that between 1900 and 1930 neighborhood convergence took place in New York City and Philadelphia such that infectious disease death rates in the highest baseline death rate areas declined by more than in the relatively safer areas </p>
+	<p>Cain & Hong [(2009 EEH)](https://doi.org/10.1016/j.eeh.2009.05.001)  "Survival in 19th century cities ..." 		Although it is widely known that, during the 19th century, life expectancy was substantially lower in cities than in rural areas, ... differences ... survival rates and proportional hazard ratios across urban sizes and rural environments are less well understood.1 <br>
+				n1 For example, Weber (1899) JIM? reported life expectancy at birth in the cities of Massachusetts was almost seven years less than that in the state as a whole. See also Condran and Crimmins (1980) RURAL/URBAN 1890-1900, Glover (1921) LIFE TABLES 1890-1910, Haines (1977), United Nations (1953) UNSURE, Vinovskis (1981) and Woods et al. (1988) ENG-WALES.
+				cites Woods et al (1988)  & UN 1952 <i>Oddly gloss over issue of whether urban penalty existed early?</i> Seems like it is simply
+	 ... survival rates for a large number of veterans .. compare the number of veterans alive in 1900 to those alive in 1866. The data reveal a hierarchical pattern of rates with the largest cities having the lowest rate.
+	<br> There is a well-developed literature on urban versus rural mortality rates. Vinokskis, correcting the earlier work of Jaff and Lourie, found that, in Massachusetts towns with an 1830 population of 10,000 or more, life expectancy at ages 10–14 was 46.7 years. In towns with less than 1000 inhabitants, it was 52.5 years ... <br>
+	Jim: a bunch of boring regressions showing that urban-born veterans died younger than rural-born.</p>
+
+
+<a name="ALMS></a>
+
 ### Philadephia Almshouse 
 
 Goldin & Margo (1989 EEH) almshouse 4931 births   1848-1873
@@ -897,6 +1208,11 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+IPUMS USA [city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
+Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
+   Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
+[State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)
+
 Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
 
 ** also see the PDF on 20thC US for linked sources
@@ -939,12 +1255,14 @@ Table 19 p87   Table 24 p102 SSMA's
 [NY ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf)
 
 
-1960 Vital Statistics [Vol 1 Natality,](https://www.cdc.gov/nchs/data/vsus/nat60_1.pdf) SRB by state 1-27   Also, p 1-9 for national SRB white 1.055  nonwhite 1.018     2-4 Live births by specified race and sex: US and States pdf54
 
-1960 census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
+**1960** census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
 col-01-01-k 
-Table 156 Single years of age, by nativity, color, and sex, for the US, urb & rural 
+[Table 156 Single years of age, by nativity, color, and sex, for the US, urb &  rural](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-01-h.pdf)
+
 Table 232 single years of age, by color and sex, for regions, 1960 p612   Vol 1 states or cities lack single year, lack age-group
+
+1960 Vital Statistics [Vol 1 Natality,](https://www.cdc.gov/nchs/data/vsus/nat60_1.pdf) SRB by state 1-27   Also, p 1-9 for national SRB white 1.055  nonwhite 1.018     2-4 Live births by specified race and sex: US and States pdf54
 
 
 Vol 1, Pt 2, for each State.  Single years : Tables 94, 95, 101, 102.  Cities: age groups 20, 96
@@ -973,12 +1291,12 @@ This report presents statistics on age by sex and color for the urban, rural-non
 [Penn T33](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf) is pdf 2-25
 Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
 Table 39  5-yr ages    white/nonwhite    1880 to 1950
-1950census does not have negro <br>
 
+
+BW: 1950census does not have negro <br>
 1950 For U2, we extrapolate on the full count's 1&2 age group by taking 48.5% of them as the age 1 (based on the 20%-sample counts). Maybe 1960 has full-count data for 1950?    Table 33 NY pdf 23-41
 using the 20% sample (Table 51)   <br>
 Table 51 says 1950 data from 20% sample; says Tab 14,15, 33 are complete count. 
-
 
 
 US Census of Pop (via my zip 21983999v2p1 probably Vol 2 Part 1) <br>
@@ -1019,29 +1337,20 @@ https://www2.census.gov/library/publications/decennial/1940/population-volume-4/
 1930 
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
 
-**1920**  
-[1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
-v2 [ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    pdf29 Table 13 single age  Regions and States <br>
-[ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
+**1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) 
+v2 [ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    pdf29 Table 13 single age  Regions and States [ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
 
-
-v3 Tables 1 to 13; Table 8 is Ages for cities <br>
-e.g. [Georgia](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)<br> 
-
-[Kansas etc.](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf) <br> 
-
-
-[NewYork](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch06.pdf) <br> NYC Ch4 Table 15 pdf10
-
-[Ohio, Penn](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch07.pdf) Table 3, e.g. pdf p3 p769  (Ohio) has u1 u5,  <br>
-
-
-W/B use census, based on small difference and 1910-based doubts of PE11 for older data
+v3 Tables 1 to 13; Table 8 is Ages for cities 
+e.g. [Georgia](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)
+[Kansas etc.](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)
+[NewYork](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch06.pdf)  NYC Ch4 Table 15 pdf10
+[Ohio, Penn](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch07.pdf) Table 3, e.g. pdf p3 p769  (Ohio) has u1 u5,  
+<br> W/B use census, based on small difference and 1910-based doubts of PE11 for older data
 DROP IT BY .2 to 98.5
 census SR2 negro 98.4  nonwhite 98.6  
 PE-11 nonwhite 98.7
 
-1910 use [census](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
+**1910**  use [census](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
 census SR2 negro 99.2  nonwhite 99.6     PE-11 SR2 nonwhite says 100.8 with very rounded numbers, so I reject, and stick with census 
 1910 Pop [Vol 1](https://www.census.gov/library/publications/1913/dec/vol-1-population.html). [Ch 4](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p6.pdf) has single year ages, including  [major cities](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
 Table 29 is national totals, including the 1910 "negro" values which I found elsewhere. <br>
@@ -1053,7 +1362,12 @@ Table 29 is national totals, including the 1910 "negro" values which I found els
 **1900** Much like 1890, single-year for states (Table 2); age-groups for cities    
 vol 1 tables 1-4 NO age data; 
 [vol 2](https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf) <br>
+1900 bulletins 1-60, 61-106
 <br>
+[discussion of age statistics](http://www2.census.gov/prod2/decennial/documents/03322287no13.zip) p18 indicates 1890 ages were "age at nearest birthday" and therefore confusion in 0 1 2 age groups  <br>
+To think about: if 11mo olds are rounded up, how does that distort the SR1? It would seem to leave more of the younger, who are more male ...
+<br>
+
 **1890** census
 Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1: US; Table 2 Ages by months, years  : states and territories;  pp104- Table 3 sex by age groups;  Table 4 ages by periods of years of native white; 
 Table 8 Ages by periods of years ... for cities having 25,000 inhab or more 
@@ -1067,8 +1381,11 @@ Vital Statistics Pt 1 (v4?) p514 Table 1 has u1 u5 for US, states, cities?
 [Ages u1 and 1to5](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf)
 
 
-[1870](https://www.census.gov/programs-surveys/decennial-census/library/publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages.   XXV large age groups
+[**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages.    Vol 1? tables large age group"ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5
    City-level data for SRs not found. V1 Tab XXV has school age counts.
+
+
+
 
 1860 state-level ages u1 1-5 (as in ICPSR); so use IPUMS full instead
 
@@ -1124,6 +1441,8 @@ https://www.census.gov/programs-surveys/decennial-census/decade/decennial-public
 UofT library offers wide range of Can census [online](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/historical)
 censuses up to 1871 in one volume [online](https://archive.org/stream/censusofcana1800cana#page/252/mode/2up) or [in my dropbox](https://www.dropbox.com/s/z1kfsls00p3un32/censusofcana1800cana.pdf?dl=0).  422 1861 Lower Can   1869 Nwfld  1870 BC  477 Manitoba   491, 499 PEI
  Censuses [1851 to 1871](https://archive.org/details/censusofcanada05cana/page/2/mode/2up)
+
+[1861](https://www.canadiana.ca/view/oocihm.9_01612/4?r=0&s=1) No 5 & 6 is ages, 
 
 Statistics Canada pubs at Internet Archive [1941](https://archive.org/details/statisticscanada?&and[]=year%3A%221941%22)
 
@@ -1692,7 +2011,7 @@ p211 It may also be remarked that a sex ratio quite comparable to that observed 
 Ayeni [1975 Annals of Human Biology](https://www.dropbox.com/s/o28ir3y05i5r33d/Ayeni1975AnnHuBio?dl=0) <br>
 SRB&RACE for Js&Ji!  Important discussion   1965-1972 SW Nigeria, Yorubas.    SRB 105.7 in over 800k births.   
 Visaria (1967) Sex ratio at birth in territories with relatively complete registration <br>
-Often argues for registration biaese.<br>
+Often argues for registration biases.<br>Presents 95% CI for SRB; 100K +/- 1.3   1mill +/- 0.4
 Summary It has been  shown  about  that  50  out of  80 values  of  the sex ratios  of  births registered  during   1949-1958  in  76 ter-ritories  reputed  to  have  relatively com-plete  vital  registration   fall  within  the usually  stated  limits  of  104-107.  Among the  23 values of sex ratios at birth  below 104,  15 pertain  to populations with more than  one-third  of  the total  classified  as negro,  black  or African,  and colored or mixed. In  the light  of  other  historical evidence on the sex ratio at birth  among the  negroid  populations,  one is  led to conclude  that  there  operates, among the negroid  populations,  some genetic  or ra-cial factor  making for a slightly lower sexratio  at  birth  than  among  the non-negroid  populations.    
 South Korea hospitals anomoly: 1959-1960 SRB 116.9 n=11,131
 
@@ -1801,8 +2120,13 @@ Bawkin (1929 Social Science & Medicine);  Winston (1931 Am J Sociology);
 
 Ciocco (1938, 1940a, 1940b)     
 
-Herdan (1952 Acta Genetica et Statistica Medica)    
-Hawley (1961) quoted in Visaria (1967):   "as  a  rule,  the  sex  ratio at  birth  exceeds  100 and  varies  inversely with  the  frequency   of  prenatal  losses. ...  where  prenatal  losses  are  low, as in  the  high  level-of-living  areas  of the West,  the  sex ratios  at  birth  are  usually around  105 to  106.  On  the other  hand,in  low  level-of-living   areas  where  thefrequencies   of  prenatal   losses  are  rela-tively  high,  sex ratios  vary  around  102
+Herdan (1952 Acta Genetica et Statistica Medica)       
+
+Hawley, amos h (1959) "16. Population Composition"   p363   "As a rule, the sex ratio at birth exceeds 100 and varies inversely with the frequency of prenatal losses. Where prenatal losses are low, as in the high level-of-living areas of the West, the sex ratios at birth are usually around 105 to 106. On the other hand, in low level-of-living areas where the frequencies of prenatal losses are relatively high, sex ratios vary around 102." (SR falls with age, unless maternal mortality high enough to offset)    
+Found this via quoted in Visaria (1967).     
+Preface of book, p v,  describes it as "This investigation of the status of demography as a science, initiated in the fall of 1954, was undertakem with the financial support of the" NSF. 
+    Book PDF is 1959 reprint, U Chicago; doesn't say original pub date
+
 
 Hammoud (1965 AmJPHNH); Naeye et al. (1971 Pediatrics); Teitelbaum & Mantel (1971 J Biosocial Science);
 Waldron (1983, 1985, other?);    
@@ -1991,21 +2315,19 @@ CRAP: [learning to use a life table](<https://www.measureevaluation.org/resource
 
 ### Missing Women & Excess Female Mortality ###
 
-1964 Bhatnagar, k s, *Dikpatura, Village Survey* Census of India 1961 (found in Boserup, for decline of infanticide but girl children die from lack of care if fall sick )
+Refer to 19th C British Censuses of India
 
-1966 Karve, irawati "The Indian Woman in 1975" (found in Boserup, for less medical care of girls)
+Sen sequence:  1990,1992 Sen ; 1991 Coale; 1994 Klasen; 2002,2003 Klasen & Wink; 2003 Sen 
 
-1967 Visaria "The sex ratio of the population of India and Pakistan and regional variations during 1901–61" (found in Boserup) in ashish Bose Patterns of Population Change in India (U Guelph has)
-
-1970 Boserup pp 48-49    p49 customary in earlier times to limit the number of surviving daughters by infanticide. This practise has disappeared in its outward forms, but nevertheless the ratio of female to male population in these districts  ...  n30 (Visaria 334-71)... The only plausible hypothesis   mortality among girls higher than among boys   "persistence of socio-cultural factors" n31 (Visaria)    supposition that milk is not good for girls, but is good for boys.  ... also a tendency to care more for sick boys than for sick girls n32 (Karve)   Central India  n33 (Bhatnagar)
-
-
-1981 Chen et al  Sex bias in the family allocation of food and health care in rural Bangladesh
-
-
-1987 DasGupta (also Tabutin?)
-1990 Sen;    1991 Coale; 1991 Humphries   1994 Klasen;  also 2002 Klasen & Wink; 
 2003 Sen shift in source of missing women, from mortality to selective abortion. Interesting for us is the use of SR05 as indicator of missing women. Also India division: N&W missing girls, S&E not.  
+
+Klasen & Wink (2003 Feminist Econ) about same info as 2002? Maybe tone differs: harsher on China; more generally, notion excess fem mort stabilized at a high level
+Klasen & Wink (2002 PopDevR).  As in Klasen (1994 World Dev): Coale's (1991) constant SBR overstates expected sex ratios in poor countries (and therefore understates missing women). Some improvement since 1990s. "After significant improvements in Bangladesh and Pakistan, India now has the highest share of missing females among countries for which we have reliable demographic data."  increasing use of sex-selective induced abortion
+
+Klasen (1994 World Dev)  For SBR rising with income/SES and for West Life Table understates male IMR disadvantage   p1064 "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs. The higher fragaility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987)." Waldron sex-differences in mortality. Probably Waldron 1993 for Euro men higher mortality via drink/drive/violence
+
+Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female mortality and the balance of the sexes in the population: an estimate of the number of" missing females"
+
 
 
 2019 PNAS article (corrected for big error)
@@ -2030,21 +2352,25 @@ p1 A non-trivial fraction of our sample (53 countries out of 153) has a sex rati
 2010 Anderson & Ray (2010 REStud) ["Missing women: Age and disease"](https://economics.ubc.ca/files/2013/05/pdf_paper_siwan-anderson-missing-women-age-disease.pdf)    
 The paper is utter garbage. They use subsaharah Africa's relatively high death rates of women of child-bearing age to argue for missing women. And US 1900 women are dying in childbirth, creating the appearance of "missing women" there.  GARBAGE  twisting of fact that economic development has hugely reduced maternal death (and that male behavior-based deaths in rich nations is most of male deaths until old-age) ... Consider their calculation of subsaharan missing women age 20-24: their counterfactual (CF) female mortality is via the female/male rate of developed world. Devoloped has death rate (ages 20-24, throughout what follows) for males 2.94 times the female (1.1/0.4); subsahAfr male mortality is 5.7, so CF female mort is 5.7/2.94 or under 2 ... actual female mort is 9.4, so the female mortality among subsaharan women is be 9.4/(5.7/2.94) or  4.85 times actual mort.  And they use UN/WHO death rates for U1 and 1-4 to argue for missing girls in subsaharan Africa. But I bet if we looked at sex-ratios by age we would NOT see evidence of missing girls ... I bet the death rates approach and a sex-ratio approach will give opposite reulsts for subsah africa ...
 
-
 ABSTR:  ... ; (2) as a proportion of the total female population, the number of missing women is largest in sub-Saharan Africa, and the absolute numbers are comparable to those for India and China; ... Finally, using historical data, we argue that a comparable proportion of women was missing at the start of the 20th century in the United States, just as they are in India, China, and sub-Saharan Africa today.   
 1263  For each category—age, and later, age and disease—we posit a “reference” death rate for females, one that would be obtained if the death rate of males in that country were to be rescaled by the relative death rates for males and females (in the same category) in developed countries.6 We subtract this reference rate from the actual death rate for females, and then multiply by the population of females in that category. This is the definition of “missing women” in the category of interest   ...  In sub-Saharan Africa, the sex ratio at birth is [p1264] approximately 1.03, much lower than for developed countries as a whole (which is 1.06). There appear to be genetic differences that determine this ratio.7   n7 Indeed, the sex ratio at birth for whites in the United States is around 1.06 whereas for blacks it is 1.03. The available data for births from sub-Saharan parents in the United States suggests similar numbers as well.    
 
 their counterfactual calculates: male death rate (dm) rescaled by relative death rate for males and females in developed countries  counterfactural df (cfdf, their uw) cfdf =  dm* devdf/devdm     Suppose age 20s developed nations women don't DIE from childbirth, as they do in poor countries -- maybe 
  
 Looked at, dismissed: 2007 Bhaskar, V., Gupta, B., 2007. India’s missing girls: biology, customs, and economic development. Oxford Rev. Econ. Policy 23 (2), 221–238. cited in 2017 EEH
-      
-Klasen & Wink (2003 Feminist Econ) about same info as 2002? Maybe tone differs: harsher on China; more generally, notion excess fem mort stabilized at a high level
-Klasen & Wink (2002 PopDevR).  As in Klasen (1994 World Dev): Coale's (1991) constant SBR overstates expected sex ratios in poor countries (and therefore understates missing women). Some improvement since 1990s. "After significant improvements in Bangladesh and Pakistan, India now has the highest share of missing females among countries for which we have reliable demographic data."  increasing use of sex-selective induced abortion
-
-Klasen (1994 World Dev)  For SBR rising with income/SES and for West Life Table understates male IMR disadvantage   p1064 "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs. The higher fragaility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987)." Waldron sex-differences in mortality. Probably Waldron 1993 for Euro men higher mortality via drink/drive/violence
 
 
-Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female mortality and the balance of the sexes in the population: an estimate of the number of" missing females"
+Bengtsson, Campbell, LeeJZ (2004)   referring to Lee & Campbell 1997 for "Liaodong community .. excess female infant and child mortality accounted for as much as 20 pct of female births ... parents clearly selectively killed or ignored daughters to achieve goals for the number and sex composition of their children (Lee, Wang, and Campbell 1994; G. W. Skinner 1993; Smith 1977)."
+Skinner 1993 "Conjugal Power in Tokugawa Japanese Families" in MillerD ed. *Sex and Gender Hierarchies*; Smith 1977 Nakahara:  ... Japanese Village.
+pp 68-82 weird regression analysis claiming to show response of IMR and ChildMR to food prices
+
+Lee, James Z., and Cameron Campbell. 1997. Fate and Fortune in Rural China: Social Orga-
+nization and Population Behavior in Liaoning, 1774–1873. Cambridge: Cambridge Univer-
+sity Press.
+
+Lee, James, Wang Feng, and Cameron Campbell. 1994. ‘‘Infant and Child Mortality among the Qing Nobility: Implications for Two Types of Positive Check.’’ Population Studies 48.3:395–41
+
+Lee, James, Cameron Campbell, and Tan Guofu. 1992. ‘‘Infanticide and Family Planning in Rural Liaoning, 1774–1873.’’ In Chinese History in Economic Perspective, eds. Lillian Li and Thomas Rawski. Berkeley: University of California Press, 149–176.
 
 Humphries (1991 Camb J Ec) explores excess mortality ages 10 through 40 in 19th C England. Sees contrast between the excess mortality in agric vs industrial counties. Agric -- deprived of food; Ind -- bad work conditions & complications from childbirth. JRI sees weak empirical work (regressions). 
 
@@ -2056,11 +2382,15 @@ cites 2 source on infanticide:
 p 88 2 British administrators in the nineteenth and early twentieth centuries  wrote of the widespread practice of female infanticide in this area and tried to abolish it (Panigrahi, 1972; Miller, 1981).  Miller: The Endangered Sex: Neglect of Female Children in Rural North India  ;  Panigrahi: British Social Policy and Female Infanticide in India   
 p 93  The evidence suggests that Punjabis have a preference for removing  unwanted daughters as early as possible by such means as infanticide, neglect  at early ages, and, most recently, feticid  
 
+1981 Chen et al  Sex bias in the family allocation of food and health care in rural Bangladesh
 
-Chen et al 1981
+1970 Boserup pp 48-49    p49 customary in earlier times to limit the number of surviving daughters by infanticide. This practise has disappeared in its outward forms, but nevertheless the ratio of female to male population in these districts  ...  n30 (Visaria 334-71)... The only plausible hypothesis   mortality among girls higher than among boys   "persistence of socio-cultural factors" n31 (Visaria)    supposition that milk is not good for girls, but is good for boys.  ... also a tendency to care more for sick boys than for sick girls n32 (Karve)   Central India  n33 (Bhatnagar)
 
+1967 Visaria "The sex ratio of the population of India and Pakistan and regional variations during 1901–61" (found in Boserup) in ashish Bose Patterns of Population Change in India (U Guelph has)
 
+1966 Karve, irawati "The Indian Woman in 1975" (found in Boserup, for less medical care of girls)
 
+1964 Bhatnagar, k s, *Dikpatura, Village Survey* Census of India 1961 (found in Boserup, for decline of infanticide but girl children die from lack of care if fall sick )     
 
 Singh, Gordon, Wyon [(1962 IJMR)](https://ijmr.icmr.org.in/ijmr/archive/CurrentTopicView.aspx?year=Ind.Jour.Med.Res.,Res,50,6,November,1962pp865-880$Original%20Article)   Cited in Humphries (1991) for unequal access to medical care.
 

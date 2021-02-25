@@ -10,24 +10,11 @@ output: html_document
 
 ### highlights     
 
-Urban Penalty Paper   
-"A substantial mortality 'penalty' to living in urban places therefore developed as American cities grew during the 19C (Haines 2001), n5: Historical data limitations make it difficult to pinpoint when this mortality penalty first emerged.
+[Submitted abstract](https://www.dropbox.com/s/widf7dyubuefpzx/AbstractSubmitted.txt?dl=0) for Urban Penalty Paper   
+
+For mortality paper, looking at USA 1860 to 2000,  "racial" differences in SRs are most dramatic; less striking is the path toward 1990/2000 healthy SRs. Until 1990, the black SR2 tends to be 4 points below the white. State of NY SR2 rises 3.4 points in the 160 years after 1860.
 
 
-#### older highlights
-
-USA 1860 to 2000  "racial" differences in SRs are most dramatic; less striking is the path toward 1990/2000 healthy SRs. Until 1990, the black SR2 tends to be 4 points below the white. State of NY SR2 rises 3.4 points in the 160 years after 1860.
-
-**Punnett 1904** SRB increasing with SES in London.
-
-**SRB & Birth order** Maybe negative birth-order effects on SRB are SES effects, with higher birth orders proxying for family-size (as in Hanushek 1992 JPE) which in turn proxies for low SES. Or is it son-biased selection? with people ending childbearing when they get a son? Punnett's tables have some striking examples, which I see as reflecting stopping once a son is "achieved" ... 
-
-
-For JIH, list of key milestones/ancestors of our arguments:
-
-SRB&SES: ?Almond&Edlund (  );      Klasen (1994 WorldDev ); Naeye et al. (1971 Pediatrics); Teitelbaum & Mantel (1971 JBiosSc c102) & Teitelbaum (1970 JBiosSc c115); Winston (1931 AJSoc c48); Reg-Gen 1921 Pt 2 (cited in Russell 1936) for SES & SRB in England and Wales; Punnett 1903 for SRB reduced by
-
-**Issue**  "sociobiological interpretation" as per Abernathy and Yip -- refering to Trivers-Willard idea that higher SES people favor sons ... p280 "If a competitive edge (because of health or social position) enhances  male reproductive success, then parents should work especially hard to  give sons a good start. Moreover, since reproductively successful men  can make a greater contribution to inclusive fitness than women who are  reproductively successful by female standards, well-off parents should  maximize their advantage by concentrating on sons." Can we ignore the socio-bio BS? I hope so, maybe by implicitly adopting A&Y's alternative: p288 "A plausible challenge to the sociobiological interpretation of the present findings is that the convergence of infant boys' and girls' mortality in the high social status sector occurs because of the female physiological advantage and because child rearing at this pinnacle is so good. That is, the marginal gains still possible for girls are nearly zero, whereas boys, who are more vulnerable ... can still derive  significant incremental benefit from the best care"
 
 
 ## To do 
@@ -61,13 +48,6 @@ maybe in [UK Parl. Papers](http://www.columbia.edu/cgi-bin/cul/resolve?clio53240
 
 ### USA 1870 to 1940
 
-Abramowicz & Barnett (1970 AJDC) Figure 1 show dramatic decline in NY City  IMR from 1900 to 1940, then flat
-Ferrie & Troesken 2008 EEH Chicago's mortality transition 1850-1925
-Haines 2001 -- again 1870 to 1940 the decline -- look at US census data ...
-
-1890 city data is U0 U5   State-level data is single year
-No IPUMS for 1890. <br>
-
 
 1900 IPUMS data and published data, is consistent for whites, not for blacks. <br>
 US total white SR2: Census 102.8 IPUMS 102.8     <br>
@@ -78,8 +58,120 @@ cens sr1 102.9 sr2 102.8 sr5 102.6
 pums sr1 103.9 sr2 102.8 sr5 102.8
 
 
+## Log 2021.02
 
-## Log 2020.02
+
+<p>2021.0224<br>
+NY state SR2 suggests the mortality transition started after 1900, and not in the 1870s.<br>
+tot/rur/urb: 1880to1900 declines of 1.4  1910s and 1930s clear rises (1920s smaller rise) 
+<br>1950 onward the emergence of the race issue in NYC (and elsewhere?)
+<br>In 1900, the SR2 and SR5 have their nadirs <br>
+1930 sees both the SR2 and SR5 move above previous peaks, and in 1940 they break above 104.<br>
+1930's urban SR2 of 103.4 is a full point above the previous peak (102.4 in 1880).<br>
+The 1900 nadir is evident in NY as a whole, in the rural SR2 (but maybe 1910 was worse?), and in the urban SR2 (nadir), an for NYC (but 1850 1/10 pt lower)
+<br> Figure out:  NYC 1920 to 1930: census SR2 shows just 0.3 rise, others 0.8 and more
+
+PUMS shows improvement via urban rise while rural drops a litte
+</p><p>
+NY state infant SR suggests mortality increased during the period 1880 to 1900, recovering by 1910, with lower mortality by 1930, and new lows by 1940.<br>
+An urban penalty is evident until 1910, but it was not large ... For a large SR2 gap, consider whites and blacks in the USA, white advantage of over 4 points (1900 to 1980).<br>
+The urban penalty was largest in 1850, at 2.8 points (1860 1.8, 1.3 in 1870, 1888)
+</p>
+<p>NY state via fullPUMS SR2 ... SR2 falls 1880 to 1900 (102.9 to 101.3), recovers by 1920, 1940 gets to postwar plateau (104-105 range)
+1850, 1860, 1880: 102.9  (1870 slip to 102.1) <br>
+rural/urban gap at least 1.2 points through 1900, but 1900s see the collapse of the urban penalty. <br>
+Both rural and urban SR2 drop 1.4 points from 1880 to 1900. So what about 1890?
+<br>
+Rural SR2 slips from 1880 to 1900, from 103.7 to 102.3, and bottoms out at 102.0 in 1910, before rising to recover and reach a new high in 1940.<br>
+Rural: at least 103.6 in 1850, 1860, 1880  ... 1890?   </p>
+<p>1890?<br>
+1880 to 1900 drop is 0.7 per decade in both urb and rur (and more overall, with shift to urb)
+<br>
+NY's nonPUMS SR values in 1880 and 1900 are similar to the PUMS, so consider them ... <br>   
+SR2 drops 1.2 total, 0.5 in the 1880s and 0.7 in the 1890s <br>
+SR5 drops 1.0 total, 0.3 in the 1880s and 0.7 in the 1890s <br>
+1870 sees a 0.8 point drop in the NY SR2 (Pvalue about 5% )
+<br>
+
+
+</p>
+older <br>
+Working out results for NorAm mortality ...
+
+NY State PUMS vs Census -- SR2 1910 PUMS is 1 point lower (and SR5 is 0.6 lower); the other 6 years SR2s match well (worst is 1900, PUMS 0.3 lower; else gap is 0.1 or less)
+SR5 1850 is also off, PUMS is 0.5 higher; 1910 PUMS is 0.6 lower; other 7 are good.
+So SR2 6/7  SR 7/9
+
+
+Fullcount Massachussetts ... not promising. Bounces around, 1850 to 1870 slide down, jump up in 1880, then back down in 1900, 
+**CENSUS & FULLCOUNT NOT SAME**
+
+MASS SR2 traces out decline 1850 to 1870, 1880 bounce-back. 
+ 1940
+
+
+Boston full-count IPUMS, 1870 to 1880 jump in SR2  (~99 in 1870 & 1860, 1880 101.7 1900 102.2) 
+Boston FullPUMS   SR2 1880 101.7 (14.5k)   1940 102.4 (18.2k)
+
+
+Very wide plausible range? Population too small?
+Note 1940 census pop for Boston U2 is 18.9k which is the same order of magnitude
+
+
+
+2020.0216 
+
+Paper finds IMR doesn't spike in SPanish FLU 1918 Toronto. Stacey Hallman, McMaster MA,   [THE EFFECT OF PANDEMIC INFLUENZA ON INFANT MORTALITY IN TORONTO, ONTARIO, 1917-1921](https://macsphere.mcmaster.ca/bitstream/11375/9427/1/fulltext.pdf)
+
+But maybe alice Reid finds an impact in Derbyshire England? Med Hist. 2005 Jan 1; 49(1): 29–54.
+doi: 10.1017/s0025727300008279  PMCID: PMC1088249   PMID: 15730129 The Effects of the 1918–1919 Influenza Pandemic on Infant and Child Health in Derbyshire ALICE REID, PhD*  Med Hist. 2005 Jan 1; 49(1): 29–54.
+
+Pulling out 1880  n=2046965 -- that checks out. 
+Parsing error suggest that 1860 data has n=3,523,149
+extract 32 with 4 states, kids 5&U ... Warning: 3523149 parsing failures.
+    row     col           expected        actual                        file
+1203761 CLUSTER 1/0/T/F/TRUE/FALSE 1860005152833 '~/Downloads/usa_00032.csv'
+ -- get 1860 only fromPUMS 
+
+MASS 3 NY 13  PA 14  ILL 21   each year; kids only  -- first pass at exract 31 was 1880 and 1900 ... 
+oops, had combined 1880&1900 
+Bost 102.0  NYC 101.5   Phil 100.8  Chic 101.3
+1880  101.7     102.9        101.9        100.4
+
+2020.0215 Kris Inwood emails remarks on mortality in Canada ... <br>
+ The Bourbeau et al life tables are based on next to no evidence. <br>
+ ... provincial jurisdiction, ... don't get consistent, co-ordinated vital registration until the 1920s. <br> Emery paper
+ Did you ever see the attached paper by Herb Emery’s father? I think it is in his (Facts of Life) book as well.
+
+In other countries census survival data would be more useful but less so for Canada because of the size of southward emigration. It would be a contribution if you can get infant mortality from early life sex ratios. You could compare your method of getting at infant mortality with McInnis (I think in the Pop History of North America) or with DBS and provincial estimates from the 1920s (by then more reliable). Heck, doing it for Ontario alone might be really helpful – a single jurisdiction but big enough population to capture small effects.
+
+By the way, prisoners seem to have a similar height pattern to soldiers insofar as no increase is visible for birth cohorts before 1900. I think the school studies suggest signs of an increase not long after 1900. <br>
+
+2021.0214
+
+Philadelphia U5 1880 102.2  1900 101 Hmmm ...  1950 104
+
+Does literature recognize the timing of mortality decline is not determined yet?
+e.g. Cutler & Miller (2005 Demog): "A substantial mortality 'penalty' to living in urban places therefore developed as American cities grew during the 19C (Haines 2001), n5: Historical data limitations make it difficult to pinpoint when this mortality penalty first emerged.
+
+Condran 2008 refers to late 19C mortality decline -- maybe folk presume so, from econ growth -- but evidence.  Questions about welfare in 19C
+
+Temporal -- 1900-1933 US Census publishes Mortality Statistics for "Death Registration Area", 10 states 1900 SEE Haines (2001 Annals Demog --) and Hacker (2010 Hi Meth?)
+
+
+#### older highlights
+
+**SRB & Birth order** Maybe negative birth-order effects on SRB are SES effects, with higher birth orders proxying for family-size (as in Hanushek 1992 JPE) which in turn proxies for low SES. Or is it son-biased selection? with people ending childbearing when they get a son? Punnett's tables have some striking examples, which I see as reflecting stopping once a son is "achieved" ... 
+
+
+For JIH, list of key milestones/ancestors of our arguments:
+
+SRB&SES: ?Almond&Edlund (  );      Klasen (1994 WorldDev ); Naeye et al. (1971 Pediatrics); Teitelbaum & Mantel (1971 JBiosSc c102) & Teitelbaum (1970 JBiosSc c115); Winston (1931 AJSoc c48); Reg-Gen 1921 Pt 2 (cited in Russell 1936) for SES & SRB in England and Wales; Punnett 1904 for SRB falling with SES in London. 
+
+**Issue**  "sociobiological interpretation" as per Abernathy and Yip -- refering to Trivers-Willard idea that higher SES people favor sons ... p280 "If a competitive edge (because of health or social position) enhances  male reproductive success, then parents should work especially hard to  give sons a good start. Moreover, since reproductively successful men  can make a greater contribution to inclusive fitness than women who are  reproductively successful by female standards, well-off parents should  maximize their advantage by concentrating on sons." Can we ignore the socio-bio BS? I hope so, maybe by implicitly adopting A&Y's alternative: p288 "A plausible challenge to the sociobiological interpretation of the present findings is that the convergence of infant boys' and girls' mortality in the high social status sector occurs because of the female physiological advantage and because child rearing at this pinnacle is so good. That is, the marginal gains still possible for girls are nearly zero, whereas boys, who are more vulnerable ... can still derive  significant incremental benefit from the best care"
+
+
+### Older log entries
 
 2021.0207 Ji got *Fatal Years* yesterday, noticed remark that South Atl had low infant mortality. Will check Va, SC, Ga ... <br>
 In 1900, white SR2s in South 103-104; better than the Northeast's Mass NY  PA which are about 101.  But what would they look like if you dropped off the poorest 1/2 of the population?
