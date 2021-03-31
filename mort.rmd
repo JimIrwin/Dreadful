@@ -1,0 +1,63 @@
+---
+title: "MortalityTransitionEasternNA"
+author: "jim"
+date: "27/03/2021"
+output: html_document
+---
+# Mortality in North America, 1850-1900: Implications from Infant Sex Ratios
+
+### Proposal Abstract
+
+Basic patterns of mortality in nineteenth-century North America remain to be established, limiting our knowledge of the lags between onsets of economic growth and the mortality transition.  At stake are key questions on welfare implications of nineteenth-century ‘modernization’ (e.g. Komlos 1998, Engels 1845).  Recent research (Hacker 2010, Haines 2001) points to the 1870s for the onset of declining mortality in US as a whole, and perhaps in Canada (Bourbeau, Légaré, Émond 1997, but see Cranfield and Inwood 2007). But the timing of mortality transitions remains to be confirmed, with key dimensions of change to be delineated. Our paper explores mortality patterns with respect to: urban/rural, North/South, USA/Canada, and ethnicities (Black/white, French/English).  We employ a novel indicator of health: infant sex ratios.  Elevated infant sex ratios are familiar as indicators of “missing girls” (Sen 1990), but low sex-ratio values are indicators of ill-being for infants and their mothers. Biologically, infant mortality is higher for males than females; it follows that high infant mortality results in a low infant sex ratio (absent mortally misogyny, which elevates sex ratios). We use sex ratios to illuminate mortality. To illustrate, consider the under-2 sex ratio (SR2) in the USA: in 2000 it was 105.3 (boy per 100 girls) for whites, and just 103.1 for Blacks;  the values were 102.8 and 98.5 in 1900.  After demonstrating (theoretically and empirically), the validity of our indicator; our paper draws on US and Canadian census data from 1850 to 1900, to identify SR trends and posit connections to mortality. 
+
+### Intro
+
+### Mortality in North America Since 1850: what do we know?
+
+It is tempting to suggest that the basic timing of mortality transition in North America has been established. Resourceful research (thoughtful work) by Hacker (2010) and Haines (1989), drawing on a geographically and temporally wide range of fragmentary data, offers a life table perspective on US mortality
+    points to the 1870s for the onset of declining mortality in US as a whole, and perhaps in Canada (Bourbeau, Légaré, Émond  1997, b
+
+### SR Patterns 
+
+USA we have IPUMS full-count census 1850 to 1940. 1940 forward we might expect the published census to be reliable. Published census offers SR5 for whites from 1840. 
+
+One issue is discrepencies between IPUMS and census volumes ... do we want to do some careful comparisons? Look for anomolies?
+
+PUMS vs published ... 
+1870 Mass PUMS SR2 is 1.0 lower (PUMS SR2-5 is 0.5 lower; SR5 PUMS is 0.7 lower)
+1870 NY is OK (PUMS 0.1 lower)
+1870 PA PUMS is a little low, 0.36
+1870 OH
+1870 ILL is OK (PUMS 0.2 higher)
+
+***MASS***  
+1870 nadir SR2 100.2, 2-point rise to 1880, 1-point slump to 1900. 1900-1960 gradual rise; 1930 a new high.   
+
+1900-1970 uneven rise; 1870 nadir of 100.2
+Mass   SR2 104.4  whites 104.7 blacks 99.9 (small pop, 75%CI +/- 2.5 -- 102.5 max)
+Boston SR2 103.3  whites 105.0 blacks 98.3
+
+
+
+
+<H3>MidWest</H3>
+
+Illinois: IPUMS, just a hint of a slump in the years 1900, 1910, with the SR2 down to 102.4 and 102.6  
+
+
+**Ohio** 
+Minor slump of SR2, from 104ish antebellum, to 102ish in 1900 & 1910; 1920 improvement, back to 104 by 1930.
+<br> look for big city effects? circa 1900 ... (baseball cities ...)
+Ohio 1850 to 1890 suggests declining SR<br>
+Plotting SR2&SR5 from both sources, see 1900 trough of 102.1 ... 
+<br>anomolies: <br>
+census SR2 1880 (low), 1890 (high); <br>
+PUMS 1940 values (low, by 1 point)
+
+<br>ANOMOLOUS DATA
+<br>1940 fullPUMS is a full 1 point below 1940 census volume. 
+cenVol SR2 suggest a rise from 1900 to 1930, then flat. 
+cenvol SR5 flat (103ish) from 1910 to 1940; 
+
+1% PUMS uniformative, SR2=99 from 2079 kids. 
+

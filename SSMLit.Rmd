@@ -273,6 +273,10 @@ South, frow W to E: Pembroke, Carmanthan, Glamorgan
 
 ### 19th C England demography    
 
+HarrisBe (2008 ResEconHist) "Gender, Health, and Welfare in England and Wales since Industrialisation." Mostly about post-infancy mortality stuff ... maybe we will want to look at for some recent perspective on england's mortality transition ...
+
+Johansson (2005 PopSt) on Fogel ... 
+[casting doubt on Fogel's view of chronic malnutriion] p248 Even now it remains conventional to assume that some part of the excess mortality of females in the nineteenth century reflects the pre- [p249] sence of chronic malnutrition among wives and daughters in low-income households, but not among their husbands and sons, except during harvest failure or famine (Alter et al. 2004).
 
 WoodsR (2000 CUP) <br>
 p252 FIG 7-2  early child mortality (1-4) series is volatile, but decline is evident starting in the 1860s; Infant mortality stays high into the 20C
@@ -756,6 +760,20 @@ IMR 236 SR2 100.3 / 101.1 by IMR 198 / 140 for 102.4 / 102.9 by IMR 115 / 103.9 
 
 
 ### Philad Mort 
+<p>Expect 1900-1910 improvement from Phil Board of Health data in Condran & Murphy (2008), but not from 3diseases (scarlet fever, whooping cough, measles) in Condran (2008)  </p>
+<p>Condran (2008 JHMAS) Diptheria sees big drop 1895 to 1905.
+p520 We are left with the fact that diphtheria was nearly eliminated as a  cause of death among children by 1930 and that the reduction in diphtheria deaths mirrored that in the other childhood diseases, except for the more rapid decline in the decade 1895 to 1905
+<br>p521 Figure 5: three childhood diseases 1810-1930, shows 1850 nadir ~105 1858 ~175  1860 ~150   1870 100 1880 65  1890 50    1900 40   1910 35   1920 20   1930 5   <br>
+I see 1858-1898 linear decline in the 3disease line, 175 to 40, then gentler decline 1908 to 1930. 
+</p>
+<p>Condran & Murphy [(2008 SSH)](https://www.dropbox.com/s/2x6v6yhgfg08py0/Condran%26Murphy2008SSH.pdf?dl=0) Defining and Managing Infant Mortality A Case Study of Philadelphia, 1870–1920<br> 
+Figure 1 (p478) shows deaths under age 1, from Phila Board of Health annual reports. Looks like deaths rise from 1878 to 1893 (~4000 to ~6000; 1880, 1890 census U5 pop falls a little )<br>1900 5200ish   1910 5000ish   1920 3800ish (after 1918 jump to 5300 for flu)  
+<br> Philly U5 population   1890 103K   1900 132K    1910 135K    1920 180K
+<br>1910 to 1920? pop growth implies death rate fell to <60%  ... expect to see SR2 rise ... but SRs don't rise until 1930.
+</p>
+<p>Condran (1987 AnDemHi) uses Condran & Cheney (1982 Demography) for lifetable mortality probabilities at census benchmarks
+
+
 <p>Condran & Cheney 1982 
 p97 The mortality decline which accompanied the process of industrialization in Europe and the United States has been the focus of historical demographic research aimed at pinpointing the factors underlying its inception.
 Accompanied? or came painfully later? Maybe see *Easterlin* how beneficent the market?
@@ -768,7 +786,9 @@ Table 1 death probabilities 1-5 drops  <br>
 1870 142  1880 121 1890 111 1900 89  1910 68  1920 41  1930 23
 p100 claiming high deaths 1-4 create artifact of IMR via life table
 </p>
-
+<p>Condran & Crimmins (1980 JHiGeo) <br>
+p186 table evaluating 1900 mortality coverage; cite Gutman for 1900 only 1-2% of MA deaths were unregistered.  Fulton saying 1900 Rhode Isle good. MICH 5% missed in 1900;  NY state exNYC 5%,  NYC 1% 
+</p>
 ### Baltimore
 Howard 1924
 
@@ -788,6 +808,13 @@ via P&H Chicago e0 rises 1880 to 1900  NY 33 to 40+  Chi 38 to 46
 
 ### New Oreans
 Lentzner 1987
+
+### Michigan
+Births, Marriages, Deaths 1890. p98 u1 deaths 5508 m3114 f2329 u65 
+p1 births (reported/corrected) 1889 49272/65224 1890 52306/60555  
+p2 SRBs are silly high  108 109 109 109 117  p3 1890 SRB 27523/24687 = 111.5 SILLY HIGH
+<br>calculations are in Canada spreadsheet
+
 
 ### Crap to Mostly Ignore (even if we cite it) ###
 <p>Costa & Kahn (2015 AER-P&P) 1900-1930 p564 The urban mortality premium relative to rural areas in 1880 was ten years in Philadelphia (Haines 2001).  ... We will show that between 1900 and 1930 neighborhood convergence took place in New York City and Philadelphia such that infectious disease death rates in the highest baseline death rate areas declined by more than in the relatively safer areas </p>
@@ -843,9 +870,29 @@ Maybe look at "Small for dates" versus preemies
 1978 Fogel, et al., Historical Methods   
 Margo & Steckel 1983 JEH cite to say "Mortality rates in urban areas may have increased between 1820 and 1860"
 
- 
-### US Slavery
+<a name="slaves"></a>
 
+### Enslaved Americans/ Antebellum Southern Slaves  -- via Steckel and others
+
+
+Dreadful infancy: Steckel (various)
+
+Not dreadful infancy: Schneider (2017 EHR);  Steckel dissertation?  ?Carson  Coelho&McGuire
+
+Carson 2008 argues for vitamin D differences for geog difference is slave height
+
+Coelho & McGuire (2000 JEH) downplay maternal overwork and poor maternal/infant diet, argue for hookworm & malaria. Steckel (2000 JEH) reply shows they overstate plausible effects of those diseases.
+
+Steckel, Richard H.  (1986a), “Birth Weights and Infant Mortality among American Slaves,” Explorations in Economic History, 23:173‑98.
+______ (1986b), “A Peculiar Population: The Nutrition, Health, and Mortality or American Slaves from Childhood to Maturity," The Journal of Economic History, 46:721-42.
+______ (1986c), “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History, 10:427–65.
+abc via EEH April 1986;     JEH September 1986;      SSH Winter 1986;
+
+#### SR evidence
+JohnAM (1988 book p194) Trinidad Plantations 1813 SR04 98.9 (828/837; 3/4 CI 93.5-104.7)  n too small 
+
+####Lit List
+<p>
 2018 Slavery & Abolition issue titled [Mothering Slaves: Motherhood, Childlessness and the Care of Children in Atlantic Slave Societies](https://www.tandfonline.com/doi/full/10.1080/0144039X.2017.1316959)
 2018 Women's History Review titled [Mothering Slaves: Motherhood, Childlessness and the Care of Children in Atlantic Slave Societies](https://www.tandfonline.com/doi/full/10.1080/09612025.2017.1336849)
 
@@ -877,18 +924,8 @@ p468 Follett estiamties that some Louisiana sugar plantations had a 55 percent m
 Pargas 2011 Slv&Abol
  Brenda Stevenson, Wilma Dunaway : VA slave women full labour quotas until giving birth, return to work after 2-week confinement (rest). Then childcare by sibs & elderly.  LowerSouth studies lighter tasks during pregnancy, 4wk+ confinement.   ISSUE: slave childhood "stolen" (early work) or separate from plantation economy
 
-### Enslaved Americans/ Antebellum Southern Slaves  -- via Steckel and others
 
-Carson 2008 argues for vitamin D differences for geog difference is slave height
-
-Coelho & McGuire (2000 JEH) downplay maternal overwork and poor maternal/infant diet, argue for hookworm & malaria. Steckel (2000 JEH) reply shows they overstate plausible effects of those diseases.
-
-Steckel, Richard H.  (1986a), “Birth Weights and Infant Mortality among American Slaves,” Explorations in Economic History, 23:173‑98.
-______ (1986b), “A Peculiar Population: The Nutrition, Health, and Mortality or American Slaves from Childhood to Maturity," The Journal of Economic History, 46:721-42.
-______ (1986c), “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History, 10:427–65.
-abc via EEH April 1986;     JEH September 1986;      SSH Winter 1986;
-
-
+</p>
 
 ## Sex-Ratios and Sex-Discrimination: Testing for Excess Girl Mortality -- maybe a separate paper?
 
@@ -1208,7 +1245,8 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
-IPUMS USA [city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
+IPUMS USA [links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
+<br>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
    Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
 [State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)
@@ -1227,7 +1265,12 @@ CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [18
 These may contain age/sex/race, but odd text files ...
 [1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
 
+<p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html)
+</p>
+
 **2010 and 2000** [2000-2010](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-national.html)
+
+Maybe [1990-2019](https://wonder.cdc.gov/controller/datarequest/D163)
 
 maybe [State Intercensal Datasets: 2000-2010](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-state.html)
 
@@ -1237,26 +1280,43 @@ Not useful: [1990-2000](www.census.gov/data/datasets/time-series/demo/popest/int
 
 [Census of Population and Housing, Decennial Pubs?](https://www.census.gov/prod/www/decennial.html)
 
-**2000**  For NYC I find [Total Population by Single Years of Age and Sex - 2000](https://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/census2000/sf1p6a6i.xls)
+**2000**  For NYC I find [Total Population by Single Years of Age and Sex - 2000](https://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/census2000/sf1p6a6i.xls)<br>
+2000 PHC-1 u5 ages; PHC-2 no age-data; PHC-3 no age data; DP-1 u5; Briefs NO; Profile NO;
 
 **1990** [1990 Census of Population, General Population Characteristics, United States](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
-States 262a-g Northeast metro/not etc tables 64, 65 
+States 262a-g Northeast metro/not etc tables 64, 65 <br>
+cities in tabs 61-63?
+<br>[PA 1990](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-40-1.pdf). Table 17 for urban/rural. Phil is part 2 (I printed the page)br
+[1990 states](https://www2.census.gov/library/publications/decennial/1990/cp-1/)  12 GA  18 Kansas   44 TN
 
-**1980** [1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary.](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Table 41 (Single Years of Age by Race, Spanish Origin, and Sex: 1980)
-[NY](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu80134unse_bw.pdf)
-pdf77 16a  age x sex Table 18 p72   pdf111 NYC&NENJ urbanized area
- 
-
+**1980** [USA ages](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Table 41 (Single Years of Age by Race, Spanish Origin, and Sex: 1980, in 1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary<br>
+[Illinois](https://babel.hathitrust.org/cgi/pt?id=uva.x004451315&view=1up&seq=173&q1=single%20year) at HathiTrust, images 173-
+<br>
+[NY volume](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu80134unse_bw.pdf)
+pdf84 Table 18 p72   pdf111 NYC&NENJ urbanized area <br>
+General Population Characteristics, PC80-1-B34, Vol 1, Characteristics of the Pop, Ch B, General Pop Char
+<p>
+IPUMS has good access to [1980 age volumes](https://usa.ipums.org/usa/voliii/pubdocs/1980/pubvols1980.shtml) <br>
+<br>Michigan 1980 [Table 18 pdf 162ish](https://catalog.hathitrust.org/Record/009780899)
+<br>But it does not have Illinois Ch B
+Chapter 2 (with ages) for PA seems to be missing (looked on Hathi too). Poked around the census directory, looking at pdfs 80134 is NY <br> vol 1
+</p> 
+<p>Illinois at [Hathi](https://catalog.hathitrust.org/Record/102583049)
+<br>[PA ages Tables 18-20](https://www.dropbox.com/s/jzhux09h39clhfz/1980PATabs18-20.pdf?dl=0) extracted from  [Penn Volume](https://www.dropbox.com/s/3nectos2e359yql/PA_1980_Vol1B.pdf?dl=0) downloaded from GoogleBooks.Ca
+</p>
 **1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br>
-Table 17 p85 race by sex
-Table 19 p87   Table 24 p102 SSMA's 
+Table 17 p85 race by sex -- no ages.
+Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24 p102 SSMA's 
 [PA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/00496492v1p40s1ch3.pdf) pdf 51 t24 Phila
 
 [NY ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf)
 
+[MA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ma-01.pdf)
 
+**1960** 
+[via IPUMS](https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml) For any state, use its Population Vol 1, section 3, general pop characteristics
 
-**1960** census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
+census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
 col-01-01-k 
 [Table 156 Single years of age, by nativity, color, and sex, for the US, urb &  rural](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-01-h.pdf)
 
@@ -1274,7 +1334,7 @@ Table 16 Age by color and sex ... pdf p10
 Table 20 pdf44 for NYC  
 
 [PA](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/17216604v1p40ch07.pdf)
-table 94 single year of age, state; race
+table 94 single year of age, state; color (white/nonwhite)
 
 ILL [Tables 13-19](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-15-e.pdf) in the directory as vol-01-15-e   15-c is Number of Inhabs    15-e includes age/sex color single year
 
@@ -1287,7 +1347,7 @@ This report presents statistics on age by sex and color for the urban, rural-non
 
 
 [**1950** US Census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html) <br>
-[**Volume 2**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html) has our age data for SRs. Table 15 is state; Table 33 is SSMAs, urban, cities, etc.  
+[**Volume 2**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html) has our age data for SRs. General Characteristics, Table 15 is state; Table 33 is SSMAs, urban, cities, etc.  
 [Penn T33](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf) is pdf 2-25
 Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
 Table 39  5-yr ages    white/nonwhite    1880 to 1950
@@ -1334,7 +1394,8 @@ https://www2.census.gov/library/publications/decennial/1940/population-volume-4/
    negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
  I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
 
-1930 
+**1930**
+See Vol 2 Ch 11 pdf 111 for Illinois
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
 
 **1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) 
@@ -1376,10 +1437,15 @@ Vital Statistics Pt 1 (v4?) p514 Table 1 has u1 u5 for US, states, cities?
 
 1890 Bulletins  no. 100 Social Statistics of the Cities
 
-**1880** Ages in [Table XXI](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf)
-1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
-[Ages u1 and 1to5](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf)
+**1880** Ages in Table XXI [Mass](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NY & PA](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
+<br>
 
+
+VA is pdf33 p636;
+1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
+Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf) 
+
+**1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
 
 [**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages.    Vol 1? tables large age group"ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5
    City-level data for SRs not found. V1 Tab XXV has school age counts.
@@ -1414,17 +1480,24 @@ https://www.census.gov/programs-surveys/decennial-census/decade/decennial-public
 2011 and 2016 [tables](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Index-eng.cfm)
 [2011](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GK=0&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)     
 [2016](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=01&GK=1&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)
+<p>UofT site lists various 1861 and 1851 census volumes. Eg [NS 1851](https://archive.org/details/censusofcana1800cana/page/234/mode/2up?view=theater) with U10 (nothing finer). 1851 NB in 1871 has U6 </p>
 <p>
-[1871](https://archive.org/details/censusofcanada05cana/page/46/mode/2up) Table F in Vol V (vol III is industry, shipping etc.)
+[1871](https://archive.org/details/censusofcanada05cana/page/46/mode/2up) Table F in Vol V (vol III is industry, shipping etc.).
 </p>
 [1881](https://www.canadiana.ca/view/oocihm.9_08062/32?r=0&s=1)     
 [1891](https://www.canadiana.ca/view/oocihm.9_08071/5?r=0&s=1) Vol II has U5 singles ages<br>  [1901 vol IV](https://archive.org/details/1901981901FV41906engfra/page/n39/mode/2up)   <br>
-1921 [vol II](https://archive.org/details/1921981921FV21925engfra) U5 single years by province for 1881-1921!
-1931 in dropbox
-[1941](https://archive.org/details/1941981941fv31946engfra/page/n31/mode/2up) data also at StatsCan, e.g. [Ontario](https://archive.org/details/1941981941M2C51941engfra/page/n55/mode/2up)  <br>
+1921 [vol II](https://archive.org/details/1921981921FV21925engfra) U5 single years by province for 1881-1921! <br>
+1931 in dropbox<br>[1931 ages](https://archive.org/details/1931981931FV31935engfra)<br>
+Vol 1 p195 refers to age-heaping and problems of single-year data. Mentions MacLean, [The Age Distribution of the Canadian People, 1931 Census Monograph](https://archive.org/details/1931981931CM21940eng)
+<br>Table 9 has U1 and 1-4 by province, at censuses 1881-1931; Table 11 has 1931 Canada single yrs of age<br>
+Vol 3 has some single-year of age data. Tables 6-10.<br>
+[1941](https://archive.org/details/1941981941fv31946engfra/page/n31/mode/2up) data also at StatsCan, e.g. [Ontario](https://archive.org/details/1941981941M2C51941engfra/page/n55/mode/2up)  <br>1941 Fourth Census of Canada, 1901. Vol. IV, Vital statistics, school etc. <br>
+Table 11 age groups;
 [1951](https://archive.org/details/1951981951FV21953engfra/page/n17/mode/2up) Appendix A p1002
+<br>1951 U5 single-year ages are inferred from census & birth/death registration and immigrants U4
 <br>
-[1961](https://archive.org/details/1961925431962engfra)  <br>
+[1961](https://archive.org/details/1961925431962engfra) Note that U4 single-year is inferred from birth/death registrations and U4 immigration. Interesting that Maritimes U5 looks good and U2 does not -- suspicious of the inferential process <br>
+1971?? <br>
 [1981](http://archive.org/details/19819290%7D11982engfra) <br>
 [1991](https://ia802902.us.archive.org/32/items/1991933101992engfra/1991933101992engfra.pdf)
 [online](https://www12.statcan.gc.ca/English/census91/data/tables/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=1&DIM=0&FL=A&FREE=1&GC=0&GID=0&GK=0&GRP=1&PID=71935&PRID=0&PTYPE=4&S=0&SHOWALL=No&SUB=0&Temporal=1991&THEME=101&VID=0&VNAMEE=&VNAMEF=)
@@ -1744,7 +1817,7 @@ Sex Ratio leads via PubMed Nov 2020
 
 Calle et al. (NewEngJMed 1999) -- don't see this as useful for SSMM.
 
-TO ORGANIZE/CHECK  Harris, B., ‘Anthropometric history, gender and the measurement of well-being’, in B. Harris, L. Gálvez, and H. Machado, eds., [Gender and well-being in Europe: historical and contemporary perspectives](https://www.dropbox.com/s/9fjn8i05ggwu20x/HarrisB%2CGalvez%26Machado2009GenderWell-BeingEurope.pdf?dl=0)] (Farnham, 2009), pp. 59–84.  HAS Tanner quote re: girls less easily thrown off growth curves
+TO ORGANIZE/CHECK  HarrisB, ‘Anthropometric history, gender and the measurement of well-being’, in B. Harris, L. Gálvez, and H. Machado, eds., [Gender and well-being in Europe: historical and contemporary perspectives](https://www.dropbox.com/s/9fjn8i05ggwu20x/HarrisB%2CGalvez%26Machado2009GenderWell-BeingEurope.pdf?dl=0)] (Farnham, 2009), pp. 59–84.  HAS Tanner quote re: girls less easily thrown off growth curves
 
 <a name="blackSRB"></a>
 
@@ -1761,9 +1834,6 @@ Swende (2011 IntJBioMedRes dL)	Term birth weight and sex ratio of offspring of a
 SRB 104.7 14k births Benin City, south-south Nigeria; St Philomena Catholic Hospital. They refer to agreement with 1.05 from SW Nigeria n15, slightly higher than 1.04 in SE Nigeria n14   significantly lower than 1.12 from northern Nigeria n13 Sule&Madugu (2004 Hu Biol) Sex ratio at birth in Zaria, Nigeria 1.12 n=12485 1991-2002  90%CI 108.7-115.4 (but seems not sensible to ignore left/right distinction -- 90% sure it's above 109.5 )
 
 Sule & Madugu (2004 AnnHuBio)^[[Short Report Sex ratio at birth in Zaria, Nigeria](https://www.tandfonline.com/doi/abs/10.1080/03014460310001652248)] Zaria, Nigeria teaching hospital, SRB=1.12 n=12485 1991-2002  90% confidence interval? 
-
-
-
 
 Garene (2002 HuBio)["Sex ratios at birth in African populations: A review of survey data"](https://pubmed.ncbi.nlm.nih.gov/12617497/)<br>
 DHS surveys, 3 subsets: eastern/southern Africa Bantu 1.010; various 1.035 ; subset with higher 1.070 Nigeria and Ethiopia   <br>
@@ -1799,7 +1869,7 @@ More generally, dubious for failure to attend to sample-size and source issues i
 
 Agnostic on SRB & maternal stress:  Møller
 
-### articles etc ###
+### SRB articles etc ###
 
 2020 ClarkAE, D'Ambrosio, Rohde, "Prenatal Economic Shocks and Birth Outcomes in UK Cohort Data," EcHuBio. Birth weights and head circumference. Regression models to estimate effect sizes. 
 
@@ -1852,6 +1922,11 @@ Evidence of economic deprivation and female foeticide in a United Nations global
 
 Kolk & Schnettler (2015 Hu Bio) -- Jim sees as evidence egalitarian Sweden has raised SR1 for all SES. "Socioeconomic status and sex ratios at birth in Sweden: No evidence for a Trivers–Willard effect for a wide range of status indicators"   Martin Kolk  Sebastian Schnettler First published: 19 June 2015 https://doi.org/10.1002/ajhb.22756  HUMAN BIOLOGY 2015
 
+**2014**
+
+Bethman & Kvasnicka (2014 ScanJE) Fem-Favoring marriage market boosts SRB by 1 point.  <br>Abst ... war‐induced shortfalls of men significantly increased the percentage of boys among newborns.
+p360  Because pre-natal mortality rates for boys tend to be more sensitive to adverse environmental  conditions (see Teitelbaum, 1970; James, 1987), the sex ratio at birth should  have fallen rather than increased in belligerent countries
+
 Alkema et al. (2014 Lancet G H)[National, regional, and global sex ratios of infant, child, and under-5 mortality and identification of countries with outlying ratios: a systematic assessment](https://www.sciencedirect.com/science/article/pii/S2214109X14702803) For us, establishing usual range of excess male mortalities.
 
 Navarra (2014 PLoS One). Less gestational weight gain lowers SRB. The reported range of SRB see Seems like very extreme results, Figure 1 plots %male vs weight gain   0:0.484  80:0.54 that is 94 to 117  -- for whites, the %male plateaus at 54% or more, and that 117% seems unlikely? <br>
@@ -1898,7 +1973,9 @@ SAY 51.15% vs 50.35%  m/f 104.7 down to 101.4 where 51.15 is 2001 white women pr
 "Obviously, the closer to conception, the lower the replacement cost of terminated offspring. Mortality in utero would for this reason be more advantageous than mortality after birth and most studies have focused on the sex ratio at birth.3  However, barring pre-natal sex determination and elected abortions, the effects are small (see James 1987)."<br>
 So they cite James 1987 for small effects on SRB (of maternal conditions?)
 
-Mace & Jordan [ The evolution of human sex ratio at birth: a bio-cultural analysis](https://pure.mpg.de/rest/items/item_76984/component/file_77029/content)
+Polasek 2006 EuroJEpid  -- some war-time effect, boosting SRB
+
+Mace & Jordan 2005 [The evolution of human sex ratio at birth: a bio-cultural analysis](https://pure.mpg.de/rest/items/item_76984/component/file_77029/content)
  p209 In humans, male babies are subject to slightly higher neonatal and infant mortality than are female babies (Wells 2000)
 
 Rosenfeld & Roberts (2004 Biology of Reproduction) ["Maternal Diet and Other Factors Affecting Offspring Sex Ratio: A Review"](https://academic.oup.com/biolreprod/article/71/4/1063/2666975)     
@@ -1908,6 +1985,9 @@ MIXED FINDINGS FOR OUR VIEW (some are nonsupportive, not falsifying -- they get 
 The prediction that females in better body condition would produce more male than female progeny has been observed in red deer [14, 22, 23], roe deer [24], mature ewes [25], reindeer [26], Barbary sheep [27], domestic pigs [28], and a number of other species, although there are exceptions [13, 29]. Dairy cows, but not heifers, on a high plane of nutrition give birth to proportionately more bull than female calves than cows on a poorer diet [30]. Repeat breeder cows, i.e., ones that have problems becoming pregnant by artificial insemination, also tend to produce more males [31]. The data on roe deer [24] were obtained with farmed animals on a diet controlled for low- and high-energy intake by varying the oil content. In that study, 75% of the calves born to the high-energy does were male, while the low-energy group produced only 46% males. Most other studies have been performed on wild populations, which are less well-controlled.
 
 Kruger & Nesse (2004 Evol Psych). [Sexual Selection and the Male:Female Mortality Ratio](https://doi.org/10.1177/147470490400200112) Daniel J. Kruger, Randolph M. Nesse. January 1, 2004 Research Article  Gender discreps in mortality across ages (and time/place)  Mentions epidem transition away from child/childbirth/infection death to later age death<br> 
+
+P
+
 
 <p>
 2 articles by Cagnacci et al, and comments by Jongbloet -- a set not worth our attention for SSMM ... <br>
@@ -1924,11 +2004,7 @@ Jongbloet attacks ... "The conclusion of Cagnacci et al. (2003) that more males 
 Cagnacci replies: contra Jongbloet "and in accordance with our hypothesis, aged women show a reduction of sex ratio in their offspring (Juntunen et al., 1997; Orvos et al., 2001)."  </p>
 Jongbloet et al (2001 EnvHealthPersp) commentary re:Finnish study to attack view that enviro toxins caused postwar OECDish SRB decline. Minor piece for our purposes.
 
-
-
-
 Klasen & Wink (2002 PopDevR) come up with same SBR point as Klasen 1994b, Coale's 1991 constant SBR is wrong, SBR rises with SES.  cites Chahnazarian (1986 Princeton PhD)
-
 
 [Brown (2001 Animal Behaviour)](<https://doi.org/10.1006/anbe.2000.1659>) "Sex-biased investment in nonhuman primates: can Trivers & Willard's theory be tested?"   Answers "no"   
 
@@ -2317,7 +2393,9 @@ CRAP: [learning to use a life table](<https://www.measureevaluation.org/resource
 
 Refer to 19th C British Censuses of India
 
-Sen sequence:  1990,1992 Sen ; 1991 Coale; 1994 Klasen; 2002,2003 Klasen & Wink; 2003 Sen 
+
+#### Sen, Coale, Klasen 
+Sen 1990,1992; 1991 Coale; 1994 Klasen; 2002,2003 Klasen & Wink; 2003 Sen 
 
 2003 Sen shift in source of missing women, from mortality to selective abortion. Interesting for us is the use of SR05 as indicator of missing women. Also India division: N&W missing girls, S&E not.  
 
@@ -2327,6 +2405,19 @@ Klasen & Wink (2002 PopDevR).  As in Klasen (1994 World Dev): Coale's (1991) con
 Klasen (1994 World Dev)  For SBR rising with income/SES and for West Life Table understates male IMR disadvantage   p1064 "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs. The higher fragaility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987)." Waldron sex-differences in mortality. Probably Waldron 1993 for Euro men higher mortality via drink/drive/violence
 
 Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female mortality and the balance of the sexes in the population: an estimate of the number of" missing females"
+
+#### "Missing women" articles
+
+2021 Echavarri (2021 Cliometrica) OUCH -- weird piece, increased SRB with war attributed to 
+
+"Neonatal discrimination and excess female mortality in childhood in Spain in the frst half of the twentieth century" <br>
+p2 The idea that infanticide and fatal neglect around birth or in infancy had occurred in Western Europe as a form of birth control during the demographic transition was initially rejected (Lynch 2011; Harris 2008), although abnormal infant and child sex ratios (Beltrán Tapia and Gallego-Martınez 2017, 2020) and excess female mortality among older children (McNay et  al 2005) were documented. Recent research based on local historical records point to the existence of infanticides in Spain in the nineteenth century (Beltrán Tapia and Marco-Gracia 2020) WORKING PAPER, not published -- EHR 2020 ARGUES NOT INFANTICIDE
+Lynch, K.A., 2011. Why weren’t (many) European women “missing”? Hist. Fam. 16, 250–266.
+p2 Before the widespread of modern technologies, neonatal discrimination in the form of infanticides and fatal neglect was used as a form of birth control (Goodkind 1996)^[Goodkind D (1996) On substituting son preference strategies in East Asia: Does prenatal sex selection
+reduce postnatal discrimination? Popul Dev Rev 22(1):111–125]<br>
+p3 Specifcally, the average SRB increased with the year the confict was intensifed in the provinces from 1.054 to 1.064 male births for each female birth   ...  AND feudal-stem vs monarchical-nuclear's  "positive association between discrimination around birth and in childhood" (stem women more bargaining power, less girl-discrim) That association is higher SRB and higher mortality <br>p10 between 1920 and 1950 ... average SRB of 1.069 male births for each female birth ... The 95% confdence interval for the SRB was [1.068, 1.070], which is
+evidence of a sex-biased SRB in Spain in the frst half of the twentieth century, since
+the interval exceeds the biologically expected value of 1.059.2
 
 
 
@@ -2342,7 +2433,6 @@ Another remarkably wretched piece of work involving Nathan Nunn!
 p1 A non-trivial fraction of our sample (53 countries out of 153) has a sex ratio higher than 105 
 
 
-
 2017 Population [Mortality Inequalities and Trends in Low- and Middle-Income Countries, 1990-2015](https://www.cairn-int.info/journal-population-2017-2-page-221.htm?contenu=article)
 
 2014 Lancet Global Health [National, regional, and global sex ratios of infant, child, and under-5 mortality ... countries  with  outlying ratios: a systematic assessment](https://www.sciencedirect.com/science/article/pii/S2214109X14702803)
@@ -2350,19 +2440,28 @@ p1 A non-trivial fraction of our sample (53 countries out of 153) has a sex rati
 2012 PLoS Medicine : [Child Mortality Estimation: Estimating Sex Differences in Childhood Mortality since the 1970s](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001287) Cheryl Chriss Sawyer
 
 2010 Anderson & Ray (2010 REStud) ["Missing women: Age and disease"](https://economics.ubc.ca/files/2013/05/pdf_paper_siwan-anderson-missing-women-age-disease.pdf)    
-The paper is utter garbage. They use subsaharah Africa's relatively high death rates of women of child-bearing age to argue for missing women. And US 1900 women are dying in childbirth, creating the appearance of "missing women" there.  GARBAGE  twisting of fact that economic development has hugely reduced maternal death (and that male behavior-based deaths in rich nations is most of male deaths until old-age) ... Consider their calculation of subsaharan missing women age 20-24: their counterfactual (CF) female mortality is via the female/male rate of developed world. Devoloped has death rate (ages 20-24, throughout what follows) for males 2.94 times the female (1.1/0.4); subsahAfr male mortality is 5.7, so CF female mort is 5.7/2.94 or under 2 ... actual female mort is 9.4, so the female mortality among subsaharan women is be 9.4/(5.7/2.94) or  4.85 times actual mort.  And they use UN/WHO death rates for U1 and 1-4 to argue for missing girls in subsaharan Africa. But I bet if we looked at sex-ratios by age we would NOT see evidence of missing girls ... I bet the death rates approach and a sex-ratio approach will give opposite reulsts for subsah africa ...
+The paper is utter garbage. They use subsaharan Africa's relatively high death rates of women of child-bearing age to argue for missing women. And US 1900 women are dying in childbirth, creating the appearance of "missing women" there.  GARBAGE  twisting of fact that economic development has hugely reduced maternal death (and that male behavior-based deaths in rich nations is most of male deaths until old-age) ... Consider their calculation of subsaharan missing women age 20-24: their counterfactual (CF) female mortality is via the female/male rate of developed world. Devoloped has death rate (ages 20-24, throughout what follows) for males 2.94 times the female (1.1/0.4); subsahAfr male mortality is 5.7, so CF female mort is 5.7/2.94 or under 2 ... actual female mort is 9.4, so the female mortality among subsaharan women is be 9.4/(5.7/2.94) or  4.85 times actual mort.  And they use UN/WHO death rates for U1 and 1-4 to argue for missing girls in subsaharan Africa. But I bet if we looked at sex-ratios by age we would NOT see evidence of missing girls ... I bet the death rates approach and a sex-ratio approach will give opposite reulsts for subsah africa ...
 
 ABSTR:  ... ; (2) as a proportion of the total female population, the number of missing women is largest in sub-Saharan Africa, and the absolute numbers are comparable to those for India and China; ... Finally, using historical data, we argue that a comparable proportion of women was missing at the start of the 20th century in the United States, just as they are in India, China, and sub-Saharan Africa today.   
 1263  For each category—age, and later, age and disease—we posit a “reference” death rate for females, one that would be obtained if the death rate of males in that country were to be rescaled by the relative death rates for males and females (in the same category) in developed countries.6 We subtract this reference rate from the actual death rate for females, and then multiply by the population of females in that category. This is the definition of “missing women” in the category of interest   ...  In sub-Saharan Africa, the sex ratio at birth is [p1264] approximately 1.03, much lower than for developed countries as a whole (which is 1.06). There appear to be genetic differences that determine this ratio.7   n7 Indeed, the sex ratio at birth for whites in the United States is around 1.06 whereas for blacks it is 1.03. The available data for births from sub-Saharan parents in the United States suggests similar numbers as well.    
 
 their counterfactual calculates: male death rate (dm) rescaled by relative death rate for males and females in developed countries  counterfactural df (cfdf, their uw) cfdf =  dm* devdf/devdm     Suppose age 20s developed nations women don't DIE from childbirth, as they do in poor countries -- maybe 
  
+2008<br>
+HarrisB (2008 Res Econ Hi)<br>
+p159 These findings have led many authors to conclude that the main causes of excess female mortality in childhood are less likely to be found in the differential provision of foodstuffs than in access to health care. 
+p161  there is much less direct evidence of discrimination against female children in the British past than there is of discrimination against female adults, or against female children in many parts of the developing world today (see Harris, 1998, pp. 414–417)<br>
+Harris article is 413-448, in Komlos & Baten<br>
+p161  In many parts of the developing world, there is clear evidence of excess female
+mortality at very young ages. In Britain in the nineteenth century, excess female mortality was much more strongly represented among older children and adults (Harris, 1998, p. 432; Johansson, 1977, p. 166, 1996, p. 55; McNay et al., 1998, pp. 3–4). 
+Johansson, S. R. (1977). Sex and death in Victorian England: An examination of age- and sexspecific death rates, 1840–1910. In: M. Vicinus (Ed.), A widening sphere: Changing roles
+of Victorian women (pp. 163–181). London: Methuen.
+
+2007
 Looked at, dismissed: 2007 Bhaskar, V., Gupta, B., 2007. India’s missing girls: biology, customs, and economic development. Oxford Rev. Econ. Policy 23 (2), 221–238. cited in 2017 EEH
 
 
-Bengtsson, Campbell, LeeJZ (2004)   referring to Lee & Campbell 1997 for "Liaodong community .. excess female infant and child mortality accounted for as much as 20 pct of female births ... parents clearly selectively killed or ignored daughters to achieve goals for the number and sex composition of their children (Lee, Wang, and Campbell 1994; G. W. Skinner 1993; Smith 1977)."
-Skinner 1993 "Conjugal Power in Tokugawa Japanese Families" in MillerD ed. *Sex and Gender Hierarchies*; Smith 1977 Nakahara:  ... Japanese Village.
-pp 68-82 weird regression analysis claiming to show response of IMR and ChildMR to food prices
+Bengtsson, Campbell, LeeJZ (2004)   referring to Lee & Campbell 1997 for "Liaodong community .. excess female infant and child mortality accounted for as much as 20 pct of female births ... parents clearly selectively killed or ignored daughters to achieve goals for the number and sex composition of their children (Lee, Wang, and Campbell 1994; G. W. Skinner 1993; Smith 1977)." Skinner 1993 "Conjugal Power in Tokugawa Japanese Families" in MillerD ed. *Sex and Gender Hierarchies*; Smith 1977 Nakahara:  ... Japanese Village. pp 68-82 weird regression analysis claiming to show response of IMR and ChildMR to food prices
 
 Lee, James Z., and Cameron Campbell. 1997. Fate and Fortune in Rural China: Social Orga-
 nization and Population Behavior in Liaoning, 1774–1873. Cambridge: Cambridge Univer-
@@ -2421,9 +2520,13 @@ For European excess female mortality, Klasen 1994 cites
 Johansson 1984 Sweden   Imhof 1990 Germany    Tabutin 1978 France   Humphries 1991 England   Klasen 1993a German adults     Klasen tends to view it as a 19thC thing?
 
 
+Hanawalt (1993) *Growing up in Medieval London* pp58-59 via HarrisBe (1998 in Komlos+) suggests discrim vs fem babies & kids, but not infanticide.
+
+Shahar (1990) *Childhood in the Middle Ages*   via HarrisBe (1998 in Komlos+) female children more likely wet-nursed and to cheaper wet-nurses (relative to male children)
+
 Tabutin Dominique, 1978. La surmortalité féminine en Europe avant 1950, Population, vol. 34(1), p. 121–147. Jesse will cover this in his France discussion.
 
-
+Russell josiah cox (1948) British medieval population pp147-154 via HarrisBe (1998 in Komlos+) obliquely suggests female infanticide ti explain rising SR 1250 to 1348 and 1430 to 1545
 
 
 <a name="LANG"></a>
@@ -2456,15 +2559,18 @@ also some crappy stuff drawing on G&G's Demography, in *Health Policy and Planni
 
 
 #### Spain
-For lit review only (Tapia & Gallego-Martinez allude to declining SR1 and worsening conditions )
+
+For lit review only (Tapia & Gallego-Martinez allude to declining SR1 and worsening conditions)
 Tapia & Gallego‐Martínez (2017 EEH, 2020 EHR) Use sex-ratios to look gender discrimination; uses European SR04 for comparisons 
 2017 p120n22 The decline in the sex ratio during the last third of the 19th century might be related to the worsening of living conditions during the first stages of modern economic growth (Martínez-Carrión and Pérez-Castejón, 2002, 421). 
 
-2017EEH Where are the missing girls? Gender discrimination in 19th-century Spain  
-5 The demographic transition in Spain did not start until the late 19th century and the early 20th century (Dopico and Reher, 1998). Anthropometric evidence confirms the deplorable living conditions existent in mid-19th-century Spain. See, for instance, Martínez-Carrión and Pérez-Castejón (2000), Martínez-Carrión (2002) or Moreno-Lázaro (2006)
-
 2020EHR What explains the missing girls in nineteenth-century Spain?   2020EHR repeats 2017 discussion of SR1 and SR04 and Spain's suspiciously high sex ratios. 
 2017 p Therefore, instead of around 105.9, infant sex ratios in the absence of gender discrimination should have been expected to be somewhat just below parity (99.4) in mid-19th century Spain.19 
+p66  Due to the female biological survival advantage in utero and during infancy, sex ratios should theoretically be lower under severe economic conditions.40 If, on the contrary, economic deprivation shows a positive relationship with the prevalence of boys, it would be evidence of potential gender discrimination, in the form of either female infanticide or the neglect of young girls, especially in terms of nutritional deprivation and susceptibility to infection. It may be the case that both effects offset each other, so the lack of a clear relationship between these variables and the sex ratio might be (cautiously) interpreted as weak evidence of gender bias <br>  n40 OUCH -- cites own EEH -- maybe earlier discussion justifies the cavalier (light) validation/evidence <br>p74 Rather than being the result of female infanticide or the mistreatment of young girls, the excess female mortality discussed here was probably due to an unequal allocation of resources within the household
+
+
+2017EEH Where are the missing girls? Gender discrimination in 19th-century Spain  
+5 The demographic transition in Spain did not start until the late 19th century and the early 20th century (Dopico and Reher, 1998). Anthropometric evidence confirms the deplorable living conditions existent in mid-19th-century Spain. See, for instance, Martínez-Carrión and Pérez-Castejón (2000), Martínez-Carrión (2002) or Moreno-Lázaro (2006)
 
 
 

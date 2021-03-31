@@ -10,11 +10,33 @@ output: html_document
 
 ### highlights     
 
+
+2021.0312  
+19C Boston too small to say much (e.g. 1900 2/3 CI is 2.6; while NYC's is 1.0)
+
+2021.0312  Jim wasted 1/2 day via Echavarri paper (Cliometrica) with "elevated" sex ratio arguing for missing females sort of discrimination. <br>
+HarrisBe (2008 ResEconHist) "Gender, Health, and Welfare in England and Wales since Industrialisation." Mostly about post-infancy mortality stuff ... maybe we will want to look at for some recent perspective on england's mortality transition ...
+
+2021.0303 Illinois plot is suggestive of U shape, trough in 1900. Postwar urban penalty (unlike the Northeast?). 1880 CHicago is the only total-pop value below 101; otherwise need to look at nonwhite/black SR2 values, which are 98 and 99 in 1950-70  Black-SR2 for Illinois 100.8 in 1990 ...  
+
+North American Mortality paper: the 1900 nadir? 1880 to 1900 decline in SR2, SR5  MA NY PA
+
+PA is difficult to interpret. <br> 1880 is odd for collapse of urban penalty, as urban SR2 jumps up 1.5 points, and rural slides 0.3 ...  <br>
+1900 is odd for 1.8 drop in SR2, from a 3-point drop in urban SR2. Then SR2 jumps up 3-points 1900 to 1910 ... That 3-point blip seems problematic -- <br>
+And the census volumes and PUMS full-counts often don't jibe: 1870 PUMS SR2, SR5 are lower than the census vols -- esp the SR5 which is 0.7 points lower (101.2 vs 101.9); the PUMS SR2 in 1870 is 0.36 below the published census -- 102.2 vs 102.5 ...   <br>
+CENS SR5 1850-70 102.5 to 101.9, and rises 1880, 1890 102.7, 103.3 
+<br> About 102 in 1870, rises to 102.7, 103.3 in 1890; drops to 101.5 in 1900; stable-ish until 1930 - 1940
+
+
 [Submitted abstract](https://www.dropbox.com/s/widf7dyubuefpzx/AbstractSubmitted.txt?dl=0) for Urban Penalty Paper   
-
-For mortality paper, looking at USA 1860 to 2000,  "racial" differences in SRs are most dramatic; less striking is the path toward 1990/2000 healthy SRs. Until 1990, the black SR2 tends to be 4 points below the white. State of NY SR2 rises 3.4 points in the 160 years after 1860.
-
-
+<br>
+For mortality paper, looking at USA 1860 to 2000,  "racial" differences in SRs are most dramatic; less striking is the path toward 1990/2000 healthy SRs. Until 1990, the black SR2 tends to be 4 points below the white. By 1990, NY state's SR2 rises 4 points from a nadir in 1900. State of NY SR2 rises 3.4 points in the 160 years after 1860. <br>
+<p>**Chicago** <br>
+Postwar issue of SSMA versus urban area versus Chicago proper ... E.g. 1960<br> 
+6.79m (1950 5.59m) 789k U5 "Chicago-NW Indiana Std Consolidated Area" <br>
+6.22m (1950 5.18m) 712k U5 "Chicago SSMA"; but 1950 says: 5.495m  1940 4.825  
+3.55m (1950 3.62m) 381k U5 "Chicago" -- 1950 says pop 3.62 -- good fit!
+We use city of Chicago?
 
 
 ## To do 
@@ -58,7 +80,58 @@ cens sr1 102.9 sr2 102.8 sr5 102.6
 pums sr1 103.9 sr2 102.8 sr5 102.8
 
 
-## Log 2021.02
+### Log 2021.03
+
+<p>2021.0329  Thinking racial disparities will be a focus when we present CEA ... if so, we have the "Blacks have a genetically low SR" claim to fight ... why about Atlanta suburbs in 1990 or so? Not much help -- do get 103.2 for suburban blacks ... 
+
+<p>
+2021.0324 <br>
+Illinois SR2 (102.4-104.3) PUMS 1900-1910 slight dip (102.4, 102.6), recovered by 1920. Emergence of racial gap, 1950; SR2 104.0,   white 104.6 black <100. Before 1950, nonwhite population 5% so white and overall SR2 about the same.
+</p>
+<p>2021.0323 
+<br> recap for Canada: late 19th C good, then a fade, and rebound. Late 19th C 103-104, then Canada's SR2 is somewhat low (102) 1901 to 1931,  but looks very good (104.5+) 1951 onward
+<br>
+<br>Ontario looks healthy (103 or better) throughout; and "good" 1951 onward (104.4 or better).
+<br>Quebec not bad until 20th C: 1901-1931 100-101 range; rising to 105 in 1961; good since (104.5+)
+<br>Yesterday about completed CDA data. Interesting to find that 1971 single-year of age is actual counts (but rounded to nearest 5) but 1961 and 1951 are inferred from U4 counts and vital stats (registrations of births and death) and immigration. What about before 1951? And does that mean we should focus on SR5 for 1961 and 1951? Or maybe same basic picture?<br>
+Ontario lowish (103) SR in years 1911-1931 or 1941
+SR2 declines 1881 (104.5) to 1921 (102.7), recovers by 1951, on to a new high in 1961 (105.1, since >104.3)
+SR5 declines 1871 (104.1) to 1901 (102.7), stays low until 1931 (103.0), then to new high in 1961 (105.0)
+
+<br> 1891 in both QU and ON the SR5=SR2; 1951 QU SR2 103.6 below SR5 103.9 (only time) 
+
+</p>
+2021.0320
+<p>Canada 1901 highlights ... 
+<br>BC 1901 102.3 and imprecise ... 2/3CI 100to105
+<br>Maritimes 1901 41K U2s, so 2/3 CI is +/-1.0  (QU +/- 0.6 with 97K ) 
+<br> Territories look bad, but small, with n=9.3k SR2 98.9 is interesting but imprecise (2/3CI is 96.9 to 100.9)
+</p>
+<p>
+</p>
+<p>Looked at Trinidad Plantation slaves (JohnAM 1988); pop small, so imprecise, but it looks bad for well-being ... values of 93-105 not rejected
+</p>
+<p>Looked at 1890 Michigan state's report on Births, Deaths, Marriages -- key is registration is implausible, with SRB values of 109 or more.  Somewhat interesting for much greater male IMR</p>
+
+
+2021.0319
+<p>looking at Canada [1871 census manuscripts](https://www.collectionscanada.gc.ca/microform-digitization/006003-110.02-e.php?&q2=26&c2=&b2=&t2=&sk=0&brws_s=&PHPSESSID=olgpl7h11hg86eucm2cd9s3eoi3195sc74n4qc81f0dqe0sp0co0) 
+microform c-9897 pp40-43 Dist 4 Lambton, Warawick -- under-one seem well-enumerated 
+random pages: 655ok, 581shipping, 399 some irish illits read, not write; 30yrold USborn not illit <br>40 3/12   41 10/12   42 1/12 6/12   43   5/12  6/12  7/12   44  2/12  4/12  45 5/12  46 6/12   47,48 x  49 8/12
+<br>p52 1/12 6/12  53 x  54end
+p201 D4 forest   p281 D4, Bosanquet sub1 ok   1 11/12 4/12 11/12   1 1 1 1/12   1 8/12 1 1   
+2/12 1 11/12  285: 9/12    1 1 2/12 6/12   OK -- 6 pages range is 1/12 to 11/12 <br>p300 11/12 still Bosanquet<br>
+p480 none  p481 1 1 p482 6/12  p483 (not counting 1s) 7/12 9/12   p487deaths <br>
+p555 none p556 7/12  557 3/12  558 10/12  3/12   2/12    575livestock  590 11/12 1/24   614sced3 <br>mfm 9927 p421 Hamilton 6/12   420 6/12 9/12   414 10/12
+<br>Takes too much time to evaluate?
+<br>https://www.collectionscanada.gc.ca/microform-digitization/006003-119.01-e.php?q2=26&q3=2046&sqn=43&tt=701&PHPSESSID=olgpl7h11hg86eucm2cd9s3eoi3195sc74n4qc81f0dqe0sp0co0
+</p>
+<br>
+2021.0310 been busy putting together 2020 tax materials. Gavin Wright paper in UMich econ hist workshop made me want to look at southern states 1980-2010. His story has convergence halt/reverse in mid 1990s -- does SR1 suffer as a result?
+
+
+
+#### Log 2021.02
 
 
 <p>2021.0224<br>
