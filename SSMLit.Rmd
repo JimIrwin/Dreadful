@@ -542,13 +542,19 @@ Ontario mortality below national average, signifcantly lower than rates in Quebe
 
 ### USA
 
-Haines 2008 EH.Net  American mortality did not experience a sustained and irreversible decline until about the 1870s
+Hacker (2010) female e0 for 1890s is 51.2    1870s is 43.9 <br>
+Haines (1998) female e0 for 
+HSUS (via Haines) white female e0 1860 43.2 1870 44.1  1880 40.6 1890 47.4 1900 50.7 1910 52.0  1920 55.6
+
+Haines (2008 EH.Net)  American mortality did not experience a sustained and irreversible decline until about the 1870s.  Haines (2008, 2000) has life-expectancy for US whites increasing by 11.3 years from 1880 to 1895, apparently driven by IMR dropping from 214.8 to 110.8.  **1880 to 1900** looks like key period of improvement in current narrative.
+
 
 
 Clay, Troesken, Haines (2014 REStat) lead pipes and IMR 1900-1920
 
 <p>
-Hacker (2010 HiMeth) 
+Hacker (2010 HiMeth) use 1900-1902 DRA rural/urban to make inferences about decadal life tables.<br>
+Key for us: female q0 & e0 __1850s 22.2% 37.1  ___1870s  16.2% 43.9 ___1890s   11.1%  51.2
 p46 Most early observers agreed that the latter half of the cen-tury was characterized by substantial mortality decline; al-though opinions differed about the date of its onset.<br>
 p50 Pope (1992) for 1st half   "Haines’s (1998) construction of life tables for the white, black, and overall populations is the most im-portant work for the last half of the century<br>
 p51 Researchers relying on the Haines (1998) life tables need to be aware of a few potential problems with their interpreta-tion and use.  1849 CHolera epidemic    1867 cholera epidemic  <br>
@@ -691,11 +697,18 @@ Estimating 1qO from 1870 to 1930 presented a special problem because of the exce
 Higgs (1979 EEH)  18 large cities, 1871-1900<br>
 Higgs (1973 EEH) "Mortality in rural America, 1870-1920: Estimates and Conjectures" via Fogel (1986 E&G): Higgs points to nutritional cause, as residual to explain rural mortality decline similar to urban 1870 to WW1 ...  Overall Death Rate, UrbanDR, %Urban implies ruralDR
 
-
 <br>Meeker (1972) "The improving health of the United States, 1850-1915."   Cutler & Miller cit/accept his estimate of CDR 22/1000 for the 1850s.
 
+Abramowicz & Barnett (1970 AJDC) Figure 1 show dramatic decline in NY City  IMR from 1900 to 1940, then flat (NYC)<br>
 
-Abramowicz & Barnett (1970 AJDC) Figure 1 show dramatic decline in NY City  IMR from 1900 to 1940, then flat (NYC)
+Woodbury (1926) [Infant Mortality and Its Causes](https://catalog.hathitrust.org/Record/001581767) Seems to be just 1915-1921
+
+CDC [1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)<br>
+  deaths per 1000, U1, 1910 and 1920
+Chicago falls from 139 to 108 (raise SR by 0.6 101.7 to 102.3)
+
+[CDC webpages](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
+
 
 <a name="MASSdem"></a>
 
@@ -1245,7 +1258,7 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
-IPUMS USA [links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
+IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
 <br>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
    Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
@@ -1259,11 +1272,25 @@ Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/)
 
 20th C sources   
 
-CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
+<p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 [1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
-
+<br>
+<br>[1900-1940 Vital Stats](https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf)  IMR Tables 26 to 35. Table 26 IMR by state  p572
+[Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza
+<br>
+[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95)
+<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118)
+</p>
+1900 census reports vol III I use table 19  pp  285-555 (pdf 598-868)
+<br>
+p xiv The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
+<br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
+<br> tabulated result of the comparison of the two sets of returns [on next page]
+<br>xv  xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR
+<p>
 These may contain age/sex/race, but odd text files ...
 [1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
+</p>
 
 <p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html)
 </p>
@@ -1287,9 +1314,11 @@ Not useful: [1990-2000](www.census.gov/data/datasets/time-series/demo/popest/int
 States 262a-g Northeast metro/not etc tables 64, 65 <br>
 cities in tabs 61-63?
 <br>[PA 1990](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-40-1.pdf). Table 17 for urban/rural. Phil is part 2 (I printed the page)br
-[1990 states](https://www2.census.gov/library/publications/decennial/1990/cp-1/)  12 GA  18 Kansas   44 TN
+[1990 states](https://www2.census.gov/library/publications/decennial/1990/cp-1/)  10DC 11FL 12GA  15IL 18Kansas  22Md   26Missi  36ND  38 OK   44 TN   47Vt   50 WVa
 
-**1980** [USA ages](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Table 41 (Single Years of Age by Race, Spanish Origin, and Sex: 1980, in 1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary<br>
+**1980** [USA ages](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Page 1-23 Table 41 Single Years of Age by Race, Spanish Origin, and Sex: 1980, in 1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary<br>
+pdf 35-55
+
 [Illinois](https://babel.hathitrust.org/cgi/pt?id=uva.x004451315&view=1up&seq=173&q1=single%20year) at HathiTrust, images 173-
 <br>
 [NY volume](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu80134unse_bw.pdf)
@@ -1347,7 +1376,8 @@ This report presents statistics on age by sex and color for the urban, rural-non
 
 
 [**1950** US Census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html) <br>
-[**Volume 2**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html) has our age data for SRs. General Characteristics, Table 15 is state; Table 33 is SSMAs, urban, cities, etc.  
+[**Volume 2**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html), for each, Table 15 has our age data for SRs. E.g. Part 24: Mississippi,  General Characteristics; 
+<br>Table 33 is SSMAs, urban, cities, etc.  <br>
 [Penn T33](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf) is pdf 2-25
 Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
 Table 39  5-yr ages    white/nonwhite    1880 to 1950
@@ -1368,15 +1398,16 @@ Population Volume II   ... compruses 54 parts ... 1. US Summary 2. Alabama  ... 
 Looks like I have Pt 1 -- US Summary. <br>  Pt 32 is NY   [ch3](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch3.pdf) for U1 and 2-yr or 5-yr age and sex <br>
 [ch 4](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch4.pdf) Tab 51 for single-year <br>
 Part 38 is [PA](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38.pdf) tables 15, 33
-PE-11 has Nonwhite SR2 is 101.1, census has 101.0 
-
+<p>Region single year data Table 146 -- based on 20% sample. NE NC Sou West -- Full count Table 61 -- 5yr groupings. We'll need to tally up states.
+</p>
 1950 [Vital Statistics](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_1.pdf) 
 p81 Registered live births and live births adjusted for underregistration, by race and sex: US, 1935-50
-p81 Male births per 1,000 female births, by race: US, 1935-1950
-1950 Vital Stats [Vol 2](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_2.pdf) p187 live births by race & sex, US and states. pdf193 Table 18 page 187
+p81 Male births per 1,000 female births, by race: US, 1935-1950 
+1950 Vital Stats [Vol 2](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_2.pdf) p187 live births by race & sex, US and states. pdf193 Table 18 page 187  p324
 
-US total    
-Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single year of age for “White” and for all “Nonwhite”. For our black SR02 in 1950 (100.9), we reduced the nonwhite value by 0.1, based on the difference between the negro and nonwhite sex-ratios for under-age-5 (via Table 97). A 1950 black SR02 of 101.0 results from applying the same correction to the nonwhite SR02 from the spredsheet for 1950 in the National Intercensal Tables: 1900-1990 (released in 2004). 
+<p>US total    
+Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single year of age for “White” and for all “Nonwhite”. For our black SR02 in 1950 (100.9), we reduced the nonwhite value by 0.1, based on the difference between the negro and nonwhite sex-ratios for under-age-5 (via Table 97). A 1950 black SR02 of 101.0 results from applying the same correction to the nonwhite SR02 from the spredsheet for 1950 in the National Intercensal Tables: 1900-1990 (released in 2004). </p>
+<p> PE-11 has Nonwhite SR2 is 101.1, census has 101.0 </p>
 
 
 
@@ -1394,12 +1425,17 @@ https://www2.census.gov/library/publications/decennial/1940/population-volume-4/
    negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
  I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
 
-**1930**
-See Vol 2 Ch 11 pdf 111 for Illinois
+[**1930**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1930.html)
+<br>See Vol 2 Ch 10 pdf 111 for Illinois
+[1930 Vol 2](https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch11.pdf) for ages, pp674-690  pdf 112-128
+<br>
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
 
-**1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) 
-v2 [ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    pdf29 Table 13 single age  Regions and States [ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
+
+
+**1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
+Our age data found in [Vol 2, ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    **pdf29** Table 13 single age  Regions and States (states is 188-285   pdf 46-143) 
+<br>[ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
 
 v3 Tables 1 to 13; Table 8 is Ages for cities 
 e.g. [Georgia](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)
