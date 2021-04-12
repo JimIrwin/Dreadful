@@ -38,8 +38,16 @@ McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Huma
 
 ## European 
 
+### Germany ###
+Vögele has Hamburg IMR 1870s 220ish (204-239), 1880-87 200-300, 1906-13 115to165
+
+### Amsterdam ###
+2019 Ekamper & vanPoppel on Amsterdam. 1851-53 SRB 103.7 on n=8K (live). With only 8000 births, there is a 25% chance the true SRB is over 105.2   The article leads me to AMsterdam yearbooks. Inet Archive has v13-14 1916-1917; I copy births (pdf 7, 11, 82). Inet also has 1907 https://archive.org/details/statistischemede1919amst, 1909, etc
+<br>There I find 1912-1916 SRB of 105.1 (n=69K) 75%CI 104.2 to 106
+<br> Noticed Antwerp dataset https://repositorio.iscte-iul.pt/handle/10071/21691
+<p>
 Masuy-Stroobant	(2006 in Caselli) Vol II, Chap 46 The Determinants of Infant Health and Mortality.   
-Europe was still characterized by differences in risks of such magnitude in the early 20th century, with an infant mortality rate of 80‰ in Norway from 1901 to 1905 (Masuy-Stroobant, 1997) and perhaps more than 300‰ in Russia (Zakharov, 1996) at the same period.
+Europe was still characterized by differences in risks of such magnitude in the early 20th century, with an infant mortality rate of 80‰ in Norway from 1901 to 1905 (Masuy-Stroobant, 1997) and perhaps more than 300‰ in Russia (Zakharov, 1996) at the same period.</p>
 
 2013 Family Wellbeing      Harris essay -- useful recap of heights lit for Europe , incl Britain   Measuring the Past: Gender, Health and Welfare in Europe Since c. 1800 
 
@@ -190,7 +198,9 @@ Useful summary ...
 
 Szreter, S. and Mooney, G., ‘Urbanization, mortality, and the standard of living debate: new estimates of the expectation of life at birth in nineteenth-century British cities’, Economic History Review, 51 (1998), 84–112  
 
-Vögele, J., Urban Mortality Change in England and Germany, 1870–1913 (Liverpool, 1998), BOOK -- to look at when we look at Germany?
+Vögele, J.<br>
+2000 
+1998 Urban Mortality Change in England and Germany, 1870–1913 (Liverpool, 1998), BOOK -- to look at when we look at Germany?
 
 1997 Floud & Harris "Health, Height, and Welfare: Britain, 1700-1980"    
 NOT NEEDED (male height decline, not new)    
@@ -516,7 +526,7 @@ Floud, Fogel, Harris, Hong (2011), "The changing body: health, nutrition, and hu
 
 ## North America ##
 
-<a name="CANmort></a>
+<a name="CANmort"></a>
 
 ### Canada 
 
@@ -635,9 +645,14 @@ p333  The evidence in Table 8.2 is consistent with interpretations given here. B
   
 
 <br> Haines (1998 HiMeth) "Estimated life tables for the United States, 1850–1910"
-p149 Mortality in the U   S before the early part of the 20th C remains a controv topic.
+p149 Mortality in the US before the early part of the 20th C remains a controv topic.
 
 p154 These results confirm the impression of mortality fluc-tuating before ca. 1880 and a fairly steady decline in death rates thereafter, when the modern mortality transition for the white population began.
+
+Brass 2PL white 
+1860 SRL0 98.7   q0m  0.188    q0f  0.175 SRq0
+1900 SRL0 98.6   q0m  0.128    q0f  0.112
+
 
 Condran & Preston (1992) on declines in American child mortality between 1900 and 1930
 
@@ -1306,7 +1321,8 @@ NOT 2000 state-volumes "Summary Population and Housing Characteristics" e.g. [Rh
 Not useful: [1990-2000](www.census.gov/data/datasets/time-series/demo/popest/intercensal-1990-2000-national.html)
 
 [Census of Population and Housing, Decennial Pubs?](https://www.census.gov/prod/www/decennial.html)
-
+<p>
+[*Publications grouped the census Decennial*](https://www.census.gov/programs-surveys/decennial-census/decade.html)</p>
 **2000**  For NYC I find [Total Population by Single Years of Age and Sex - 2000](https://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/census2000/sf1p6a6i.xls)<br>
 2000 PHC-1 u5 ages; PHC-2 no age-data; PHC-3 no age data; DP-1 u5; Briefs NO; Profile NO;
 
@@ -1333,9 +1349,9 @@ Chapter 2 (with ages) for PA seems to be missing (looked on Hathi too). Poked ar
 <p>Illinois at [Hathi](https://catalog.hathitrust.org/Record/102583049)
 <br>[PA ages Tables 18-20](https://www.dropbox.com/s/jzhux09h39clhfz/1980PATabs18-20.pdf?dl=0) extracted from  [Penn Volume](https://www.dropbox.com/s/3nectos2e359yql/PA_1980_Vol1B.pdf?dl=0) downloaded from GoogleBooks.Ca
 </p>
-**1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br>
-Table 17 p85 race by sex -- no ages.
-Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24 p102 SSMA's 
+**1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br> Generally Ch 4 on that webpage (URLs differ)<br>
+Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24 p102 SSMA's Table 17 p85 race by sex -- no ages.
+
 [PA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/00496492v1p40s1ch3.pdf) pdf 51 t24 Phila
 
 [NY ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf)
@@ -1343,7 +1359,12 @@ Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24
 [MA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ma-01.pdf)
 
 **1960** 
-[via IPUMS](https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml) For any state, use its Population Vol 1, section 3, general pop characteristics
+[This directory seems to have the 1960 age data](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/)
+[Only some links are valid here at census.gov](https://www.census.gov/library/publications/1961/dec/population-vol-01.html) But GA is missing -- maybe ok via write in URL at https://www2.census.gov/library/publications/decennial/1960/population-volume-1/
+DC 10  FL 11 GA12 . Some are like GA: [12-d is Georgia](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-d.pdf). But others are like [NC, which is p35ch3](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/06586188v1p35ch3.pdf)
+And then the 1960 census page has a valid link to [SC](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749999v1p42ch3.pdf)
+
+[only some via IPUMS](https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml) For any state, use its Population Vol 1, section 3, general pop characteristics
 
 census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
 col-01-01-k 
@@ -1512,6 +1533,14 @@ https://www.census.gov/programs-surveys/decennial-census/decade/decennial-public
 
 
 ### Canada sources
+
+#### Vital Stats for Canada -- Provincial?
+
+[Quebec SRB](https://statistique.quebec.ca/en/produit/tableau/births-by-sex-and-sex-ratio-at-birth-quebec)
+Canada & provinces [Lifetables 1999-2001](https://www150.statcan.gc.ca/n1/en/pub/84-537-x/2020001/xls/1999-2001_Tbl-eng.xlsx?st=x5IFJWHw)
+
+
+#### Census Sources for Canada
 
 2011 and 2016 [tables](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Index-eng.cfm)
 [2011](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GK=0&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)     
