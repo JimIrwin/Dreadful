@@ -364,16 +364,63 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">05 April, 2021</h4>
+<h4 class="date">12 April, 2021</h4>
 
 </div>
 
 
 <p><a name="TOC"></a> <a href="#cases">Our Applications or “cases”</a></p>
-<div id="log-2021.04" class="section level3">
-<h3>Log 2021.04</h3>
+<div id="loose-ends" class="section level4">
+<h4>Loose ends?</h4>
 <p>
-2021.0405 switching to regional approach – South Atlantic MD DC VA NC SC GA – Florida? It is small until
+check Haines, M. R. (1995), “Socio-economic differences in Infant and Child Mortality during Mortality Decline: England and Wales, 1890-1911,” Population Studies, 49, pp. 247-315. Does the SR2 corroborate here?
+</p>
+</div>
+<div id="mission-highlights" class="section level3">
+<h3>Mission Highlights</h3>
+<p>
+21.0412 SR2 values are <a href="https://www.dropbox.com/s/5qga1jyo5jipris/SR-USA-Rbased.wk4?dl=0">now assembled</a>, New England, Mid-Atlantic, South Atlantic, and EastNorthCentral (full-count PUMS for USA 1850-1940; censusVolumes for 1950, 1960; Haines ICPSR for 1970-1990). Census-volume data is in a <a href="https://www.dropbox.com/s/rhp9boaojyflr0t/USkidsForR.wk4?dl=0">spreadsheet</a> for easy conversion to R. We need to put some time into reviewing the data to check for validity. Basic result is that the sex-ratio evidence puts the onset of infant mortality decline after 1900 (1-point declines in SR2 from 1880 to 1900). <br> In all 4 census divisions, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&amp;1910. After 1910, in the North, by 1930&amp;1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)
+</p>
+<p>
+As of 1950, to what extent are SRs at their late 20th-C levels? The Southeast’s SR rise comes later than the NE and ENC: the 1960s is the watershed. But racial gap persists; 1960-1990 see a 2.5-point rise in the Black SR2.
+</p>
+<p>
+Signs of a 1950s fade in the SR2 (NE -0.7, MA -1.0, ENC -0.7, SoAt -0.8).
+</p>
+<p>
+Canada’s SR2 values are generally better than those in the USA in 1870 &amp; 1880; than similar to US North from 1900-1940. WIth Quebec usually worse, Ontario usually better.
+</p>
+<p>
+Modern SR2 values (over 104.0) achieved across Eastern Canada by 1971.
+</p>
+</div>
+<div id="log-21.04" class="section level3">
+<h3>Log 21.04</h3>
+<p>
+21.0412 Basic data collection is now complete.<br />
+
+<p>
+21.0409 We now have regional summary SR2, SR5 for 1850 to 1940 from IPUMS. For NewEng, MidAtl, EastNorCent, SouthAtl; all, rural/urban. No sign of “metropolitan penalty.” Work is needed to check the PUMS data vs the census data. Also, review the SR5 to check for red flags (major anomolies/inconsistencies)<br> In all, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&amp;1910. After 1910, in the North, by 1930&amp;1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)
+</p>
+<p>
+1880-1900 SR2 declines<br />
+In the Northeast, from 102 to 101; in the MidWest, from 103 to 102. The MidAtlantic’s SR2 tends to be about 0.3 points above New England’s. And ENC SR2s tend to be 1 point above the MidAtlantic’s.<br> The South’s SR2 is dominated by the racial dimension. The white SR2 drops 1 point or more, from almost 105 to under 104. The black SR2 hovers in the 98-99 range from 1870 to 1940; by 1990, that SR2 has risen about 3 points (almost 102).
+</p>
+<p>
+Canada’s SR2 values are generally better than those in the USA in 1870 &amp; 1880; than similar to US North from 1900-1940. WIth Quebec usually worse, Ontario usually better.
+</p>
+<p>
+<p>Modern SR2 values (over 104.0) achieved across Eastern Canada by 1971.</p>
+<p>
+21.0409 Looking at Ekamper &amp; vanPoppel (spell?) on Amsterdam – IMR rates 1812-1919 show a pronounced decline from 1882ish to 1918 (1848 250, 1882 230, 1918 70) <br> Those are roughly consistent with the rising SR5 seen in Mitchell’s Euro Hist Stats.<br> There we see SR5 values 1840-1879 about 101; 1889 101.7 1899 101.8 1920 103?
+</p>
+<p>
+2021.0407Looking for my slave/nonslave southern breakdown – wk4 or xls <br>FrailMales.Rmd is rough essay on Steckel issues # load(“~/Dropbox/github/ssmm/SR1SlvSouth.RData”) – might be the SR1 dataset …
+</p>
+<p>
+21.0405 Jim starts to gather the census data so that R can use it. Maybe build off of Haines ICPSR data? switching to regional approach – South Atlantic MD DC VA NC SC GA FL<br />
+Jess clarifies life table approach, we find it works well for US whites in later 20th C; black SR1 is lower than implied by life tables.
+</p>
 <p>
 <p>2021.0403</p>
 <p>
@@ -1066,7 +1113,6 @@ Lyster 1974 : SBR drops 320 days after London smog; SBR drops 320 days after sof
 <h3>Demography</h3>
 <div id="mortality" class="section level4">
 <h4>Mortality</h4>
-<p>LOOKING FOR Haines &amp; Preston Fatal Years</p>
 <p>2012 Guillot, Michel, Patrick Gerland, François Pelletier, and Ameed Saabneh. “Child mortality estimation: a global overview of infant and child mortality age patterns in light of new empirical data.” PLoS Med 9, no. 8 (2012): e1001299.</p>
 <p>2011 Olson, Sherry, and Patricia Thornton. Peopling the North American City: Montreal, 1840-1900. Vol. 222. McGill-Queen’s Press-MQUP, 2011.</p>
 <p>2009 Woods, Robert. Death before birth: fetal health and mortality in historical perspective. Oxford University Press, 2009.</p>

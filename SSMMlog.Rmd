@@ -13,23 +13,17 @@ output: html_document
 </p>
 
 ### Mission Highlights ###
-<p>21.0411 1950 & 1960 results come from published volumes; done for SouthAtl; not yet done for NE MA ENC. But ENC regains 104 by 1930; 
-</p>
-<p>21.0409 Basic result: sex-ratio evidence puts the onset of infant mortality decline after 1900 (1-point declines in SR2 from 1880 to 1900).
-<br>We now have regional summary SR2, SR5 for 1850 to 1940 from IPUMS.
-No sign of "metropolitan penalty." Data work: check fullPUMS vs published census data; check SR5s anomolies/inconsistencies<br>
-In all, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&1910. After 1910, in the North, by 1930&1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)</p>
-<p>1880-1900 SR2 declines  
-In the Northeast, from 102 to 101; in the MidWest, from 103 to 102. The MidAtlantic's SR2 tends to be about 0.3 points above New England's. And ENC SR2s tend to be 1 point above the MidAtlantic's.<br>
-The South's SR2 is dominated by the racial dimension. The white SR2 drops 1 point or more, from almost 105 to under 104. The black SR2 hovers in the 98-99 range from 1870 to 1940; by 1990, that SR2 has risen about 3 points (almost 102).<br>
-The Southeast's SR rise comes later than the NE and NEC: the 1960s is the watershed. But racial gap persists; 1960-1990 see a 2.5-point rise in the Black SR2. 
+<p>21.0412 SR2 values are [now assembled](https://www.dropbox.com/s/5qga1jyo5jipris/SR-USA-Rbased.wk4?dl=0), New England, Mid-Atlantic, South Atlantic, and EastNorthCentral (full-count PUMS for USA 1850-1940; censusVolumes for 1950, 1960; Haines ICPSR for 1970-1990). Census-volume data is in a [spreadsheet](https://www.dropbox.com/s/rhp9boaojyflr0t/USkidsForR.wk4?dl=0) for easy conversion to R.  We need to put some time into reviewing the data to check for validity. Basic result is that the sex-ratio evidence puts the onset of infant mortality decline after 1900 (1-point declines in SR2 from 1880 to 1900). <br>
+In all 4 census divisions, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&1910. After 1910, in the North, by 1930&1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)</p>
+<p>As of 1950, to what extent are SRs at their late 20th-C levels? 
+The Southeast's SR rise comes later than the NE and ENC: the 1960s is the watershed. But racial gap persists; 1960-1990 see a 2.5-point rise in the Black SR2. </p>
+<p>Signs of a 1950s fade in the SR2 (NE -0.7, MA -1.0, ENC -0.7, SoAt -0.8). 
 </p>
 <p>Canada's SR2 values are generally better than those in the USA in 1870 & 1880; than similar to US North  from 1900-1940. WIth Quebec usually worse, Ontario usually better.</p>
 <p>Modern SR2 values (over 104.0) achieved across Eastern Canada by 1971.
-
-
 </p>
 ### Log 21.04
+<p>21.0412 Basic data collection is now complete.  
 <p>21.0409 We now have regional summary SR2, SR5 for 1850 to 1940 from IPUMS.
 For NewEng,  MidAtl, EastNorCent, SouthAtl; all, rural/urban. No sign of "metropolitan penalty." Work is needed to check the PUMS data vs the census data. Also, review the SR5 to check for red flags (major anomolies/inconsistencies)<br>
 In all, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&1910. After 1910, in the North, by 1930&1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)</p>

@@ -1352,6 +1352,9 @@ Chapter 2 (with ages) for PA seems to be missing (looked on Hathi too). Poked ar
 **1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br> Generally Ch 4 on that webpage (URLs differ)<br>
 Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24 p102 SSMA's Table 17 p85 race by sex -- no ages.
 
+<p>The standard [MASS link](https://usa.ipums.org/usa/resources/voliii/pubdocs/1960/Population/Vol1/37722946v1p23ch3.pdf) is missing the start of Table 16. So we use the detailed [Table 271](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722946v1p23ch5.pdf).
+</p>
+
 [PA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/00496492v1p40s1ch3.pdf) pdf 51 t24 Phila
 
 [NY ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf)
@@ -1359,12 +1362,16 @@ Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24
 [MA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ma-01.pdf)
 
 **1960** 
-[This directory seems to have the 1960 age data](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/)
-[Only some links are valid here at census.gov](https://www.census.gov/library/publications/1961/dec/population-vol-01.html) But GA is missing -- maybe ok via write in URL at https://www2.census.gov/library/publications/decennial/1960/population-volume-1/
+<p>Reconciling Vt data, I find statement (Vol 1, Part 47 Vermont, p xii) that chapter B has complete-count while chapters C and D have 25% sample stats. Eg the U5 totals differ by 3. For [Vermont](https://www.google.ca/books/edition/Census_of_Population_1960/vSabfPk3ERMC?hl=en&gbpv=1), I use google books copy. <br>
+MASS is missing p31 or so; I use Google Books version.
+</p>
+
+[This directory seems to have the 1960 age data](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/). But Mass is missing the start of Table 16 (p23-31). This 
+[page at census.gov](https://www.census.gov/library/publications/1961/dec/population-vol-01.html) has some valid links. But GA is missing -- maybe ok via write in URL at https://www2.census.gov/library/publications/decennial/1960/population-volume-1/
 DC 10  FL 11 GA12 . Some are like GA: [12-d is Georgia](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-d.pdf). But others are like [NC, which is p35ch3](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/06586188v1p35ch3.pdf)
 And then the 1960 census page has a valid link to [SC](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749999v1p42ch3.pdf)
 
-[only some via IPUMS](https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml) For any state, use its Population Vol 1, section 3, general pop characteristics
+[only some via IPUMS](https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml) CT For any state, use its Population Vol 1, section 3, general pop characteristics.
 
 census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
 col-01-01-k 
@@ -1397,7 +1404,7 @@ This report presents statistics on age by sex and color for the urban, rural-non
 
 
 [**1950** US Census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html) <br>
-[**Volume 2**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html), for each, Table 15 has our age data for SRs. E.g. Part 24: Mississippi,  General Characteristics; 
+Age-data from Table 15 in [**Volume 2 for each state**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html). Table 15 groups ages 1&2, we split as 48.5% age 1 (based on sample-evidence in Table 51). Table 15s are in dropbox. 
 <br>Table 33 is SSMAs, urban, cities, etc.  <br>
 [Penn T33](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf) is pdf 2-25
 Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 

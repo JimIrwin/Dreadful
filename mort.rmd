@@ -6,6 +6,36 @@ output: html_document
 ---
 # Mortality in North America, 1850-1900: Implications from Infant Sex Ratios
 
+
+### Key points to develop (or consider)
+
+1900 as the fulcrum/pivot of our analysis ... both Hacker (2010) and Haines (2008=2000) have 1900 as much improved on 1880.
+Haines has e0 
+
+<br>Haines  
+<br>Haines 1880 to 1895? huge drop -- white IMR declining from 215 to 111, then further declines, most notably 1920s 22-point drop (82 to 60), then 1930s 17-point drop (60 to 43), and 1940s 16-point drop (43 to 27) <br>
+The 1920 to 1950 IMR decline seems to imply a modest rise in SR1 -- so I think SRB must also have risen. With SRB 104, my simulator has <br>
+IMR 215 gives SR1 100.3 <br>
+IMR 111 gives SR1 102.2 <br>
+IMR 82 gives SR1 of 102.7<br>
+IMR 60 gives SR2 of 103.0 <br>
+IMR 43 gives SR2 of 103.35  <br>
+IMR 27 gives SR2 of 103.6 <br>
+
+
+jumping up 40 points from 1870 to 1880, back the 1850 level, and thdeclining 1850 to 1870,  IMR jumping around, 
+
+
+
+Hacker comes up with declining IMR for whites from 1850 to 1900 (based on census benchmarks). Very similar gaines in Eo in each of the five decades
+
+Look at Eo for white females in Hacker (2010), males are distorted by Civil War.  
+
+Haines (2008, 2000) has life-expectancy for US whites increasing by 11.3 years from 1880 to 1895, apparently driven by IMR dropping from 214.8 to 110.8.   
+Haines 2008 in Eh.net (as in Haines (2000) in Cambridge Econ History of the US) has white IMR above 175 before 1890, falling to 111 in 1895. 1850 to 1880 it his IMR bounces around.
+
+
+
 ### Proposal Abstract
 
 Basic patterns of mortality in nineteenth-century North America remain to be established, limiting our knowledge of the lags between onsets of economic growth and the mortality transition.  At stake are key questions on welfare implications of nineteenth-century ‘modernization’ (e.g. Komlos 1998, Engels 1845).  Recent research (Hacker 2010, Haines 2001) points to the 1870s for the onset of declining mortality in US as a whole, and perhaps in Canada (Bourbeau, Légaré, Émond 1997, but see Cranfield and Inwood 2007). But the timing of mortality transitions remains to be confirmed, with key dimensions of change to be delineated. Our paper explores mortality patterns with respect to: urban/rural, North/South, USA/Canada, and ethnicities (Black/white, French/English).  We employ a novel indicator of health: infant sex ratios.  Elevated infant sex ratios are familiar as indicators of “missing girls” (Sen 1990), but low sex-ratio values are indicators of ill-being for infants and their mothers. Biologically, infant mortality is higher for males than females; it follows that high infant mortality results in a low infant sex ratio (absent mortally misogyny, which elevates sex ratios). We use sex ratios to illuminate mortality. To illustrate, consider the under-2 sex ratio (SR2) in the USA: in 2000 it was 105.3 (boy per 100 girls) for whites, and just 103.1 for Blacks;  the values were 102.8 and 98.5 in 1900.  After demonstrating (theoretically and empirically), the validity of our indicator; our paper draws on US and Canadian census data from 1850 to 1900, to identify SR trends and posit connections to mortality. 
