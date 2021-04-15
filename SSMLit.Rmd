@@ -40,6 +40,11 @@ McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Huma
 
 ### Germany ###
 Vögele has Hamburg IMR 1870s 220ish (204-239), 1880-87 200-300, 1906-13 115to165
+<p>Vögele (2000 Health & Place, 41-55)
+<br>p41  From a historical perspective the towns in Europe were perceived as extremely unhealthy places with extremely high mortality rates. These conditions have been investigated very intensively for England and Wales. During the nineteenth century, the mortality rates in the rapidly growing English industrial towns and centres of commerce were high and surmounted the average mortality of rural areas and the state by far. To focus on this fact the terms 'Urban Penalty' or 'Le Handicap Urbain' were coined (Kearns, 1988, 1993). Especially, tuberculosis has been considered the archetypal disease of the industrialization process.<br>
+&nbsp;&nbsp;&nbsp; A further characteristic of the secular mortality development, however, is the substantial improvement of the mortality rates in various towns in Europe and North-America towards the end of the nineteenth century and at the beginning of the twentieth century. The differences between the mortality rates in towns and those in rural areas diminished and the excessive urban mortality rates decreased or even disappeared completely (VoÈgele,1996 [Where he cites Condran & Cheney 1982 Denog ]).
+
+</p>
 
 ### Amsterdam ###
 2019 Ekamper & vanPoppel on Amsterdam. 1851-53 SRB 103.7 on n=8K (live). With only 8000 births, there is a 25% chance the true SRB is over 105.2   The article leads me to AMsterdam yearbooks. Inet Archive has v13-14 1916-1917; I copy births (pdf 7, 11, 82). Inet also has 1907 https://archive.org/details/statistischemede1919amst, 1909, etc
@@ -788,6 +793,9 @@ IMR 236 SR2 100.3 / 101.1 by IMR 198 / 140 for 102.4 / 102.9 by IMR 115 / 103.9 
 
 
 ### Philad Mort 
+<p>Philadelphia Encyclopedia [Infectious Diseases and Epidemics](https://philadelphiaencyclopedia.org/archive/infectious-diseases-and-epidemics/) "By World War I, Phil filtered and chlorinated its water supply and watched as mortality from waterborne disease shrank to low background levels.  ... influenza epidemic that raged across the world and emerged in Phila in September 1918, the city's first major epidemic since cholera, killing between [13k and 19k] by March 1919. Philadelphia experienced the worst urban outbreak in the nation because the first appearance of the virus in the city coincided with a war bonds parade; the large crowds in attendance permitted the virus to infect thousands in one day, and tens of thousands within the next week. The large number of rapid deaths overwhelmed city services, with corpses languishing in apartments and mass burials the result.
+<br>Like the rest of the nation, however, Philadelphia entered the 1920s relatively free of infectious disease.
+</p>
 <p>Expect 1900-1910 improvement from Phil Board of Health data in Condran & Murphy (2008), but not from 3diseases (scarlet fever, whooping cough, measles) in Condran (2008)  </p>
 <p>Condran (2008 JHMAS) Diptheria sees big drop 1895 to 1905.
 p520 We are left with the fact that diphtheria was nearly eliminated as a  cause of death among children by 1930 and that the reduction in diphtheria deaths mirrored that in the other childhood diseases, except for the more rapid decline in the decade 1895 to 1905
@@ -802,15 +810,18 @@ Figure 1 (p478) shows deaths under age 1, from Phila Board of Health annual repo
 <p>Condran (1987 AnDemHi) uses Condran & Cheney (1982 Demography) for lifetable mortality probabilities at census benchmarks
 
 
-<p>Condran & Cheney 1982 
-p97 The mortality decline which accompanied the process of industrialization in Europe and the United States has been the focus of historical demographic research aimed at pinpointing the factors underlying its inception.
-Accompanied? or came painfully later? Maybe see *Easterlin* how beneficent the market?
-<br>Urban mortality rates, for example, remained high for some time after
-rural mortality rates had begun their decline (Condran and Crimmins, 1980; Higgs, 1973; Knodel, 1977)
-<br> Throughout the time period from 1870 to 1930, the mortality regime in Philadelphia was characterized by crude death rates which were high and fluctuating from year to year. Some of the fluctuation may have been due to the inadequacy of the extrapolated population figures or the death register, but much can probably be explained by genuine shifts in the levels of infectious disease from one year to the next. A decline in the crude death rates occurred between 1890 and 1900. The crude death rate of 23/1000 in 1892 was not surpassed again except during the influenza epidemic of 1918
- Figure 1 death rates Chicago low by 1897 
+<p>Condran & Cheney (1982 Demography) seem to tell us the data for IMR are no good before 1920; they estimate IMR by extrapolating on mortality of 1to4 year olds. Their age 1-4 mortality rate in 1900 is 61% of the 1870 value; the 1930 value is 25% of the 1900 value.
+<br>Note that in 1930, Registration States, white male IMR is 62 and female is 50 (per 1,000).
+</p> 
+<p>
+p97 "The mortality decline which accompanied the process of industrialization in Europe and the United States has been the focus of historical demographic research aimed at pinpointing the factors underlying its inception."
+<br> Accompanied? or came painfully later? Maybe see *Easterlin* how beneficent the market?
+<br>Urban mortality rates, for example, remained high for some time after rural mortality rates had begun their decline (Condran and Crimmins, 1980; Higgs, 1973; Knodel, 1977 [Knodel is on Germany])
+<br> ... The trend in the crude death rates in Philadelphia from 1870 to 1930 is shown in Figure 1. ... The deaths are those reported in the annual reports of the Philadelphia Bureau of Health. Throughout the time period from 1870 to 1930, the mortality regime in Philadelphia was characterized by crude death rates which were high and fluctuating from year to year. Some of the fluctuation may have been due to the inadequacy of the extrapolated population figures or the death register, but much can probably be explained by genuine shifts in the levels of infectious disease from one year to the next. A decline in the crude death rates occurred between 1890 and 1900. The crude death rate of 23/1000 in 1892 was not surpassed again except during the influenza epidemic of 1918
+<br>p98 Figure 1 death rates Chicago low by 1897; 
  highly variable, downwardish 1870-1915 (pandemic 1918)
-Table 1 death probabilities 1-5 drops  <br>
+<br>p99 Estimating lqO from 1870 to 1930 presented a special problem because of the exceptionally poor quality of both the census enumeration of infants and the birth registration data available for Philadelphia.    ... Births in Philadelphia were estimated to be approximately 30 percent underenumerat- [p100] ed in 1880, and although the exact pattern of change over time is not known, a fairly large underregistration was probably the rule for much of the time period in our analysis (Cheney, 1981). Therefore, before 1920,the 1q0 values obtained using birth registration data are certainly higher than the true 1qovalues which we are trying to estimate.  ... two other estimates of 1q0 were made by fitting C&D W and S Model Life Tables to the 4q1 values. ...  The downward shift in childhood diarrheal deaths coupled with improvements in birth registration and in the census enumeration of infants in fact produce a convergence of all four estimates of lqO in 1920 and 1930." SUM UP -- they prefer C&D South Model (lower IMR), arguing Phil's 1-4 yr olds hit by diarhea that wouldn't affect U1 as much. 
+p100 Table 1 death probabilities 1-5 drops  <br>
 1870 142  1880 121 1890 111 1900 89  1910 68  1920 41  1930 23
 p100 claiming high deaths 1-4 create artifact of IMR via life table
 </p>
@@ -1288,13 +1299,18 @@ Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/)
 20th C sources   
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
-[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
-<br>
-<br>[1900-1940 Vital Stats](https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf)  IMR Tables 26 to 35. Table 26 IMR by state  p572
-[Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza
+<br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
+</p>
+<p>[1900-1940 Vital Stats](https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf)  IMR Tables 26 to 35. Table 26 IMR by state  p572. I'm looking for SRB data -- not Table 53, which gives total births (and IMR data) at various geographic levels. Not Table 50, crude birth rates by month;    </p>
+
+<p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
+</p>
+<p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza
 <br>
 [Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95)
 <br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118)
+</p>
+<p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
 </p>
 1900 census reports vol III I use table 19  pp  285-555 (pdf 598-868)
 <br>
@@ -1307,7 +1323,8 @@ These may contain age/sex/race, but odd text files ...
 [1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
 </p>
 
-<p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html)
+<p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html)</p>
+<p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  
 </p>
 
 **2010 and 2000** [2000-2010](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-national.html)
@@ -1440,8 +1457,7 @@ Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single y
 
 
 **1940**
-
-Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages.
+Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages. Page 4 has light discussion of under-enumeration of infants.
 
 pdf 35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf) has Phila age by single years
 
@@ -1545,7 +1561,8 @@ https://www.census.gov/programs-surveys/decennial-census/decade/decennial-public
 
 [Quebec SRB](https://statistique.quebec.ca/en/produit/tableau/births-by-sex-and-sex-ratio-at-birth-quebec)
 Canada & provinces [Lifetables 1999-2001](https://www150.statcan.gc.ca/n1/en/pub/84-537-x/2020001/xls/1999-2001_Tbl-eng.xlsx?st=x5IFJWHw)
-
+<p>Canada Life Tables [1980/82 to 2017/19](https://www150.statcan.gc.ca/n1/pub/84-537-x/84-537-x2020001-eng.htm)
+</p>
 
 #### Census Sources for Canada
 

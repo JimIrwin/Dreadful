@@ -12,6 +12,20 @@ output: html_document
 <p>check Haines, M. R. (1995), “Socio-economic differences in Infant and Child Mortality during Mortality Decline: England and Wales, 1890-1911,” Population Studies, 49, pp. 247-315. Does the SR2 corroborate here?
 </p>
 
+### current log
+<p>21.0414-Jim. Working on getting census-volume data into csv for easy R-use. Next: 1890 MA, ENC, SA.
+<br>1890 census volume SR2 for New England is surprisingly high (103.0), SR5 less so (102.1); that reminds there is likely a lot of noise in our data, so we need to avoid cherry-picking results we like and bypassing those we don't. For validity/robustness, consider using the SR5 as a corroborative indicator.
+<p>Suggest adjusting MidAtl 1850 SR5 down from 102.8 to 102.4, based on review of fullPUMS and census-data. DETAILS: PUMS values are high for NJ (0.6), NY (0.5); 0.1 low for PA    
+1850 SR0 PUMS values  are high for NJ (2.4). My adjusted value reduces MidAtl 1850 SR2 by 0.4, to 102.4 
+</p>
+<p>1870 New England PUMS and census are discordant. Census SR2 is 102.0 but PUMS gives 101.6 
+Most of the discord is from MASS -- averaging the census & PUMS values for MASS yields SR2 of 101.8 which fits better with the 1860 and 1880 SR2 values (102.3).
+</p>
+<p>1910 MASS PUMS is 0.7 under census, but that seems to wash out in the NewEngland aggregate.  
+<p>Looking at discrepencies between PUMS full count and Census volumes. For example, PA 1940 census has U1 134,379 but fullPUMS has only 127,152.  I pulled all PA counties from the fullPUMS and looked at U0 as share of U5 -- it ranged from 15% to 20% and I found no weird outliers to explain the undercount</p>
+
+
+
 ### Mission Highlights ###
 <p>21.0412 SR2 values are [now assembled](https://www.dropbox.com/s/5qga1jyo5jipris/SR-USA-Rbased.wk4?dl=0), New England, Mid-Atlantic, South Atlantic, and EastNorthCentral (full-count PUMS for USA 1850-1940; censusVolumes for 1950, 1960; Haines ICPSR for 1970-1990). Census-volume data is in a [spreadsheet](https://www.dropbox.com/s/rhp9boaojyflr0t/USkidsForR.wk4?dl=0) for easy conversion to R.  We need to put some time into reviewing the data to check for validity. Basic result is that the sex-ratio evidence puts the onset of infant mortality decline after 1900 (1-point declines in SR2 from 1880 to 1900). <br>
 In all 4 census divisions, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&1910. After 1910, in the North, by 1930&1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)</p>
@@ -23,7 +37,8 @@ The Southeast's SR rise comes later than the NE and ENC: the 1960s is the waters
 <p>Modern SR2 values (over 104.0) achieved across Eastern Canada by 1971.
 </p>
 ### Log 21.04
-<p>21.0412 Basic data collection is now complete.  
+
+<p>21.0412 Basic data collection is now complete.  </p>
 <p>21.0409 We now have regional summary SR2, SR5 for 1850 to 1940 from IPUMS.
 For NewEng,  MidAtl, EastNorCent, SouthAtl; all, rural/urban. No sign of "metropolitan penalty." Work is needed to check the PUMS data vs the census data. Also, review the SR5 to check for red flags (major anomolies/inconsistencies)<br>
 In all, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&1910. After 1910, in the North, by 1930&1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)</p>
