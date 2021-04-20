@@ -8,11 +8,27 @@ output: html_document
 <a name="TOC"></a>
 [Our Applications or "cases"](#cases)
 
-#### Loose ends?
-<p>check Haines, M. R. (1995), “Socio-economic differences in Infant and Child Mortality during Mortality Decline: England and Wales, 1890-1911,” Population Studies, 49, pp. 247-315. Does the SR2 corroborate here?
-</p>
 
 ### current log
+
+<p>2021.0419
+<p>Jim looks at Fogel's Escape ... and finds the documentation and citation weak and stupid. Ignore it for now.
+</p>
+J&J working on life-cycle angles.
+<p>In the US life tables for 1949/51, most of the racial gap in the SR1 comes from the racial gap in the SRB. Birth registrations put the Black SRB 3 points below the white SRB (102.4 vs 105.4); Life Table infant mortality rates put the Black SRB 3.8 points below the white (102.0 vs 105.8).    </p>
+<p> SRB = (q0-qf0)/(qm0-q0)</p><p>
+An SRB is embedded in the life-tables for any time (total, male, female): SRB=(q0-qf0)/(qm0-q0) </p>
+<p>Exposition: infants dying during the year (d0) is the sum of female and male deaths. Let m be the share of births that are male, and f be the share of births that are female; then SRB=m/f (from simple algebra^[SRB=MaleBirths/FemaleBirths; divide top and bottom by total births T=MaleBirths+FemaleBirths; then SRB=(MB/T)/(FB/T)=m/f]). <br>
+Further, total q0 = m * qm0 + f * qf0 -- the total q0 value is the weighted average of the male and female q0 values, where the weights are the male and female proportions of births. Those weights sum to one, m + f = 1<br>
+ So q0 = m * qm0 + (1-m) * qf0 = m * (qm0-qf0) + qf0
+And so m = (q0-qf0)/(qm0-qf0). By similar reasoning, f=(q0-qm0)/(qf0-qm0)=(qm0-q0)/(qm0-qf0) and SRB=m/f= (q0-qf0)/(qm0-q0) 
+
+
+
+</p>
+<p>Note that circa 1960, birth registrations are deemed 99.3% complete for whites, 96.4% for nonwhites. For whites, if male reg is 99.5 and fem is 99.1, then effect on SRB is that the observed 104.9 would reflect a true value of 104.5; the nonwhite 102.0 -- if 96.8% and 96.0% and would actually be 101.6.
+</p>
+<p>21.0415-Jim 1890 NewE MidAt ENC all have invalid U2 vs U5 pop sizes -- for 1890 SR2, extrapolate on the SR5. The 1900&1910 census volumes discuss the flaws in 1890's enumeration of ages 0 and 1 (related to different wording of age question that year)   </p>
 <p>21.0414-Jim. Working on getting census-volume data into csv for easy R-use. Next: 1890 MA, ENC, SA.
 <br>1890 census volume SR2 for New England is surprisingly high (103.0), SR5 less so (102.1); that reminds there is likely a lot of noise in our data, so we need to avoid cherry-picking results we like and bypassing those we don't. For validity/robustness, consider using the SR5 as a corroborative indicator.
 <p>Suggest adjusting MidAtl 1850 SR5 down from 102.8 to 102.4, based on review of fullPUMS and census-data. DETAILS: PUMS values are high for NJ (0.6), NY (0.5); 0.1 low for PA    
@@ -38,7 +54,7 @@ The Southeast's SR rise comes later than the NE and ENC: the 1960s is the waters
 </p>
 ### Log 21.04
 
-<p>21.0412 Basic data collection is now complete.  </p>
+  <p>21.0412 Basic data collection is now complete.  </p>
 <p>21.0409 We now have regional summary SR2, SR5 for 1850 to 1940 from IPUMS.
 For NewEng,  MidAtl, EastNorCent, SouthAtl; all, rural/urban. No sign of "metropolitan penalty." Work is needed to check the PUMS data vs the census data. Also, review the SR5 to check for red flags (major anomolies/inconsistencies)<br>
 In all, we see 1-point declines in the SR2 from 1880 (and earlier) to 1900&1910. After 1910, in the North, by 1930&1940 SR2 is at new levels; but another rise of SR2 comes after 1940 (to current 105ish values). SouAtl white-SR2 has not fully recovered by 1940; in 1990 it is at new levels (105.9)</p>
@@ -47,8 +63,6 @@ In the Northeast, from 102 to 101; in the MidWest, from 103 to 102. The MidAtlan
 The South's SR2 is dominated by the racial dimension. The white SR2 drops 1 point or more, from almost 105 to under 104. The black SR2 hovers in the 98-99 range from 1870 to 1940; by 1990, that SR2 has risen about 3 points (almost 102).</p>
 <p>Canada's SR2 values are generally better than those in the USA in 1870 & 1880; than similar to US North  from 1900-1940. WIth Quebec usually worse, Ontario usually better.</p>
 <p>Modern SR2 values (over 104.0) achieved across Eastern Canada by 1971.
-
-
 
 <p>21.0409
 Looking at Ekamper & vanPoppel (spell?) on Amsterdam -- IMR rates 1812-1919 show a pronounced decline from 1882ish to 1918 (1848 250, 1882 230, 1918 70) <br> Those are roughly consistent with the rising SR5 seen in Mitchell's Euro Hist Stats.<br>

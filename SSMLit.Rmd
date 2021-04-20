@@ -8,9 +8,9 @@ output: html_document
 <a name="TOC"></a>
 
 ## Overview ##
-Our Applications or "cases": [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
-[Ireland](#IRE), [19C Mort Decline](#URB), [NorthAmerica](#NorAm).    
-Some [Data Sources](#Data), [US data](#USA), [India Census](#IndiaCensus); [Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)    
+<p>Our Applications or "cases": [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
+[Ireland](#IRE), [19C Mort Decline](#URB), [Canada](#CANmort), [USA](#USAmort)</p>    
+<p>Some [Data Sources](#Data), [US data](#USA), [India Census](#IndiaCensus); [Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 Possible headings to come: Historical applications, Other historical literature, Other literature  
 
 
@@ -369,6 +369,12 @@ McKeown 1976 1979 (cited by Engerman 1994)
 2010 Hatton & Bray Ec&HuBio  Covers 1850s and later.
 Hatton, T., and Bernice E. Bray. 2010. Long run trends in the heights of European men, 19th-20th centuries. Economics and Human Biology 8 (3): 405-13. 1850s and later
 
+<p>Haines, M. R. (1995), “Socio-economic differences in Infant and Child Mortality during Mortality Decline: England and Wales, 1890-1911,” Population Studies, 49, pp. 247-315. Does the SR2 corroborate here?  Ignore this for US project -- it is life-table based extrapolations.
+</p>
+
+
+
+
 <a name="IRE"></a>
 
 ### Ireland ### 
@@ -526,6 +532,11 @@ Tending to decline 185s/60 to 1885, more steadily 1885-1906
 
 Floud, Fogel, Harris, Hong (2011), "The changing body: health, nutrition, and human development in the western world since 1700"
 
+STOLNITZ (1955 Pop Studies) sees 1940 as much improved over 1850 -- but does he say anything about 1850-1900? 
+
+Stolnitz (1955 Pop Studies p25):  “Almost no attempts at  adjustment have been made, though the reliability of both current and historical  life tables is very nearly an unexplored area of research and merits a thorough-going critical review.”
+
+      The present article deals with mortality trends and differentials, and some  leading prospects for future change, over the broad regions of the world.  ...  To these ends use has been made of well  over 250 life tables, including nearly all of the materials ever published for  national populations. ...  As will be noted below in numerous connections, the question of inaccuracies in the data has been a consistently troubling one. Almost no attempts at  adjustment have been made, though the reliability of both current and historical  life tables is very nearly an unexplored area of research and merits a thorough-going critical review ... (p27) [section]  "I. The rise in Western life chances over the past century has probably been more far-reaching than the gains of the previoUs 2,ooo years."  World longevity, as measured by expectation of life at birth, can hardly have averaged much below 20 years over any considerable period since the Roman era. On the other hand the Western average of some 40 years about 1850 almost  certainly represents the maximum attained by that date in any major region.[Lotka & Spiegelman 1949]. (p28) ... Compared to the world as a whole or most of its major parts, the rise in the  West since the 1840's ...  The seven nations on record over the last century  show a median increase of more than 25 years ...
 
 <a name="NorAm"></a>
 
@@ -555,16 +566,33 @@ p42 "mortality conditions improved gradually but steadily ... 1861-1921" <br>
 Ontario female Eo ~40 1850  1900 ~50   1920 ~70  
 Ontario mortality below national average, signifcantly lower than rates in Quebec <br>
 
+<a name="USAmort"></a>
+
+
 ### USA
 
+CHECK ON Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to the Present.” Journal of Economic Literature 53 (3): 503–7
+<br> check Fogel, Robert W. "Health, nutrition, and economic growth." Economic Development and Cultural Change 52, no. 3 (2004): 643-658.
+
+<p>MOVE THIS TO CDC DATA AREA -- Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+<p>Period: "A period life table is based on, or represents, the mortality experience of an entire population during a relatively short period of time, usually one to three years. Life tables based directly on population data are generally constructed as period life tables because death and population data are most readily available on a time period basis.
+<br>A cohort, or generation, life table is based on, or represents, mortality experience over the entire lifetime of a cohort of persons born during a relatively short period of time, usually one year
+</p>
+
+<br>
 Hacker (2010) female e0 for 1890s is 51.2    1870s is 43.9 <br>
 Haines (1998) female e0 for 
 HSUS (via Haines) white female e0 1860 43.2 1870 44.1  1880 40.6 1890 47.4 1900 50.7 1910 52.0  1920 55.6
+<p>
+Haines (2008 EH.Net)  American mortality did not experience a sustained and irreversible decline until about the 1870s.  Haines (2008, 2000) has life-expectancy for US whites increasing by 11.3 years from 1880 to 1895, apparently driven by IMR dropping from 214.8 to 110.8.  **1880 to 1900** looks like key period of improvement in current narrative.</p>
+<p>See also Haines [(2006 HSUS)](https://www.dropbox.com/s/hpowc3827ibgvxw/Haines2006HSUS_VitalStatistics.pdf?dl=0) essay "Vital Statistics": p. 1-385 
 
-Haines (2008 EH.Net)  American mortality did not experience a sustained and irreversible decline until about the 1870s.  Haines (2008, 2000) has life-expectancy for US whites increasing by 11.3 years from 1880 to 1895, apparently driven by IMR dropping from 214.8 to 110.8.  **1880 to 1900** looks like key period of improvement in current narrative.
+     Recent work with the genealogical data has concluded that adult mortality was relatively stable after about 1800 and then rose in the 1840s and 1850s before commencing long and slow improvement after the Civil War.  This finding is surprising because we have evidence of rising real income per capita and of significant economic growth during the 1840–1860 period. ... (p 1-386) Rural mortality probably began its decline in the 1870s because of improvements in diet, nutrition, housing, and other quality-of-life aspects on the farm. ... Urban mortality probably did not begin to decline prior to 1880, but thereafter urban public health measures – especially construction of central water distribution systems to deliver pure water and sanitary sewers – were important in producing a rapid decline of infectious diseases and mortality in the cities that installed these improvements (Melosi 2000). There is no doubt that mortality declined dramatically in both rural and urban areas after about 1900 (Preston and Haines 1991).    ...   Following the Civil War, the disease environment improved in what might be called an “epidemiological transition.”  ...  (1-387) ... It is clear that, before about 1920, urban mortality was much in excess of rural mortality and, in general, the larger the city, the higher the death rate (Haines 2001).   ... (1-388)  For young children (ages 1–4 years) the ratios were much higher, with urban mortality being 107 percent higher in 1890 and 97 percent higher in 1900. For infants the excess urban mortality was 63 percent in 1890 and 49 percent in 1900. ... (1-389) ... Overall, the mortality transition in the United States was a delayed event  ... . Indeed, an increase in mortality was evident prior to the Civil War. The sustained decline commenced nationally only in the 1870s. A damping of year-to-year mortality fluctuations also took place after midcentury.  ... By the later nineteenth century, public health certainly contributed much, with improvements in diet, housing, and standard of living also being significant.
 
+Oddly, the Massachusetts IMR series shows a fairly clear climb from ~120 in 1857/59 to 150 and higher in the 1870s. Then stable around ~160 from 1870 to 1896, when it declines fairly steadily (153 in 1900, 130 1910, 90 in 1920, 60 in 1930, 25 in 1950). <br>
+From that IMR data, predict 1860 SR2 not achieved again until betwen 1910 and 1920. We find?
 
-
+</p>
 Clay, Troesken, Haines (2014 REStat) lead pipes and IMR 1900-1920
 
 <p>
@@ -1284,7 +1312,8 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
-IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
+US Census Office[**Pubs by decadal census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html).
+Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
 <br>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
    Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
@@ -1292,8 +1321,8 @@ Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 
 
 Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
 
-** also see the PDF on 20thC US for linked sources
-[US census by decade](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html)
+*also see the PDF on 20thC US for linked sources, in our B/W page
+
 
 
 20th C sources   
@@ -1305,10 +1334,9 @@ Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/)
 
 <p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
 </p>
-<p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza
-<br>
-[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95)
-<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118)
+<p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza. 
+<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95),
+[Mort Stats 1929](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118).
 </p>
 <p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
 </p>
@@ -1318,6 +1346,8 @@ p xiv The registration record was accepted as sufficiently complete and satisfac
 <br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
 <br> tabulated result of the comparison of the two sets of returns [on next page]
 <br>xv  xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR
+<p>CDC weekly [Achievements in Public Health, 1900-1999: Healthier Mothers and Babies](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm)
+</p>
 <p>
 These may contain age/sex/race, but odd text files ...
 [1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
@@ -1474,8 +1504,8 @@ https://www2.census.gov/library/publications/decennial/1940/population-volume-4/
 [1930 Vol 2](https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch11.pdf) for ages, pp674-690  pdf 112-128
 <br>
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
-
-
+<p>Looking for regional totals: Table 24 has 5yr totals
+<p>
 
 **1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
 Our age data found in [Vol 2, ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    **pdf29** Table 13 single age  Regions and States (states is 188-285   pdf 46-143) 
@@ -1504,7 +1534,7 @@ Table 29 is national totals, including the 1910 "negro" values which I found els
 vol 1 tables 1-4 NO age data; 
 [vol 2](https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf) <br>
 1900 bulletins 1-60, 61-106
-<br>
+<br>Bulletin 13, "A Discusssion of Age Statistics"
 [discussion of age statistics](http://www2.census.gov/prod2/decennial/documents/03322287no13.zip) p18 indicates 1890 ages were "age at nearest birthday" and therefore confusion in 0 1 2 age groups  <br>
 To think about: if 11mo olds are rounded up, how does that distort the SR1? It would seem to leave more of the younger, who are more male ...
 <br>
@@ -1517,11 +1547,9 @@ Vital Statistics Pt 1 (v4?) p514 Table 1 has u1 u5 for US, states, cities?
 
 1890 Bulletins  no. 100 Social Statistics of the Cities
 
-**1880** Ages in Table XXI [Mass](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NY & PA](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
+**1880** Vol I, Statistics of the Population ... has single-year ages in Table XXI [Ala-Nevada](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NewHamp-Wyoming](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
 <br>
-
-
-VA is pdf33 p636;
+VA is pdf33 p636; With enough time, can compile U5 ages for cities,
 1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
 Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf) 
 
@@ -2365,7 +2393,7 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 #### Mortality #### 
 
-LOOKING FOR   Haines & Preston Fatal Years 
+Haines & Preston Fatal Years 
 
 2012  Guillot, Michel, Patrick Gerland, François Pelletier, and Ameed Saabneh. "Child mortality estimation: a global overview of infant and child mortality age patterns in light of new empirical data." PLoS Med 9, no. 8 (2012): e1001299.
 
