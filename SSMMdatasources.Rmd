@@ -1,0 +1,764 @@
+---
+title: "SSMM-data: Data Sources for the SSMM/SR1 Project "
+author: "jri, with jrm"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+  
+<a name="TOC"></a>
+
+## Overview ##
+<p>[US data](#USA), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
+
+### to organize/move ###
+
+ Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   
+
+
+[Bourbeau, Légaré, Émond](http://www.publications.gc.ca/Collection/Statcan/91F0015M/91F0015MIE1997003.pdf) 
+
+McQuillan 1985 life tables for Ontario <br>
+
+<p>MOVE THIS TO CDC DATA AREA -- Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+
+Richards (1909) "A Study of New England Mortality"
+[Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+
+<a name="Data"></a>
+
+## Data Sources and Links ##
+
+### UN Sources ##
+
+re: Demographic Yearbook  https://unstats.un.org/unsd/demographic-social/products/dyb/documents/techreport/ageandsex.pdf
+
+Our data from [demog stats DataBase](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22) thailand 1956 1960  1970 1980 
+
+The Bulletin of the WHO, [2000, 78:1175-1191](https://www.who.int/bulletin/archives/78(10)1175.pdf)   
+U% mortality rate ... has a number of advantages over the infant mortality rate as a composite measure of health risks
+at young ages. In particular, the indirect demographic techniques for measuring the under-five mortality rate are more robust and less sensitive to assumptions about the underlying patterns of mortality than the infant mortality rate (28, 29) 
+Data obtained from the complete registration of births and deaths provide the best possible basis for the direct estimation of child mortality. Unfortunately, such data are available for only 55–60 countries.d
+
+<p>Unicef spreadsheet of [IMR Data](https://data.unicef.org/wp-content/uploads/2020/09/Infant-mortality-rate_2020.xlsx) </p>
+
+Bangladesh article [IMR source](https://link.springer.com/article/10.1186/s12884-018-2129-y)
+
+
+UN Demographic and Social Statistics [Demographic Yearbooks]](https://unstats.un.org/unsd/demographic-social/products/dyb/#statistics)
+1997 version has preliminary values; 
+1998 PDF pp149-228; notes 228 CDFC census, de facto, complete tabulation (vs sample)
+Thailand 1990 0-4  
+
+UN Dept of Eco Soc Affairs [Population Dynamics](https://population.un.org/wpp/Download/Standard/Population/) (in Jim's digital library SSMM/demog). *These do not match with Demographic Yearbook data*
+
+Mortality from IGME [UN Inter-agency Group for Child Mortality Estimation](https://childmortality.org/data/Nigeria)
+
+IMR [Estimation methods for child mortality](https://www.who.int/gho/child_health/mortality/ChildCME_method.pdf), p2. states IMR = 1q0 *1000  (2013 WHO)
+
+[WHO Mortality Database](https://www.who.int/healthinfo/mortality_data/en/) has population for <1 1-4  ... single year, 1950 forward. But not Nigeria nor Ethiopia
+
+[HMD life table](https://www.lifetable.de/data/BGD/BGD001019801980AU1.pdf)  Bangaldesh 1980 0q1 male 90 female 118 per 1000. Seems to be early work of [HDSS](https://academic.oup.com/ije/article/46/3/809/3867622)
+
+Looking at UN? pop by age data: Ghana Cameroon   1-4 yrs
+https://population.un.org/wpp/Download/Standard/Interpolated/
+
+
+<a name="USA"></a>
+
+### USA ###
+
+US Census Office[**Pubs by decadal census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html).
+Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
+<br>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
+Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
+   Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
+[State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)
+
+Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
+
+*also see the PDF on 20thC US for linked sources, in our B/W page
+
+
+
+20th C sources   
+
+<p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
+<br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
+</p>
+<p>[1900-1940 Vital Stats](https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf)  IMR Tables 26 to 35. Table 26 IMR by state  p572. I'm looking for SRB data -- not Table 53, which gives total births (and IMR data) at various geographic levels. Not Table 50, crude birth rates by month;    </p>
+
+<p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
+</p>
+<p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza. 
+<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95),
+[Mort Stats 1929](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118).
+</p>
+<p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
+</p>
+1900 census reports vol III I use table 19  pp  285-555 (pdf 598-868)
+<br>
+p xiv The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
+<br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
+<br> tabulated result of the comparison of the two sets of returns [on next page]
+<br>xv  xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR
+<p>CDC weekly [Achievements in Public Health, 1900-1999: Healthier Mothers and Babies](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm)
+</p>
+<p>
+These may contain age/sex/race, but odd text files ...
+[1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
+</p>
+
+<p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html)</p>
+<p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  
+</p>
+
+<p>[2020 all races by age](https://www2.census.gov/programs-surveys/popest/tables/2020/2020-demographic-analysis-estimates/table-1.xlsx) U.S. Census Bureau, Population Division, 2020 Demographic Analysis (December 2020 release).
+<br>[2020 tables](https://www.census.gov/data/tables/2020/demo/popest/2020-demographic-analysis-tables.html)
+<br>[2010 by age](https://www.census.gov/data/tables/2012/demo/popest/revised-2010-demographic-analysis-estimates.html)
+<br>Jim pasted in 2020 and 2010 demog analysis estimates of pop by age/sex/col
+<br>[1900 to 1970 Nationals](https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)
+</p>
+
+**2010 and 2000** [2000-2010](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-national.html)
+<br>
+Maybe [1990-2019](https://wonder.cdc.gov/controller/datarequest/D163)
+<br>
+maybe [2000-2010 Intercensal](https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-national.html)
+
+maybe [State Intercensal Datasets: 2000-2010](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-state.html)
+
+NOT 2000 state-volumes "Summary Population and Housing Characteristics" e.g. [Rhode Isle](https://www.census.gov/prod/cen2000/phc-1-41.pdf)  not single years of age. PHC-1-41 is not what we're after (but does have U5)
+
+Not useful: [1990-2000](www.census.gov/data/datasets/time-series/demo/popest/intercensal-1990-2000-national.html)
+
+[Census of Population and Housing, Decennial Pubs?](https://www.census.gov/prod/www/decennial.html)
+<p>
+[*Publications grouped the census Decennial*](https://www.census.gov/programs-surveys/decennial-census/decade.html)</p>
+**2000**  For NYC I find [Total Population by Single Years of Age and Sex - 2000](https://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/census2000/sf1p6a6i.xls)<br>
+2000 PHC-1 u5 ages; PHC-2 no age-data; PHC-3 no age data; DP-1 u5; Briefs NO; Profile NO;
+
+**1990** [1990 Census of Population, General Population Characteristics, United States](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
+States 262a-g Northeast metro/not etc tables 64, 65 <br>
+cities in tabs 61-63?
+<br>[PA 1990](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-40-1.pdf). Table 17 for urban/rural. Phil is part 2 (I printed the page)br
+[1990 states](https://www2.census.gov/library/publications/decennial/1990/cp-1/)  10DC 11FL 12GA  15IL 18Kansas  22Md   26Missi  36ND  38 OK   44 TN   47Vt   50 WVa
+
+**1980** [USA ages](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf) Page 1-23 Table 41 Single Years of Age by Race, Spanish Origin, and Sex: 1980, in 1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary<br>
+pdf 35-55
+
+[Illinois](https://babel.hathitrust.org/cgi/pt?id=uva.x004451315&view=1up&seq=173&q1=single%20year) at HathiTrust, images 173-
+<br>
+[NY volume](https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu80134unse_bw.pdf)
+pdf84 Table 18 p72   pdf111 NYC&NENJ urbanized area <br>
+General Population Characteristics, PC80-1-B34, Vol 1, Characteristics of the Pop, Ch B, General Pop Char
+<p>
+IPUMS has good access to [1980 age volumes](https://usa.ipums.org/usa/voliii/pubdocs/1980/pubvols1980.shtml) <br>
+<br>Michigan 1980 [Table 18 pdf 162ish](https://catalog.hathitrust.org/Record/009780899)
+<br>But it does not have Illinois Ch B
+Chapter 2 (with ages) for PA seems to be missing (looked on Hathi too). Poked around the census directory, looking at pdfs 80134 is NY <br> vol 1
+</p> 
+<p>Illinois at [Hathi](https://catalog.hathitrust.org/Record/102583049)
+<br>[PA ages Tables 18-20](https://www.dropbox.com/s/jzhux09h39clhfz/1980PATabs18-20.pdf?dl=0) extracted from  [Penn Volume](https://www.dropbox.com/s/3nectos2e359yql/PA_1980_Vol1B.pdf?dl=0) downloaded from GoogleBooks.Ca
+</p>
+**1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br> Generally Ch 4 on that webpage (URLs differ)<br>
+Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24 p102 SSMA's Table 17 p85 race by sex -- no ages.
+
+<p>The standard [MASS link](https://usa.ipums.org/usa/resources/voliii/pubdocs/1960/Population/Vol1/37722946v1p23ch3.pdf) is missing the start of Table 16. So we use the detailed [Table 271](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722946v1p23ch5.pdf).
+</p>
+
+[PA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/00496492v1p40s1ch3.pdf) pdf 51 t24 Phila
+
+[NY ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf)
+
+[MA ages](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ma-01.pdf)
+
+**1960** 
+<p>Reconciling Vt data, I find statement (Vol 1, Part 47 Vermont, p xii) that chapter B has complete-count while chapters C and D have 25% sample stats. Eg the U5 totals differ by 3. For [Vermont](https://www.google.ca/books/edition/Census_of_Population_1960/vSabfPk3ERMC?hl=en&gbpv=1), I use google books copy. <br>
+MASS is missing p31 or so; I use Google Books version.
+</p>
+
+[This directory seems to have the 1960 age data](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/). But Mass is missing the start of Table 16 (p23-31). This 
+[page at census.gov](https://www.census.gov/library/publications/1961/dec/population-vol-01.html) has some valid links. But GA is missing -- maybe ok via write in URL at https://www2.census.gov/library/publications/decennial/1960/population-volume-1/
+DC 10  FL 11 GA12 . Some are like GA: [12-d is Georgia](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-d.pdf). But others are like [NC, which is p35ch3](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/06586188v1p35ch3.pdf)
+And then the 1960 census page has a valid link to [SC](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749999v1p42ch3.pdf)
+
+[only some via IPUMS](https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml) CT For any state, use its Population Vol 1, section 3, general pop characteristics.
+
+census [Vol 1](https://www.census.gov/library/publications/1961/dec/population-vol-01.html)
+col-01-01-k 
+[Table 156 Single years of age, by nativity, color, and sex, for the US, urb &  rural](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-01-h.pdf)
+
+Table 232 single years of age, by color and sex, for regions, 1960 p612   Vol 1 states or cities lack single year, lack age-group
+
+1960 Vital Statistics [Vol 1 Natality,](https://www.cdc.gov/nchs/data/vsus/nat60_1.pdf) SRB by state 1-27   Also, p 1-9 for national SRB white 1.055  nonwhite 1.018     2-4 Live births by specified race and sex: US and States pdf54
+
+
+Vol 1, Pt 2, for each State.  Single years : Tables 94, 95, 101, 102.  Cities: age groups 20, 96
+[Mass](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722946v1p23ch5.pdf)
+Mass Table 16 (pdf p9) white female U1 52,822 but Table 94 52,940
+
+[NY](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749573v1p34ch3.pdf) 
+Table 16 Age by color and sex ... pdf p10
+Table 20 pdf44 for NYC  
+
+[PA](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/17216604v1p40ch07.pdf)
+table 94 single year of age, state; color (white/nonwhite)
+
+ILL [Tables 13-19](https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-15-e.pdf) in the directory as vol-01-15-e   15-c is Number of Inhabs    15-e includes age/sex color single year
+
+1960 PE11XLS  single year, white/black/other
+
+
+1960 The table presented here is a preprint of table 65 from Final Report PC(l)-1C, which contains summary information on these and other general social and economic characteristics of the population.
+
+This report presents statistics on age by sex and color for the urban, rural-nonfarm, and rural-farm population of the United States.
+
+
+[**1950** US Census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html) <br>
+Age-data from Table 15 in [**Volume 2 for each state**](https://www.census.gov/library/publications/1953/dec/population-vol-02.html). Table 15 groups ages 1&2, we split as 48.5% age 1 (based on sample-evidence in Table 51). Table 15s are in dropbox. 
+<br>Table 33 is SSMAs, urban, cities, etc.  <br>
+[Penn T33](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf) is pdf 2-25
+Population Table 95  single year  white/nonwhite  1940; Table 38  u1 1&2 3&4   white/nonwhite, 1940 & 1950; 
+Table 39  5-yr ages    white/nonwhite    1880 to 1950
+
+
+BW: 1950census does not have negro <br>
+1950 For U2, we extrapolate on the full count's 1&2 age group by taking 48.5% of them as the age 1 (based on the 20%-sample counts). Maybe 1960 has full-count data for 1950?    Table 33 NY pdf 23-41
+using the 20% sample (Table 51)   <br>
+Table 51 says 1950 data from 20% sample; says Tab 14,15, 33 are complete count. 
+
+
+US Census of Pop (via my zip 21983999v2p1 probably Vol 2 Part 1) <br>
+Vol I Number of Inhabitants (comprising Series P-A bulletins) <br>
+Vol II Characteristics of the Population (comprising Series P-A, P-B, and P-C bulletins) <br>
+Vol III Special Reports: ... Nonwhite Pop by Race, <br>
+<br>
+Population Volume II   ... compruses 54 parts ... 1. US Summary 2. Alabama  ... 21 Mass
+Looks like I have Pt 1 -- US Summary. <br>  Pt 32 is NY   [ch3](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch3.pdf) for U1 and 2-yr or 5-yr age and sex <br>
+[ch 4](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch4.pdf) Tab 51 for single-year <br>
+Part 38 is [PA](https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38.pdf) tables 15, 33
+<p>Region single year data Table 146 -- based on 20% sample. NE NC Sou West -- Full count Table 61 -- 5yr groupings. We'll need to tally up states.
+</p>
+1950 [Vital Statistics](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_1.pdf) 
+p81 Registered live births and live births adjusted for underregistration, by race and sex: US, 1935-50
+p81 Male births per 1,000 female births, by race: US, 1935-1950 
+1950 Vital Stats [Vol 2](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_2.pdf) p187 live births by race & sex, US and states. pdf193 Table 18 page 187  p324
+
+<p>US total    
+Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single year of age for “White” and for all “Nonwhite”. For our black SR02 in 1950 (100.9), we reduced the nonwhite value by 0.1, based on the difference between the negro and nonwhite sex-ratios for under-age-5 (via Table 97). A 1950 black SR02 of 101.0 results from applying the same correction to the nonwhite SR02 from the spredsheet for 1950 in the National Intercensal Tables: 1900-1990 (released in 2004). </p>
+<p> PE-11 has Nonwhite SR2 is 101.1, census has 101.0 </p>
+
+
+
+**1940**
+Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages. Page 4 has light discussion of under-enumeration of infants.
+
+pdf 35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf) has Phila age by single years
+
+https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p3ch6.pdf NY
+
+1940  98.9 if we use the PE-11 XLS (2004) SR2 adjusted for Black vs Nonwhite for 99.0-0.1     
+2004 PE-11 release for 1940 nonwhite has SR1 98.4  SR1-2 99.5 suggesting heaping    
+1940 census  has u1 and u5 negro  and more detailed for nonwhite. From that
+   negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
+ I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
+
+[**1930**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1930.html)
+<br>See Vol 2 Ch 10 pdf 111 for Illinois
+[1930 Vol 2](https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch11.pdf) for ages, pp674-690  pdf 112-128
+<br>
+SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
+<p>Looking for regional totals: Table 24 has 5yr totals
+<p>
+
+**1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
+Our age data found in [Vol 2, ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    **pdf29** Table 13 single age  Regions and States (states is 188-285   pdf 46-143) 
+<br>[ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
+
+v3 Tables 1 to 13; Table 8 is Ages for cities 
+e.g. [Georgia](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)
+[Kansas etc.](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf)
+[NewYork](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch06.pdf)  NYC Ch4 Table 15 pdf10
+[Ohio, Penn](https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch07.pdf) Table 3, e.g. pdf p3 p769  (Ohio) has u1 u5,  
+<br> W/B use census, based on small difference and 1910-based doubts of PE11 for older data
+DROP IT BY .2 to 98.5
+census SR2 negro 98.4  nonwhite 98.6  
+PE-11 nonwhite 98.7
+
+**1910**  use [census](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
+census SR2 negro 99.2  nonwhite 99.6     PE-11 SR2 nonwhite says 100.8 with very rounded numbers, so I reject, and stick with census 
+1910 Pop [Vol 1](https://www.census.gov/library/publications/1913/dec/vol-1-population.html). [Ch 4](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p6.pdf) has single year ages, including  [major cities](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
+Table 29 is national totals, including the 1910 "negro" values which I found elsewhere. <br>
+ Table 33 has u5 m/f 1880 1890 1900 1910   Table 41 age periods, states <br>
+ Table 43 single year p391 NY
+1910 Vol 2 NOT AGES  has state detail, section for each state, Table 1 has state and county
+
+
+**1900** Much like 1890, single-year for states (Table 2); age-groups for cities    
+vol 1 tables 1-4 NO age data; 
+[vol 2](https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf) <br>
+1900 bulletins 1-60, 61-106
+<br>Bulletin 13, "A Discusssion of Age Statistics"
+[discussion of age statistics](http://www2.census.gov/prod2/decennial/documents/03322287no13.zip) p18 indicates 1890 ages were "age at nearest birthday" and therefore confusion in 0 1 2 age groups  <br>
+To think about: if 11mo olds are rounded up, how does that distort the SR1? It would seem to leave more of the younger, who are more male ...
+<br>
+
+**1890** census
+Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1: US; Table 2 Ages by months, years  : states and territories;  pp104- Table 3 sex by age groups;  Table 4 ages by periods of years of native white; 
+Table 8 Ages by periods of years ... for cities having 25,000 inhab or more 
+
+Vital Statistics Pt 1 (v4?) p514 Table 1 has u1 u5 for US, states, cities?
+
+1890 Bulletins  no. 100 Social Statistics of the Cities
+
+**1880** Vol I, Statistics of the Population ... has single-year ages in Table XXI [Ala-Nevada](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NewHamp-Wyoming](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
+<br>
+VA is pdf33 p636; With enough time, can compile U5 ages for cities,
+1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
+Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf) 
+
+**1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
+
+[**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages.    Vol 1? tables large age group"ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5
+   City-level data for SRs not found. V1 Tab XXV has school age counts.
+
+
+
+
+1860 state-level ages u1 1-5 (as in ICPSR); so use IPUMS full instead
+
+
+### US Census for the Black SR1 ###
+population volumes from 1850 and 1860 give U1, 1-u5, 5-u10 etc, for Whites, Free Colored Slaves.  Negro Population 1790-1915 Ch 4 provides SR1 for blacks 1850, 1860, 1870, 1900, 1910 and explains that 1880 and 1890 includes "indians, chinese, japanese" with blacks. So we need to extrapolate to fill in -- calculate non-white totals 
+
+1940 can't find negro age 2 -- just nonwhite for single yr
+
+https://www.census.gov/prod/www/decennial.html
+
+
+Have nonwhite 1900-2010 ? really
+
+searchable index
+https://www2.census.gov/programs-surveys/popest/FTP2_Key.xlsx
+
+
+https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/pe-11-1910.xls
+
+https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html
+
+
+### Canada sources
+
+#### Vital Stats for Canada -- Provincial?
+
+[Quebec SRB](https://statistique.quebec.ca/en/produit/tableau/births-by-sex-and-sex-ratio-at-birth-quebec)
+Canada & provinces [Lifetables 1999-2001](https://www150.statcan.gc.ca/n1/en/pub/84-537-x/2020001/xls/1999-2001_Tbl-eng.xlsx?st=x5IFJWHw)
+<p>Canada Life Tables [1980/82 to 2017/19](https://www150.statcan.gc.ca/n1/pub/84-537-x/84-537-x2020001-eng.htm)
+</p>
+<p>1975-1995 Catalogue [82-003-XPB](https://www150.statcan.gc.ca/n1/pub/82-003-x/1997003/article/3476-eng.pdf) reports IMR from Canadian Vital Statistics Data Base
+<br>[1991-2019](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1310071201)
+which is titled Table: 13-10-0712-01 (formerly CANSIM 102-0506) 
+Geography: Canada
+
+
+</p>
+
+Maybe https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310011401&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=3.1&pickMembers%5B2%5D=4.3&cubeTimeFrame.startYear=1980+%2F+1982&cubeTimeFrame.endYear=2017+%2F+2019&referencePeriods=19800101%2C20170101
+
+#### Census Sources for Canada
+
+2011 and 2016 [tables](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Index-eng.cfm)
+[2011](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GK=0&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)     
+[2016](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=01&GK=1&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)
+<p>UofT site lists various 1861 and 1851 census volumes. Eg [NS 1851](https://archive.org/details/censusofcana1800cana/page/234/mode/2up?view=theater) with U10 (nothing finer). 1851 NB in 1871 has U6 </p>
+<p>
+[1871](https://archive.org/details/censusofcanada05cana/page/46/mode/2up) Table F in Vol V (vol III is industry, shipping etc.).
+</p>
+[1881](https://www.canadiana.ca/view/oocihm.9_08062/32?r=0&s=1)     
+[1891](https://www.canadiana.ca/view/oocihm.9_08071/5?r=0&s=1) Vol II has U5 singles ages<br>  [1901 vol IV](https://archive.org/details/1901981901FV41906engfra/page/n39/mode/2up)   <br>
+1921 [vol II](https://archive.org/details/1921981921FV21925engfra) U5 single years by province for 1881-1921! <br>
+1931 in dropbox<br>[1931 ages](https://archive.org/details/1931981931FV31935engfra)<br>
+Vol 1 p195 refers to age-heaping and problems of single-year data. Mentions MacLean, [The Age Distribution of the Canadian People, 1931 Census Monograph](https://archive.org/details/1931981931CM21940eng)
+<br>Table 9 has U1 and 1-4 by province, at censuses 1881-1931; Table 11 has 1931 Canada single yrs of age<br>
+Vol 3 has some single-year of age data. Tables 6-10.<br>
+[1941](https://archive.org/details/1941981941fv31946engfra/page/n31/mode/2up) data also at StatsCan, e.g. [Ontario](https://archive.org/details/1941981941M2C51941engfra/page/n55/mode/2up)  <br>1941 Fourth Census of Canada, 1901. Vol. IV, Vital statistics, school etc. <br>
+Table 11 age groups;
+[1951](https://archive.org/details/1951981951FV21953engfra/page/n17/mode/2up) Appendix A p1002
+<br>1951 U5 single-year ages are inferred from census & birth/death registration and immigrants U4
+<br>
+[1961](https://archive.org/details/1961925431962engfra) Note that U4 single-year is inferred from birth/death registrations and U4 immigration. Interesting that Maritimes U5 looks good and U2 does not -- suspicious of the inferential process <br>
+1971?? <br>
+[1981](http://archive.org/details/19819290%7D11982engfra) <br>
+[1991](https://ia802902.us.archive.org/32/items/1991933101992engfra/1991933101992engfra.pdf)
+[online](https://www12.statcan.gc.ca/English/census91/data/tables/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=1&DIM=0&FL=A&FREE=1&GC=0&GID=0&GK=0&GRP=1&PID=71935&PRID=0&PTYPE=4&S=0&SHOWALL=No&SUB=0&Temporal=1991&THEME=101&VID=0&VNAMEE=&VNAMEF=)
+[2001](https://www12.statcan.gc.ca/English/census01/products/standard/themes/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=1&DIM=0&FL=A&FREE=1&GC=0&GID=0&GK=0&GRP=1&PID=55434&PRID=0&PTYPE=55430&S=0&SHOWALL=No&SUB=0&Temporal=2006&THEME=37&VID=0&VNAMEE=&VNAMEF=)
+<br>  
+1871 U2 Canada 103.9  Ont 104.2   Que 102.7   NB 106.5 NS 105.0 (NB NS each <22k)  <br>
+1881 U2 Canada 103.9  Ont 104.5   Que 102.7   NB 105.3 NS 105.4      Toronto 104.2     Montreal 97.1 <br>
+1941 U2 Canada 103.4  Ont 103.5   Que 103.1   NB 103.2 NS 102.3      Toronto 102.9     Montreal 102.5 <br>
+1961 U2 Canada 104.7  Ont 105.1   Que 105.0   NB   <br>
+1971 U2 Canada 104.9  Ont 104.4   Que 105.2 &nbsp;&nbsp;________ Alberta 105.6 BC 104.8
+<br>
+2016 U2 Canada 104.9  Ont 105.0  Que 104.5 
+<br>  
+UofT library offers wide range of Can census [online](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/historical)
+censuses up to 1871 in one volume [online](https://archive.org/stream/censusofcana1800cana#page/252/mode/2up) or [in my dropbox](https://www.dropbox.com/s/z1kfsls00p3un32/censusofcana1800cana.pdf?dl=0).  422 1861 Lower Can   1869 Nwfld  1870 BC  477 Manitoba   491, 499 PEI
+ Censuses [1851 to 1871](https://archive.org/details/censusofcanada05cana/page/2/mode/2up)
+
+[1861](https://www.canadiana.ca/view/oocihm.9_01612/4?r=0&s=1) No 5 & 6 is ages, 
+
+Statistics Canada pubs at Internet Archive [1941](https://archive.org/details/statisticscanada?&and[]=year%3A%221941%22)
+
+<a name="UKIre"></a>
+## England, Scotland, Ireland Data & Results ##
+
+
+### England, Scotland, Ireland ###
+
+<p>
+On SRB in England 1880, from [Plowden's Report on the census of India ... 1881](https://catalog.hathitrust.org/Record/012155211)  (1883 p. 53)  <br>Plowden (India 1881) pdf  1623   In England they do not even publish in any detail the age figures as recorded, but doctor them, sometimes to the extent of 5 per cent., before using or printing them.*   * See Census Report of England and Wales, 1871, Vol. IV., p. 46, and XI
+</p>
+
+### Scotland
+  
+[Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report, [page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0).  
+Great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"  
+Citation: Census of Scotland -- 1861, Population Tables and Report (Number of the inhabitants, families, children at school, houses, ... ), Edinburgh 1862.
+
+Scotland 1861 [age table](https://www.dropbox.com/s/r8w9j9y521809yw/Scotland1861ages.png?dl=0).  Scotland 1851 is with England
+
+
+
+
+
+### Ireland Census
+
+#### Ireland Census 1841
+Report of the Comm ... Census of Ireland for the Year 1841 [At Hathi](https://catalog.hathitrust.org/Record/001306972) or our copy (in SSMM).  
+Note: for illiteracy work, commsnrs p. xxxiv males age 56-65 194,079 40% read&write, 12% read, 48% neither ;   
+
+For Provinces rural/urban SR1, need to add up 12m from County Level Data 
+
+88 lxxx  expectation of life at each year (and maybe basis for IMR?)
+91 lxxxiii  m & f at each age in rural and civic, equated from the general table of ages. Collapses all under 2 into  "1 and under" and those totals match the raw.
+
+101unnum  County Tables
+102unnum  Province of Leinster  103 Carlow
+104p2 County of Carlow   Area Persons Houses Families
+117unnum City of Dublin  
+255unnum Prov Munster
+267p166 City of Cork
+293p192 Co Cork
+388p288 Town of Belfast
+457unnum Summary of the Province of Ulster 458p358
+462p362  Ulster rural/civic by 4-month age-range, 2-5, 5-8, etc  I went county by county to get 1-year olds  
+
+465unnum Province of Connaught 466unnum Galway 
+527p428 Prov of Connaught Summary
+
+533p434 civic is towns containing 2000 persons and upwards
+535p436 cities and towns (pop, etc)
+537p438 Ireland rural/civic by 3-month age, etc
+
+587p488 raw pop by sex and one-year-age for Ireland and Provinces 
+ check vs rur/civ breakdowns, using age 2 males 
+587  Ire 117753        Leinster 26239  Munster 35297
+     91  Ire         103270+14483=
+589 Tables of Deaths
+
+
+#### Ireland Census 1851
+
+75p10 Ci Dublin I ages u1 1-u5 5-u10   .... 20-u30 ... 60+
+79p14 Co Dublin II  read,write, school
+220p158 Galway I ages u1 1-u5 5-u10 etc
+250p188 Ireland civic/rural by month and by single-year
+
+#### Ireland Census 1861
+
+1861 census gives 1851 & 1861 U1 and 1-4 ... 
+
+#### Ireland Census 1881
+Part 1 Area, Houses, and Pop; also the ages, civil or conjugal ...
+ Leinster (we have PDF) 1197p1183
+Vol IV Connaught 13p621 age by year to 5
+We have PDFs of Province summarries, from ProQuest (Js Columbia)
+
+#### Ireland Census 1891
+
+General report, Ireland, 1891
+Table 78. Showing the number of males and females in 1881 and 1891, under 1 year, 1 year and under 5, and in quinquennial period
+
+Part 1, Area, houses, and population, Vol. I Leinster
+vII Munster
+vIII Ulster
+
+Maybe http://www.histpop.org/ohpr/servlet/TOC?path=Browse/Census%20(by%20date)/1891/Ireland&active=yes&mno=439&tocstate=expand&tocseq=37200&display=sections&display=tables&display=pagetitles
+
+### England Census
+
+#### England Census 1881
+page v Table 
+
+
+
+
+#### Time-series for Englnd
+Our british estimates: we accept 1901 forward from
+[S92 NatArchives Database](https://discovery.nationalarchives.gov.uk/details/r/C11521415). That 1901 value is 100.1 and we extrapolate back, based on the 1911 census Table 43, back from 1901 to 1861. CLRIFY THIS: 1911 census has 102.2 (graduated) and 102.1 (Table 43), both close to the S92 value of 102.0;  1901 value of 100.5 (1911Tab43,1901Tab16) 1901 census has 100.6 as the graduated estimate, 100.5 as the value Tab16 via fems/thousand males age 0, in 1901 and 1911 census.  
+1861 PUMS 101.2; 1861 volumes have 100.7; 1911/1901 101.5 Notion that 1861 misses boys ...  1851 estimated midyear is 100.7 vs 1861's ; We extrapolate via 1861 1851 1841 (risk overstating 1841, but it is so low, we can accept?)  
+1851 and 1841 will be extrapolates from 1861. 
+
+
+#### Britain 1901-2018 (official UK stats) ####
+Official UK stats, annually from ONS/National Archive RG 69 [Historic Mortality: 1901-1992](https://discovery.nationalarchives.gov.uk/details/r/C11521415)^[Also [ONS data 1961-2018](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/10727populationestimatesanddeathsbysingleyearofageforenglandandwalesandtheuk1961to2018/ewuksyoadeathspopdata19612018.xlsx), (found at ons.gov.uk search for " Population estimates by single year of age". Also can see 1998, 2008, 2018 data uk population pyramid interactive.]   
+
+Scotland sex by age via [pyramid xls](https://www.nrscotland.gov.uk/files//statistics/population-projections/2018-based/2018-based-scotpop-pyramid-18-based.xlsm)
+age-heap 2001
+
+Also, [HistPop](http://www.histpop.org) has census data fairly conveniently (although it is often busy); might want to look at it compared to the "official" stats?
+
+Note that the 1931 census gives SR1 102.8 while RG69 gives 103.2 (1930 102)
+
+#### Britain before 1902####
+Three main "sources" (the first Brit & Ireland only): [Histpop-The Online Historical Population Reports Website](http://www.histpop.org); Hathitrust; GoogleBooks.    
+Age/sex tables in Census of England and Wales 1901 [General report](https://catalog.hathitrust.org/Record/100424194) with appendices (Harvard library's copy).^[Not in Hathi Census of England and Wales. 1901. Summary tables. Area, houses and population; ...]  
+Compilation error is explained pp. 47-48 (Hathi images 63-64).^[Same source at histpop, in the essays, about pg 3 of them (the one for 1901?)]. Table 16 (p. 209; Hathi 227) offers females per thousand males at 1861 1871 1881 1891 1901 "based on the enumerated numbers at the several Censuses, revised by taking into account the births and deaths in the five years preceding each Census." Table 20 and 21 
+(Hathi 230), Graduated Tables. Page 67 (Hathi 83) "Former Graduated Tables have been based on estimates of population at the middle of the Census year ; the Table for 1901 is based on the population actually enumerated. (para) In addition to this Graduated Table for 1901 ( Table 20 ) we have prepared by the same methods a Table for 1891 ( Table 21 ) . This differs from the Table given in the Report on that Census by including the Army, Royal Navy, &c., abroad , and by representing the enumerated population, not the estimated mid-year population, as well as by the methods of calculation employed."  
+
+1882 Annual report of the Registrar-General for England ... v.45 1882 suppl.. pvii Old and New English Life Tables, based upon the Mortality in 1838-54, and in 1871-80
+
+
+1891  [HistPop](http://www.histpop.org)  
+1881 Hathi Cornell  
+
+#### 1871
+pdf93 ToC for tables Tab42 ages in towns  
+  p46, pdf158p48  estimated ages
+p47 Table 45 Estimated pop at each Yr of Age incl Army etc
+p48 Table 46 Estimated pop at each Yr of Age excl Army, Navy, Marines, Merch Sea
+p49 Table 47 estimates pops, incl army etc
+
+#### 1861 
+SR1 for E&W  
+Scotland via Histpop --
+v3 Hathi -- sr1 for whole country only
+Census of Scotland - 1861: Population tables and report. Number of the inhabitants, families, children at school, houses, and rooms ... xxii Fun for 106 female births and for frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"
+
+#### 1851 
+
+[Our copy](https://www.dropbox.com/s/wlx1h29bjn8uq13/1851CensusGBPopTablesIIVol1Table4-clviiEstimated.tif?dl=0). Sourced from HistPop: [Great Britain **Population tables II,** Vol. I.](http://www.histpop.org./ohpr/servlet/PageBrowser?path=Browse/Census%20(by%20geography)/Great%20Britain/1851&active=yes&mno=30&tocstate=expandnew&display=sections&display=tables&display=pagetitles&pageseq=169&zoom=3) England and Wales. Divisions VII-XI. Scotland. Islands, 1851 Table 4 ... Estimated Numbers living at each year of Age.  
+
+Hathi Versions
+[Population Tables I, Vol II](https://hdl.handle.net/2027/coo.31924092723471) is listings of numbers of inhabitants 1801 1811 ... 1851. It seems Vol I would be same ? 
+
+
+Tables II, Vol I, [Pt 1](https://hdl.handle.net/2027/coo.31924092723463) is only 8 pages, all junk.
+[Pt 2](https://hdl.handle.net/2027/coo.31924092723471) is Pop Tables I, Vol II.
+
+[Population Tables II. Vol II](https://babel.hathitrust.org/cgi/pt?id=coo.31924092723497&view=1up&seq=13) 
+
+The [1851 Population Tables II Vol II](https://www.google.com/books/edition/Census_of_Great_Britain_1851_Population/VZYyAQAAMAAJ?hl=en&gbpv=0) is on Google books. 
+
+Hathi [Census of GB 1851. Tables Pop & Houses ...](https://catalog.hathitrust.org/Record/001886111)  50 pages Probably same as HistPOP preliminary
+
+Hathi Census of G B 1851 [226 pages](https://catalog.hathitrust.org/Record/004678725) reprinted in condensed form ...  5yr only ... (enum or est?)
+
+
+London 1841 is given with and without Lewisham and Hempstead -- probably more rural-like, but too small to matter
+"Original homelots were not divided up extensively until the 1840s, when enriched by the burgeoning whaling industry, New Londoners began to seek land for dwelling houses in outlying neighborhoods close to the center of town."
+From Wikipedia The Official Illustrated Guide to South-Eastern and North and Mid-Kent Railways of June 1863, by George Measom, describes Lewisham as follows: 'Lewisham Station, situated on the slope of an eminence amidst picturesque scenery, beautiful green meadows rising abruptly to the summit of the hill on the left, dotted with handsome residences and gardens, while the Common is seen intersected by various cross roads and studded with country inns and houses on the low ground or valley to the right. The area of the parish is 5,789 acres... Lord of the manor, the Earl of Dartmouth to whom it gives the title Viscount'.  
+
+
+#### **1841**
+ Census results published in 1849 registrar-general report, which gives population by sex and one-year intervals; 1841 abstract table III under5
+
+Reg Gen Report  5th 1843 has life table  ELM 40.17
+Contemporary life-tables put Irish life expectancy just under 30 years and English life expectancy over 41 years, with Irish rates of infant mortality about 3.5 percentage points higher (Ireland Census 1841: lxxx; England, Registrar-General 1841: xvii, xix).
+ 
+1841 lxxx rural male 29.58 (fem 28.90) civic 23.99  32%
+
+Parish register abstract, England and Wales, 1841 for baptism numbers. Not Supplment to the 25th, 35th, ... 1891-1900 The Registrar General's Statistical Review of ... 1921 Does not have baptismal counts. Nor does 1845's Sixth annual report of the registrar-general (Registrar-general's edition) 1851 is 14th.
+
+1841 has raw and corrected? 
+pdf p13bottom "Note" refers to differences in populations given, arising from boundary changes.
+
+pdf92p87 Part II starts, Populations
+England excl military 15884302 incl mil 15914148 (same on pdf237)  
+Londo ex mil 1942336 1948369
+pdf095p090 Counties-House 1841; and Pop ...
+pdf097p092  "" ""   Districts 
+pdf122p116 11 Welsh Div - Houses 1841; and Pop. .. Dists 
+pdf123p118 1 London - Houses 1841; and Pop 1801-1841 subD 
+
+235p230 Part III tables of m & f   derived from census returns
+
+pdf250 2 S E Div Ages of M & F enumerated ... in Districts 
+pdf300 2 S E Div Ages of M & F enumerated ... in Sub-Dists
+ pdf350 5 S W Div ....   in Sub-Dists 
+pdf400 9 York Div ... in Sub-Dists
+pdf425 11 Welsh
+434p427 Part IV 
+   p428   A comparison of the aggregate pop of Eng as given in the census abstracts, with that now published, will be found at pp 440 and 441  ... 1841   minutely explained SEE PDF 447
+Part IV tables of M & f pop of parl counties 1801-1841 and ages 1841
+ 
+ pdf449 p442  Index of Districts
+
+
+### Prussia
+
+Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5   
+Eurostat 2008-2018  Not historical 
+
+
+Die Gemeinden und Gutsbezirke des Preussischen Staates und ihre Bevölkerung: Nach den Urmaterialien der allgemeinen Volkszählung vom 1. december 1871 bearb. und zusammengestellt vom Königlichen Statistischen Bureau, Volumes 2-3 Hathi & Google books -- Under10 school stuff
+
+Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catalog.hathitrust.org/Record/000496591)   5-year age groups    pop by birthplace, by religion,  pdf126p104 m,f 5-year age groups (born 1885-81 1880-76 1871-75 etc)
+   pdf304 ships less than 1 year old
+
+
+
+<a name="IndiaCensus"></a>
+
+### India Census Data
+
+a huge set of census volumes for South Asia (India, Pakistan, Burma, SriLanka) e.g. [1871](https://www.jstor.org/site/south-asia-open-archives/saoa/census-reports-1871-26318834/?refreqid=excelsior%3A0f947b3954352bdb6fe656029bf6dd43) [1881](https://www.jstor.org/site/south-asia-open-archives/saoa/census-reports-1881-26318833/) and many more via [South Asia Open Archives -- Social and Economic History](https://www.jstor.org/site/south-asia-open-archives/saoa/social-and-economic-history-26289342/)
+
+
+
+1871 Mysore SR1 SR1-5 SR6-12   
+1881 census "Report" p. 119 Abstract XLVIII shows SR1 SR2 SR3 SR4 SR0-4 SR5-9 SR10-14 for every region  
+1891    
+1901 [Vol 1A Part 2](https://www.jstor.org/stable/saoa.crl.25352838?seq=1#metadata_info_tab_contents) Good age/sex source, pdf71 pp. 64-102 
+
+#### 1871&1872 census of India
+So far, unable to find much of the age data. Have NWProvs, Mysore, Bombay; Plowden (156pp65-66) gives some Bengal ratios and refers to  Appendix D? 
+
+
+Coorg census -- population is only 168,312
+
+1872 [Bombay Vol 2](https://www.jstor.org/stable/10.2307/saoa.crl.25057641 ) 
+pdf14 p13 there is in the whole of British India, ... an excess of 5 1/2 millions of males over females, or nearly 6 per cent.  Physiological reasons have been assigned for this excess ..
+hot climate to produce an excess of male births, ... early marriage of the girs, and consequent greater maturity of the husbands.  only apparent, being due either to the omission of females due to the low estimation in which they are held, or to their systematic concealment ... 
+
+
+NW Provs [Vol 1](https://catalog.hathitrust.org/Record/100157780)   liv comparisons to England, Austria -- where as expected female share of pop increases over young ages  p lvi  the disparity does exist, and is mainly caused by female infanticide 
+
+NW Provs V1 pp2-3  para8. [possibly tropical reversal of female/male vitality and early marriage bad for female life ]  ...
+
+     some other cause is at work to produce so great a numerical inequality of the sexes: and the info so widely collected in late years, together with the fact that females are more numerous among Mahomedans than Hindoos, and among low castes than high castes, have forced Mr.Plowden (p3) to the conclusion that the disparity is mainly due to the wide prevalence of the practice of female infanticide, including in that workd not merely active deprivation of life but also neglect and disregard in the rearing of girls.
+
+
+
+1871-72 Memorandum  over/under age 12
+
+
+1871 Madras Presidency - Supplementary Reports -- 5-year ages
+1872 Bombay Presidency - [Detailed Returns of](https://www.jstor.org/stable/saoa.crl.25057642?seq=1#metadata_info_tab_contents)   VolIII 37-72 p22- detailed geog age/sex 0 1-5 etc by religion   LT1 data found, see WK4
+
+Central Provinces HIS DISCUSSION -- consistent with misogynistic mortality there. 
+24p21 Section IV Distribution of the population according to sex and age  ... s41 children (12 and under) Central Provinces 52% male which is low -- Bengal 54.5%  NW 54.5% Oudh 54.3%  Berar 53.1%    Argues for liklihood that boys are not undercounted in the LT1 age, that 12-year-old girls likely reported as older (so they can be married off?), but not enough to explain low SR in the 12-20 group  s42 quotes 1865 NW Prov Report "the opinions of the Hindus in regard to females exercise and unfavourable influence on female mortality in the earlier years of life, but this influence is quite insufficent to account for the vast difference which is to be found in the proportion of the sexes in this country compared with others."  TENTATIVE SUM-UP is his p22 claim  "to the superior vitality of males is the preponderance of the male sex due."   
+
+Census of the NW Provinces, 1872.  Part III Sex Statistics
+v1 21toc VI pop by sex Tables L I-IX (paras 85-114)
+
+Oudh Census Tables toward back no age detail (men, women, boys, girls) No sign of data for SR1 Rajput infanticide discussed Appendix J pdf 126   pdf 142 Sultanpoor boys 1880 boys 1157 girls (many more like that, usually smaller total) 
+ 
+
+#### 1881 census -- 
+
+Plowden 3 volums Report on the census of British India
+
+
+1881 Panjab  3 vols #2 527 pages
+Vol II (25057657) 
+
+Plowden vol 3 via Hathi is useless Appendix stuff. 
+People's Archive of Rural India has [Plowden](https://ruralindiaonline.org/library/rooms/census/1881/)
+
+52 cites Hiaeker & Benrouille SBR 105-106 but less so in cities
+
+From 1881 census (Plowden p. 54)   
+    the actual disproportion between the sexes, though it might exist to some extent, and to what extent it was impossible then to say, was not anything like so great as had hitherto been portrayed by the census statistics.
+ ... the nearer we approach to accuracy in the Census of a general population, the more clearly does the fact appear that there is nothing peculiar in this country in the proportion of the sexes; that if there are from 104 to 106 females to every hundred males in Europe, this proportion also obtains in India, that is in all parts of the country where female infanticide is unknown. The truth is that the great bulk of enumerators have been singularly obtuse in comprehending the fact that the counting of females was a matter of any importance in census work. To understand how this is, we must take into account **the low estimation in which females are held in this country,** and also the reticence of the people on all matters connected with their female relatives. In the registration of births and deaths the same error obtains. **The birth or death of a female child is considered such an insignificant matter,** especially among the lower classes of the population, that a great number escape registration in certain districts; and, from the causes adverted, to the numbering of the female population in 1871 was undoubtedly erroneous in so far that many were omitted in the Census schedules. But in districts where the Census work was well done it will be found that the female population is invariably in excess of the male; in fact, the general accuracy of the results of any district may be judged of by the way in which the proportions of the sexes have been recorded."
+
+p56 regarding the Madras census 1881 arguing for big improvement in enumeratio
+
+p57 girls less-effected by the famine
+
+p178  It is obvious that a wave of infecundity has during the last few years swept over at least Northern India, and that the five years between 1876 and 1881 have seen a far smaller number of births than took place between 1871 and 1875.
+
+1891 in SAOA [Census Reports - 1891](Census Reports - 1891)
+Census of India, 1891. [General tables for British provinces and feudatory states](
+https://www.jstor.org/stable/10.2307/saoa.crl.25318666) Poor quality copy -- Use another  [Hathi version](https://catalog.hathitrust.org/Record/100577017)  These have age data, pdf121p98
+
+1901 in SOA [Vol 1A Part 2](https://www.jstor.org/stable/saoa.crl.25352838?seq=1#metadata_info_tab_contents) Good age/sex source, pdf71 pp. 64-102  Punjab 94p87
+
+1901 Memorandum on the age tables and rates of mortality of the Indian ... Hardy, George Francis, Sir, 1855-1914.
+p7 interesting on errors in counts
+
+[Census of India Online](https://censusindia.gov.in/DigitalLibrary/browseyearwise.aspx)
+1911 Punjab
+1911  Appendices to the Imperial Tables, Part III, Vo-XIV, Punjab   NOT AGES
+
+
+#### CDC "Births:Final Data for 20xx ####
+
+annual [Health](https://www.cdc.gov/nchs/hus/previous.htm
+https://search.cdc.gov/search/index.html?query=%22sex%20ratio%22&sitelimit=NCHS&exact=sex%20ratio%20at%20birth#results) reports.
+
+https://www.cdc.gov/nchs/products/vsus/vsus_1980_2003.htm
+vital stats don't have births by sex
+
+[National Vital Statistics  Reports](<https://www.cdc.gov/nchs/products/nvsr.htm>). (Births)
+Most recent (as of 2020 May) seems to be 2018 (SBRs  1.046all 1.052white 1.029black 1.063Asian 1.036Hispanic 1.036Amerind/Alaska 1.022PacficIsle). Looking for SRB discussion later than 2001 report (not 2018, 2015,  YES: 2005 noting downward trend 1970s to 2002 -- citing Mathews&Hamilton (2005 CDC)
+
+Mathews&Hamilton (2005 CDC) [Trend analysis of sex ratio at birth in the United States](<https://www.cdc.gov/nchs/data/nvsr/nvsr53/nvsr53_20.pdf>). Quick read by Jim indicates they don't place a welfare interpretation on the declining SBR 1970s to 2000 ...  1.050  "In 2002 the sex ratio reported for fetal loss was higher than for live births (1,128 compared with 1,048)" 1.0763 -- CDC data
+
+Matin, Hamilton, et al. [Births 2001 (CDC 2002)](<https://data.nber.org/natality/2001/docs/nvsr51_02.pdf>). p8 1046 p9 .... 
+
+CDC Deaths 2017 Infant mortality 
+
+[back to top](#TOC)
+<p>
+LIFE TABLES
+</p>
+UN 1982 ^[https://www.un.org/en/development/desa/population/publications/manual/model/life-tables.asp]
+  https://www.un.org/en/development/desa/population/publications/pdf/manuals/model/lifetables/annex1.pdf
+
+Canada census https://www12.statcan.gc.ca/english/census01/products/standard/themes/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=1&DIM=0&FL=A&FREE=0&GC=0&GK=0&GRP=1&PID=55521&PRID=0&PTYPE=55430,53293,55440,55496,71090&S=0&SHOWALL=0&SUB=0&Temporal=2001&THEME=37&VID=0&VNAMEE=&VNAMEF=
+
+
+https://population.un.org/wpp/Download/Standard/Interpolated/  UN World Population Prospects
+
+
+### South Africa 
+
+At Hathi  1968-1995    Suid-Afrikaanse statistieke : opgestel deur die Buro vir Statistiek, Pretoria = South African statistics : compiled by the Buro of Statistics, Pretoria.  From 1992 or so, got age04 59 data
+
+At Hathi 1970 South Africa Census (subject), No "full view"  -- maybe Columbia has temporary access? 
+
+1891 Cape Good Hope, 1891 Natal:  age by sex for ages 1,2,3,4, and quints thereafter  -- SR1various.wk4 in econhist has the start of tabulating the SR by age   **1891 South Africa** has the heaping at age 0 relative to 1 
+
+South Africa Census 1911, pp. 120-21 (populations by age and sex).
+Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
+241-334 Part 1 Population and Dwellings pdf 241
+242 Census Tables, 1911 ... show tables of pp 7-93  
+335 Census 1911 Annexures to General Report, Part 2   337:Ages of the People
+341p99 Afrik-language TOC   343p101 Part II  Comparative Summmary under/over 15
+346p104 Table IV Numbers re Age 21 (under/over)  348p106 proportions under/over 21, 15
+352p110 Table VII Union and each Province, Proportions re Age 21
+354p112 Table VIII Whites 0-4 5-9 etc  1911 1904
+360p118 Table XII Orange F S, Ages 1911 1904 0-5 
+**single year 1 to 5** 
+362-367 Table XIII Ages Union, and by Provinee, Urban+Rural  pdf362-367 **single year 1-5** 
+
+368 Table XIV Proportions 374p132 Table XV proportions, by race    
+380p138 Table XVI Urban, **single year 1-5** 144 Table XVII Proportions 392p150 TableXVIII proportions 396p154 Table XIX Numbers, single year, centres 2000 and more  402p160 Table XIX continued  408p166 TableXX RURAL    414p172 Table XXI rural proportions  420p178 Table XXII Proportions  424p182 Table XXIII Ages: Union, Provinces, Census Districts  440p198 Table XXIII continued         477- Census Tables Part III Education
+
+[1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa. 
+Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics
+ 163Part3 341p1 372p32 occs & birthplaces
+
+[back to top](#TOC)

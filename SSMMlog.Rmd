@@ -10,8 +10,15 @@ output: html_document
 
 
 ### current log
+<p>2020.0422 Thoughts on our paper 
+Perspectives: 
+<br>Do we need to pay attention to child vs infant mort?
+<br>Maybe issue is whether US is like France and England, with IMR transition after 1900; or like Germany, with IMR transition in 1850/1900 period. Note that [England life expectancy](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/ourpopulationwherearewehowdidwegetherewherearewegoing/2020-03-27) in England grew 1850s to 1900, without IMR decline. I'd say female e0 goes from 42 in 1850s to 47+ by 1900. By early 1930s, female e0 is 62 (so 1/2 decade +5 and 30year +15). 
+</p><p>AggregateMortality vs Urban:  e.g. Condran & Cheney refer to "The mortality decline which accompanied the process of industrialization in Europe and the United States" (p97, first line of their papere); but they actually trace out decline of Philadelphia death rates ("decline of crude death rates between 1890 and 1900").
+</p><p>re: Current Consensus of Mortality. footnote or text pointing out need for care in intertreting repeated references to declining urban mortality, because population redistribution from low-mortality rural areas to high-mortality (but falling) urban areas tends to raise the aggregate mortality rate, even as mortality reductions within areas tends to pull aggregate mortality down.
+<br>E.g. Gallardo-Albarrán on Prussia from 1877-1913 -- reports that infant mortality in German cities "declined by almost half" from the 1870s to WW1 (p731). In conclusion, they write, "This article has studied the causes of the first sustained decline in mortality in Germany by looking at the role of public health infrastructures." Interesting to note the German U5 is 100.5 in 1871, 1880; 100.7 in 1890, 1900; then 101.4 in 1910; big rise comes by 1925 with 103.4. 
 
-<p>2020.0420  Data ready for Jesse to make USA 1900-2000 IMR and SR2 graphs.
+</p><p>2020.0420  Data ready for Jesse to make USA 1900-2000 IMR and SR2 graphs.
 All USA and Canada IMR data entered (vitalstats.xls). All USA age/sex data entered (USkidsforR.xls). Next: L data .. 
 <p>Use 1940 Negro U5 and U1 to extrapolate single-year age values from the nonwhites in PE-11 for that year. I use Negro SR01 and SR05, I assume age1 SR is same as age 1to4 (via U5-U1), and assume age1 is the same fraction of ages1-4 as in the nonwhite PE11 data. That gives me age 0 and age 1 girls, boys are via SR. Then scale up/down via PE11 nonwhitepop relative to cenvol nonwhite pop.
 Maybe do a simpler way? NonNegroNonWhite are 5% of Nonwhites. so the Nonwhite sex ratio is    5% * NonNegroSR + 95% * NegroSR
