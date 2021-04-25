@@ -12,6 +12,8 @@ output: html_document
 
 ### to organize/move ###
 
+[Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf)
+
  Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   
 
 
@@ -77,9 +79,12 @@ Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 
 
 Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
 
-*also see the PDF on 20thC US for linked sources, in our B/W page
+* also see the PDF on 20thC US for linked sources, in our B/W page
 
+[1961 Vital Stats](https://www.cdc.gov/nchs/data/vsus/vsus_1961_1.pdf) live-births by sex, 1-28, pdf 
+1962 t15 pdf       pg 1-30 pdf38 by state
 
+[1979 Vital Stats]()
 
 20th C sources   
 
@@ -245,7 +250,7 @@ p81 Registered live births and live births adjusted for underregistration, by ra
 p81 Male births per 1,000 female births, by race: US, 1935-1950 
 1950 Vital Stats [Vol 2](https://www.cdc.gov/nchs/data/vsus/VSUS_1950_2.pdf) p187 live births by race & sex, US and states. pdf193 Table 18 page 187  p324
 
-<p>US total    
+<p>US total for CEA paper, Jim extrapolated from the 1960 black/nonwhite ratios by sex: U2 for ages 0 and 1; Age2to4 for ages 2, 3, 4 (U2 and 2-5) to avoid noise.</p>
 Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single year of age for “White” and for all “Nonwhite”. For our black SR02 in 1950 (100.9), we reduced the nonwhite value by 0.1, based on the difference between the negro and nonwhite sex-ratios for under-age-5 (via Table 97). A 1950 black SR02 of 101.0 results from applying the same correction to the nonwhite SR02 from the spredsheet for 1950 in the National Intercensal Tables: 1900-1990 (released in 2004). </p>
 <p> PE-11 has Nonwhite SR2 is 101.1, census has 101.0 </p>
 

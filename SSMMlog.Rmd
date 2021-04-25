@@ -10,8 +10,24 @@ output: html_document
 
 
 ### current log
-<p>2020.0422 Thoughts on our paper 
-Perspectives: 
+<p>2021.0425 first priority is when start our "reliable IMR" plot (how long before 1933 can we go?) Preston & Haines work with the 1900 census question about surviving kids is a place to look  </p>
+<p>    2021.0424  u2 and u5 census-volume data mostly in RDS files now, but only total pops (not much in the way of cuts, like urban/rural or white/black). Jim will wait to hear from Jess for data priorities for first draft ...
+
+HMD life-table implied SRB is 104.5 but their births count has SRB 105.6.
+Similiar bias in 1960, LT-SRB of 104.1 and count SRB 104.9</p>
+<p>2020.0423 
+HMD births data for USA, 1933 onward.  1960 SRB is only 104.9 while 1950 was 105.4 and 1970 105.5<br>
+<br>HMD US death rates for age0 start in 1933, with 64/1000 ... those death rates seem to be reproduced in the Life Tables (1933 matches, for example).
+<br> female0.056350    male0.071157     overall0.063883
+<br>1933 period life table has q0 0.05861 
+<br>
+HMD [USA notes](https://www.mortality.org/hmd/USA/InputDB/USAnote.pdf) say The population counts from PE-11 appear to be consistent with the population counts
+published in P25-311 (Bureau of the Census, 1965, Current Population Reports.
+Population Estimates. Series P-25, No. 311. Estimates of the p
+</p>
+<p>2020.0422
+</p><p>Data validity issues (Jim's department, mostly): we need to identify key discrepencies between fullPUMS and cenVolumes. And we need our proposed "best" estimates of SRs, based on the two sets of "data" (fullPUMs and cenVol tabulations of the manuscripts).
+</p><p>Thoughts/Perspectives on the paper: 
 <br>Do we need to pay attention to child vs infant mort?
 <br>Maybe issue is whether US is like France and England, with IMR transition after 1900; or like Germany, with IMR transition in 1850/1900 period. Note that [England life expectancy](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/ourpopulationwherearewehowdidwegetherewherearewegoing/2020-03-27) in England grew 1850s to 1900, without IMR decline. I'd say female e0 goes from 42 in 1850s to 47+ by 1900. By early 1930s, female e0 is 62 (so 1/2 decade +5 and 30year +15). 
 </p><p>AggregateMortality vs Urban:  e.g. Condran & Cheney refer to "The mortality decline which accompanied the process of industrialization in Europe and the United States" (p97, first line of their papere); but they actually trace out decline of Philadelphia death rates ("decline of crude death rates between 1890 and 1900").

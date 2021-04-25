@@ -1,0 +1,19 @@
+---
+title: "USdatadiscreps"
+author: "jim"
+date: "22/04/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Discrepencies to Decode ##
+<p>1870 Franklin MA age0 348 349  age1      total    fullpums
+</p>
+
+<p>Jim to propose estimates of 1890 U2 by region, accepting the U5 values, but reshuffling among ages by distributing girls-by-age from a life table, then distributing boys via ?
+DETAILS: 1890 census age-question was newly worded, and the 1900 and 1910 census volumes include discussion of the resulting problems in counts at age 0 and 5 (far fewer than usual at 4, extra at 5, because age at nearest birthday take 4.51 yrs to 5). I thinking we take the 0to5 or 0to4 population, and allocate it to ages
+to replicate a life-table pattern consistent with the observed over 0to5 (U5+5) sex ratio. For example, New England's 1890 SR06 is 102.0  and the SR5 is 102.1  -- we'll use the latter (against my prior, that lower makes more sense in 1890).  209,170 u5girls.  
+</p>
