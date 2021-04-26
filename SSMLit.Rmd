@@ -609,13 +609,36 @@ Ontario mortality below national average, signifcantly lower than rates in Quebe
 
 ### USA
 
+https://www.washingtonpost.com/news/wonk/wp/2014/09/29/our-infant-mortality-rate-is-a-national-embarrassment/
+
 Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to the Present.” Journal of Economic Literature 53 (3): 503–7 LOOK AT --
 
+<p>Sorting out US infant mortality -- at what time do we start to have fairly reliable IMR values? Recall that England & Wales are deemed to have reliable IMR estimates.
+<br>HSUS series  1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2. For 1915-1933 these are for Birth Registration States only.
+<br>For the total and white populations for 1850-1910, and for the black population for 1900 (actually 1896) and 1910 (actually 1904), Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998):149-169. Note that Preston and Haines' q0 estimates have a wide range. 
+<br>q5 177   147    (176 197 173)
+<br>q0 153   NA     (120 132 112)
+</p><p>Birth Registration States
 
+<br>1915 New York	Connecticut	Michigan	Minnesota
+<br>1916 Maryland
+<br>*1917* North Carolina	Kansas	Indiana	Kentucky	Utah	Virginia	Washington	Wisconsin	Ohio
+<br>1919 South Carolina California Oregon
+<br>1920 Nebraska
+<br>1921 New Jersey Mississippi Delaware 
+<br>1922 Montana Wyoming Illinois
+<br>1924 Iowa Florida North Dakota
+<br>1925 West Virginia
+<br>1926 Idaho
+<br>1927 Arizona Arkansas Tennessee Louisiana Missouri Alabama
+<br>1928 Colorado Oklahoma Georgia
+<br>1929 New Mexico Nevada
+<br>1932 South Dakota
+<br>1933 Texas
+ 
 
-<p>MOVE THIS TO CDC DATA AREA -- Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
-<p>Period: "A period life table is based on, or represents, the mortality experience of an entire population during a relatively short period of time, usually one to three years. Life tables based directly on population data are generally constructed as period life tables because death and population data are most readily available on a time period basis.
-<br>A cohort, or generation, life table is based on, or represents, mortality experience over the entire lifetime of a cohort of persons born during a relatively short period of time, usually one year
+... so issue #1 -- how does 
+
 </p>
 
 <br>
@@ -714,10 +737,7 @@ and Haines, 1991, 36-39; Taeuber and Taeuber, 1958, 274-275).
 
 Haines (2001 nber -- see Annals article): 1870 to 1940 mortality decline (like NYC -- see LOG)
 
-<br>Easterlin (2000) Camb Ec Hi 20C Although mortality has been reduced dramatically in this century, there
-have been periods of more and less rapid decline. From 1900 to 1954 the
-rate of decline was high, with the greatest drop occurring from 1936 to
-1954 (see Table 9.2). 
+<br>Easterlin (2000) Camb Ec Hi 20C Although mortality has been reduced dramatically in this century, there have been periods of more and less rapid decline. From 1900 to 1954 the rate of decline was high, with the greatest drop occurring from 1936 to 1954 (see Table 9.2). 
 <br>Haines (2000) Camb Ec Hi 19C
 p173 Consistent control of mortality in terms of a sustained decline and a damping of mortality peaks only comes after the 1870s
 
@@ -734,28 +754,34 @@ Brass 2PL white
 1860 SRL0 98.7   q0m  0.188    q0f  0.175 SRq0
 1900 SRL0 98.6   q0m  0.128    q0f  0.112
 
-
-Condran & Preston (1992) on declines in American child mortality between 1900 and 1930
-
-Preston & Haines (1991) *Fatal Years* 1900 IMR and childMR rates (or 1895, retrospective source)
+<p>Condran & Preston (1992) on declines in American child mortality between 1900 and 1930</p>
+<p>Preston & Haines (1991) *Fatal Years* 
+<p>xviii Our census sample suggests that child mortality had been declining in the two decades before 1900 for whites and for the total population.</p>
+<br>1900 IMR and childMR rates (or 1895, retrospective source)
 <br>p49 Little is known about trends, levels, and differentials in American mortality in the nineteenth century. It is not altogether clear when or even whether mortality declined in the United States during the period 
-<br> description of Death Registration Area (DRA) and discussion of mortality data
-<br>p50 Mass 1842 starts vital registration  Gutman 1956  
-"By 1860, the Mass death registration were quite good"
-<br>p52  Table 2.2 compiles previous estimates of nineteenth-century mortality in the United States. ...  available life table information. On the whole, the results indicate little or no decline before the 1870s, higher mortality in urban areas, and much higher mortality among blacks. <br> By the 1890s, it is likely that mortality was declining in both rural
-and urban areas, although the absence of high-quality data of national scope leaves the matter open. <br>Whatever the progress of the mortality decline in nineteenth-century America, accurate data on mortality levels become available for part of the country with the formation of the Death Registration Area in 1900
+<br> description of Death Registration Area (DRA) and discussion of mortality data <br>p50 Mass 1842 starts vital registration  Gutman 1956   <br>"By 1860, the Mass death registration were quite good"
+[Useful discussion of DRA relative to USA]
+<br>*p51*  ... Higgs (1973) argues that mortality began its decline in rural America in the 1870s and that the decline took place largely as a result of improvements in diet, nutrition, housing, and general levels of living and without much assistance from public health. Meeker (1972, 1974) contends that mortality improved little if at all before about 1880 ... Both analysts use a variant of intercensal survival analysis ...which produces virtually no information on mortality in early childhood.
+<br>*p52* Table 2.2 compiles previous estimates of nineteenth-century mortality in the United States. The data are confined to available life table information. On the whole, the results indicate little or no decline before the 1870s, higher mortality in urban areas, and much higher mortality among blacks. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;  By the 1890s, it is likely that mortality was declining in both rural and urban areas, although the absence of high-quality data of national scope leaves the matter open.
+<br>Whatever the progress of the mortality decline in nineteenth-century America, accurate data on mortality levels become available for part of the country with the formation of the Death Registration Area in 1900
 <br> presents Haines 1979a e0 at census years <br>
 male 1850 36.5 1860 40.7 1870 42.1 1880 38.2  1890 43.9  1900 46.3<br>
 wmale 1850 37.7 1860 na 1870 43.1 1880 39.6  1890 45.1  1900 47.6<br>
 and Fogel 1860 value which is similar
- Table 2.3  DRA values white IMR .124  urb .138  rur .100  black .234 
-<br>p98 Child Mortality Index Cleveland stands out for much lower mort, under 1/2 of NYC or Bost
-
+Table 2.3  DRA values white IMR .124  urb .138  rur .100  black .234 </p>
+<p>p58 Tab 2.3 US-DRA q1 (IMR) 1900/02 124  1909/11 115  (England 1890s 156 1900s 131) q5 1900/02 182  1909/11 161  </p>
+<p>p67  If we make the reasonable assumption that the West model life table system pertained in the period 1880-1900 roughly as accurately as it did in 1900, then children of older women were clearly subject to higher mortality conditions than were children of younger women.<br>
+These estimates thus suggest that a substantial reduction in child mortality occurred prior to the census of 1900, an implication consistent with some of the research cited earlier in this chapter</p>
+<p>p72 THEY TEASE OUT mid80s to mid90s e0 increases 2.8 years -- 11 years, improvement in level was 1.22 -- Model West 13.68 to 12.46</p>
+<p>p73 Other sources, using different indirect procedures but without direct information on child mortality, have also suggested that mortality declines were occurring in the United States during this period (Higgs 1973, 1979; Meeker 1972; Haines 1979a; D. S. Smith 1983). Direct evidence from registration data (for the limited number of states and cities that had registration systems in place) also points to mortality decline for infants and for children aged 1-4 years in the 1890s (Condran and Crimmins 1980: Table 1)</p>
+<p>Referring again to Figure 2.1, it can be seen that *estimates of q1 and q2 are much less consistent than those at more advanced ages.*  ... Before discarding age-model estimates for q(1) and q(2), we experimented with alternative age groupings for women. ... results ... showed an even less regular pattern ... </p>
+<p>p74 To derive a single best estimate of child mortality conditions in the United States near the turn of the century. we amalagamated the q(3), q(5), and q(10) estimates from the three different estimation procedures.  *The estimate of a q(5) of .180 for 1895 is probably the single most robust estimate* of childhood mortality that we can make based on the census sample</p>
+<p>p98 Child Mortality Index Cleveland stands out for much lower mort, under 1/2 of NYC or Boston</p>
 <br> p208 "the mortality decline since (p209) the middle of the 19th c" alluding to McKeown's explanation for "British mortality improvements between 1848 and 1972"  
-
-p208 1900 U5MR 18%  "Its population was also highly literate and exceptionally well-fed."  "The high level of mortality that existed amidst the relatively affluent American population"   
-p209 Further evidence that lack of know-how rather than lack of resources was principally responsible for foreshortening life in the United States in the 1890s is the pattern of social-class differences in child mortality.    ... Particularly telling is the mortality of offspring of doctors, which was only 6 percent below the national average.
-p210 race  and size of place  "Larger cities had higher child mortality in the late nineteenth century, despite having administrative structures that facilitated the introduction of public-health measures"
+<br>p208 1900 U5MR 18%  "Its population was also highly literate and exceptionally well-fed."  "The high level of mortality that existed amidst the relatively affluent American population"   
+<p>p209 Further evidence that lack of know-how rather than lack of resources was principally responsible for foreshortening life in the United States in the 1890s is the pattern of social-class differences in child mortality.    ... Particularly telling is the mortality of offspring of doctors, which was only 6 percent below the national average.</p>
+<p>p210 race  and size of place  "Larger cities had higher child mortality in the late nineteenth century, despite having administrative structures that facilitated the introduction of public-health measures"</p>
 
 <br> Forum on *Fatal Years* in *Health Transition Review* 1991
 
@@ -808,7 +834,7 @@ Chicago falls from 139 to 108 (raise SR by 0.6 101.7 to 102.3)
 
 <a name="MASSdem"></a>
 
-### MASS Mort
+### Massachusetts Mortality
 
 <p>Alsan & Goldin (2019 JPE) 1880-1920 sse below for [MASSdem](#MASSdem) 
 <br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
@@ -833,26 +859,7 @@ Chicago falls from 139 to 108 (raise SR by 0.6 101.7 to 102.3)
 <br>Appendix A refers to Secretary of the Commonwealth of Massachusetts,
 Report on Births, Marriages, and Deaths  
 </p>
-
-Preston & Haines (1991) *Fatal Years*
-<p>xviii Our census sample suggests that child mortality had been declining in the two decades before 1900 for whites and for the total population.</p>
-<p> p50 Little is known about trends, levels, and differentials in American mortality in the nineteenth century. It is not altogether clear when or even whether mortality declined in the United States during the period. 
-[Useful discussion of DRA relative to USA]
-<br>*p51*  ... Higgs (1973) argues that mortality began its decline in rural America in the 1870s and that the decline took place largely as a result of improvements in diet, nutrition, housing, and general levels of living and without much assistance from public health. Meeker (1972, 1974) contends that mortality improved little if at all before about 1880 ... Both analysts use a variant of intercensal survival analysis ...which produces virtually no information on mortality in early childhood.
-<br>*p52* Table 2.2 compiles previous estimates of nineteenth-century mortality in the United States. The data are confined to available life table information. On the whole, the results indicate little or no decline before the 1870s, higher mortality in urban areas, and much higher mortality among blacks. 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;  By the 1890s, it is likely that mortality was declining in both rural and urban areas, although the absence of high-quality data of national scope leaves the matter open.</p>
-<p>p58 Tab 2.3 US-DRA q1 (IMR) 1900/02 124  1909/11 115  (England 1890s 156 1900s 131) q5 1900/02 182  1909/11 161  
-</p><p>p67  If we make the reasonable assumption that the West model life table system pertained in the period 1880-1900 roughly as accurately as it did in 1900, then children of older women were clearly subject to higher mortality conditions than were children of younger women.<br>
-These estimates thus suggest that a substantial reduction in child mortality occurred prior to the census of 1900, an implication consistent with some of the research cited earlier in this chapter
-</p><p>p72 THEY TEASE OUT mid80s to mid90s e0 increases 2.8 years -- 11 years, improvement in level was 1.22 -- Model West 13.68 to 12.46
-</p><p>p73 Other sources, using different indirect procedures but without direct information on child mortality, have also suggested that mortality declines were occurring in the United States during this period
-(Higgs 1973, 1979; Meeker 1972; Haines 1979a; D. S. Smith 1983). Direct evidence from registration data (for the limited number of states and cities that had registration systems in place) also points to mortality decline for infants and for children aged 1-4 years in the 1890s (Condran and Crimmins 1980: Table 1)
-</p><p>
-p74 The estimate of a q(5) of .180 for 1895 is probably the single most robust estimate of childhood mortality that we can make based on
-the census sample
-</p><p>
-</p>
-Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7) 
+<p> Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7)  </p>
 
 
 

@@ -88,6 +88,8 @@ Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/)
 
 20th C sources   
 
+[1992 Vital Stats](https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf) for HSUS IMR 1915 on. pdf p507
+
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 <br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
 </p>

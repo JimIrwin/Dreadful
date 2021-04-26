@@ -10,7 +10,31 @@ output: html_document
 
 
 ### current log
-<p>2021.0425 first priority is when start our "reliable IMR" plot (how long before 1933 can we go?) Preston & Haines work with the 1900 census question about surviving kids is a place to look  </p>
+<p>2021.0426 
+<br><p>Possible revisions: Part 1 plots on a 1850 to 2000 time-scale (x-axis); IMR plots with Y axis range 0 to 300 (possibly LN -- constant slope is constant rate of decline) </p>
+<p>suggested wording for outline:
+<br> * There was a veritable collapse in the infant mortality rate (IMR) in the USA from the 19th century to the later 20th century -- from IMR values on the order of 10 to 20 percent or more, to values under 1 percent by the 1990s. 
+<br>DETAIL: Research to date puts US IMR values in mid-nineteenth-century America in excess of 150 per thousand (HSUS, Hacker 2010).^[IMR values for the US in the 19th century are quite conjectural, but it seems likely that the US infant-mortality experience circa 1850-1860 was comparable to that of England and France and Germany.] By the early 1990s, rates under 10 per thousand were a source of national embarrasment (with the USA consistently ranked outside the top 15 nations; see e.g. Liu, Moon, Sulvetta, Chawla [1992:105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193257/) on "The very unfavorable infant mortality ranking of the United States in international comparisons."^[The US ranking has only gotten worse since Liu et al. wrote: 30th in 2005 MacDorman and Mathews [2009](https://www.cdc.gov/nchs/products/databriefs/db23.htm#highinfant); 47th in the World Bank's IMR [Table for 2019](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN), accessed 2021.0426]
+</p><p>* However, beyond our confidence in enormous improvements since the 19th century, there is a remarkable lack of basic empirical knowledge on the timing of the _mortality transition_. As Preston and Haines (1991:49) pointed out over three decades ago,
+
+>  Little is known about trends, levels, and differentials in American mortality in the nineteenth century. It is not altogether clear when or even whether mortality declined in the United States during the period
+
+</p><p>* For the US as whole, the IMR is available starting in 1933, when national registration of births and deaths commenced (as Texas was added to the birth and death registration areas (BRA, DRA)).^[Registration of Births by/with the federal government started in 1915 with NY; over time additional states were  brought into the BRA] dates back only to 1933.] That series is plotted as a DARK GREEN (Jim hopes) line below -- which starts at about 50 per 1,000. The DK GREEN line traces out substantial progress in reducing infant mortality over the last 2/3 of the 20th C. But it is also appears that the most of the progress in reducing infant mortality from high mid-19th- century levels had occurred by the time for which relatively robust/reliable IMR estimates are available. 
+
+</p><p>*  Our knowledge of mortality generally and infant mortality specifically (our focus), is (impaired/prevented/blocked/blunted) by a lacunae/lack reliable data on births and deaths.
+
+</p><p>* From **1915**-1933, we have IMR from the Birth Registration Area, a subset of the US. Treating that as at least suggestive of national trends, we see evidence of IMR on the order of 100 at the time of WWI. Again, suggesting important progress in the 20th C, while still leave open the question of when the US escaped the NAME-THE-PEAK? -- leave alone questions of where and when and whom and how or why. 
+
+</p><p>* Before 1914, IMR is estimated using life table models, calibrated to census data. These are very conjectural. Suggest that circa 1850 the USA was like England or France  (not surprising for a country where 1/7 of the pop were enslaved; surprising for a rural place ... )
+</p><p>
+
+
+</p><p>2021.0425 targets: PLOTS; timing of IMR data-quality</p>
+<p>Jim proposes to use HSUS-IMR for 1915 forward,  
+Looking for 1935 IMR or death rates in 1920's BRA and non-BRA.
+</p>
+<p>Conjecture: 2q5 (mortality risk ages 2,3,4) is too small to generate variation in the SR5.
+</p><p>first priority is when start our "reliable IMR" plot (how long before 1933 can we go?) Preston & Haines work with the 1900 census question about surviving kids is a place to look  </p>
 <p>    2021.0424  u2 and u5 census-volume data mostly in RDS files now, but only total pops (not much in the way of cuts, like urban/rural or white/black). Jim will wait to hear from Jess for data priorities for first draft ...
 
 HMD life-table implied SRB is 104.5 but their births count has SRB 105.6.
