@@ -36,6 +36,10 @@ Richards (1909) "A Study of New England Mortality"
 
 ## Data Sources and Links ##
 
+HMD is perhaps key, I look for q0 in England and Wales, Civilian National Population, Life tables (period 1x1), Total	Last modified: 10 Jul 2020;  Methods Protocol: v6 (2017)
+
+Europe IMRs in B. R. Mitchell (1998), International Historical Statistics Europe 1750-1993 4th edition  pdf140
+
 ### UN Sources ##
 
 re: Demographic Yearbook  https://unstats.un.org/unsd/demographic-social/products/dyb/documents/techreport/ageandsex.pdf
