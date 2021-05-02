@@ -10,10 +10,16 @@ output: html_document
 
 
 ### current log
-<p>2021.0426 
-<br><p>Possible revisions: Part 1 plots on a 1850 to 2000 time-scale (x-axis); IMR plots with Y axis range 0 to 300 (possibly LN -- constant slope is constant rate of decline) </p>
+<p>2021.0501 Canada's IMR series starts in 1921 (looks OK)^[lacks Newfoundland until 1948; Quebec incomplete until 1926; SC 82-549 1993 Table 1 note 4 )].
+<br>**early 1920s IMR of about 100**
+</p><p>2021.0426 
+<br><p>Suggested revisions:
+<br>First plot could include a variety of IMR estimates for the 1850s -- England, France, Haines-US, Hacker-white-US,
+<br>Part 1 plots on a 1850 to 2000 time-scale (x-axis); Part 1 IMR plots with Y axis range 0 to 300 (possibly LN -- constant slope is constant rate of decline)
+<br>All SR plots on a 95 to 110 scale ... Thinking we deem a 1-point change in a SR to be big ... On my proposed scale, that 1-point change will be about 6% of the vertical space of the graph.
+</p>
 <p>suggested wording for outline:
-<br> * There was a veritable collapse in the infant mortality rate (IMR) in the USA from the 19th century to the later 20th century -- from IMR values on the order of 10 to 20 percent or more, to values under 1 percent by the 1990s. 
+<br> * There was a veritable collapse in the infant mortality rate (IMR) in the USA from the 19th century to the later 20th century -- with infant mortality falling from 15 to 20 percent or more, to less than 1 percent by the 1990s. 
 <br>DETAIL: Research to date puts US IMR values in mid-nineteenth-century America in excess of 150 per thousand (HSUS, Hacker 2010).^[IMR values for the US in the 19th century are quite conjectural, but it seems likely that the US infant-mortality experience circa 1850-1860 was comparable to that of England and France and Germany.] By the early 1990s, rates under 10 per thousand were a source of national embarrasment (with the USA consistently ranked outside the top 15 nations; see e.g. Liu, Moon, Sulvetta, Chawla [1992:105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193257/) on "The very unfavorable infant mortality ranking of the United States in international comparisons."^[The US ranking has only gotten worse since Liu et al. wrote: 30th in 2005 MacDorman and Mathews [2009](https://www.cdc.gov/nchs/products/databriefs/db23.htm#highinfant); 47th in the World Bank's IMR [Table for 2019](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN), accessed 2021.0426]
 </p><p>* However, beyond our confidence in enormous improvements since the 19th century, there is a remarkable lack of basic empirical knowledge on the timing of the _mortality transition_. As Preston and Haines (1991:49) pointed out over three decades ago,
 
@@ -27,8 +33,8 @@ output: html_document
 
 </p><p>* Before 1914, IMR is estimated using life table models, calibrated to census data. These are very conjectural. Suggest that circa 1850 the USA was like England or France  (not surprising for a country where 1/7 of the pop were enslaved; surprising for a rural place ... )
 </p><p>
-
-
+2021.0428 1870 PUMS new england seems low, by 0.4 points ...
+</p></p>
 </p><p>2021.0425 targets: PLOTS; timing of IMR data-quality</p>
 <p>Jim proposes to use HSUS-IMR for 1915 forward,  
 Looking for 1935 IMR or death rates in 1920's BRA and non-BRA.

@@ -14,8 +14,39 @@ output: html_document
 <p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 Possible headings to come: Historical applications, Other historical literature, Other literature  
 
+### Input for CEA paper ###
 
-### to check ###
+<p>Arguably, before the IMR decline, England sees some rise in e0, for males, after ~1880 about 40+ to 45- years; for females, after about 1870,  from 42 to 48 years [ONS e0 estimates](https://www.ons.gov.uk/visualisations/dvc775/fig4/line_chart1/datadownload.csv)
+Also, see Fig 3.3 on p24 of [Emily Clay's paper](https://www.soa.org/globalassets/assets/files/resources/essays-monographs/2014-living-to-100/mono-li14-4a-clay.pdf))
+England (and Wales) e0m ~40 yrs 1850-80, e0f ~42 yrs 1850-1870;  with IMR about (153-162; 1890s e0 44 yrs, q0 144.3 (IMR (137-163; the 137 in 1894; 1899 163) 150. 
+<br>England & Wales see life expectancy (e0) increase by about 4 yrs in the last 1/2 of the nineteenth-century, with IMR staying up at about 
+<br>UK ONS [Life Expectancy](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howhaslifeexpectancychangedovertime/2015-09-09#:~:text=Life%20expectancy%20at%20birth%2C%20England%20and%20Wales%2C%201841%20to%202011&text=A%20newborn%20boy%20was%20expected,higher%20number%20of%20infant%20deaths.) [Their Data](https://static.ons.gov.uk/visual/2015/09/life_expectancy_1841-20111.csv) Look at data to see male e0 1840, 1850
+has 1851 male e0 40 (39.91) q0? and 1901 49 (48.53) q0 144.3  -- that ~9-year gain came without a change i IMR
+<br>1931 male e0 ~59 IMR ~63
+</p><p>
+Easterlin (1999 EurRevEcHi) "How beneficent is the market? A look at the modern history of mortality"
+<br>(Abstract, p257) A short answer is, not very. In contrast to economic growth, where the free market is commonly viewed as a prime mover, mortality in the last two centuries has not been greatly helped by market forces. The classic sources of market failure - information failures, externalities, public goods, principal-agent, and free rider problems - have been pervasive. Nor has economic growth itself been behind the worldwide improvement in life expectancy. In the primitive state of nineteenth century health knowledge, the immense rise in urbanisation engendered by economic growth largely vitiated any positive level-of-living effects by increasing exposure to disease. Instead, public policy initiatives, based on new knowledge of disease and new institutions, have been essential to the improvement of life expectancy, both in urban areas and nationwide.</p>
+<p>p257 The concept of human development has recently emerged to rival economic development as a worldwide objective of public policy ... In assessing human welfare, advocates of this concept would, at a minimum, place indicators of social conditions, notably life expectancy and educational achievement, on an equal footing with traditional economic measures like GDP per capita and a poverty index ... political and civil liberties. In this article, I focus on only one of the proposed new measures, life expectancy at birth (referred to subsequently
+simply as life expectancy).
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it is fair to say that, so far as life expectancy is concerned, the common reaction among many economists and economic historians is scepticism of the broader measure of human development. This is because improved life expectancy is typically viewed as a natural by-product of <p258> economic development or of the institutional conditions that foster economic development. Thus, elevating life expectancy to the status of a social goal commensurate with economic growth raises no issues that are not already being dealt with in the study of economic growth and its determinants.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is this view to which the present article is addressed. Specifically, the questions of concern here are: (1) is life expectancy largely or wholly a function of economic growth? (2) If not, are the conditions commonly taken to foster economic growth, namely, free markets, private property, and freedom of contract, also responsible for promoting the advance of life expectancy? As a basis for forming tentative answers to these questions, this article examines the nature and causes of the historical improvement in life expectancy
+over the period chiefly from 1800 to 1950.
+</p>
+<p>p261 This Section addresses the presumption that the historical improvement in life expectancy is due to the favourable effect of economic growth on living levels.3 It first presents evidence that the long term trends in life expectancy and economic growth are not closely related, drawing on the record of six countries with relatively good data. It then considers why the relationship between the two has been quite weak in the historical past (see also Kunitz and Engerman 1992). 
+<br>p262 **WARNING** Easterlin's choice of 1871 for "take-off" of e0 is very strange -- it relies on decadal life-table values, and has the following values for male e0 q0: <br>
+1861 40.51 q0 178, 1871 39.22 q182, 1881 44.18 146, 1891 41.94 177, 1901 45.40 177, 1911 49.36 146.54, 1921 55.98 88.4; (1861 female q0 143.5 e0 43.0) 
+<br> in short -- Those life tables do show 1861 & 1901 with same IMR (178,177) and 5 years different life expectancy. And the same pattern is evident in Mitchell's annual series of e0 and q0. But is there any empirical validity to the e0? Or is it just more life-table BS?
+<br>
+FIGURE 2 Easterlin's 1871 **"take-off"** of e0 -- I average m&f e0 in Mitchell's EHS, there  e0 is 41 1869/71 and 43 1877/79 44 1880/84  45 1886/92 in the early 1890s and 46 by 1900 ... My reading: 1850-71 40-41 yrs  1881-85 45 yrs  1888-1900 46 yrs  
+<br>**CAUTION** Easterlin relies on Keyfitz and Flieger (1968) pp36-39 show summary stats from Life Tables. p520 the Life Tables have (male) 1861 q0 177 e0 40.5; 1871 q0 178.5 e0 39.22; 1881 q0 146.74 e0 44.185  
+1861 female q0 143.5 e0 43.0 ; 1871 
+
+<br>Kunitz (1983 EHR) Ji: I think this is consistent with 19thC IMR flat; declines come in 20thC
+"Speculations on the European Mortality Decline"  variety of explanations have been offered for the decline in Euro-
+ A pean mortality which began in the seventeenth century and accelerated in the eighteenth and nineteenth centuries
+ p355 First, inspection of infant mortality rates,  summarized by Flinn,30 shows that they were much lower in England, France,  and Sweden than in Germany and Spain by the second half of the eighteenth century p356  Certainly by the time adequate national statistics are available in the i88os the differences are profound, as the map of crude mortality rates displayed in Fig. i indicates (infant mortality  follows essentially the same pattern).3
+
+#### OLD section called "to check" ####
 [Preston piece](https://www.ncbi.nlm.nih.gov/sites/books/NBK62373/)<br>
 Jim: for England and Wales 1968-77, check JamesWH & Rostron, JBiosocSci 1985 
 
@@ -797,7 +828,7 @@ Ewbank & Preston (1990) on declines in American child mortality between 1900 and
 <p>Fogel (1986 in Engerman & Gallman) deterioration 1800 to 1850ish improve to 1870ish
 <br> p465 declining e10 from 1790 to 1860 for native-born white male (nwm), some recovery to 1870, but still below 1810 level;  p467 nwm e10 18C3q 55.8  18C4Q 51.9  19CQ1 52.3  Q2 48.9 Q3 55.3   20CQ1 56.9 (includes foreign-born)
 
-	<br>for objections to McKeown's nutritional argument for mortality decline: p443 "Even more basic is the absence of adequate evidence on mortality rates. Before 1837 in Great Britain and before 1900 in the United States information on death rates [p444] is so sparse that historical demographers are at odds not only on the levels of mortality but even on the direction of change (Vinovskis 1972; Easterlin1977; Lindert1983). " </p>
+	<br>for objections to McKeown's nutritional argument for mortality decline: p443 "Even more basic is the absence of adequate evidence on mortality rates. Before 1837 in Great Britain and before 1900 in the United States information on death rates [p444] is so sparse that historical demographers are at odds not only on the levels of mortality but even on the direction of change (Vinovskis 1972; Easterlin 1977; Lindert1983). " </p>
 
 <p>Meckel [(1985 JIH)](https://www.jstor.org/stable/204138) on BOSTON<br> disagreement on 19th C urban demography; p393 "Beyond general agreement that death rates were falling  during the last decade or two of the  century, the range of opinion is broad": mortality declining throughout 19C; or stable to 1850, then falling; or rising 1850 to 1880, then declining ...
 <br>p403 Table 4, Boston death rates, age 0-4<br>

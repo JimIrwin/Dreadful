@@ -10,6 +10,27 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Data Discrepencies to Decode ##
+
+<p>1850 SR is much higher in PUMS than in census volumes.
+E.g. whites
+SR(1to4) PUMS 103.7  Census 103.3  +0.4
+SR(0yrs) PUMS 103.9  Census 103.4  +0.5
+SR(1yrs) PUMS 105.2  census N/A
+SR(2yrs) PUMS 103.8  census N/A
+
+South Atlantic PUMS 0 is 0.7 above census; 0 is +0.7 1to4 is +0.4 above census; and age 1 has SR 108.1
+Possible revision is to use SR3 -- aggregation reducing noise? (see MakingBestJudgements.xls)
+
+... u5 is 0.5 high -- what if we simply used PUMS minus 0.5 ?
+ 
+
+Most of the divergence of our census-based estimate versus the PUMS is because we assume the SR(1-2) is the same as the SR(1-4), but in the PUMS the latter 1.5 points higher.
+To make them comparable, we can use the PUMS's proportions of age1 in ages 1to4 for males and females. Census is still lower, but they are more comparable. Alternatively, we could deem the PUMS erroneous, and use the same 1/4 of 1to4 as the age1 estimate in PUMS and cenVo.
+
+
+
+
+
 <p>1870 Franklin MA age0 348 349  age1      total    fullpums
 </p>
 

@@ -8,7 +8,9 @@ output: html_document
 <a name="TOC"></a>
 
 ## Overview ##
-<p>[US data](#USA), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
+<p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
+
+
 
 ### to organize/move ###
 
@@ -25,6 +27,9 @@ McQuillan 1985 life tables for Ontario <br>
 
 Richards (1909) "A Study of New England Mortality"
 [Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+### Organization/locations of R scripts and csv files
+
 
 
 <a name="Data"></a>
@@ -70,7 +75,9 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
-US Census Office[**Pubs by decadal census](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html).
+<p>US Census Office[**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). Or <p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html). Or another link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html)
+
+
 Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
 <br>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
@@ -116,7 +123,8 @@ These may contain age/sex/race, but odd text files ...
 [1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
 </p>
 
-<p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html)</p>
+</p>
+
 <p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  
 </p>
 
@@ -259,18 +267,14 @@ Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single y
 
 
 **1940**
-Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages. Page 4 has light discussion of under-enumeration of infants.
-
-pdf 35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf) has Phila age by single years
-
-https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p3ch6.pdf NY
-
-1940  98.9 if we use the PE-11 XLS (2004) SR2 adjusted for Black vs Nonwhite for 99.0-0.1     
-2004 PE-11 release for 1940 nonwhite has SR1 98.4  SR1-2 99.5 suggesting heaping    
-1940 census  has u1 and u5 negro  and more detailed for nonwhite. From that
-   negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
- I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
-
+<p>Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages. Page 4 has light discussion of under-enumeration of infants. States are in groups, within which there are city-data. E.g. For Philadelphia, see pdf35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf).
+<br>[1940 NY](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p3ch6.pdf). 33973538v4p2ch3.pdf Arkansas
+</p><p> USA 1940  98.9 if we use the PE-11 XLS (2004) SR2 adjusted for Black vs Nonwhite for 99.0-0.1     
+<br>2004 PE-11 release for 1940 nonwhite has SR1 98.4  SR1-2 99.5 suggesting heaping    
+<br>1940 census  has u1 and u5 negro  and more detailed for nonwhite. From that
+<br>   negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
+<br> I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
+</p>
 [**1930**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1930.html)
 <br>See Vol 2 Ch 10 pdf 111 for Illinois
 [1930 Vol 2](https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch11.pdf) for ages, pp674-690  pdf 112-128
@@ -280,7 +284,7 @@ SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
 <p>
 
 **1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
-Our age data found in [Vol 2, ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    **pdf29** Table 13 single age  Regions and States (states is 188-285   pdf 46-143) 
+Our age data, including single-year for Divisions, found in [Vol 2, ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    **pdf29** Table 13 single age  Regions and States (states is 188-285   pdf 46-143) 
 <br>[ch 4](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf) Table 15 has cities with single-year ages
 
 v3 Tables 1 to 13; Table 8 is Ages for cities 
@@ -341,9 +345,6 @@ population volumes from 1850 and 1860 give U1, 1-u5, 5-u10 etc, for Whites, Free
 
 1940 can't find negro age 2 -- just nonwhite for single yr
 
-https://www.census.gov/prod/www/decennial.html
-
-
 Have nonwhite 1900-2010 ? really
 
 searchable index
@@ -354,6 +355,7 @@ https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/p
 
 https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html
 
+<a name="CAN"></a>
 
 ### Canada sources
 
@@ -375,10 +377,20 @@ Maybe https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310011401&pickMembe
 
 #### Census Sources for Canada
 
+<p>
+<br>1851 Que [p208](https://archive.org/details/censusofcana1800cana/page/208/mode/2up); Ontario p184  (NB U6 p224; NS U10 p230; Assiniboin p240 family heads;    
+<br>1861 Quebec, Ontario; NB has U6 (not 0 1 etc); Nova Scotia (ages 346) is too small to use as a proxy for the Maritimes.
+</p>
 2011 and 2016 [tables](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Index-eng.cfm)
 [2011](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GK=0&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)     
 [2016](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=01&GK=1&GRP=1&PID=109523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=115&VID=0&VNAMEE=&VNAMEF=)
-<p>UofT site lists various 1861 and 1851 census volumes. Eg [NS 1851](https://archive.org/details/censusofcana1800cana/page/234/mode/2up?view=theater) with U10 (nothing finer). 1851 NB in 1871 has U6 </p>
+<p>UofT site lists various  **1861 and 1851** census volumes. Volume 4 of 1870 has previous census data. Eg [NS 1851 pages](https://archive.org/details/censusofcana1800cana/page/234/mode/2up?view=theater) with U10 (nothing finer). 1851 NB in 1871 has U6. 
+<br>Pg 278 starts Lower Canada (Quebec); Pg 292 is the start of single-year ages;
+<br>Page 252 of that volume starts Ontario (Upper Canada) 1860-61 and [p260 has single years](https://archive.org/details/censusofcana1800cana/page/260/mode/2up). 
+<br>p330 is NewBrunswick
+<br>
+Newfoundland U10 (nothing finer), p245.
+</p>
 <p>
 [1871](https://archive.org/details/censusofcanada05cana/page/46/mode/2up) Table F in Vol V (vol III is industry, shipping etc.).
 </p>
@@ -395,7 +407,7 @@ Table 11 age groups;
 <br>1951 U5 single-year ages are inferred from census & birth/death registration and immigrants U4
 <br>
 [1961](https://archive.org/details/1961925431962engfra) Note that U4 single-year is inferred from birth/death registrations and U4 immigration. Interesting that Maritimes U5 looks good and U2 does not -- suspicious of the inferential process <br>
-1971?? <br>
+[1971](https://ia800607.us.archive.org/20/items/1971927161973engfra/1971927161973engfra.pdf) in Dropbox digLib<br>
 [1981](http://archive.org/details/19819290%7D11982engfra) <br>
 [1991](https://ia802902.us.archive.org/32/items/1991933101992engfra/1991933101992engfra.pdf)
 [online](https://www12.statcan.gc.ca/English/census91/data/tables/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=1&DIM=0&FL=A&FREE=1&GC=0&GID=0&GK=0&GRP=1&PID=71935&PRID=0&PTYPE=4&S=0&SHOWALL=No&SUB=0&Temporal=1991&THEME=101&VID=0&VNAMEE=&VNAMEF=)
@@ -511,7 +523,11 @@ page v Table
 
 
 
-#### Time-series for Englnd
+#### Time-series for England and Wales
+
+Infant Mortality Rate 1900-2019 from ONS Dataset [Vital statistics in the UK: births, deaths and marriages](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables/current/vitalstatsannualreferencetable20201.xlsx)
+
+
 Our british estimates: we accept 1901 forward from
 [S92 NatArchives Database](https://discovery.nationalarchives.gov.uk/details/r/C11521415). That 1901 value is 100.1 and we extrapolate back, based on the 1911 census Table 43, back from 1901 to 1861. CLRIFY THIS: 1911 census has 102.2 (graduated) and 102.1 (Table 43), both close to the S92 value of 102.0;  1901 value of 100.5 (1911Tab43,1901Tab16) 1901 census has 100.6 as the graduated estimate, 100.5 as the value Tab16 via fems/thousand males age 0, in 1901 and 1911 census.  
 1861 PUMS 101.2; 1861 volumes have 100.7; 1911/1901 101.5 Notion that 1861 misses boys ...  1851 estimated midyear is 100.7 vs 1861's ; We extrapolate via 1861 1851 1841 (risk overstating 1841, but it is so low, we can accept?)  
