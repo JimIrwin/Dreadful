@@ -726,8 +726,14 @@ https://www.washingtonpost.com/news/wonk/wp/2014/09/29/our-infant-mortality-rate
 Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to the Present.” Journal of Economic Literature 53 (3): 503–7 LOOK AT --
 
 <p>Sorting out US infant mortality -- at what time do we start to have fairly reliable IMR values? Recall that England & Wales are deemed to have reliable IMR estimates.
-<br>HSUS series  1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2. For 1915-1933 these are for Birth Registration States only.
-<br>For the total and white populations for 1850-1910, and for the black population for 1900 (actually 1896) and 1910 (actually 1904), Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998):149-169. Note that Preston and Haines' q0 estimates have a wide range. 
+<br>HSUS series Ab920 (1850-1992).
+1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2. For 1915-1933 these are for Birth Registration States only.
+<br>For the total and white populations for 1850-1910, and for the black population for 1900 (actually 1896) and 1910 (actually 1904), Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998):149-169.
+</p><p>HSUS also reports decadal values for whites and blacks, Ab9 & Ab10, which are the same values found in Ab921 & Ab922.  Notes to Ab921-922 show they are decadal ...
+1. For 1850–1880, the values are averages for the following periods: 1850–1859, 1860–1869, 1870–1879, and 1880–1884.
+2. For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively
+
+</p><p>Note that Preston and Haines' q0 estimates have a wide range. 
 <br>q5 177   147    (176 197 173)
 <br>q0 153   NA     (120 132 112)
 </p><p>Birth Registration States

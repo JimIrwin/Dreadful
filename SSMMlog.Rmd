@@ -10,6 +10,11 @@ output: html_document
 
 
 ### current log
+<p>2021.0504 <p>Looking for simulated SR2 lines ... Bell & Miller extends from 1900 to 1990, starting at a value of simSR2=102.2 and IMR 133.1  ... 
+SLOPES: CD-South -.010, CD-West -.019, CD-East about -.020, CD-North -0.020, UN-SA -.027 Latin -.028, UN-FarE -.032 Chilean -.042 (SR1 -.030),  UN-General -.047 (SR1 -.035) UN-CD-West (SR -.016) OK
+<p>Issue: UN models imply relatively high relative male IMR, if we say age 1 mort of fems is <= males. "high" relative to Hill or Alkema.  Life Tables for simulated SR2 from IMR; Chilean model, like general, has female excess mortality at age 1 (2q1) if we use ALkema or Hill sorts of relative IMR (e.g. 115% male/fem). If set 2q1 equal (at fe0=40) we get relative male/fem IMR =
+</p><p>looking at UN General Table, unlike West model, where fe0>me0 ... so how sensitive is the SR2sim to the choices of e0s ... m27f26 230.5  99.87  m27f27  228.0 99.25 with the relative male IMRs 1.23 and 1.26 The West model ~230 has SR2 101.1<br>
+If we use Hill&Upchurch Table 1, at highest IMR, female q0 is fully 0.846 of male q0 -- if we use that with the UN general model, then female q1 > male q1 ... seems wrong!  
 <p>2021.0501 Canada's IMR series starts in 1921 (looks OK)^[lacks Newfoundland until 1948; Quebec incomplete until 1926; SC 82-549 1993 Table 1 note 4 )].
 <br>**early 1920s IMR of about 100**
 </p><p>2021.0426 
