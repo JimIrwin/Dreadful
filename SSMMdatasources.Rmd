@@ -14,10 +14,10 @@ output: html_document
 
 Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
 
-Bideau et al. [Infant and Child Mortality in the Past](https://books.google.ca/books?id=idm99dX1XUoC&newbks=1&newbks_redir=0&dq=Infant+and+Child+Mortality+in+the+Past&source=gbs_navlinks_s)
+Bideau et al. [Infant and Child Mortality in the Past](https://books.google.ca/books?id=idm99dX1XUoC&newbks=1&newbks_redir=0&dq=Infant+and+Child+Mortality+in+the+Past&source=gbs_navlinks_s)  ARTICLE BY George Alter "Infant and Child Mortality in the United States and Canada" pp91-108
+
 
 Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
-ARTICLE BY George Alter "Infant and Child Mortality in the United States and Canada" pp91-108
 
 
 ### to organize/move ###

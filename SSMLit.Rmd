@@ -709,13 +709,16 @@ Ontario mortality below national average, signifcantly lower than rates in Quebe
 
 ACTUALLY VERY LITTLE HAS BEEN OFFERED (beyond citing HSUS)
 
-Alsan & Goldin p587 rely on HSUS to say "From 1870 to 1930 ... infant mortality plummeted from around one
-in five to one in 16 white infants for the United States and Massachusetts" 
+Papers that use HSUS series to say IMR fell 1850 to 1900:
+Alsan & Goldin (2019) p587 rely on HSUS to say "From 1870 to 1930 ... infant mortality plummeted from around one in five to one in 16 white infants for the United States and Massachusetts" 
+Cain & Paterson (2012 Children of Eve) p.73
 
-late-19C Mortality decline, but not comment on IMR ... 
+
+
+Papers saying there was a late-19C Mortality decline, without attention to IMR ... 
 Cain & Hong (2009) e0; Higgs (1979) late 19C mortality decline; nothing on IMR Higgs (1973) rural mortality decline 1870-1920; nothing on IMR; Meeker (1972) Mortality transition from 1880 on; nothing on IMR.
 
-cutler & miller  The gradient was much steeper for infants and children. In 1880, infant mortality was 140% higher in cities, and in 1890, mortality among children aged 1-4 was 94% higher (Haines 2001; U.S. Census Office 1888).
+Cutler & miller  The gradient was much steeper for infants and children. In 1880, infant mortality was 140% higher in cities, and in 1890, mortality among children aged 1-4 was 94% higher (Haines 2001; U.S. Census Office 1888).
 
 
 https://www.washingtonpost.com/news/wonk/wp/2014/09/29/our-infant-mortality-rate-is-a-national-embarrassment/
@@ -860,7 +863,9 @@ Brass 2PL white
 1860 SRL0 98.7   q0m  0.188    q0f  0.175 SRq0
 1900 SRL0 98.6   q0m  0.128    q0f  0.112
 
-<p>Condran & Preston (1992) on declines in American child mortality between 1900 and 1930</p>
+<p>Condran & Preston (1994) on declines in American child mortality between 1900 and 1930</p>
+
+<p>1994 Bulletin Forum 
 <p>Preston & Haines (1991) *Fatal Years* 
 <p>xviii Our census sample suggests that child mortality had been declining in the two decades before 1900 for whites and for the total population.</p>
 <br>1900 IMR and childMR rates (or 1895, retrospective source)
@@ -900,8 +905,11 @@ p243 The probability that an American child will die before age five has
 
 Ewbank & Preston (1990) on declines in American child mortality between 1900 and 1930 SEEMS NOT PUBLISHED
 
+Condran (1987 Ann Demog) Phil registration data 1q4 1870 142  1900 89 1910 68.5  1920 40.8 1930 23.1
+she extrapolates to the q0 from that ... so q0 1870 174  1900 136.5
+
 <p>Fogel (1986 in Engerman & Gallman) deterioration 1800 to 1850ish improve to 1870ish
-<br> p465 declining e10 from 1790 to 1860 for native-born white male (nwm), some recovery to 1870, but still below 1810 level;  p467 nwm e10 18C3q 55.8  18C4Q 51.9  19CQ1 52.3  Q2 48.9 Q3 55.3   20CQ1 56.9 (includes foreign-born)
+<br> p465 e10 no data 1870-1900; figure shows sharp rise 1860-1870. <br>declining e10 from 1790 to 1860 for native-born white male (nwm), some recovery to 1870, but still below 1810 level;  p467 nwm e10 18C3q 55.8  18C4Q 51.9  19CQ1 52.3  Q2 48.9 Q3 55.3   20CQ1 56.9 (includes foreign-born)
 
 	<br>for objections to McKeown's nutritional argument for mortality decline: p443 "Even more basic is the absence of adequate evidence on mortality rates. Before 1837 in Great Britain and before 1900 in the United States information on death rates [p444] is so sparse that historical demographers are at odds not only on the levels of mortality but even on the direction of change (Vinovskis 1972; Easterlin 1977; Lindert1983). " </p>
 
