@@ -696,10 +696,16 @@ Canada 4q1   declining 1801 on (flat 1851-61)
 Queb 0q1 flat (like Can 1801) until 1871, then decline
 Que  4q1 decline 1801 on (slow in 1860s)
 
-McQuillan 1985 life tables for Ontario <br>
+Thornton and Olson (1991 )  Alter (1997) mentions for Montreal French IMR higher than non-French  
+Thornton, Olson, Thuy Thach (1988) 
+
+McQuillan (1985) life tables for Ontario <br>
 p42 "mortality conditions improved gradually but steadily ... 1861-1921" <br> 
 Ontario female Eo ~40 1850  1900 ~50   1920 ~70  
 Ontario mortality below national average, signifcantly lower than rates in Quebec <br>
+
+
+
 
 <a name="USAmort"></a>
 
@@ -726,12 +732,11 @@ https://www.washingtonpost.com/news/wonk/wp/2014/09/29/our-infant-mortality-rate
 Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to the Present.” Journal of Economic Literature 53 (3): 503–7 LOOK AT --
 
 <p>Sorting out US infant mortality -- at what time do we start to have fairly reliable IMR values? Recall that England & Wales are deemed to have reliable IMR estimates.
-<br>HSUS series Ab920 (1850-1992).
+<br>HSUS series Ab920 (1850-1992). Ab920 has values listed for 1850, 1860, 1870, 1880, 1890, 1900, 1910, and annually starting with 1915. Those annual estimates are from Vital Statistics, with 1934 onward for the entire US, and 1915 to 1933 for the BRA only (which covers 75% of US pop by 1925?). The early benchmark estimates are from 
+<br>
 1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2. For 1915-1933 these are for Birth Registration States only.
 <br>For the total and white populations for 1850-1910, and for the black population for 1900 (actually 1896) and 1910 (actually 1904), Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998):149-169.
-</p><p>HSUS also reports decadal values for whites and blacks, Ab9 & Ab10, which are the same values found in Ab921 & Ab922.  Notes to Ab921-922 show they are decadal ...
-1. For 1850–1880, the values are averages for the following periods: 1850–1859, 1860–1869, 1870–1879, and 1880–1884.
-2. For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively
+</p><p>HSUS also reports values at census years, for whites and blacks, Ab9 & Ab10, which are the same values found in Ab921 & Ab922.^[Jim's 2021May06 (and before) error mistook the footnote to the Black CBR (Ab2) and TFR (Ab6) as applying to the IMR rates.   1. For 1850–1880, the values are averages for the following periods: 1850–1859, 1860–1869, 1870–1879, and 1880–1884.] But footnote 2 of Table Ab1-10 tells us the IMR values listed listed "for 1900 and 1910 are from approximately 1895 and 1904, respectively."^TABLE Ab1-10, footnote 2: For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively.]
 
 </p><p>Note that Preston and Haines' q0 estimates have a wide range. 
 <br>q5 177   147    (176 197 173)
@@ -781,13 +786,14 @@ p55 Despite concerns about selection and censoring biases, it is clear from rece
 TABLE 4 **Male e20 by decade** 1790s 41.4 slow slide to 38.0 in the 1860s 1870s 41  1880s 42.2  1890s 43.2 <br>
 **1860s** nadir
 <br>p56 3-yr decline : more moderate decline in AB life expectancy than suggested by the unadjusted genealogical estimates.  however ... revisions ... do not negate ... "antebellum paradox"  	
+<br>p65 Because most small cities made only modest attempts at public health initiatives before 1900 (Duffy 1990, chap. 12), it is much less certain if infant and childhood mortality fell relative to adult mortality for the nation as a whole between 1850 and 1900, which Haines’s model predicts.   
+<br> Figures 6, 7, and 8 compare some of the new life table estimates with Haines’s (1998) life table estimates. ... the new life tables describe a decline in life expectancy at birth from approximately 44 years in the late eighteenth century to just over 40 years in the 1840s. ...  Life expectancy at birth then declined another 3–4 years in the 1850s to approximately 37 years. The decline is largely the result of the model’s prediction of increased infant mortality.  ...  the model suggests that infant mortality rates rose from 215 to 247 per 1,000 for white males and from 190 to 222 for white females
 <br>p68 Table 8 
 IMR 1790s 18.0% ... 1840s 22.9%  1850s 24.7%  1860s 20.7%   1870s 17.5%   1880s  14.9%    1890s 13.1%    
 E5 1840s 50.1 1850s 49.0 1860s 43.2 1870s 52.5 1880s 54.1 1890s 55.4
 <br>p74 Table 9 seems to be an error ... 
 <br>p76  ... the crude assump-tions about the overestimation of adult life expectancy in genealogical-based estimates and sex differentials in adult life expectancy made in tables 4 and 5 are sources of po-tential error. Another weakness is the required method of inferring a complete life table from a single parameter, life expectancy at age 20. Historical demographers in Europe and elsewhere have called attention to the changing relation-ship between infant, childhood, and adult mortality over the course of the nineteenth century (Woods 1993). It is unlikely that the United States was an exception. Empirical research on infant and childhood mortality in the United States is sorely needed. Source material, however, remains a major issue.
-	
-<p>	
+	<p>	
 Condran (2008 JHiMedAlSci) 
 p485  "the rapid decline in death rates during the second half of the [485] nineteenth century and the first few decades of the twentieth.
 <br>TABLE 1 Diptheria mortality 1810-1857? stays below 100 per 100K, then varies in the range 50-100 until 1895/97?  when it declines, to 0 by 1930 </p>
@@ -865,9 +871,13 @@ p149 Mortality in the US before the early part of the 20th C remains a controv t
 
 p154 These results confirm the impression of mortality fluc-tuating before ca. 1880 and a fairly steady decline in death rates thereafter, when the modern mortality transition for the white population began.
 
-Brass 2PL white 
-1860 SRL0 98.7   q0m  0.188    q0f  0.175 SRq0
-1900 SRL0 98.6   q0m  0.128    q0f  0.112
+Brass 2PL white <br>
+1860 SRL0 98.7   q0m  0.188    q0f  0.175 SRq0 <br>
+1900 SRL0 98.6   q0m  0.128    q0f  0.112 <br>
+
+<br>Alter (1997) "Signs of falling infant mortality become widespread after 1890"  --  
+p 104 After 1860 the evidence suggests a period of stability before the mortality transition began. The timing of this transition seems to have varied and may have been somewhat earlier in major cities, where concern about high levels of infant mortality was growing. It is also possible that child mortality declined two of three decades earlier than infant mortality (see the discussion of Table 6.3 above). Signs of falling infant mortality become widespread after 1890, and infant mortality was cut in half between 1900 and 1930.
+<br> p105 Gretchen Condran has argued that we should move ‘away from the notion of a single mortality transition to a view that many transitions varying in timing and pace, were occurring both in different places and for various causes of death’ (Condran, 1987: 131). This broader perspective helps to explain why studies which focus on public health often fail to find clear associations between specific interventions and lower mortality. The relatively high standard of living in the United States and Canada tends to draw attention away from explanation based upon economic development and toward a diversity of environmental and behavioural factors. 
 
 <p>Condran & Preston (1994) on declines in American child mortality between 1900 and 1930</p>
 
@@ -911,6 +921,8 @@ p243 The probability that an American child will die before age five has
 
 Ewbank & Preston (1990) on declines in American child mortality between 1900 and 1930 SEEMS NOT PUBLISHED
 
+Klepp (1989) IMR decreases with SES  in Phil: high SES 1750 215 1800s 102  (poor stays +100) 
+
 Condran (1987 Ann Demog) Phil registration data 1q4 1870 142  1900 89 1910 68.5  1920 40.8 1930 23.1
 she extrapolates to the q0 from that ... so q0 1870 174  1900 136.5
 
@@ -927,9 +939,9 @@ she extrapolates to the q0 from that ... so q0 1870 174  1900 136.5
 
 <p>Condran & Crimmins [(1980 JHiGeo)](https://doi.org/10.1016/0305-7488(80)90111-5) DRA states, 1890-1900 urban/rural </p>
 
-p99
-Estimating 1qO from 1870 to 1930 presented a special problem because of the exceptionally poor quality of both the census enumeration of infants and the birth registration data available for Philadelphia
+p99 Estimating 1qO from 1870 to 1930 presented a special problem because of the exceptionally poor quality of both the census enumeration of infants and the birth registration data available for Philadelphia
 
+<br>Fulton (1980) Rhode Island IMR after 1880
 
 <br>Knodel 1977?
 

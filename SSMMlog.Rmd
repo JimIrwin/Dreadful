@@ -8,9 +8,47 @@ output: html_document
 <a name="TOC"></a>
 [Our Applications or "cases"](#cases)
 
+#### loose ends (move/tidy when noted)
+
+<p>Cathy's comments/suggestions, after Jim presents the figures ...
+<br>For figure 1 -- emphasize the fact that by the time the data is good, IMR is low. Thus the huge gap in our knowledge.
+<br>Titles of figures: clarify EVIDENCE vs MODELS  ---Thus figure 2 is LIFETABLE RATIO not SR?
+<br>Fig 6/7 Clarify: the line is model-prediction  
+</p>
+<p>Jim: add author's name to 1861 scotland census  (W. Pitt Dundas & James Stark) Is maternal mortality the key to 105 (ie deaths from pregnancy and childbirth)
+<p>Look at Philadelphia 1920 census, asking if the 1918 Pandemic left an impression.</p>
+<p>IMR in 1999 around the world Table 46-1 in Masuy-Stroobant essay in Caselli Demog. North Africa 55, Central Africa 104, Asia 56, West Europe 5   North America 7 </p>
 
 ### current log
-<p>2021.0504 <p>Looking for simulated SR2 lines ... Bell & Miller extends from 1900 to 1990, starting at a value of simSR2=102.2 and IMR 133.1  ... 
+
+<p>2021.0508 Thinking about how to word the findings ...  
+<br>IMR in 1999 around the world Table 46-1 in Masuy-Stroobant essay in Caselli Demog 
+</p><p>2021.0506 Recommend we plot SR5 and SR2, if only in Appendix, to corrorborate our claims.  LOOK AT SR2-SR5  1870&1880 0.1 (103.0 102.9) 1890 0.6 (104.2 103.6)   1900 .1 (102.2 102.1)  1910 0.0 (102.7)       1920 .1 (102.6 102.5) 1930 .2 (103.2 103.0) 
+1940 -0.1 (103.5 103.6)  1950 .2 (104.1 103.9)  1960 -.2 (103.2 103.4) 1970 0 (104.0)        1980 0 (104.7)        1990 0 (104.8)
+</p>Ji finds life-table IMR values for Mass 1893-97 p822 males d0=8849 p824 female d0=7151 and that impies a ratio of about 123.7  [Public Documents of Massachusetts 1899](https://books.google.ca/books?id=L2VBAQAAMAAJ&pg=RA1-PA820&lpg=RA1-PA820&dq=Sixteenth+Registration+Report+of+Massachusetts&source=bl&ots=mXYEsk_zvt&sig=ACfU3U1Q4pMWpoQTGKw3FltA46dbMDZOWA&hl=en&sa=X&ved=2ahUKEwiEmque7rXwAhWyHjQIHZhBCqUQ6AEwBXoECA0QAw#v=onepage&q=infant%20death&f=false)
+<p>
+<br>Js asks for PUMS Mass U2. Ji briefly confused that Mass SR should look same </p>
+<p>2021.0505 
+</p><p>
+Given the lack of birth and death registration for the US and its regions for our period of interest, we cannot directly corroborate our claim that declining infant sex ratios (boys per girl) across the last quarter of the 19th C reflected rising infant mortality and deterioration of maternal and infant health. However, we have two places/cases/polities with well-reputed vital statistics for the period of interest: Massachusetts and England and Wales. For these polities, we observe both infant mortality rates and infant sex ratios (boys per 100 girls, age under-two), and we find striking affirmations of our interpretation. 
+<p>Figure 10 plots the IMR series for England and for Massachussetts across the entire 1860-1990 period, including lines representing the 3-year moving average of the plotted (annual) values. The conformity between those two series is remarkable. Different trends might be discernable before 1900.^[For Mass, we see a two-part path, the IMR rising in the 1860s, followed by a plateau. For England, we see a very shallow U-shape, with the IMR rate tending to sag in the 1860s and 1870s, and rise in the 1880s and 1890s.] But two patterns are critical for our purposes. First, IMR was high and not falling in the period 1860-1900. Second, starting at the turn of the century, infant mortality rates trace a sharp downward path. The English series drops from about 150 circa 1900 to under 15 by 1950?; the Mass series drops from about 160 circa 1900 to under 15 by 1957.   
+ [FIG 10]
+In what should be a familiar line of argument by this stage of the paper, the collapses of infant mortality
+shown in Figure 10 are predicted to raise the ratio of boy to girls among the populations -- with infant mortality bearing more on boys than girls, the downward path of infant mortality would tend to have saved relatively more boys than girls from an early demise. Figure 11 plots the infant sex ratios (SR2, number of boys per girl, under-2 years of age) for England and Mass over the period 1860-1990. For The sex-ratio values are available at census benchmarks for Massachetts; for England    .... UMMM ... MAYBE ENGLAND IS SR1?
+
+</p><p>
+Jim suggest we use West-model simulation of SR2 to extrapolate back from the Bell-Miller SR2-curve. In practice, this means subtracting 0.571 from the predicted SR2s from the IMR, using various "Levels" of the C-D "West" model life tables, and an assumed SRB of 105. 
+</p><p>DETAILed musings: We are interested in the effect on SR2 of (say) the conjectured 100-point fall in IMR from mid19C to 1900 ...  Haines 1855 229 to 1895 129; Hacker 1855 234 to 1895 121  ... West Model IMR drop from 230 t0 130, SR rises 101.0 to 102.9  or 1.9 points per 100 pt of IMR ... Issue for us, is the West model shows less effect of IMR on SR than the B&M model does, and so the West model predicts SR2 of 102
+</p><p>Hacker's 1890s value for IMR is 121 for whites, which might not be far off of the Bell-Miller USA IMR of 1900 -- 133.1 -- if the black IMR is 225 (104 above the white IMR)^[With blacks 11.6% of population, for an aggregate IMR of 133.1, 12.1 points about the White IMR, requires black IMR (12.1/.116) above white.   I=bIb + (1-b)Iw  where I are IMRs and b is black share of population (births, actually). So (I - Iw)  = b(Ib-Iw) ... conjectured 12.1 points b*(Ib-Iw)=12 12/11.6% = 104]. HSUS has IMRblack at 170 in 1900 and 340 in 1850s, so maybe 225 is plausible. Even the HSUS 1900 value implies an aggregate IMR of about 126.5, which is not to far from the Bell&Miller value.
+</p><p>2021.0504 
+<p>1890 New England SR5 works, to replace the goofy high (103.0) from under-sized u2 count. New England is simple -- extrapolate on U5 counts and 1890 SR is same as 1880, and we see simple decline from 102 1850-1890 to below 101 in 1900, recovering after 1920 and moving to a new high in 1930. SR5 tells same story as SR2, except for the 1890 SR2.
+</p><p>Middle Atlantic SR5 works, again to replace goofy high (103.1) SR2. SR5 about the same as in 1880 (0.1 higher, at 102.5); and full 1-point drop of SR5 from 1890 to 1900. -- as with New England, under-sized U2 count with high SR (103.1). Undersized insomuch as U5 population swells 9% but U2 count falls 3%.
+</p><p>ENC 1880 to 1890 SR5 rises 0.5 pts, but SR2 again seems biased upward in an undersized count (u2 pop falls, as U5 increases 12%) from 
+
+<br> 1900 & 1910 census volumes discuss problems with the 1890 enumeration of young ages, casting doubt on the categorization of infants and young chhildren. Unfortunately, manuscripts not available (fire destroyed?); so no MS sample to corroborate or correct the published volunes.
+
+
+</p><p>Looking for simulated SR2 lines ... Bell & Miller extends from 1900 to 1990, starting at a value of simSR2=102.2 and IMR 133.1  ... 
 SLOPES: CD-South -.010, CD-West -.019, CD-East about -.020, CD-North -0.020, UN-SA -.027 Latin -.028, UN-FarE -.032 Chilean -.042 (SR1 -.030),  UN-General -.047 (SR1 -.035) UN-CD-West (SR -.016) OK
 <p>Issue: UN models imply relatively high relative male IMR, if we say age 1 mort of fems is <= males. "high" relative to Hill or Alkema.  Life Tables for simulated SR2 from IMR; Chilean model, like general, has female excess mortality at age 1 (2q1) if we use ALkema or Hill sorts of relative IMR (e.g. 115% male/fem). If set 2q1 equal (at fe0=40) we get relative male/fem IMR =
 </p><p>looking at UN General Table, unlike West model, where fe0>me0 ... so how sensitive is the SR2sim to the choices of e0s ... m27f26 230.5  99.87  m27f27  228.0 99.25 with the relative male IMRs 1.23 and 1.26 The West model ~230 has SR2 101.1<br>
