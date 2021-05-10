@@ -87,6 +87,10 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+<p>Mass Vital Statistics [Annual Reports](https://archives.lib.state.ma.us/handle/2452/39847)
+[By date?](https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued)  </p>
+
+
 <p>US Census Office[**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). Or <p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html). Or another link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html)
 
 
