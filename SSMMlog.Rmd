@@ -19,20 +19,18 @@ output: html_document
 ### current log
 
 <p>2021.0511 PUMS vs cenVols -- key anomolies: NewEng 1870 fPUMS -.5  1910 -.7  1920 +.5 1940 -.6
-NewEngland: SR5 fPMUS vs cenV 1850 +0.5; 1860 0; 1870 -0.4; 1880 -0.2; 1900 +.2; 1910 -0.6; 1920 +0.3; 1930 0; 1940 -0.4    
-
-</p><p>1890 issues: SR2 values look implausible ... but the SR5s seem only modestly too high (0.1 above 1880 values, I suspect the decline of the SR from 1880 to 1890 is masked). Probably SouAtl looks worst, NewEng best (and via Mass state census, Mass 1890 looks ok).
+NewEngland: SR5 fPMUS vs cenV 1850 +0.5; 1860 0; 1870 -0.4; 1880 -0.2; 1900 +.2; 1910 -0.6; 1920 +0.3; 1930 0; 1940 -0.4    </p>
+<p>1890 issues: SR2 values look implausible ... but the SR5s seem only modestly too high (0.1 above 1880 values, I suspect the decline of the SR from 1880 to 1890 is masked). Probably SouAtl looks worst, NewEng best (and via Mass state census, Mass 1890 looks ok).
 </p><p>Mass SRs
 1880 102.3 102.2;  1885 101.7 101.0; 1890 101.3 101.3; 1895 101.3 101.1; 1900 100.9, 100.9   
-</p><p>ENC 1890 SRs look high (SR2 104.2 esp, also SR5 at 103.4). 1860-1880 we see SR5 of 102.9-103.0; 1900 is 102.3. The 1890 census gives us a 0.5-point rise, followed by 1.1-point drop. This occurring as Chicago, Cinnci, Clevel, Detroit, Milwauk, Indianap, Columbus, Toledo, Dayton, Gr Raps all probably double in size, while the pop grows maybe 10%. Likely: 25/100 to 50/110 or 25% to 45%
-<br>Chicago looks at least 1-point too high. So Jim has a look.
+</p><p>ENC 1890 SRs look high (SR2 104.2 esp, also SR5 at 103.4). 1860-1880 we see SR5 of 102.9-103.0; 1900 is 102.3. The 1890 census gives us a 0.5-point rise, followed by 1.1-point drop. This occurring as Chicago, Cinnci, Clevel, Detroit, Milwauk, Indianap, 
+Columbus, Toledo, Dayton, Gr Raps all probably double in size, while the pop grows maybe 10%. So maybe %urban goes from  25/100 to 50/110 or 25% to 45% And that would pull down SRs</p>
+<p>Chicago looks at least 1-point too high. So Jim has a look.
 <br>for 1880,  1890,  1900, consider the Illinois SR5 for Chicago/NonChicago
 <br> (1880 101.3 vs 103.2) (1890 102.3 vs 103.6) (1900 100.6 vs 102.2)
 So 1880 to 1900, Chicago SR2 falls 0.7, 101.3 to 100.6, as population triples+ . But the 1890 census tells us Chicago's SR jumped 1 point then dropped 1.7. Seems like crap/noise. Via 1880, 1890 census, u5dr about constant ...
-
-Chicago has 16% of Illinois's u5 population (SR 101.3, rest of Ill 103.2), and in 1890, that share has risen to 30% (1900 35%  
-
-</p><p>via Higgs 1979, Hoffman's CDR for cities, <br>
+<br>
+Chicago has 16% of Illinois's u5 population (SR 101.3, rest of Ill 103.2), and in 1890, that share has risen to 30% (1900 35%)  </p><p>via Higgs 1979, Hoffman's CDR for cities, <br>
 p31 Chicago 1871-74 18-31; 1878-81 16-26   1888-91 17-24   1898-1901 14-16 But with population doubling 1880 to 1890, what do we make of that? And 1890 to 1900, pop grows 1.54 while u5 grows only 1.36  --- which would tend to push down the CDR. 
 <p>2021.0510
 <br>Dataset tidying; Jim's u2cenVols.RDS renamed to u2pubcen.RDS -- note that the older versions did not have the variable "Ser" (series, C census, P full PUMS). 
