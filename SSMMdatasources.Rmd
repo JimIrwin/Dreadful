@@ -88,30 +88,28 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 ### USA ###
 
 <p>Mass Vital Statistics [Annual Reports](https://archives.lib.state.ma.us/handle/2452/39847)
-[By date?](https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued)  </p>
+[By date?](https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued)  I started to check 1890 versus 1885 and 1895, but realized Mass 1890 looks fine ...</p>
 
+<p>Mass [state cenuses](https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued)
+</p>
 
-<p>US Census Office[**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). Or <p>[**Decennial Census Pubs**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html). Or another link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html)
-
-
-Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
-<br>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
+<p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics</p>
+<p>Maybe other volumes are at the older link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html)
+<br>Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
+<br> * also see the PDF on 20thC US for linked sources, in our B/W page
+</p>
+<p>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
    Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
-[State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)
+[State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)</p>
 
-Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
-
-* also see the PDF on 20thC US for linked sources, in our B/W page
+<p>Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
 
 [1961 Vital Stats](https://www.cdc.gov/nchs/data/vsus/vsus_1961_1.pdf) live-births by sex, 1-28, pdf 
 1962 t15 pdf       pg 1-30 pdf38 by state
 
-[1979 Vital Stats]()
-
-20th C sources   
-
-[1992 Vital Stats](https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf) for HSUS IMR 1915 on. pdf p507
+<br> 20th C sources   
+[1992 Vital Stats](https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf) for HSUS IMR 1915 on. pdf p507 </p>
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 <br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
@@ -126,7 +124,7 @@ Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/)
 </p>
 <p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
 </p>
-1900 census reports vol III I use table 19  pp  285-555 (pdf 598-868)
+<p>1900 census reports vol III; we use table 19  pp  285-555 (pdf 598-868)
 <br>
 p xiv The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
 <br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
@@ -139,10 +137,8 @@ These may contain age/sex/race, but odd text files ...
 [1980-1989](www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html)
 </p>
 
-</p>
 
-<p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  
-</p>
+<p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  </p>
 
 <p>[2020 all races by age](https://www2.census.gov/programs-surveys/popest/tables/2020/2020-demographic-analysis-estimates/table-1.xlsx) U.S. Census Bureau, Population Division, 2020 Demographic Analysis (December 2020 release).
 <br>[2020 tables](https://www.census.gov/data/tables/2020/demo/popest/2020-demographic-analysis-tables.html)
@@ -290,6 +286,7 @@ Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single y
 <br>1940 census  has u1 and u5 negro  and more detailed for nonwhite. From that
 <br>   negro vs nonwhite  U1 -0.13     U5 99.1 vs 99.2
 <br> I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
+<br> Looking for 1940 U5 by state or division v2 pt 1 Table 26 p59
 </p>
 [**1930**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1930.html)
 <br>See Vol 2 Ch 10 pdf 111 for Illinois
@@ -314,7 +311,7 @@ census SR2 negro 98.4  nonwhite 98.6
 PE-11 nonwhite 98.7
 
 **1910**  use [census](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
-census SR2 negro 99.2  nonwhite 99.6     PE-11 SR2 nonwhite says 100.8 with very rounded numbers, so I reject, and stick with census 
+census SR2 negro 99.2  nonwhite 99.6     PE-11 SR2 nonwhite says 100.8 with very rounded numbers, so I reject, and stick with census    TABLE 43 has Divisional ages
 1910 Pop [Vol 1](https://www.census.gov/library/publications/1913/dec/vol-1-population.html). [Ch 4](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p6.pdf) has single year ages, including  [major cities](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
 Table 29 is national totals, including the 1910 "negro" values which I found elsewhere. <br>
  Table 33 has u5 m/f 1880 1890 1900 1910   Table 41 age periods, states <br>
@@ -328,16 +325,28 @@ vol 1 tables 1-4 NO age data;
 1900 bulletins 1-60, 61-106
 <br>Bulletin 13, "A Discusssion of Age Statistics"
 [discussion of age statistics](http://www2.census.gov/prod2/decennial/documents/03322287no13.zip) p18 indicates 1890 ages were "age at nearest birthday" and therefore confusion in 0 1 2 age groups  <br>
-To think about: if 11mo olds are rounded up, how does that distort the SR1? It would seem to leave more of the younger, who are more male ...
+To think about: if 11mo olds are rounded up, how does that distort the SR1? It would seem to leave more of the younger, who are more male ... That is a 39 page essay, with attention to sex-ratio evidence rural/city-sizes ...
 <br>
 
 **1890** census
-Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1: US; Table 2 Ages by months, years  : states and territories;  pp104- Table 3 sex by age groups;  Table 4 ages by periods of years of native white; 
-Table 8 Ages by periods of years ... for cities having 25,000 inhab or more 
+<p> Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states, Ages by U1 months and single years (we have it in 2 parts). Table 3 sex by age groups;  Table 4 ages by periods of years of native white; Table 8 Ages by periods of years ... for cities having 25,000 inhab or more </p>
+<p>At [older link](https://www.census.gov/prod/www/decennial.html), 
+Volume 4: Report on Vital and Social Statistics in the United States<br>
+Part 1: Analysis and Tables <br>
+Part 2: Cities of 100,000 population and upward (in Jim's digLibrary)<br>
+Part 3: Statistics of Deaths<br>
+Part 4: Statistics of Deaths<br>
+</p>
+<p>Volume 4, Part 2, Vital Statistics, Cities of 100,000 pop ... 19610506v4p2.pdf
+<br>1890a_v4p2-01.pdf has TOC, shows pop by age/sex/color etc 337-360; 391-408 death rates by ward. 
+<br>19610506v4p2ch4.pdf  p2-06.pdf has "General Tables" pp. 335-444; p2-07.pdf for pp445-549 table 5 is continued ;  p2-08.pdf pp550-655 still Table 5 ;
+<br>48 cities death rates, u1 231, u5 78; Chicago u1 213  u5 69;  Newark stands out for high u1dr 318 (also DC, via "colored" dr > 490 )
+</p><p>Can muscle out city U2 vales -- Chicago U2 103.3 U5 102.3 -- pattern like Illinois, with the SR2 a full point above the SR5 ... 
+</p><p>
+<br>e.g. p514 Table 1 has u1 u5 for US, states, cities?
+<br> volume? is called: 1890 Bulletins  no. 100 Social Statistics of the Cities
+</p>
 
-Vital Statistics Pt 1 (v4?) p514 Table 1 has u1 u5 for US, states, cities?
-
-1890 Bulletins  no. 100 Social Statistics of the Cities
 
 **1880** Vol I, Statistics of the Population ... has single-year ages in Table XXI [Ala-Nevada](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NewHamp-Wyoming](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
 <br>

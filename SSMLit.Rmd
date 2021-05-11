@@ -14,6 +14,13 @@ output: html_document
 <p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 Possible headings to come: Historical applications, Other historical literature, Other literature  
 
+#### loose ends
+
+Charaus, [2010 Phd thesis, Marquette](https://epublications.marquette.edu/dissertations_mu/68)
+p146 G-I U2 deaths surge 1888/90 and high 'til 1910.  And discussion of breast-feeding, referring to Levenstein, harvey JAH 1983 
+
+ 
+
 ### Input for CEA paper ###
 
 <p>via HMD England (& Wales): England's early rise in e0 (40/42/46 in 1850/1875/1900) comes before IMR declines  <br>
@@ -705,13 +712,19 @@ Ontario female Eo ~40 1850  1900 ~50   1920 ~70
 Ontario mortality below national average, signifcantly lower than rates in Quebec <br>
 
 
-
+USA mort CEA   JIMJIM
 
 <a name="USAmort"></a>
 
 ### USA
 
 #### Current views of the onset of Infant-Mortality Transition in the USA?
+
+<p>Child mortality ?
+<br>Higgs 1979 EEH  "Cycles and Trends of Mortality in 18 Large American Cities, 1871-1900" 
+p381 Demographic historians agree that a mortality transition was occurring in the United States during the late 19th century, but they disagree over the nature of that transition. There is no consensus about when the death rate began its long-term  decline. Some scholars believe that mortality fell steadily and continuously during the entire second half of the 19th century.n1 Others maintain that relatively little if any decline occurred during the mid-19th century and that rapid decline occurred only after 1880.n2 [Higgs 1971, Meeker 1972] 
+</p>
+
 
 ACTUALLY VERY LITTLE HAS BEEN OFFERED (beyond citing HSUS)
 
@@ -741,8 +754,9 @@ Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to
 </p><p>Note that Preston and Haines' q0 estimates have a wide range. 
 <br>q5 177   147    (176 197 173)
 <br>q0 153   NA     (120 132 112)
-</p><p>Birth Registration States
+</p>
 
+<p>Birth Registration States
 <br>1915 New York	Connecticut	Michigan	Minnesota
 <br>1916 Maryland
 <br>*1917* North Carolina	Kansas	Indiana	Kentucky	Utah	Virginia	Washington	Wisconsin	Ohio
@@ -905,7 +919,8 @@ These estimates thus suggest that a substantial reduction in child mortality occ
 <p>Referring again to Figure 2.1, it can be seen that *estimates of q1 and q2 are much less consistent than those at more advanced ages.*  ... Before discarding age-model estimates for q(1) and q(2), we experimented with alternative age groupings for women. ... results ... showed an even less regular pattern ... </p>
 <p>p74 To derive a single best estimate of child mortality conditions in the United States near the turn of the century. we amalagamated the q(3), q(5), and q(10) estimates from the three different estimation procedures.  *The estimate of a q(5) of .180 for 1895 is probably the single most robust estimate* of childhood mortality that we can make based on the census sample</p>
 <p>p98 Child Mortality Index Cleveland stands out for much lower mort, under 1/2 of NYC or Boston</p>
-<br> p208 "the mortality decline since (p209) the middle of the 19th c" alluding to McKeown's explanation for "British mortality improvements between 1848 and 1972"  
+
+<br>p208 "the mortality decline since (p209) the middle of the 19th c" alluding to McKeown's explanation for "British mortality improvements between 1848 and 1972"  
 <br>p208 1900 U5MR 18%  "Its population was also highly literate and exceptionally well-fed."  "The high level of mortality that existed amidst the relatively affluent American population"   
 <p>p209 Further evidence that lack of know-how rather than lack of resources was principally responsible for foreshortening life in the United States in the 1890s is the pattern of social-class differences in child mortality.    ... Particularly telling is the mortality of offspring of doctors, which was only 6 percent below the national average.</p>
 <p>p210 race  and size of place  "Larger cities had higher child mortality in the late nineteenth century, despite having administrative structures that facilitated the introduction of public-health measures"</p>
