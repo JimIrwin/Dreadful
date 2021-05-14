@@ -718,33 +718,35 @@ USA mort CEA   JIMJIM
 
 ### USA
 
+
+
 #### Current views of the onset of Infant-Mortality Transition in the USA?
 
-<p>Child mortality ?
-<br>Higgs 1979 EEH  "Cycles and Trends of Mortality in 18 Large American Cities, 1871-1900" 
-p381 Demographic historians agree that a mortality transition was occurring in the United States during the late 19th century, but they disagree over the nature of that transition. There is no consensus about when the death rate began its long-term  decline. Some scholars believe that mortality fell steadily and continuously during the entire second half of the 19th century.n1 Others maintain that relatively little if any decline occurred during the mid-19th century and that rapid decline occurred only after 1880.n2 [Higgs 1971, Meeker 1972] 
-</p>
-
-
 ACTUALLY VERY LITTLE HAS BEEN OFFERED (beyond citing HSUS)
-
+<br>
 Papers that use HSUS series to say IMR fell 1850 to 1900:
 Alsan & Goldin (2019) p587 rely on HSUS to say "From 1870 to 1930 ... infant mortality plummeted from around one in five to one in 16 white infants for the United States and Massachusetts" 
 Cain & Paterson (2012 Children of Eve) p.73
 
 
-
 Papers saying there was a late-19C Mortality decline, without attention to IMR ... 
-Cain & Hong (2009) e0; Higgs (1979) late 19C mortality decline; nothing on IMR Higgs (1973) rural mortality decline 1870-1920; nothing on IMR; Meeker (1972) Mortality transition from 1880 on; nothing on IMR.
+Cain & Hong (2009) e0; Higgs (1979) late 19C mortality decline, nothing on IMR; Higgs (1973) rural mortality decline 1870-1920, nothing on IMR; Meeker (1972) Mortality transition from 1880 on, nothing on IMR.
 
 Cutler & miller  The gradient was much steeper for infants and children. In 1880, infant mortality was 140% higher in cities, and in 1890, mortality among children aged 1-4 was 94% higher (Haines 2001; U.S. Census Office 1888).
+</p>
+
+<p>For citations for view that "mortality was declining in the 2nd 1/2 of 19th C" then we'll include Higgs (1979 EEH) who focusses on timing of "when the death rate began its long-term decline."  </p>
+<p>Child mortality?   IMR?
+<br>
 
 
 https://www.washingtonpost.com/news/wonk/wp/2014/09/29/our-infant-mortality-rate-is-a-national-embarrassment/
 
 Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to the Present.” Journal of Economic Literature 53 (3): 503–7 LOOK AT --
 
-<p>Sorting out US infant mortality -- at what time do we start to have fairly reliable IMR values? Recall that England & Wales are deemed to have reliable IMR estimates.
+<H3> Current views of US infant mortality </H3>
+
+<p> At what time do we start to have fairly reliable IMR values? Recall that England & Wales are deemed to have reliable IMR estimates.
 <br>HSUS series Ab920 (1850-1992). Ab920 has values listed for 1850, 1860, 1870, 1880, 1890, 1900, 1910, and annually starting with 1915. Those annual estimates are from Vital Statistics, with 1934 onward for the entire US, and 1915 to 1933 for the BRA only (which covers 75% of US pop by 1925?). The early benchmark estimates are from 
 <br>
 1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2. For 1915-1933 these are for Birth Registration States only.
@@ -752,10 +754,10 @@ Costa, Dora L. 2015. “Health and the Economy in the United States from 1750 to
 </p><p>HSUS also reports values at census years, for whites and blacks, Ab9 & Ab10, which are the same values found in Ab921 & Ab922.^[Jim's 2021May06 (and before) error mistook the footnote to the Black CBR (Ab2) and TFR (Ab6) as applying to the IMR rates.   1. For 1850–1880, the values are averages for the following periods: 1850–1859, 1860–1869, 1870–1879, and 1880–1884.] But footnote 2 of Table Ab1-10 tells us the IMR values listed listed "for 1900 and 1910 are from approximately 1895 and 1904, respectively."^TABLE Ab1-10, footnote 2: For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively.]
 </p>
 
-
 <p>Note that Preston and Haines' q0 estimates have a wide range.   Maybe pdf87 of fatal years?
-<br>q5 177   147    (176 197 173)
 <br>q0 153   NA     (120 132 112)
+<br>q5 177          (176 197 173)  
+<br>From Table 2.5: age model 153/177 ; marital-dur NA  
 </p>
 
 <p>Birth Registration States
@@ -900,7 +902,7 @@ p 104 After 1860 the evidence suggests a period of stability before the mortalit
 <p>1994 Bulletin Forum </p>
 
 <p>Preston & Haines (1991) [*Fatal Years*](https://www.dropbox.com/s/fk0yglszu300s1u/Preston%26Haines1991FatalYears.pdf?dl=0) 
-<br>Points for CEA paper: p74 their 0q5 is 180/k (falling from 204) and that reflects IMR (123, falling from 137) and 1q4 (66, falling from 78) --
+<br>Points for CEA paper: p74 their 0q5 is 180/k (falling from 204, I'd say) and that reflects IMR (123, falling from 137) and 1q4 (66, falling from 78) --
 So they have about 10% fall in infant & child mortality. And with a 1-level change in West, that's +2.5 yrs to female e0 
 If we eliminate the q0 fall, the 0q5 fall is about 1/2 as much; e0 effect, also about 1/2 as much ... 
 
@@ -939,9 +941,14 @@ male 1850 36.5 1860 40.7 1870 42.1 1880 38.2  1890 43.9  1900 46.3<br>
 wmale 1850 37.7 1860 na 1870 43.1 1880 39.6  1890 45.1  1900 47.6<br>
 and Fogel 1860 value which is similar
 Table 2.3  DRA values white IMR .124  urb .138  rur .100  black .234 </p>
-<p>p58 Tab 2.3 US-DRA q1 (IMR) 1900/02 124  1909/11 115  (England 1890s 156 1900s 131) q5 1900/02 182  1909/11 161  </p>
+<p>p58 Tab 2.3 US-DRA q1 (IMR) 1900/02 124  1909/11 115  (England 1890s 156 1900s 131) q5 1900/02 182  1909/11 161  
 
-<p>p67 ... For the total population, the range of q(5)'s indicated by the various Coale and Demeny model life table solutions is only .004, whereas it is .024 for q(1) and .030 for q(20) (Preston and Haines 1984). Using a formula  Preston and Palloni (1978:84), we estimate that the year to which this robust surviving-children estimate of q(5) pertains is 1896.</p><p>**Results**<br> 
+</p><p>Using proportion of children reported dead to infer mortality. p61 [equation 2.1 identity of D/B and integral of (q x %born in slice of time) over time-period of births (years since birth of first child born to the women reporting)]    p62  [Looks like can use women's ages or marital duration -- q1 best identified by % dead among women aged 15-19; q2 from women ages 20-24 or marital duration 0-4 ] 
+An alternative approach to the indirect estimation of child mortality is the surviving-children method (Preston and Palloni).  ... backward projection of the age distribution of surviving "own-children" by various levels of mortality within a model life table system to the point where the back-projected number of births equals the number of children reported as ever born by the [p63] group of women. 
+
+</p><p>p66 ... For the surviving-children approach ...  p67 ... For the total population, the range of q(5)'s indicated by the various Coale and Demeny model life table solutions is only .004, whereas it is .024 for q(1) and .030 for q(20) (Preston and Haines 1984). Using a formula  Preston and Palloni (1978:84), we estimate that the year to which this robust surviving-children estimate of q(5) pertains is 1896.
+[Ji: s-c estimates' ranges are q5 .004   q1 range .024  ]
+</p><p>**Results**<br> 
  ... Agreement among the three approaches is close for ages
 3, 5, and 10.  ...  If we make the reasonable assumption that the West model life table system pertained in the period 1880-1900 roughly as accurately as it did in 1900, then children of older women were clearly subject to higher mortality conditions than were children of younger women.<br>
 These estimates thus suggest that a substantial reduction in child mortality occurred prior to the census of 1900, an implication consistent with some of the research cited earlier in this chapter</p>
@@ -998,11 +1005,17 @@ p99 Estimating 1qO from 1870 to 1930 presented a special problem because of the 
 
 <br>Knodel 1977?
 
-<br>Haines (1977 Demog) Mortality in nineteenth century America: estimates from New York and Pennsylvania census data, 1865 and 1900
+<br>Haines (1977 Demog 311-331) Mortality in nineteenth century America: estimates from New York and Pennsylvania census data, 1865 and 1900
+<br>vouches for age 5-20 census mortality data 1860-1880 (eg p330)
+<br>p323 [interesting remark] If the Vinovskis estimates are accepted as plausible, then mortality experience in Massachusetts improved little between 1859-1861 and 1900-1902 (and actually deteriorated between 1851-1861 and 1890, ...  Billings (in U.S. Bureau of the Census, 1886) for 1878-1882, and by the Glover (1921) table for 1890).  ... child mortality in upstate NY appears to have improved considerably between 1850-65 and 1900-02. 
 
-Higgs (1979 EEH)  18 large cities, 1871-1900 p381 Demographic historians agree that a mortality transition was occurring in the United States during the late 19th century, but they disagree over the nature of that transition. There is no consensus about when the death rate began its long-term decline. Some scholars believe that mortality fell steadily and continuously during the entire second half of the 19th century.’
-
-<br>
+</p>
+<p>Higgs 1979 EEH  "Cycles and Trends of Mortality in 18 Large American Cities, 1871-1900" 
+<br>p381 Demographic historians agree that a mortality transition was occurring in the United States during the late 19th century, but they disagree over the nature of that transition. There is no consensus about when the death rate began its long-term  decline. Some scholars believe that mortality fell steadily and continuously during the entire second half of the 19th century.n1 Others maintain that relatively little if any decline occurred during the mid-19th century and that rapid decline occurred only after 1880.n2 [Higgs 1971, Meeker 1972] 
+<br>18 large cities, 1871-1900 
+<br>Smallpox "early 1870s" 1872, 1873; early 1880s -- Chicago 1881, 1882; Baltimore 1882;  influenza 1890-92, "appeared in N Y on Dec 17, 1989, and hundreds of cases were reported in the next 10 days.   ... end of December / prevalent in nearly all large cities of the east and moddle sections and within 3 months  / covered the whole country.  Dec 1891 - Jan 1892 outbreak most severe. p401 "1881 and 1882 were peak mortality years for most infectious diseases in New York" To some extent, Higgs identify epidemics from residuals from CDR regressions; but mostly secondary sources.
+</p>
+<p>
 Higgs (1973 EEH) "Mortality in rural America, 1870-1920: Estimates and Conjectures" via Fogel (1986 E&G): Higgs points to nutritional cause, as residual to explain rural mortality decline similar to urban 1870 to WW1 ...  Overall Death Rate, UrbanDR, %Urban implies ruralDR
 
 <br>Meeker (1972) "The improving health of the United States, 1850-1915."   Cutler & Miller cit/accept his estimate of CDR 22/1000 for the 1850s. p362 the death rate for the United States as a whole during the decade of the fifties was probably between 21 nad 23 deaths per thousand.  Kuznets' CRD estimates  p363  e0 and CDR show improvement after 1880
@@ -1011,6 +1024,10 @@ Higgs (1973 EEH) "Mortality in rural America, 1870-1920: Estimates and Conjectur
 Jacobson (1957 -- USED BY MEEKER) : Fortunately, 1850 mortality data are also available for Maryland (2), and these data averaged with those for Massachusetts appear to approximate the experience in the United States as a whole. 
 
 Woodbury (1926) [Infant Mortality and Its Causes](https://catalog.hathitrust.org/Record/001581767) Seems to be just 1915-1921
+
+<p>Glover (1921) life tables has NY IMR 1901 127, 1910 117   
+<br>NY 1901 IMR 127  1910        male IMR 138.2 p160, female 116.04 p164
+</p>
 
 CDC [1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)<br>
   deaths per 1000, U1, 1910 and 1920
@@ -1045,8 +1062,14 @@ Chicago falls from 139 to 108 (raise SR by 0.6 101.7 to 102.3)
 <br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
 <br>Appendix A refers to Secretary of the Commonwealth of Massachusetts,
 Report on Births, Marriages, and Deaths  
+</p><p>
+<br>Leonard, Beemer, Anderton (2012 Cont & Change 433-59) p433 For the United States, the evidence suggests that overall mortality may have declined in the third and early <p434> fourth quarters of the nineteenth century.[3 Costa & Steckel 1997, Ferrie 2003 (re:1850-60), Swedlund (1990); Hautaniemi, Swedlund, Anderton] However, in Massachusetts, mortality plateaued during the latter half of the nineteenth century, and not until the turn of the twentieth century did mortality begin a slow but sustained decline.[4 HSUS - no more detail?] In previous work, we have argued that high overall regional mortality was sustained by the strains of significant population growth within newly emerging urban–industrial communities.5 These strains were ultimately relieved as population growth stabilised and urban infrastructures developed, notably with the introduction of filtered water supplies and sewage systems.6 Although such improvements began after mid-century, their widespread penetration into emerging industrial cities as not completed until near the turn of the century or later, when regional mortality finally began to fall.
 </p>
-<p> Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7)  </p>
+
+
+
+
+</p><p>Preston & Haines 1991 Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7)  </p>
 
 
 

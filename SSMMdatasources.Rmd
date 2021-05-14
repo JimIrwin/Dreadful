@@ -386,6 +386,8 @@ https://www.census.gov/programs-surveys/decennial-census/decade/decennial-public
 
 #### Vital Stats for Canada -- Provincial?
 
+Canadian Human Mortality Database [BDLC](http://www.bdlc.umontreal.ca/chmd/prov/nbr/nbr.htm)
+
 [Quebec SRB](https://statistique.quebec.ca/en/produit/tableau/births-by-sex-and-sex-ratio-at-birth-quebec)
 Canada & provinces [Lifetables 1999-2001](https://www150.statcan.gc.ca/n1/en/pub/84-537-x/2020001/xls/1999-2001_Tbl-eng.xlsx?st=x5IFJWHw)
 <p>Canada Life Tables [1980/82 to 2017/19](https://www150.statcan.gc.ca/n1/pub/84-537-x/84-537-x2020001-eng.htm)

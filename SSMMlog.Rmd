@@ -10,13 +10,38 @@ output: html_document
 
 #### loose ends (move/tidy when noted)
 
-<p>Jim to find H&P IMR rates in Fatal Years; also look at q1-4 estimates
-</p>
-<p>Jim: add author's name to 1861 scotland census  (W. Pitt Dundas & James Stark) Is maternal mortality the key to 105 (ie deaths from pregnancy and childbirth)
-<p>Look at Philadelphia 1920 census, asking if the 1918 Pandemic left an impression.</p>
+<p>1920 and the Pandemic
+<br>Look at Philadelphia 1920 census, asking if the 1918 Pandemic left an impression.
+<br>Look at US-level and see if the geography of a lowish SR2 is sensible in view of the pandemic</p>
 <p>IMR in 1999 around the world Table 46-1 in Masuy-Stroobant essay in Caselli Demog. North Africa 55, Central Africa 104, Asia 56, West Europe 5   North America 7 </p>
 
 ### current log
+<p>2021.0514 Ji to look at Pelletier et al, is it useful for us? Otherwise, write up a quick 2 paragraphs on the Canada results.
+First, that Canada as a whole fits. Second, that Quebec is interesting? Figures may need notes to clarify what is/is not shown (1890)
+<p>2021.0513
+</p><p>Bourbeau/StatsCan life tables IMR have simple decline of IMR from 1861 onward (1861 166 1901 124  1931 69)
+<br>Updated u2pubCen.RDS with corrected u2 for SouAtl (first set embedded goofy fPUMS age-sex structure into the u2s). Revisions.R 
+<br>via HMD, BDLC (UMontreal associated with HMD) has Quebec life tables from 1921 on. For predicted SR2, I use SRB of 105 because BDLC tables are odd, in terms of SRB embedded in totals (vs male and female). Their IMR at census benchmarks from 1921 are 151, 127, 85, 50  And the associated SR2s are 101.2 101.7 102.8 103.8 -- so the big gains in SR2 are predicted for 1931 to 1941 (+1.1) and 1941 to 1951 (+1.0). From Js's graph, we see the big increases (over 1) 1921-31 and 1931-41, not 1941-51 (+0.4?), 
+<p>2021.0512
+<br>Looking at PelletierEtAl 1997 Table 2 IMR Que 1851/52 93 Mont 223  1860/61 104  272  -- SRs?
+
+
+<br>Interesting to note that Glover NY 1900/02 has 2q0 ~ 162 which is between West levels'  149 level 15 (IMR 103) and 169 (IMR 116); SR2 NY-101.5 USA-102; so SRs say NY worse than USA -- what is ZGlovers NYC imr?
+
+</p><p>Questions for Jesse, re: P&H's Fatal Years.
+1) Narrow -- Fatal Years Table 2.5, Surviving-children method, q(5) values for Total Pop (vs White or Black) are 176 197 173   ... But the q(5) for the younger women (ages 14-24) is HIGHER than the q(5) for the older women: 197 vs 173.  Doesn't that suggest that mortality got worse over time?
+2) Broader -- What does our IMR (0q1) claim imply for P&H finding of declining 0q5? Are they finding a 1q5 decline, and extrapolating to find 0q1 declines too? Or are they "finding" a 0q5 decline, so that if IMR was not-falling, 1q4 was falling even more?
+Is it: they find 10% decrease of 1q4, with constant IMR, 0q5 dropped 5%?
+Or: they find 10% decrease of 0q4, with constant IMR, 1q4 dropped 20%?
+And, of course, the conflict between our results and theirs is greater to the extent that we find IMR increasing 1880s to 1900s .... 
+
+We suspect IMR rose from the 1880s to 1900; but to conflict least with P&H, we could allow IMR to jump in mid 1880s and be flat into 1900s. I.e. we find IMR did not decline in 1880s & 1890s. What does that imp
+
+Fatal Years key empirical result (claimed) is a q(5) value of 18% for 1895, which represented an improvement from 10 years earlier, probably from 20% to 18%  .... that falls out of the West model LT levels which in turn show both q1 and 1q5 dropping 10%. 
+</p>
+<p>Jim to find H&P IMR rates in Fatal Years; also look at q1-4 estimates
+</p>
+<p>Jim: add author's name to 1861 scotland census  (W. Pitt Dundas & James Stark) Is maternal mortality the key to 105 (ie deaths from pregnancy and childbirth)
 
 <p>2021.0511 PUMS vs cenVols -- key anomolies: NewEng 1870 fPUMS -.5  1910 -.7  1920 +.5 1940 -.6
 NewEngland: SR5 fPMUS vs cenV 1850 +0.5; 1860 0; 1870 -0.4; 1880 -0.2; 1900 +.2; 1910 -0.6; 1920 +0.3; 1930 0; 1940 -0.4    </p>
