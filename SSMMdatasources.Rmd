@@ -14,9 +14,6 @@ output: html_document
 
 Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
 
-Bideau et al. [Infant and Child Mortality in the Past](https://books.google.ca/books?id=idm99dX1XUoC&newbks=1&newbks_redir=0&dq=Infant+and+Child+Mortality+in+the+Past&source=gbs_navlinks_s)  ARTICLE BY George Alter "Infant and Child Mortality in the United States and Canada" pp91-108
-
-
 Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
 
 
@@ -90,7 +87,15 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 <p>Mass Vital Statistics [Annual Reports](https://archives.lib.state.ma.us/handle/2452/39847)
 [By date?](https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued)  I started to check 1890 versus 1885 and 1895, but realized Mass 1890 looks fine ...</p>
 
+<p> [searched Mortality](https://archives.lib.state.ma.us/discover?filtertype_1=dateIssued&filter_relational_operator_1=contains&filter_1=1901&submit_apply_filter=&query=Mortality&scope=2452%2F39847)  And then use advanced filters to get date desired (issue date 1900 gives rpeort  of 1900 )
+
+[1842-1899 Mortality etc](https://archives.lib.state.ma.us/discover?query=Mortality&scope=2452/39847&filtertype_0=title&filter_relational_operator_0=contains&filter_0=&filtertype=dateIssued&filter_relational_operator=equals&filter=%5B1842+TO+1899%5D)
+
 <p>Mass [state cenuses](https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued)
+
+[1855 MASS census](https://archives.lib.state.ma.us/handle/2452/122030) Table 2 (64-97 -119) gives totals in age-groups, but not by sex.  p222 discusses sex. Jim cannot find any sex/age data here. 
+
+[1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
 </p>
 
 <p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics</p>
@@ -314,10 +319,11 @@ PE-11 nonwhite 98.7
 census SR2 negro 99.2  nonwhite 99.6     PE-11 SR2 nonwhite says 100.8 with very rounded numbers, so I reject, and stick with census    TABLE 43 has Divisional ages
 1910 Pop [Vol 1](https://www.census.gov/library/publications/1913/dec/vol-1-population.html). [Ch 4](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p6.pdf) has single year ages, including  [major cities](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
 Table 29 is national totals, including the 1910 "negro" values which I found elsewhere. <br>
- Table 33 has u5 m/f 1880 1890 1900 1910   Table 41 age periods, states <br>
+Table 33 has USA, u5 m/f 1880 1890 1900 1910   Table 41 age periods, states <br>
  Table 43 single year p391 NY
+ Table 48 no sex breakdown, u5 by region. Table 49 1910 t50 (100-500k),t51 (500k+),t52,t53,t54 1910
 1910 Vol 2 NOT AGES  has state detail, section for each state, Table 1 has state and county
-
+<br>Looked for, and did not find, u5 by sex for previous years.
 
 **1900** Much like 1890, single-year for states (Table 2); age-groups for cities    
 vol 1 tables 1-4 NO age data; 
