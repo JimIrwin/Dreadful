@@ -10,6 +10,11 @@ output: html_document
 ## Overview ##
 <p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
+### New ###
+
+[Brazil 1872](https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&view=detalhes)  Some funny-looking sex-ratio values in mestizos and slave >10 yrs?
+
+
 ### Jesse might find in NYC
 
 Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
@@ -84,6 +89,25 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+<p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics</p>
+<p>Maybe other volumes are at the older link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html)
+<br>Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
+<br> * also see the PDF on 20thC US for linked sources, in our B/W page
+</p>
+
+#### Potential data on Infant Mortality 1890, 1900-1904, 1900-1905
+
+<p>Bureau of Labor Statistics [Annual Reports](https://fraser.stlouisfed.org/title/bulletin-united-states-bureau-labor-3943?browse=1890s#477578) have city-level deaths by causes (these found via Cain & Rotella (2001)). But they lack age-specific deaths.  
+<br>But there are death-by-age in Registration cities for 1900 (census year, in Census Reports, Volume IV, Vital Statistics, Part II, [Statistics of Deaths](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1900_4.pdf)); I pdf-save Table 5 23-55   pp21-53
+
+1906 onward has infant deaths for large cities 
+
+
+
+1900-1904 1900 Table 8   pdf  308-349    1902 Tab 2 death/age  532-549      Tab 8 deaths/age by cause CITIES
+
+
+</p>
 <p>Mass Vital Statistics [Annual Reports](https://archives.lib.state.ma.us/handle/2452/39847)
 [By date?](https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued)  I started to check 1890 versus 1885 and 1895, but realized Mass 1890 looks fine ...</p>
 
@@ -98,11 +122,6 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 [1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
 </p>
 
-<p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics</p>
-<p>Maybe other volumes are at the older link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html)
-<br>Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
-<br> * also see the PDF on 20thC US for linked sources, in our B/W page
-</p>
 <p>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
    Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>

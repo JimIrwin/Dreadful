@@ -15,28 +15,32 @@ output: html_document
 <p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#InfMort)     </p>
 <p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 
+### newly added and maybe important
+
+To check: Preston 1975   Gwatkin 2000
+
+Deaton (2003 JEL)   p133 refers to Almond, Chay, Greenstone for narrowing black/white IMR gap 1965-1971 -- we see SR2 +1.4 (1940-1950 similar, but 1950 anomolously high?)    
+
+p139 h. G. B. Rodgers (1979) and A. T. Flegg  (1982) were early studies that followed  Preston's lead, explicitly looking for (and  finding) effects of income inequality on  mortality    ... Rodgers /  56 countries  / hazardous effects of of inequality on life-exp at b, life-exp at age 5, and  IMR  Flegg child mortality  
+
+ Robert Waldmann (1992)   infant mortality on a cross sec-tion of up to 57 developing and developed countries. conditional on mean income, the share of income  to poorest 20% decreased IMR ... share to richest 5% *increased* IMR  
+ 
+  ...  Perhaps the single most cited finding in the literature is Wilkinson's (1992, 1994, 1996) demonstration of a relationship be-tween income inequality and life expectancy  across a number of industrialized countries <1st world problems, we can ignore for now?>
+
+p140  Andrew Baumbusch (1995) replicates Waldman but <with 1993 data, income to top 5% reduced IMR -- share or level?>       < US inequal & high IMR drives pattern in LIS data for rich countries>
+
+p141  developing countries ... infant mortality concentrated at bottom of income distribution
+p142 within US     p149 mortality decline 1975-1985, 1980s   p151 s, there is a strong appeal to the idea that before the epidemiological transition,  income determines mortality, while after it,  income inequality determines mortality; that in poor countries, income protects against poor sanitation, unhealthy working and liv-ing environments, poor nutrition, and a  plethora of infectious diseases; that in rich  countries, where these evils are but distant  memories, income inequality is an indicator  of the quality of social arrangements, of stress, and of mortality.    ....  Infant and child mortality in developing countries is primarily a consequence of poverty < and more unequal, given income, means more poor>
+p152 interesting mention of "biology of stress and disease"
+
+    That repeated stress as-sociated with the insults and lack of control that come from low rank has a well-devel- oped biochemical basis (see for example  Robert Sapolsky 1993, and Bruce McEwen  1998)" 
+Sapolsky Wild Baboons    McEwen NewEngJMed  stress mediators ...  allostasis
 
 #### loose ends
 
 
 2021 Sex ratios and gender discrimination in Modern Greece (Francisco J. Beltrán Tapia & Michail Raftakis) [Pop Studies 2021](https://www.tandfonline.com/doi/pdf/10.1080/00324728.2021.1923787?needAccess=true)
-<br> p5Before considering the relative numbers of boys and girls in the Greek censuses, it is important to note that child sex ratios in the past are not comparable to contemporary ones because mortality levels
-during infancy and childhood have a direct influence
-on sex ratios in these age groups. Due to the survival
-advantage of females, harsher environments are
-especially deleterious to boys (especially during the
-first years of life), thus increasing their relative mortality and resulting in lower sex ratios. Following the
-estimation in Beltrán Tapia (2019, pp. 5–6), Figure 2
-plots the available information on infant mortality
-and child sex ratios (ages 0–4) in European countries
-between 1750 and 2001 and illustrates the negative
-relationship between these two variables. According
-to these estimates, infant mortality of slightly below
-200 deaths per 1,000 live births (in line with the
-values reported for Greece during the second half
-of the nineteenth century [Valaoras 1960, p. 132]),
-should yield child sex ratios of around 101 boys per
-100 girl
+<br> p5Before considering the relative numbers of boys and girls in the Greek censuses, it is important to note that child sex ratios in the past are not comparable to contemporary ones because mortality levels during infancy and childhood have a direct influence  on sex ratios in these age groups. Due to the survival advantage of females, harsher environments are especially deleterious to boys (especially during the first years of life), thus increasing their relative mortality and resulting in lower sex ratios. Following the estimation in Beltrán Tapia (2019, pp. 5–6), Figure 2 plots the available information on infant mortality and child sex ratios (ages 0–4) in European countries between 1750 and 2001 and illustrates the negative relationship between these two variables. According to these estimates, infant mortality of slightly below 200 deaths per 1,000 live births (in line with the values reported for Greece during the second half of the nineteenth century [Valaoras 1960, p. 132]), should yield child sex ratios of around 101 boys per 100 girl
 
 Charaus, [2010 Phd thesis, Marquette](https://epublications.marquette.edu/dissertations_mu/68)
 p146 G-I U2 deaths surge 1888/90 and high 'til 1910.  And discussion of breast-feeding, referring to Levenstein, harvey JAH 1983 
@@ -911,8 +915,32 @@ of exposure to pathogens" and diccusses 1900 vs 1950. And he has "The more egali
 
 </p>
 
-<p>Cain & Rotella (2001 Annals Demog), "Death and spending: Urban mortality and municipal expenditure on sanitation." <br>  1899-1929 48 cities<br> The mortality data come from the Mortality Statistics of Cities which annually published death-by-cause statistics.  COMAPRE THESE TO VITAL RATES DATA?
+<p>Cain & Rotella (2001 Annals Demog), "Death and spending: Urban mortality and municipal expenditure on sanitation." <br>  1899-1929 48 cities<br> The mortality data come from the Mortality Statistics of Cities which annually published death-by-cause statistics.
+
+n2 Data on both finances and mortality are contained in Bureau of Labor Statistics Bulletin, #24, 30, 36, and 42, for the years 1899-1902, and Census Bulletin #20 for 1902-03. The Bureau of the Census published Mortality Statistics of Cities annually between 1900-36 and Financial Statistics of Cities most years between 1905 and 1931.
+
+p140 We have constructed a waterborne death rate (WDR) series that includes deaths attributable to typhoid fever, diarrhea, and dysentery.
+
+p141 The coefficients on the variables for expenditures on water delivery and treatment do not show a large impact in this period reflecting the fact that the large, initial effect of waterrelated capital expenditures on mortality from waterborne diseases took place in the latter portion of the XIXth century before our study begins
+
+p142 The strong downward trend in mortality is captured by YEAR
+
+p144  Albany water filtration Sept 1899   avg yearly typhoid deaths 1890-98  85
+
+mention of Columbus OH
+
+[Bureau of Labor Statistics 1-100](https://fraser.stlouisfed.org/title/bulletin-united-states-bureau-labor-3943?browse=1890s) BLS #24 causes of death include "cholera infantum" -- are there any other to connect to infants?  pdf26 p646 Table IV  Boston MASS 441 deaths from cholera infantum Which is very small  compared to Boston's 2401 deaths Under 1 in 1899 (58th Report ... 1899 49p36) in 11,174 total deaths.  BLS has 10,044 deaths from all causes ...
+
+1902 via BLS 42   53p929 Boston total deaths 11,300   infantile diseases 834   52p928 u2 diarrehea/enter 610      pdf48  births 7954 7654 15608    576 stillbirths
+
+1902 via MASS annual  total deaths 10,999  u1 2269 (1207 1062)  1to2 612 336 276
+
+Might compare these to VITAL RATES DATA?
 <br> https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm
+
+via Cain & Rotella, Ji looking for infant death data -- 1900 Chicago (census, Reg City), 5773 deaths  
+1906 onward has infant deaths for large cities 
+1900-1904 1900 Table 8   pdf  -349
 
 </p>
 

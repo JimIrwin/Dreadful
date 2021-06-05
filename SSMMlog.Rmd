@@ -17,9 +17,6 @@ well-being
 http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR implications or data?
 
 
-<p>1920 and the Pandemic
-<br>Look at Philadelphia 1920 census, asking if the 1918 Pandemic left an impression.
-<br>Look at US-level and see if the geography of a lowish SR2 is sensible in view of the pandemic</p>
 <p>IMR in 1999 around the world Table 46-1 in Masuy-Stroobant essay in Caselli Demog. North Africa 55, Central Africa 104, Asia 56, West Europe 5   North America 7 </p>
 
 Missing Women web page needs better cites, eg Klasen
@@ -27,9 +24,40 @@ Missing Women web page needs better cites, eg Klasen
 ### current log
 
 
-<p>2021.0530   look at Alsan & Goldin and see if that helps give a clue on how 4q1 compares to 1q0 and how they relate to stature work (improvements start after 1890s in Steckel eh.net
+<p>
+
+<p>2021.0604  Alsan & Goldin xslx in replication zip.  Graph of IMR suggests 1850s to 1885 rise, flat until 1905.
+4q1 CDR  ~30 in 1870  ~22 in 1900  ~11 in 1920   ~4 in 1930
+looked at Alsan & Goldin to see if that helps give a clue on how 4q1 compares to 1q0 and how they relate to stature work (improvements start after 1890s in Steckel eh.net
+Entered those in my lifetable.wk4 
 
 
+start moving all USkidsForR.xls data to US-NEKidsForR   
+Brazil, SPain, Greece
+
+<p>2021.0602   start compiling regional CenVol / PUMS comparisons -- to find influential discreps.
+PUMS file?
+
+
+For IPUMS guy -- what to make of discreps between PUMS and census -- Chicago 1900 age 0  PUMS 
+
+
+Cain & Rotella -- anything I can point out related to their findings?
+Chicago 
+1900 u5 99.4 girls per 100 boys (100.6 boys per 100 girls)  -- female-biased, poor health
+1910 u5 97.9  idr ~13%
+1920 u5 97.6  idr ~12%
+1930 u5 97.1 idr ~  7%  (6.9%)
+
+
+Saw Kris Inwood yesterday -- two leads to check, Alice Reed IMR?  New Zealand vital stats go way back?
+
+</p>
+<p>2021.0531 1920 and the Pandemic
+<br>Look at Philadelphia 1920 census, asking if the 1918 Pandemic left an impression -- arguably there is some impression, with the u2 being 0.7 points more female than the 2to5 
+<br>Could look at US-level and see if the geography of a lowish SR2 is sensible in view of the pandemic</p>
+
+<p>2021.0530  
 found 1875 Mass census compilation error (age 1). 
 want to look at NYC 1850, 1860 ... but first, look at Mass 1880 vs 1875 -- do we see an echo of the 1875 fem-bias?
 looking at 1840 u5 and notice NYC 99 and the rest of the state 104.5

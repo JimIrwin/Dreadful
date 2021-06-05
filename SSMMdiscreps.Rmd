@@ -26,12 +26,12 @@ Look at 1850 for (1) Mass  and then (2) state by state
 Look at state census for  1865 1875         1905 1915  relative to census/pums discreps
 and look at 1885 1895 for 1890 ...
 
-1875 census SR is huge outlier .... TABULATION ERROR -- 1yrold female total is 2000 too high
+1875 census SR was  huge outlier .... JIM FIXED TABULATION ERROR -- 1yrold female total is 2000 too high
 
-MASS SR5  CONCERNS -- 1850 1870  1910 
+MASS SR5  CONCERNS -- 1850 1870  1910  (and 1920, 1930)
 1850 PUMS is 0.7 over census (101.6)
 1860 PUMS is 0.2 over census (101.3)
-1870 PUMS is 0.7 under census (101.5)
+  1870 PUMS is 0.7 under census (101.5)
 1880 PUMS is 0.2 under census (102.2)
 1900 PUMS is 0.2 over census (101.1)
 1910 PUMS is 0.5 under census (102.0)
@@ -39,10 +39,7 @@ MASS SR5  CONCERNS -- 1850 1870  1910
 1930 PUMS is same as census   (103.2) 
 1940 PUMS is 0.3 under census (104.0)
 
- 
- 
- 
- Mass 1865 state census has SR2 >> SR5 (SR2 102.9  SR5 101.3)  1.6 points!
+Mass 1865 state census has SR2 >> SR5 (SR2 102.9  SR5 101.3)  1.6 points!
  
  
  
