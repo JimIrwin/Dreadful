@@ -761,6 +761,24 @@ Canada 4q1   declining 1801 on (flat 1851-61)
 Queb 0q1 flat (like Can 1801) until 1871, then decline
 Que  4q1 decline 1801 on (slow in 1860s)
 
+**McInnis 2000** In Haines & Steckel pop history of North America    
+p568 1901 IMR Ontario 117  Que 186   <about the same as he finds for 1891>    
+p569  By 1931 86  well-monitored Canada from the point of view of vital statistics   well above the 60 per thousand for the white population of the US    Quebec > 100 in 1931
+p596 Table 12A.1    IMR  1901 139   1931 86  1951 39  1981 9
+
+p404?  1891 Quebec 190  Ontario 115  
+
+
+**McInnis 1997** in Bideau et al 
+ 1891 IMRs extrapolated from his 1901 estimates.  
+ 
+p266 the three Quebec cities  average rate of 280  (Montreal 285)  rest of province 173   In Ontario the city of Toronto stands out with exceptionally high infant mortality (199 <but p270 has 185??>)  The urban-rural differential in Ontario was even larger,  average city figure of 180   rural residual 105    The most remarkable finding   the big difference between Quebec and Ontario was in rural populations, not in the cities.
+ 
+ p270 Ontario lowest rates at about 80 deaths per thousand births,  ... only a few exceptional counties  rates above about 120.  The urban centres had higher rates, of course,  Toronto 185   rates of 150-70 in smaller cities of Ontario   akin to the rural districts of Quebec.  those with large Fr Cdn populations  Prescott 151  Russell 172       
+The general run of Ontario counties  IMRs 80 to 100       Essex 120 pocket of Fr Cdn settlement
+ 
+
+
 Thornton and Olson (1991 )  Alter (1997) mentions for Montreal French IMR higher than non-French  
 Thornton, Olson, Thuy Thach (1988) 
 
@@ -892,7 +910,11 @@ p485  "the rapid decline in death rates during the second half of the [485] nine
  1-4 1900 18.8  1910 11.9  1920 9.3   1930 5.8    
 <br>	To investigate how women’s suffrage was related to child survival, state-level mortality data by age/sex and by cause are needed. However, there was no national system of death records in the United States prior to 1933 (Haines 2001). Using the published historical series, I have constructed an unbalanced panel of annual state-level deaths by age/sex and by cause for the years 1900–1936.
 
-LeeK-S (2007 PBioMed) poorly cited Figure 1 illustrates ignorance of US IMR before 1915 or so
+LeeK-S   2007  Infant Mortality Decline in the Late 19th and Early 20th Centuries: The Role of Market Milk   
+Uses Haines/HSUS for IMR.  poorly cited Figure 1 illustrates ignorance of US IMR before 1915 or so (un-cited, with not-identified US cities)    
+Cites Davis 1913 for Davis (1913)  BOSTON IMR 127 per1000 diarrhea 29%     
+Useful for US Children's Bureau. 1913-1923 Baby-saving campaigns ... 1913; Infant Mortality .. NJ  ... PA   NH   KS   CT  various towns and places across states ... 
+
 
 
 Cutler & Miller (2005 Demog & ERRATUM)
@@ -1131,6 +1153,11 @@ Report on Births, Marriages, and Deaths
 </p><p>
 <br>Leonard, Beemer, Anderton (2012 Cont & Change 433-59) p433 For the United States, the evidence suggests that overall mortality may have declined in the third and early <p434> fourth quarters of the nineteenth century.[3 Costa & Steckel 1997, Ferrie 2003 (re:1850-60), Swedlund (1990); Hautaniemi, Swedlund, Anderton] However, in Massachusetts, mortality plateaued during the latter half of the nineteenth century, and not until the turn of the twentieth century did mortality begin a slow but sustained decline.[4 HSUS - no more detail?] In previous work, we have argued that high overall regional mortality was sustained by the strains of significant population growth within newly emerging urban–industrial communities.5 These strains were ultimately relieved as population growth stabilised and urban infrastructures developed, notably with the introduction of filtered water supplies and sewage systems.6 Although such improvements began after mid-century, their widespread penetration into emerging industrial cities as not completed until near the turn of the century or later, when regional mortality finally began to fall.
 </p>
+<p> Swedlund & Ball 1998 in Goodman & Leatherman. 
+p124 In the latter half of the nineteenth century, rates of infant mortality in American cities were a matter of grave
+concern. As many as 15 to 20 percent of newborns died within their first year, and in the worst neighborhoods or
+most afflicted cities, rates could go much higher (Phelps 1912; Woodbury 1926; Swedlund 1990; Meckel 1991). 
+
 
 </p><p>Preston & Haines 1991 Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7)  </p>
 
@@ -2191,9 +2218,11 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 <a name="InfMort"></a>
 
-### Infant Mortality ###
+### Infant Mortality outside North America ###
 
-Section started May14.
+2015 Pozzi & Fariñas (2015 ADH)  Infant and child mortality in the past
+
+2012 Pozzi & Barona (2012 ADH)  Vulnerable Babies. Late foetal, neonatal and infant mortality in Europe (18th-20th Centuries)
 
 <p>Pozzi & Barona (2012 ADH, intro to special issue)
 
@@ -2202,7 +2231,11 @@ p13 [quoting Reid or Derosa?, suggestion that "Referring to infant mortality as 
     “addressing infant mortality as a single measure […] ? not only-disguises a fundamental fissure between neonatal and post-neonatal mortality” (Reid, 2001, 213), but also fails to take the complexity of the determinants of infant survival into account. Infant mortality is no simple matter. An infant death can be caused by a wide array of factors of very different nature. The process eventually leading to death is usually neither plain nor straightforward and is influenced by a large number of determinants that can favour its course or oppose it and even avoid its worst consequences. […] Referring to infant mortality as a whole can be necessary and even useful when we aim at providing aggregate measures, establishing comparisons or outlining trends for large populations, but we must keep in mind that it is a statistical artefact we are dealing with […]when it comes to moving from description to interpretation, a more analytical approach is required, taking into account the heterogeneity embedded in infant mortality. Only after breaking it into pieces a more comprehensive interpretation will be possible (Derosas, 2002, 65-66).
 
 
-LeeK-S   2007
+2006 Garrett, Eilidh, ed. Infant mortality: a continuing social problem. A volume to mark the centenary of the 1906 publication of *Infant Mortality: a Social Problem* by George Newman. Ashgate Publishing, Ltd., 2006. 
+Ch 9     ... The policies of environmental clean up which had so dominated late nineteenth century sanitation were giving way to different forms of intervention that focused on the behaviour of individuals, their interactions with each other and with the environment.  /    Armstrong has argued that the very subtitle of George Newman’s 1906 book was indicative of how ‘the conceptual space of infant mortality’ had shifted ‘from one traversed by sanitary axes to primarily social dimensions’ (Armstrong, 2002: 33).   p170 We focus on infant mortality in an impoverished section of north Kensington, Notting Dale, and the crèche system developed there as a philanthropic response to the social ‘problem’ of working mothers.
+
+2006 in Caselli    
+Vallin & Caselli "Cohort Life Table" Ch 11 Pt V "The Special Case of Infant Mortality"
 
 
 Derosas 2002 on Venice 1850-69  IMR 264 (n-3801), over twice the 125 for Jewish births (n=351)
@@ -2210,9 +2243,9 @@ Derosas 2002 on Venice 1850-69  IMR 264 (n-3801), over twice the 125 for Jewish 
 vanPoppel et al 2002 PopStudies "Religious differentials in infant and child mortality in Holland, 1855–1912."
  279  ... The Hague evolved from a  provincial capital and quiet residential area into a  big modern city. In 1850, the city had about 72,000  inhabitants. After 1870, when prosperity increased,  the population grew steadily, reaching 206,000 at the turn of the century. More than half of this  growth was due to migration.   ... The Hague is located in an area of the Netherlands  where the highest infant mortality rates were to be  found until the 1880s. Before the onset of mortality  decline in the 1870s, infant mortality rates usually  fluctuated between 200 and 250 per thousand  births, while early-childhood mortality rates 4m1)  fluctuated between 40 and 50 per thousand person-years. Just before the decline in the first half of  the 1870s, infant and early-childhood mortality  peaked. The high infant mortality rates are thought  to have been due to the fact that much of the sur-face and ground water in the western provinces of  the Netherlands was heavily contaminated. Canals were used for the disposal of waste, while water  from the canals was used for household purposes by  the poor. A system of casks for the collection of  human excrements was established in The Hague in 1871 and a system of water pipes in 1874 (Van Son 1986 ...) . By 1910 the infant mortality rate had declined to  less than 100, while early-childhood mortality had  declined to about 10.
 
+1993 Corsini & Viazzo 4 case studies: Sweden, England, France, Austria 
 
-
-<p>Corsini & Viazzo (1993 p9, the start of their text): 
+p9, the start of their text: 
 
     The basic facts about the secular decline of infant mortality in Europe have been known for nearly a century. Vital registration series are available for most European countries from the 1870s, and for virtually all of Europe from 1900. They show that the levels of infant mortality in the late nineteenth century were still extremely high and could vary quite markedly from one country to another, ranging from about 100 per 1.000 live births in Norway and Sweden to 200 or even 250 per 1.000 in countries such as Germany, Austria and Russia. At the turn of the century. however. infant mortality began to fall almost right across the continent. As the decline was steeper in the countries with higher mortality levels, a certain degree of convergence to lower levels can already be detected in the first decades of the twentieth century. By the 1950s, when national rates of infant mortality ranged between 90 and 50 per 1000, the process of convergence was nearly completed. The fall in infant mortality, which was paralleled by a simultaneous and equally pronounced decline of fertility, was responsible for raising life expectancy in many European countries by more than 10 years over a remarkably short period of time. <br><br>While the basic facts are quite clear, the reasons accounting for the decline are anything but certain. Improvements in infant and child survival have long been assumed to be broadly associated with advances in health care and rising living standards. But until fairly recently. surprisingly few attempts have been made to unravel the diverse influences of the social, economic and public health factors which have supposedly played a part in lowering infant mortality in Europe.
     
@@ -2223,25 +2256,38 @@ vanPoppel et al 2002 PopStudies "Religious differentials in infant and child mor
 
      ... In fact, regional variations can in many cases be explained simply by the different weight of the urban component in the population, for it is well known that in historic Europe infant mortality was higher in towns and cities than in the surrounding rural areas. This was primarily due to the inferior urban public health environment and to overcrowding. which facilitated the spread of airborne and contagious diseases much more than in the sparsely populated countryside.
 
-<br>Interesting to speculate on: maybe rural to urban shift tneds to compromise breast-feeding?
+Interesting to speculate on: maybe rural to urban shift tends to compromise breast-feeding?
+
+anders Brändström Infant Mortality in Sweden - 1750-1950
+Woods, Williams, Galley "Infant Mortality in England - 1550-1950 ... "  
+Infant mortality in France 1750-1950
+Kytir & Munz Infant mortality in Austria - 1820-1950
+
+Dyhouse (1978 JSocHi)     
+p249  as the Registrar General emphasized in 1907, while the death rate for  children aged from one to five years had fallen by 33% over the preceding forty  years, that for infants under one year had remained as high for the decade of the  1890s as it had been for the 1860    
+p248 a much higher proportion of babies perished in the towns than in the  countryside, and rates were particularly high in the overcrowded urban-industrial and mining districts of the Midlands and North.    ... Newman 1906 "Infant MortalityL A *Social* Problem"    
+p255  M.W. Beaver has recently argued in Population Studies that the sharp impressive decline in infant mortality in England this century had its origin in  the growing availability of pathogen-free milk whether in liquid condensed, or  dried form, rather than in any general rise in living standards or improvements in midwifery or health visit  ... ively cost-free. The evolution of safe forms of  artificial feeding was undoubtedly of crucial importance in cases where it was  difficult or impossible for mothers to breastfeed, but it is difficult to rest content with any monocausal explanation that would attribute demographic change on such a scale to this factor.    
+p262  to discover ... child-rearing practices ...     More close work is needed before we will be able to  understand the shift in infant survival rates this century.
+
+
+Beaver (1973 Pop Studies) Population, Infant Mortality and Milk    p243 Why did the infant mortality rate remain persistently high through the second half of the  nineteenth century despite the many advances in public health and why did it suddenly start to  improve from 1900?   
+p246 Table 1 u5 mortality in London, 1730 to 1829  from Edmonds (1836) 1730-49 74.5% ... 1790-1809 41.3%   1810-29 31.8%
+
+
+Feller (1948 Pop Studies). Mis-cited as Peller by Masuy-Stroobant in Corsini & Viazzo 1997.    
+p. 408  Within the orbit of western civilization there are even to-day many countries without information on infant mortality and others with so incomplete a registration of births and deaths that the reported values must be considered very doubtful.
+
+Davis (1913) Statistical comparison of the mortality of breast-fed and bottle-fed infants. Am J Dis Child   -- BOSTON IMR 127 per1000 diarrhea 29% (says LeeK-S)
 
 </p>
 
 #### Mortality #### 
-
-
-
-
-2012 Pozzi & 
 
 2012  Guillot, Michel, Patrick Gerland, François Pelletier, and Ameed Saabneh. "Child mortality estimation: a global overview of infant and child mortality age patterns in light of new empirical data." PLoS Med 9, no. 8 (2012): e1001299.
 
 2011 Olson, Sherry, and Patricia Thornton. Peopling the North American City: Montreal, 1840-1900. Vol. 222. McGill-Queen's Press-MQUP, 2011.
 
 2009 Woods, Robert. Death before birth: fetal health and mortality in historical perspective. Oxford University Press, 2009.
-
-2006 Garrett, Eilidh, ed. Infant mortality: a continuing social problem. A volume to mark the centenary of the 1906 publication of *Infant Mortality: a Social Problem* by George Newman. Ashgate Publishing, Ltd., 2006. 
-Ch 9     ... The policies of environmental clean up which had so dominated late nineteenth century sanitation were giving way to different forms of intervention that focused on the behaviour of individuals, their interactions with each other and with the environment.  /    Armstrong has argued that the very subtitle of George Newman’s 1906 book was indicative of how ‘the conceptual space of infant mortality’ had shifted ‘from one traversed by sanitary axes to primarily social dimensions’ (Armstrong, 2002: 33).   p170 We focus on infant mortality in an impoverished section of north Kensington, Notting Dale, and the crèche system developed there as a philanthropic response to the social ‘problem’ of working mothers.
 
 2006 in Caselli
 Vol 1
@@ -2252,36 +2298,29 @@ Vol II Section I Determinants of Mortality  Ch 41 Measuring the State of Health 
 Mary McGehee "Mortality" (Ch 12 of Swanson & Siegel 2004)
 
 
-2005 Beemer, Anderton, Hautaniemi Leonard
-
+2005 Beemer, Anderton, Hautaniemi Leonard (JHiMedAS) Sewers in the City: A Case Study of Individual-Level Mortality and Public Health Initiatives in Northampton, Massachusetts, at the Turn of the Century
 
 Bideau et al. 1997 [Infant and Child Mortality in the Past](https://books.google.ca/books?id=idm99dX1XUoC&newbks=1&newbks_redir=0&dq=Infant+and+Child+Mortality+in+the+Past&source=gbs_navlinks_s)  We have George Alter "Infant and Child Mortality in the United States and Canada" pp91-108
 
 
-
 1991 Meckel *Save the Babies: American Public Health Reform and the Prevention of Infant Mortality, 1850-1929
-1991 Preston & Haines Fatal Years
+
 1991 Schofield, Reher, Bideau The Decline of Mortality in Europe
+
 1998 Soctt & Duncan, Human Demography and Disease
 
 1991 Grieco   Corsini   ON breastfeeding and infant mortality
-
 
 1997 Pinnelli & Mancini in Corsini & Viazzo; C & V intro refers to 'that females ceased to be at a social disadvantage played up the only real biological disadvantge, that of males, which slowly worsened as social transformations took place
 They cite Tabutin & Williams (1994)  for excess female mortality in age groups 5-9 and 10-14  in many developed countries almost until the outbreak of the WWII / and T&W 1993 for excess female mort after first bday in developing countries today
    MAYBE OF INTEREST -- maybe it looks at SR?  But the part I read says excess fem mort early (?? if so, high SR)
 
-1993 Corsini & Viazzo
-Woods, Williams, Galley "Infant Mortality in England - 1550-1950 ... "  
 
-
-
-Feller (1948 Pop Studies). Mis-cited as Peller by Masuy-Stroobant in Corsini & Viazzo 1997.    
-p. 408  Within the orbit of western civilization there are even to-day many countries without information on infant mortality and others with so incomplete a registration of births and deaths that the reported values must be considered very doubtful.
 
 [back to top](#TOC)
 
 <a name="LifeTable"></a>
+
 
 ### Life Table Implications ###
 NOTE on simulations of SR1 via SBR, IMR, and relative male/female IMR. Which are in the [WK4 spreadsheet](https://www.dropbox.com/s/89gi1z7ewpyv3qh/SR1%20simulations.wk4?dl=0). Perhaps obviously, the time-pattern of infant deaths affects the SR1, as early deaths pull down the SR (because the excess male births play a smaller role in the cumulative SR1). To illustrate the magnitude of the effect: 23% IMR early-death pattern sees SR drop of 3.4 while even-death pattern has SR drop 2.4; 11% IMR early-death SR drop of 1.6 and even-death SR drop of 1.1. DETAILS: with 104 225(250/200); with my idea of realistic (.5,.15,.14,.1,.1)  104 goes to 100.6; with even 104 to 101.7   OR IMR 113(125/100) 104 to 102.4 vs 104 to 102.9   So the bigger effects occur at higher IMR and higher male excess IMR ...

@@ -24,8 +24,10 @@ Missing Women web page needs better cites, eg Klasen
 ### current log
 
 
-<p>
+<p>2021.0606   Jim thinking of sets of regressions between SR and IMR -- rural, urban, times, places ... maybe disaggregated England?  That with an eye toward a paper that presents SR as indicator of IMR -- Js & Rodrigo co-authors? 
 
+
+</p>
 <p>2021.0604  Alsan & Goldin xslx in replication zip.  Graph of IMR suggests 1850s to 1885 rise, flat until 1905.
 4q1 CDR  ~30 in 1870  ~22 in 1900  ~11 in 1920   ~4 in 1930
 looked at Alsan & Goldin to see if that helps give a clue on how 4q1 compares to 1q0 and how they relate to stature work (improvements start after 1890s in Steckel eh.net
