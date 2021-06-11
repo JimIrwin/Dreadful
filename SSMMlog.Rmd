@@ -24,7 +24,30 @@ Missing Women web page needs better cites, eg Klasen
 ### current log
 
 
-<p>2021.0606   Jim thinking of sets of regressions between SR and IMR -- rural, urban, times, places ... maybe disaggregated England?  That with an eye toward a paper that presents SR as indicator of IMR -- Js & Rodrigo co-authors? 
+<p>2021.0611 need to figure out which US mortality data need to be entered.
+
+
+
+</p>
+<p>2021.0610
+
+1929 mortality stats by state use 10K as the cutoff for urban vs rural. To connect to 1930, would need to use IPUMS fullcount. 
+
+getting IMR from deaths data for US cities via [Bell & Miller?](https://www.ssa.gov/oact/NOTES/as116/as116_IV.html) 
+
+
+L= l - f d   where f is avg number of years not lived and so we have l = L + f d    and  B = l + d = L + f d  + d = L + (1+f)d  and q = d / (L + (1+f)d)
+
+
+<p>2021.0608 
+
+End day with work on urban panel ... 
+
+ICPSR is in order -- it offers 1830, 1840 (ready now) and 1850 and 1860 ... SEE doc 
+
+One last New Zealand SR data gap ... looking for 1921: only found in Hathi, but I can't access (UPenn can; maybe Js at Columbia?).  Now have IMR and SR 1936-2000 (IMR 4% and lower) for NZ-all and at 5-year census benchmarks 1867 forward (IMR 11% and lower). Probably Jim's obsession with 1921 population counts is a waste of time/effort. We need more examples of higher rates in non-industrial settings: maybe France will prove useful?
+
+</p><p>2021.0606   Jim thinking of sets of regressions between SR and IMR -- rural, urban, times, places ... maybe disaggregated England?  That with an eye toward a paper that presents SR as indicator of IMR -- Js & Rodrigo co-authors? 
 
 
 </p>

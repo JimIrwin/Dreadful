@@ -736,6 +736,9 @@ STOLNITZ (1955 Pop Studies) sees 1940 as much improved over 1850 -- but does he 
 
 ### Canada 
 
+McInnis estimates for 1891 have Quebec 173 once Montreal & QC are dropped
+
+
 Cranfield & Inwood (2007 EcHuBio) 
 <br>
 p217 It is clear that mortality risk fell during the 20th century  ... However, the 19th century remains a statistical ‘dark age’ that conceals the precise beginning of secular improvement in life expectancy (Pouyez et al., 1983, pp. 292–298 [Sagueny]; Pelletier et al., 1997 [QUE PopStudies])     ...  Only in the small Ontario town of Ingersoll is there clear evidence of an age-adjusted mortality decline before 1900  ... decline in age-specific mortality in Ingersoll began as early as the 1870s or 1880s. This timing is consistent with the most recent American evidence (Haines, 2000, p. 333) 
@@ -761,12 +764,19 @@ Canada 4q1   declining 1801 on (flat 1851-61)
 Queb 0q1 flat (like Can 1801) until 1871, then decline
 Que  4q1 decline 1801 on (slow in 1860s)
 
-**McInnis 2000** In Haines & Steckel pop history of North America    
+**McInnis 2000b** Ch 12 "Canada's Population in the Twentieth Century"
+pages 529-600 In Haines & Steckel pop history of North America    
+
 p568 1901 IMR Ontario 117  Que 186   <about the same as he finds for 1891>    
 p569  By 1931 86  well-monitored Canada from the point of view of vital statistics   well above the 60 per thousand for the white population of the US    Quebec > 100 in 1931
 p596 Table 12A.1    IMR  1901 139   1931 86  1951 39  1981 9
 
-p404?  1891 Quebec 190  Ontario 115  
+
+**McInnis 2000a** Ch 9 "The Population of Canada in the Nineteenth Century", pp. 371-432 in Haines & Steckel pop history of North America.    
+
+p404 1891 Quebec 190  Ontario 115  
+
+Looks like nothing new versus 1997.  Question is why his 1901 estimates are not presented?
 
 
 **McInnis 1997** in Bideau et al 

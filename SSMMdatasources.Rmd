@@ -17,8 +17,20 @@ output: html_document
 [NewZealand](https://www3.stats.govt.nz/historic_publications/)
 [1916](https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399) has u1 counts for 1881 through 1916
 
+New Zealand Yearbooks [1920-29](https://www.stats.govt.nz/indicators-and-snapshots/digitised-collections/yearbook-collection-18932012#Yearbook-1920-29) 1921-22 reports on 1916 census; 1923 some imr data;  no SR data: 1924 (some 1921 census data), 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935. AGES 1936 has 1926 u5 (also estimates for 1935, extrap from 1926 via vital stats -- not census, we don't use). NOT: 1937x 1938x 1939x   1940x, 1941yes (via 1836 census)
+
+[all years](https://web.archive.org/web/20120325003954/http://www.stats.govt.nz/yearbooks)
+
+[pop data](http://infoshare.stats.govt.nz/infoshare/SelectVariables.aspx?pxID=d7395c5c-e0e0-47bc-8747-9ec8360322d6) with "discontinued data" selected -- this has 1936 onward, all or excl Maori; but IMR includes Maori as of 1925ish
+
+[1921 census report](https://catalog.hathitrust.org/Record/100209810)  hard copy at Columbia, looks like p82 has Age-Distribution in 1921
+
+MAYBE? Source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
+
+
 ### Jesse might find in NYC
 
+ORDERED
 Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
 
 Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
@@ -145,8 +157,18 @@ Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 
 <p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
 </p>
 <p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza. 
-<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95),
-[Mort Stats 1929](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118).
+<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95),   
+
+[Mort Stats 1929](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118).    
+Tab4 States, u1 1to4 m/f    
+Tab5 deaths by cause (not age)  pp134-
+Tab6 causes: state, urb/rur  pp  176
+Tab7A causes: by race
+Tab8 causes: by age, for states
+Tab9 causes: by age, for major cities
+Tab10A causes: by month for cities
+Tab11 by cause, by infant-age, in Houston?
+
 </p>
 <p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
 </p>
@@ -165,6 +187,20 @@ These may contain age/sex/race, but odd text files ...
 
 
 <p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  </p>
+
+
+ICPSR datasets with ages: 1800, 1810, 1820: 0-9;  0-4 (or better) are in 1830, 1840, 1850, 1860,  1930 (Part 27), 1940, 1950, 1960, 1970.  
+
+NOT 1870 5-18,18-44, 21+
+NOT 1880 -- can get u10 via 10-14, 15-20, 21+
+1890 get u5 via 5-20, 21+  nat-white, for-white, colored
+1900 get u5 via m21+ 5-20
+NOT 1910 no age/sex
+NOT 1920 
+1930
+Ages NOT in 1870, 1880 (5-17, 10-14, 15-20, 18-44, 21+),
+02896-0005-Data.dta 
+
 
 <p>[2020 all races by age](https://www2.census.gov/programs-surveys/popest/tables/2020/2020-demographic-analysis-estimates/table-1.xlsx) U.S. Census Bureau, Population Division, 2020 Demographic Analysis (December 2020 release).
 <br>[2020 tables](https://www.census.gov/data/tables/2020/demo/popest/2020-demographic-analysis-tables.html)
@@ -314,13 +350,26 @@ Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single y
 <br> I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9     BUT see PAPER for latest version
 <br> Looking for 1940 U5 by state or division v2 pt 1 Table 26 p59
 </p>
+<p>
 [**1930**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1930.html)
 <br>See Vol 2 Ch 10 pdf 111 for Illinois
 [1930 Vol 2](https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch11.pdf) for ages, pp674-690  pdf 112-128
 <br>
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
-<p>Looking for regional totals: Table 24 has 5yr totals
-<p>
+<br> Vol III has state-level data, including urban/rural u5 age/sex; also 1920 u5 age/sex (and % splits for rural vs urban, but too imprecise)
+<br> 
+v3p1 TOC pdf   
+pdf44p594 Table 3 age/sex rural/urban
+pdf50 p600 Table 11    
+Table 11 County-level  u1 u5, all/native white/foreign-born white/negro     
+Table 12 Cities  pdf58-63    
+Table 10 occs
+
+
+
+<br>Looking for regional totals: Table 24 has 5yr totals
+
+</p><p>
 
 **1920**   [1920](https://www.census.gov/library/publications/1922/dec/vol-02-population.html) <br>
 Our age data, including single-year for Divisions, found in [Vol 2, ch 3](https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf) pdf20 is p162 Table 9 "Dist by Single Years of Age" for US as a whole,    **pdf29** Table 13 single age  Regions and States (states is 188-285   pdf 46-143) 
