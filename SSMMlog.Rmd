@@ -23,10 +23,31 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+<p>2021.0613 gathering IMR data from 20C US states (1915-1930) for regressions of LnIMR and SR5 (or SR2?).
+R script MakeUSimrBRA makes the RDS file, which I will expand. 
 
-<p>2021.0611 need to figure out which US mortality data need to be entered.
+<p>2021.0611 
+
+Finally found 1920 BRA IMR data, which we will be able to use with SR data ... but only for BRA. So I would need to estimate IMR for Chicago, for example. 
+ Have BRA IMR value for Ohio in 1920 -- 82.9 -- when I use census data and deaths count I get 79.5  ;  similar value implied by 1919 
+
+BRA 1919 data  male/female but not total. Look at 1920, check SRB implied -- 
+
+mM + (1-m)F = T   F + m(M-F)=T    m=(T-F)/(M-F)   m/(1-m) 
+
+ 1-m =  ((M-F) - (T-F))/(M-F) = (M-T)/(M-F)
 
 
+
+
+
+need to figure out which US mortality data need to be entered.
+
+[Mortality Statistics 1921](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1921.pdf)
+has useful maps/comments for DRA. New York is in DRA, and ideally we could get rural/urban split. Table 3 Deaths by age, in Reg States (total, cities, rural).
+As usual, Table 9 shows Cities 100K+, single yrs age 1-4; causes.
+
+1905 MS shows PA added 1906; NJ NY in; New England in.
 
 </p>
 <p>2021.0610
