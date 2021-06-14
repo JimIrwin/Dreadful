@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">06 June, 2021</h4>
+<h4 class="date">14 June, 2021</h4>
 
 </div>
 
@@ -382,6 +382,32 @@ IMR in 1999 around the world Table 46-1 in Masuy-Stroobant essay in Caselli Demo
 </div>
 <div id="current-log" class="section level3">
 <h3>current log</h3>
+<p>
+<p>2021.0614 Ji back to IPUMS to get 1910-1940 full USA with 10K urban definition … extract 43, 1900-1940 only.</p>
+<p>USA-BRA IMR data about complete for census regressions (1916-19, 1926-29)</p>
+<p>
+<p>2021.0613 gathering IMR data from 20C US states (1915-1930) for regressions of LnIMR and SR5 (or SR2?). R script MakeUSimrBRA makes the RDS file, which I will expand.</p>
+<p>
+<p>2021.0611</p>
+<p>Finally found 1920 BRA IMR data, which we will be able to use with SR data … but only for BRA. So I would need to estimate IMR for Chicago, for example. Have BRA IMR value for Ohio in 1920 – 82.9 – when I use census data and deaths count I get 79.5 ; similar value implied by 1919</p>
+<p>BRA 1919 data male/female but not total. Look at 1920, check SRB implied –</p>
+<p>mM + (1-m)F = T F + m(M-F)=T m=(T-F)/(M-F) m/(1-m)</p>
+<p>1-m = ((M-F) - (T-F))/(M-F) = (M-T)/(M-F)</p>
+<p>need to figure out which US mortality data need to be entered.</p>
+<p><a href="https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1921.pdf">Mortality Statistics 1921</a> has useful maps/comments for DRA. New York is in DRA, and ideally we could get rural/urban split. Table 3 Deaths by age, in Reg States (total, cities, rural). As usual, Table 9 shows Cities 100K+, single yrs age 1-4; causes.</p>
+<p>1905 MS shows PA added 1906; NJ NY in; New England in.</p>
+</p>
+<p>
+<p>2021.0610</p>
+<p>1929 mortality stats by state use 10K as the cutoff for urban vs rural. To connect to 1930, would need to use IPUMS fullcount.</p>
+<p>getting IMR from deaths data for US cities via <a href="https://www.ssa.gov/oact/NOTES/as116/as116_IV.html">Bell &amp; Miller?</a></p>
+<p>L= l - f d where f is avg number of years not lived and so we have l = L + f d and B = l + d = L + f d + d = L + (1+f)d and q = d / (L + (1+f)d)</p>
+<p>
+<p>2021.0608</p>
+<p>End day with work on urban panel …</p>
+<p>ICPSR is in order – it offers 1830, 1840 (ready now) and 1850 and 1860 … SEE doc</p>
+<p>One last New Zealand SR data gap … looking for 1921: only found in Hathi, but I can’t access (UPenn can; maybe Js at Columbia?). Now have IMR and SR 1936-2000 (IMR 4% and lower) for NZ-all and at 5-year census benchmarks 1867 forward (IMR 11% and lower). Probably Jim’s obsession with 1921 population counts is a waste of time/effort. We need more examples of higher rates in non-industrial settings: maybe France will prove useful?</p>
+</p>
 <p>
 <p>2021.0606 Jim thinking of sets of regressions between SR and IMR – rural, urban, times, places … maybe disaggregated England? That with an eye toward a paper that presents SR as indicator of IMR – Js &amp; Rodrigo co-authors?</p>
 </p>

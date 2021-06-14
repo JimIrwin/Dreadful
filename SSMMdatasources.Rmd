@@ -145,8 +145,8 @@ PAGES  512-13, 540-41, 568-69 (pdf566) Pittsb RI SC, TN UT VT VA WA WI
 
 1926 Table 1 pdf -20
 1927 Table 1 pdf349-354   (pdf has 2 vols, 1926 & 1927)
-
-[1929](https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t3521c56x&view=1up&seq=27&size=150) need to use at Hathi?
+[1928](https://babel.hathitrust.org/cgi/pt?id=uiug.30112002972575&view=1up&seq=7) Tab 1 pdf 55-
+[1929](https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t3521c56x&view=1up&seq=27&size=150) Downloaded. Table 1 pdf 53-59
 
 [1931](https://www.cdc.gov/nchs/data/vsushistorical/birthstat_1931.pdf) IMRs pdf 51-102
 

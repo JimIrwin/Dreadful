@@ -23,6 +23,10 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+<p>2021.0614 Ji back to IPUMS to get 1910-1940 full USA with 10K urban definition ... extract 43, 1900-1940 only.
+
+USA-BRA IMR data about complete for census regressions (1916-19, 1926-29)
+
 <p>2021.0613 gathering IMR data from 20C US states (1915-1930) for regressions of LnIMR and SR5 (or SR2?).
 R script MakeUSimrBRA makes the RDS file, which I will expand. 
 
