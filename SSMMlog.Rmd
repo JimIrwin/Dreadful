@@ -10,9 +10,7 @@ output: html_document
 
 #### loose ends (move/tidy when noted)
 
-Regional plots seem to lack 1890 data?
-
-well-being
+Jim to track down Children's Bureau IMR studies/publications
 
 http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR implications or data?
 
@@ -23,14 +21,37 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
-<p>2021.0614 Ji back to IPUMS to get 1910-1940 full USA with 10K urban definition ... extract 43, 1900-1940 only.
+<p> Girls are stronger than boys when it comes to bearing burdens of disease and malnutrition. It follows that challenging conditions for bearing and rearing children take a greater toll on boys than girls, tilting infant sex ratios towards girls.   
+
+
+Haines 1998    pdf239-
+Massachusetts was the first to begin this activity at the state level in 1842 and achieved relatively good coverage by about 1855 (Abbott, 1897:714-715).
+
+
+
+boys are the weaker sex
+
+<p>2021.0616  
+
+
+
+1976 HSUS presents IMR series B142, BRA series.<br>
+1915 100  1917 94 1920 86  1921 76     
+1915 New England (CT 107      ) DC 111  NY 99  MI 86 MN 70
+
+? why is estIMR not split out by rural/urban?
+
+</p><p>2021.0615 USimrBRA now has 1910 death counts; use them with u1 pops to estimate IMR.
+
+
+</p><p>2021.0614 Ji back to IPUMS to get 1910-1940 full USA with 10K urban definition ... extract 43, 1900-1940 only.
 
 USA-BRA IMR data about complete for census regressions (1916-19, 1926-29)
 
-<p>2021.0613 gathering IMR data from 20C US states (1915-1930) for regressions of LnIMR and SR5 (or SR2?).
+</p><p>2021.0613 gathering IMR data from 20C US states (1915-1930) for regressions of LnIMR and SR5 (or SR2?).
 R script MakeUSimrBRA makes the RDS file, which I will expand. 
 
-<p>2021.0611 
+</p><p>2021.0611 
 
 Finally found 1920 BRA IMR data, which we will be able to use with SR data ... but only for BRA. So I would need to estimate IMR for Chicago, for example. 
  Have BRA IMR value for Ohio in 1920 -- 82.9 -- when I use census data and deaths count I get 79.5  ;  similar value implied by 1919 
@@ -40,10 +61,6 @@ BRA 1919 data  male/female but not total. Look at 1920, check SRB implied --
 mM + (1-m)F = T   F + m(M-F)=T    m=(T-F)/(M-F)   m/(1-m) 
 
  1-m =  ((M-F) - (T-F))/(M-F) = (M-T)/(M-F)
-
-
-
-
 
 need to figure out which US mortality data need to be entered.
 

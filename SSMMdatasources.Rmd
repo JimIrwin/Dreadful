@@ -12,6 +12,19 @@ output: html_document
 
 ### New ###
 
+[HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
+
+[Sweden](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/) IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)).
+
+[Norway births & u1 deaths](https://www.ssb.no/a/histstat/tabeller/3-13.html#)
+
+(https://www.ssb.no/a/histstat/hs1978/hs1978.pdf) and 1968 -- have 5year average IMR; Mitchell publishes annual IMR values (source seems to be (p117) "official publications noted on p xv:)    
+[Historisk statistikk](https://www.ssb.no/a/histstat/) Mitchell reports IMR for Norway from 1786; but I cannot find those in the sources he cites (too broad a set for me to get through and translate). We will use the HMD time frame, 1846 forward. 
+
+Finland. Use HMD births and u1 deaths; they match Mitchell IMR for 1878 & 1879.
+[Statistical Yearbook of Finland](https://www.doria.fi/handle/10024/67152/browse?type=dateissued) (Suomen tilastollinen vuosikirja). Might use Mitchell for IMR, or HMD u1 deaths & u1 pop match Mitchell IMR for 1878 & 1879. HMD has births 1865-2019; deaths by yearly-age run from 1878 -- as do u1 death rates. Mitchell has IMR from 1866 ...   Mitchell's U5 populations do not match HMD (series 1); the do match HMD series 2;
+
+
 [Brazil 1872](https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&view=detalhes)  Some funny-looking sex-ratio values in mestizos and slave >10 yrs?
 
 [NewZealand](https://www3.stats.govt.nz/historic_publications/)
@@ -25,13 +38,14 @@ New Zealand Yearbooks [1920-29](https://www.stats.govt.nz/indicators-and-snapsho
 
 [1921 census report](https://catalog.hathitrust.org/Record/100209810)  hard copy at Columbia, looks like p82 has Age-Distribution in 1921
 
-MAYBE? Source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
+[1871 Results of a census of New Zealand ... ](https://catalog.hathitrust.org/Record/100615639) full view available. The catalog page has links to [1891 full](https://catalog.hathitrust.org/Record/008430840) 1901 ([digitized](https://www3.stats.govt.nz/historic_publications/1901-census/1901-results-census/1901-results-census.html) at Stats NZ) 1916 1911 1916 1921
+
+
+Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
 
 
 ### Jesse might find in NYC
 
-ORDERED
-Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
 
 Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
 
@@ -118,6 +132,11 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 <p>Mortality Statistics
 
 1906 onward has infant deaths for large cities 
+
+1909 Table2 pdf468-   T2 doesn't have rural totals?
+1910 Table 3 pp204    pdf195-242   1910 has urb/rur breakdown
+
+
 
 1900-1904 1900 Table 8   pdf  308-349    1902 Tab 2 death/age  532-549      Tab 8 deaths/age by cause CITIES
 
@@ -916,7 +935,25 @@ At Hathi  1968-1995    Suid-Afrikaanse statistieke : opgestel deur die Buro vir 
 
 At Hathi 1970 South Africa Census (subject), No "full view"  -- maybe Columbia has temporary access? 
 
-1891 Cape Good Hope, 1891 Natal:  age by sex for ages 1,2,3,4, and quints thereafter  -- SR1various.wk4 in econhist has the start of tabulating the SR by age   **1891 South Africa** has the heaping at age 0 relative to 1 
+[1865 Cape of Good Hope](https://catalog.hathitrust.org/Record/011983572) full view
+
+[1875 Cape of Good Hope](https://books.google.ca/books?id=6us1AQAAMAAJ) full view
+
+[1891 Cape of Good Hope](https://www.dropbox.com/s/etbw2q7adkvzv3d/CapeGoodHope1891.pdf?dl=0) is in my Dropbox.^[Also, 1891 is at Gale Cenage 19th C Collections, says [WorldCat](https://www.worldcat.org/title/results-of-a-census-of-the-colony-of-the-cape-of-good-hope-as-on-the-night-of-sunday-the-5th-april-1891/oclc/12126896)]
+
+1891 Cape Good Hope, 1891 Natal:  age by sex for ages 1,2,3,4, and quints thereafter  -- SR1various.wk4 in econhist has the start of tabulating the SR by age 
+
+[births and deaths](https://catalog.hathitrust.org/Record/100811245)  But hoping Stat Reg has the data
+
+1886-94 [Statistical register of the Colony of the Cape of Good Hope](https://catalog.hathitrust.org/Record/008616368)   [1893 full view](https://babel.hathitrust.org/cgi/pt?id=uc1.c2658750&view=1up&seq=9)
+
+1907 [Statistical Register](https://books.google.ca/books?id=Ieo_AQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) I downloaded; see this for more links.
+
+1904 Cape Good Hope
+
+
+
+**1891 South Africa** has the heaping at age 0 relative to 1 
 
 South Africa Census 1911, pp. 120-21 (populations by age and sex).
 Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  

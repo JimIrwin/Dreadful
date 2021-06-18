@@ -1143,12 +1143,9 @@ Chicago falls from 139 to 108 (raise SR by 0.6 101.7 to 102.3)
 <br>	p627 IMR1  1880 urb 180  rur 130  1900 u 160  r 130 1910 u 135 r 118
 1920 u 100  r 080
 <br> So their urban tends to decline from 180 in 1880 to 173 in 1896 to 95 in 1920  Rural tends to rise 1880 130 to 150 1893, then decline to 90 in 1920 (with 1918 pandemic spikes)
-<br>Appendix A
-
-</p>
-
-
-<p>Alsan & Goldin (2019 JPE) 1880-1920 
+<br>Appendix A   
+<p>
+Alsan & Goldin (2019 JPE) 1880-1920 
 <br> BE CAREFUL about their choice to start the IMR graph with 1870 (start in 1880 and IMR is flat until 1901; start in 1860 and observe the rise of IMR from 1860-1870s, before it flattens). Their truncation helps create impression of IMR decline in 1880-1900 period.
 </p><p>Their note 1: "The historical literature on US infant mortality includes Cheney (1984), Preston and Haines (1991), Condran and Lentzner (2004), and Condran and Murphy (2008). 
 </p>
@@ -1166,7 +1163,10 @@ Report on Births, Marriages, and Deaths
 <p> Swedlund & Ball 1998 in Goodman & Leatherman. 
 p124 In the latter half of the nineteenth century, rates of infant mortality in American cities were a matter of grave
 concern. As many as 15 to 20 percent of newborns died within their first year, and in the worst neighborhoods or
-most afflicted cities, rates could go much higher (Phelps 1912; Woodbury 1926; Swedlund 1990; Meckel 1991). 
+most afflicted cities, rates could go much higher (Phelps 1912; Woodbury 1926; Swedlund 1990; Meckel 1991).    
+
+Scan Received: Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
+
 
 
 </p><p>Preston & Haines 1991 Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7)  </p>
@@ -2290,6 +2290,25 @@ p. 408  Within the orbit of western civilization there are even to-day many coun
 Davis (1913) Statistical comparison of the mortality of breast-fed and bottle-fed infants. Am J Dis Child   -- BOSTON IMR 127 per1000 diarrhea 29% (says LeeK-S)
 
 </p>
+
+**Norway**
+
+Edvinsson et al 2008 Cont&Ch Nordic  
+
+[Fig 2](NordicF4.png) shows Finland higher and more volatile 
+
+463 Norway stands out with the lowest levels throughout the period. Norwegian infant mortality was according to an estimate, close to 200 per 1,000 live births during the second part of the eighteenth century, dropping to a level of around 150 at the beginning of the nineteenth century. Towards 1850 infant mortality in Norway had dropped to a level of 100. During the second half of the eighteenth century, infant mortality in Sweden and in Finland was slightly higher than in Norway. Whereas levels of infant mortality remained at the high level of around 200 in <464> Finland until 1870, Sweden in line with Norway experienced a drop in mortality at the beginning of the nineteenth century.11 Towards the midnineteenth century, infant mortality in Sweden was around 150, a level close to Denmark’s.   ... Iceland presents more extreme levels of infant mortality, only infrequently dropping below 250 during the late eighteenth and early nineteenth centuries, levels mainly explained by the prevailing tradition of feeding the newborn artificially ....
+      Towards 1850 Sweden, Denmark and Norway in particular constituted an area with low infant mortality, already at this time also very low from an international perspective. New Zealand was the only country experiencing lower infant mortality rates at the time
+
+
+
+HubbardW 2000 Cont&Ch  Urban Penalty    
+ Norway rural IMR until 1900 is at least 80, closer to 100 1855-75; 1906-20 ~60     
+ Norway urban IMR until 1900 is at least 120, closer to 140 1855-80; 1911 80 1916 70
+
+Bengtson   [Diagram 2]()
+
+
 
 #### Mortality #### 
 
