@@ -21,19 +21,31 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
-<p> Girls are stronger than boys when it comes to bearing burdens of disease and malnutrition. It follows that challenging conditions for bearing and rearing children take a greater toll on boys than girls, tilting infant sex ratios towards girls.   
+2021.0628 working on Australia ... getting close 
 
+2021.0624  Austria life table publication via HMD life tables ...
+
+
+2021.0621 
+
+Js asks for Ji to confirm relative m/f mortality in Mass IMR data -- where is that xls or wk4? WORK NEEDED to tidy
+
+1899 SRQ0 1.173 IMR 149 simulated 102.8 SR1 (from 105)
+1913 SRQ0 1.273 IMR 110 simulated 102.7 SR1 (from 105)
+Ok if we look at 3yr avgs?
+
+From Knodel, Germ IMR data in 5yr averages for 1872 to 1943  His Appendix has disaggregated data
+
+
+Maybe lack of breastfeeding in rural areas will pull IMR up to urban levels?  Looking at van de Walle (1986) on Euro IM and see that 1860s Bavaria's urban IMR is just 104% of the rural (Table 4.3) -- that from Knodel 1974 Table 4.6 with rural Bavaria >300 until 1888 and Munich ~400 1862-75;   and shows Prussia rural ~200 and ~220-240 for cities and up to 300 for Berlin 
+
+<p> Girls are stronger than boys when it comes to bearing burdens of disease and malnutrition. It follows that challenging conditions for bearing and rearing children take a greater toll on boys than girls, tilting infant sex ratios towards girls.   
 
 Haines 1998    pdf239-
 Massachusetts was the first to begin this activity at the state level in 1842 and achieved relatively good coverage by about 1855 (Abbott, 1897:714-715).
 
 
-
-boys are the weaker sex
-
 <p>2021.0616  
-
-
 
 1976 HSUS presents IMR series B142, BRA series.<br>
 1915 100  1917 94 1920 86  1921 76     

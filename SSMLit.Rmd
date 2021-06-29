@@ -167,12 +167,26 @@ McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Huma
 ## European 
 
 ### Germany ###
+
+
+Becker, Sascha O. & Cinnirella, Francesco. 2020. «Prussia disaggregated: the demography of its universe of localities in 1871». Journal of Demographic Economics 86 (3): 259–290. doi:10.1017/dem.2020.12.
+
+Haines & Kinter [2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2660667/) "Can Breast Feeding Help You in Later Life? Evidence from German Military Heights in the Early 20th Century"*
+The creation of the German Empire after the Franco-Prussian War also coincides with the sustained mortality decline and with improved statistical coverage. The crude death rate declined from 28.9 per 1000 in 1871 to 16.7 in 1910, while the expectation of life at birth (for both sexes combined) rose from 37.0 in 1875 to 48.8 years by 1910. The infant mortality rate fell from 246 infant deaths per 1000 live births in 1869/73 to 170 in 1908/12 (Haines and Kintner, 2000, Table 3 & Table 4). Despite its rapid economic development prior to World War I, Germany was still, however, one of the nations with high mortality and especially high infant mortality. Compare, for example, the infant mortality rates for some other nations for the period 1908/12: Sweden, 75; Norway, 70; England and Wales, 112; the Netherlands, 112; Switzerland, 109; France, 123 (Mitchell, 1998, Table A7).
+
 Vögele has Hamburg IMR 1870s 220ish (204-239), 1880-87 200-300, 1906-13 115to165
 <p>Vögele (2000 Health & Place, 41-55)
 <br>p41  From a historical perspective the towns in Europe were perceived as extremely unhealthy places with extremely high mortality rates. These conditions have been investigated very intensively for England and Wales. During the nineteenth century, the mortality rates in the rapidly growing English industrial towns and centres of commerce were high and surmounted the average mortality of rural areas and the state by far. To focus on this fact the terms 'Urban Penalty' or 'Le Handicap Urbain' were coined (Kearns, 1988, 1993). Especially, tuberculosis has been considered the archetypal disease of the industrialization process.<br>
 &nbsp;&nbsp;&nbsp; A further characteristic of the secular mortality development, however, is the substantial improvement of the mortality rates in various towns in Europe and North-America towards the end of the nineteenth century and at the beginning of the twentieth century. The differences between the mortality rates in towns and those in rural areas diminished and the excessive urban mortality rates decreased or even disappeared completely (VoÈgele,1996 [Where he cites Condran & Cheney 1982 Denog ]).
-
 </p>
+<p>Knodel & Maynes (1976 JFamHi) Ji looks at for data; they refer to Knodel 1974 pp 19-23 & 292-93 Decline of Fertility in Germany
+
+Statistik des Deutschen Reichs at Hathi
+Statistisches Jahrbuch für das Deutsche Reich 1886 on, at Hathi
+</p>
+
+
+
 
 ### Amsterdam ###
 2019 Ekamper & vanPoppel on Amsterdam. 1851-53 SRB 103.7 on n=8K (live). With only 8000 births, there is a 25% chance the true SRB is over 105.2   The article leads me to AMsterdam yearbooks. Inet Archive has v13-14 1916-1917; I copy births (pdf 7, 11, 82). Inet also has 1907 https://archive.org/details/statistischemede1919amst, 1909, etc
@@ -231,19 +245,32 @@ Humphries: 18C ?bad living conditions?  Need to spend more time looking for her 
 2020 Shaw-Taylor["An introduction to the history of infectious diseases, epidemics and the early phases of the long‐run decline in mortality"](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.13019)
 <br>Fig 1 for e0 England&Wales.  1800-1850 ~40  1900 ~45
 </p><p>
-2020 Davenport (2020 EHR) on Mortality & Urbanization in England 1830-50?  COMPARISONS TO URBAN FRANCE     
+2020 Davenport (2020 EHR) "Urbanization and mortality in Britain, c. 1800–50"
 
-ABSTRACT: this study finds good evidence for widespread increases in mortality in the second quarter of the nineteenth century.   
+ABSTRACT: In the long-running debate over standards of living during the industrial revolution,pessimists have identified deteriorating health conditions in towns as undermining the positive effects of rising real incomes on the ‘biological standard of living’. This article reviews long-run historical relationships between urbanization and epidemiological trends in England, and then addresses the specific question: did mortality rise especially in rapidly growing industrial and manufacturing towns in the period c. 1830–50?  Using comparative data for British, European, and American cities and selected rural populations, this study finds good evidence for widespread increases in mortality in the second quarter of the nineteenth century. However, this phenomenon was not confined to ‘new’ or industrial towns. Instead, mortality rose in the 1830s especially among young children (aged one to four years) in a wide range of populations and environments  ...  Instead, mortality rose in the 1830s especially among young children (aged one to four years) in a wide range of populations and environments
+
+
+this study finds good evidence for widespread increases in mortality in the second quarter of the nineteenth century.   
  
 Haines commented that ‘one must conclude that large American cities had become virtual charnel houses by the middle of the xixth century’.56 "Urban Mortality" 2001
 
 p458 mid-18th C Eng IMR 180    London 300-400    ...  even small market towns seemed to have experienced a severe 'urban penalty' in this period.  towns ... with pops of 2-3K IMR 209-270    IMR <100 in the most remote rural parishes.10   By 1850, ... even the most notorious Victorian cities, Liverpool and Manchester, reported IMR no higher than those of small market towns a century earlier.    
      ... dramatic improvement in urban life expectancy after c. 1750 
 
-
 p459 death rates in English cities in the mid-nineteenth century were modest by the standards of many continental European cities. This was particularly the case with respect to infant mortality, but mortality at older ages was also unexceptional. London, then the largest city in Europe, was extraordinarily salubrious compared with much smaller British and continental cities.17 However, even the unhealthiest British cities, including Liverpool, Manchester, and Glasgow, were unremarkable by continental standards.18     
 
+p462     The deterioration in mortality after 1820 was, according to Szreter, driven in the main by a rise in mortality from ‘infectious diseases and sanitation diseases, especially at ages 3–24 months’.
+
+p463 Here we take three new approaches to improve our understanding of urban mortality patterns in England in the first half of the nineteenth century.
+       ... Taken together our findings refute the specific claims made by Szreter and Mooney, that mortality worsened particularly in fast-growing industrial and manufacturing towns and was most extreme in the decades of the 1830s and 1840s. Instead they support, and extend, Woods’s interpretation of both the trends and the causes of urban mortality patterns in this period
+
+
+
 p467 figures -- maybe rural 120  urban therefor 180 ... 
+
+
+The synchronized rise and fall of scarlet fever as a major cause of early childhood mortality between c. 1830 and c. 1870, in populations across Europe and North America, suggest very strongly that this was an autonomous biological phenomenon driven by changes in the virulence of the pathogen, albeit one that was propagated by networks of communication between international ports, and between ports and their hinterlands.
+
 
 p481 the worsening of urban mortality rates in the middle decades of the nineteenth century was not confined to British industrial towns and cities. Rather it appears to have been a very widespread phenomenon that affected rural as well as urban populations.       ....     However, scarlet fever should be considered a major explanatory factor.   
 Our evidence indicates that there were indeed very widespread rises especially in early childhood mortality in the second quarter of the nineteenth century, that were sustained until roughly 1870.
@@ -2271,7 +2298,13 @@ Interesting to speculate on: maybe rural to urban shift tends to compromise brea
 anders Brändström Infant Mortality in Sweden - 1750-1950
 Woods, Williams, Galley "Infant Mortality in England - 1550-1950 ... "  
 Infant mortality in France 1750-1950
+
 Kytir & Munz Infant mortality in Austria - 1820-1950
+
+
+
+van de Walle 1986 (in Coale & Watkins) JIM REVIEW for URBAN PENALTY
+
 
 Dyhouse (1978 JSocHi)     
 p249  as the Registrar General emphasized in 1907, while the death rate for  children aged from one to five years had fallen by 33% over the preceding forty  years, that for infants under one year had remained as high for the decade of the  1890s as it had been for the 1860    
