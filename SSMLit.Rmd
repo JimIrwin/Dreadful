@@ -15,7 +15,20 @@ output: html_document
 <p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#InfMort)     </p>
 <p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 
+
+### new stuff to review and then move (to the proper place in the page)
+
+Morse & Luke ( [2021 Pop Studies](https://www.tandfonline.com/doi/abs/10.1080/00324728.2021.1877793) )
+"Foetal loss and feminine sex ratios at birth in sub-Saharan Africa" . Published online 2021 Feb 18, we get via Jun28 George Alter sends Jun28 [N-IUSSP](https://www.niussp.org/fertility-and-reproduction/missing-boys-in-sub-saharan-africa-due-to-high-rates-of-foetal-loss/)
+blurb/article about the journal article
+
+
 ### newly added and maybe important
+
+
+
+
+
 
 To check: Preston 1975   Gwatkin 2000
 

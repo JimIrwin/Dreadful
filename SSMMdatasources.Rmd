@@ -136,8 +136,29 @@ https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyRel
 
 9 is [P Mein Smith thesis](https://openresearch-repository.anu.edu.au/handle/1885/117391) link down Sun 27 Jun 912. 
 
-South African [maybe](https://catalog.hathitrust.org/Record/008616578)    Simkins & van Heyningen article seems to have leads
+### South Africa ###
 
+[YearBooks](https://clio.columbia.edu/quicksearch?q=Official+year+book+of+the+Union+and+of+Basutoland&commit=Search) are online at Columbia University (search term= Official year book of the Union and of Basutoland )  Nos. 1-4 
+
+IMR 1924-1928 p932 of 1928;    1919 p209 ; 
+
+search-only NYPL nos
+
+Hathi has [Cape of Good Hope](https://catalog.hathitrust.org/Record/100119047): 1893 full view (also three search only 1902, 1907, 1908).  They are available on Google Books  [1905](https://books.google.ca/books?id=2NxCAQAAMAAJ)
+
+Statistical Register of the Cape of Good Hope [for the year 1904](https://books.google.ca/books?id=2NxCAQAAMAAJ) page v lists births by year 1895-1904 with text saying 1904  euro or white 9454 males and 9006 females; Malay 291 males and 293 females; Fingo, Kafir, Bechuanaland 10,661 males and 10,187 females; Mixed and other 8548 males and 8361 females. Colony proper (ex. Bechuanaland) 46,419 9006 maleEuro 8603 femEuro (9006 twice - stet) ...   The 46,419 are also shown for 1904 in the table of births.  
+Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 1904, 1903, 1902
+
+1904, 1909 search only at Hathi
+
+Census of the Union of South Africa, [1911 search-only Hathi](https://catalog.hathitrust.org/Record/100615661)
+
+Census of the European or white races of the Union of South Africa, [1918](https://catalog.hathitrust.org/Record/009676009)
+
+
+[maybe](https://catalog.hathitrust.org/Record/008616578)    Simkins & van Heyningen article seems to have leads
+
+Dead-ends: Yearbook leads at this [Springer link](https://link.springer.com/chapter/10.1057/9780230271104_144)   [2001-2020](https://www.gcis.gov.za/content/resourcecentre/sa-info/yearbook)
 
 
 ### Jesse might find in NYC
