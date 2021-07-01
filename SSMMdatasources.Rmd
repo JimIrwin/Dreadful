@@ -14,34 +14,65 @@ output: html_document
 
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
 
-**Germany** [Statistical Yearbooks](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303) 1881-1943 in Germany; Ji looked at 1881 but could not make out age/sex data with 20 minutes effort.
+**Germany** 
+
+Germany 1880-1933 with IMR/SR  ~240 100.5  (1880)  to   ~77 103.7 (1933)  
+Prussia 1875  ~220 101.1
+
+
+[Statistical Yearbooks](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303) 1881-1943 are online from German site. Jim looked at 1881 but could not make out age/sex data with 20 minutes effort. These seem not to be searchable.  1914's p497 has International Overview (of what?)
+
+1891 [full-view at Hathi](https://babel.hathitrust.org/cgi/pt?id=umn.319510012197977&view=plaintext&seq=7&q1=alter) and 1895 at   
+[Google](https://books.google.ca/books?id=JigoAAAAYAAJ&source=gbs_book_other_versions) have search capability.
+
+Seems that all the Yearbooks are [Online at Columbia](https://clio.columbia.edu/quicksearch?q=Statistisches+Jahrbuch+f%C3%BCr+das+Deutsche+Reich&commit=Search) (Statistik des Deutschen Reichs) and those probably are Hathi and searchable. 
 
 Statistisches Jahrbuch für das Deutsche Reich Volumes 1-4 By Germany. Statistisches Reichsamt · 1880  At google books, but my search for "alter" doesn't yield age/sex 
+Säuglingsalter infancy p 10 -- count of total, not by sex
+Volkszählung  census   
+
+Later Yearbooks are online. I checked 1991 index: Säuglingssterblichkeit  74, 86, 434.
+p434 causes; p74 births; deaths in first year of life;
+Gestorbene im 1 Lebensjahr 1950 1116701 67175
+Die Säuglingssterbeziffer  
 
 
-Mitchell has u5 & 5to9 at census benchmarks (1871 1880 1890 1900 1910 1925 1933 ... ) p45  Probably Alsace & Lorraine included 1871-1918?
+**Mitchell**   2013 pdf3396 A- Population and Vital Stats
 
-Mitchell vital statistics; fn6 figures to 1916 apply to German empire as it was in 1913 Alsace-Lorr excluded from 1917.
+We'll use Mitchell's u5 populations for 1880 1890 1900 1910 1925 1933 (Series A2, 2013:13pdf3454, 1983:45). Seems Alsace & Lorraine included 1871-1918 (But Js assures these are small).  Series A1 Germany (pdf3408) has fn24 (pdf3437); A1 has pops for those census years. 1910 has fn25 From 1910 (2nd line) the territories ceded after the First World War are excluded 
+A2 is pop by 5-yr ages.  (2013:15pdf3454);  1933n13 p45pdf3484 Excludes Saarland.
+A1 is census pops (2013:10pdf3407) 1910 has two lines, n25 ()
 
 
-Mitchell reports (pdf139) IMR from 1836 (292), but via footnote 3 (pdf146p127) 1836-50 is Bavaria only; 1851-70 is Bavaria and Kingdom Saxony;  1871-74 + Baden, Wurttenburg; 1875-1900 + Prussia; 1901-1940 German Empire & Republic.   fn7 
+Mitchell gives a consistent series for IMR data for 1875-1900 ("five states"), but 1900-40 (Empire & Republic) is different.    
+
+Our spreadsheet (IMR-SR.xls) refers to 1875-1900 series as D5S (5 states) and it is to be used for SRs from 1880-1900.  The subsequent IMR series is DER (Empire & Republic) and it is to be used for the 1910 and later German data.
+
+Mitchell reports (pdf139, 2013:pdf3577) IMR from 1836 (292), but via footnote 3 (pdf146p127) 1836-50 is Bavaria only; 1851-70 is Bavaria and Kingdom Saxony;  1871-74 + Baden, Wurttenburg; 1875-1900 + Prussia; 1901-1940 German Empire & Republic.   fn7 
+1875 242 but n9 1875 without Prussia 308 (1872-1874 values listed are 301 307 297)  so Prussia pulls average IMR way down. Knodel 1974 corroborates that, with Prussia IMR 1871-75 224 1876-80 205
+
+
+The u5 counts in Mitchell match the Yearbook Vol 4. There  "Eheschliessungen, Geburten und Sterbefälle in den Jahren 1872—1881" (Marriages, births, deaths).
 
 
 HMD life-tables for Germany, [1870s](https://www.lifetable.de/data/DEU/DEUFRG018711880AU1.txt) has q0m of 252.73 q0f 217.40 
 
-
-1875 242 but n9 1875 without Prussia 308 (1872-1874 values listed are 301 307 297)  so Prussia pulls average IMR way down. Knodel 1974 corroborates that, with Prussia IMR 1871-75 224 1876-80 205
-
-
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015008551932&view=1up&seq=113&q1=alter  seems to be some guide/minutes re census and maybe re census tables
-
 [Knodel 1974](https://www.degruyter.com/document/doi/10.1515/9781400869848-017/html)
 
+[Patrick R. Galloway](http://www.patrickrgalloway.com/prussia.htm) Prussia data 
+**THIS LOOKS HUGE**
+POP71.XLS gives us u5 pop; via his [codebook](http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf), I confirm the souce is the vol 30 [1871](https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&view=1up&seq=258&size=125). Hathis page #516 or so.  BIR1871.xls has births by sex, from same source (pages 24-25, 29-36) 
 
 
-Maybe [ifo institute iPEHD data](https://www.ifo.de/en/node/44166)
+
+
+Galloway via [ifo institute iPEHD data](https://www.ifo.de/en/node/44166)
 
 Prussia age-sex data for 1871-75?
+
+[Prussia 1877](https://books.google.ca/books?id=yXQOAAAAQAAJ)
+
+Hathi try searching Statistik des Deutschen Reichs
 
 Preussische Statistik  [xxxix 1875 ages u5](https://books.google.ca/books?id=yXQOAAAAQAAJ)
 vol 39  Uebersicht IV  Geschlecht und Alter p50 u5 ages in 1875
@@ -138,11 +169,15 @@ https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyRel
 
 ### South Africa ###
 
-[YearBooks](https://clio.columbia.edu/quicksearch?q=Official+year+book+of+the+Union+and+of+Basutoland&commit=Search) are online at Columbia University (search term= Official year book of the Union and of Basutoland )  Nos. 1-4 
+**IMR** from [YearBooks](https://clio.columbia.edu/quicksearch?q=Official+year+book+of+the+Union+and+of+Basutoland&commit=Search) are online at Columbia University (search term= Official year book of the Union and of Basutoland )  Nos. 1-4 
 
 IMR 1924-1928 p932 of 1928;    1919 p209 ; 
 
-search-only NYPL nos
+[1922 Yearbook Vol 5](https://books.google.ca/books?id=hNIzAQAAMAAJ) has rich data for 1910-1921. PDF p17 suggests that 1922 repeats and adds to the stats data in vold 1-4.     
+p157-59   Ages of the people, lots of u5 data for 1904, 1911, 1918.    
+p158 urban/rural 1911 1918
+
+
 
 Hathi has [Cape of Good Hope](https://catalog.hathitrust.org/Record/100119047): 1893 full view (also three search only 1902, 1907, 1908).  They are available on Google Books  [1905](https://books.google.ca/books?id=2NxCAQAAMAAJ)
 
@@ -150,6 +185,31 @@ Statistical Register of the Cape of Good Hope [for the year 1904](https://books.
 Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 1904, 1903, 1902
 
 1904, 1909 search only at Hathi
+
+
+Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
+241-334 Part 1 Population and Dwellings pdf 241
+242 Census Tables, 1911 ... show tables of pp 7-93  
+335 Census 1911 Annexures to General Report, Part 2   337:Ages of the People
+341p99 Afrik-language TOC   343p101 Part II  Comparative Summmary under/over 15
+346p104 Table IV Numbers re Age 21 (under/over)  348p106 proportions under/over 21, 15
+352p110 Table VII Union and each Province, Proportions re Age 21
+354p112 Table VIII Whites 0-4 5-9 etc  1911 1904
+360p118 Table XII Orange F S, Ages 1911 1904 0-5 
+**single year 1 to 5** 
+362-367 Table XIII Ages Union, and by Provinee, Urban+Rural  pdf362-367 **single year 1-5** 
+
+368 Table XIV Proportions 374p132 Table XV proportions, by race    
+380p138 Table XVI Urban, **single year 1-5** 144 Table XVII Proportions 392p150 TableXVIII proportions 396p154 Table XIX Numbers, single year, centres 2000 and more  402p160 Table XIX continued  408p166 TableXX RURAL    414p172 Table XXI rural proportions  420p178 Table XXII Proportions  424p182 Table XXIII Ages: Union, Provinces, Census Districts  440p198 Table XXIII continued         477- Census Tables Part III Education
+
+[1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa. 
+Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics
+ 163Part3 341p1 372p32 occs & birthplaces
+
+
+
+
+
 
 Census of the Union of South Africa, [1911 search-only Hathi](https://catalog.hathitrust.org/Record/100615661)
 
