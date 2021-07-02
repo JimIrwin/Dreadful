@@ -57,14 +57,26 @@ The u5 counts in Mitchell match the Yearbook Vol 4. There  "Eheschliessungen, Ge
 
 HMD life-tables for Germany, [1870s](https://www.lifetable.de/data/DEU/DEUFRG018711880AU1.txt) has q0m of 252.73 q0f 217.40 
 
+**Prussia**
+
 [Knodel 1974](https://www.degruyter.com/document/doi/10.1515/9781400869848-017/html)
 
-[Patrick R. Galloway](http://www.patrickrgalloway.com/prussia.htm) Prussia data 
-**THIS LOOKS HUGE**
+[Patrick R. Galloway](http://www.patrickrgalloway.com/prussia.htm) Prussian data  **THIS LOOKS HUGE**   
+annual IMR data 1875-1914; births by sex, but u1-deaths not by sex    
+
+age/sex counts 1867 u10; 1871 u5; 
+1875, 1885, 1895, 1900, 1905, 1910: u1, 1to4 (so u5); 
+
+u5 counts for
+
+
 POP71.XLS gives us u5 pop; via his [codebook](http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf), I confirm the souce is the vol 30 [1871](https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&view=1up&seq=258&size=125). Hathis page #516 or so.  BIR1871.xls has births by sex, from same source (pages 24-25, 29-36) 
 
-
-
+vit1875-vit1886 has births and u1 deaths -- USE R to read & calculate IMR
+geburten Zahl der Geborenen
+births number of born  
+sterblichkeit Zahl der Gestorbenen 
+mortality     number of dead
 
 Galloway via [ifo institute iPEHD data](https://www.ifo.de/en/node/44166)
 

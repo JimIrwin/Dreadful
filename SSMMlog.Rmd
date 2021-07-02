@@ -23,6 +23,8 @@ Missing Women web page needs better cites, eg Klasen
 
 2021.0701 Found great source for Prussian data. In Effingham will get Prussia, Australia, NewZ, SoutAft done ...
 
+NewZealand data now includes mIMR and fIMR 1872-19223
+
 2021.0628 working on Australia ... getting close 
 
 2021.0624  Austria life table publication via HMD life tables ...
