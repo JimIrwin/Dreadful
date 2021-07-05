@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">02 July, 2021</h4>
+<h4 class="date">05 July, 2021</h4>
 
 </div>
 
@@ -378,6 +378,7 @@ summary {
 <div id="new" class="section level3">
 <h3>New</h3>
 <p><a href="https://www.mortality.org/cgi-bin/hmd/DataAvailability.php">HMD country codes</a></p>
+<p><strong>Europe</strong> many 19-c sources listed in Galloway, Patrick R., “The golden age of published demographic data in Europe 1850-1915: sources and research possibilities”, 2008. <a href="http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf">Download</a> See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905.</p>
 <p><strong>Germany</strong></p>
 <p>Germany 1880-1933 with IMR/SR ~240 100.5 (1880) to ~77 103.7 (1933)<br />
 Prussia 1875 ~220 101.1</p>
@@ -394,28 +395,40 @@ Prussia 1875 ~220 101.1</p>
 <p>Mitchell reports (pdf139, 2013:pdf3577) IMR from 1836 (292), but via footnote 3 (pdf146p127) 1836-50 is Bavaria only; 1851-70 is Bavaria and Kingdom Saxony; 1871-74 + Baden, Wurttenburg; 1875-1900 + Prussia; 1901-1940 German Empire &amp; Republic. fn7 1875 242 but n9 1875 without Prussia 308 (1872-1874 values listed are 301 307 297) so Prussia pulls average IMR way down. Knodel 1974 corroborates that, with Prussia IMR 1871-75 224 1876-80 205</p>
 <p>The u5 counts in Mitchell match the Yearbook Vol 4. There “Eheschliessungen, Geburten und Sterbefälle in den Jahren 1872—1881” (Marriages, births, deaths).</p>
 <p>HMD life-tables for Germany, <a href="https://www.lifetable.de/data/DEU/DEUFRG018711880AU1.txt">1870s</a> has q0m of 252.73 q0f 217.40</p>
-<p><strong>Prussia</strong></p>
-<p><a href="https://www.degruyter.com/document/doi/10.1515/9781400869848-017/html">Knodel 1974</a></p>
-<p><a href="http://www.patrickrgalloway.com/prussia.htm">Patrick R. Galloway</a> Prussian data <strong>THIS LOOKS HUGE</strong><br />
-annual IMR data 1875-1914; births by sex, but u1-deaths not by sex</p>
-<p>age/sex counts 1867 u10; 1871 u5; 1875, 1885, 1895, 1900, 1905, 1910: u1, 1to4 (so u5);</p>
-<p>u5 counts for</p>
-<p>POP71.XLS gives us u5 pop; via his <a href="http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf">codebook</a>, I confirm the souce is the vol 30 <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&amp;view=1up&amp;seq=258&amp;size=125">1871</a>. Hathis page #516 or so. BIR1871.xls has births by sex, from same source (pages 24-25, 29-36)</p>
-<p>vit1875-vit1886 has births and u1 deaths – USE R to read &amp; calculate IMR geburten Zahl der Geborenen births number of born<br />
-sterblichkeit Zahl der Gestorbenen mortality number of dead</p>
+<p><strong>Prussia</strong> and Berlin. Annual IMR 1875-1914 and u5 m &amp; f counts for 1875, 1885, 1895, 1900, 1905, 1910.</p>
+<p><a href="http://www.patrickrgalloway.com/prussia.htm">Patrick R. Galloway</a> Prussian data. But they are an old version of XLS file, which read_excel can’t open; they need resaving in a somewhat more current version of XLS.</p>
+<p>annual IMR data 1875-1914; births by sex, but u1-deaths not by sex</p>
+<p>age/sex counts 1867 u10; in IMR-SR.xls 1871 u5; 1875 u1, 1to4; pop1885, 1890no, age1895, age1900, age1905, pop1910: u1, 1to4 (so u5); m/f ages NOT in 1890 (pop,age), pop1900, pop1905;</p>
+<p>E.g. POP71.XLS gives us u5 pop; via his <a href="http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf">codebook</a>, I confirm the souce is the vol 30 <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&amp;view=1up&amp;seq=258&amp;size=125">1871</a>. Hathis page #516 or so. BIR1871.xls has births by sex, from same source (pages 24-25, 29-36)</p>
+<p>vit1875-vit1914 births and u1 deaths – now in RDS</p>
+<p>birm &amp; birf includes birinstm/f – those in public institutions;<br />
+geburten births Zahl der Geborenen number of born<br />
+sterblichkeit mortality Zahl der Gestorbenen number of dead</p>
 <p>Galloway via <a href="https://www.ifo.de/en/node/44166">ifo institute iPEHD data</a></p>
-<p>Prussia age-sex data for 1871-75?</p>
+<p>Prussian below is superseded by Galloway (but might be used to corroborate)</p>
 <p><a href="https://books.google.ca/books?id=yXQOAAAAQAAJ">Prussia 1877</a></p>
-<p>Hathi try searching Statistik des Deutschen Reichs</p>
-<p>Preussische Statistik <a href="https://books.google.ca/books?id=yXQOAAAAQAAJ">xxxix 1875 ages u5</a> vol 39 Uebersicht IV Geschlecht und Alter p50 u5 ages in 1875</p>
-<p>xxiii 1869 Druck, temp xxiv 1870 Druck, temp xxv 1871 Druck, temp xxvi in and out migration einwanderung und auswanderung xxvii 1872 Druck, Temp xxviii 1869-72 violent deaths etc xxix births, marriages, deaths <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c3458206&amp;view=1up&amp;seq=5">1868-72</a> Trauungen p74 ages of couples p178 (Trauungen weddings) xxx Die Ergebnisse der Volkszählung und Volksbeschreibung <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&amp;view=1up&amp;seq=388">1871 census</a></p>
-<p>p24 #82<br />
-293 #352 agricultural census Some “balancing” data/estimates … Jim deems these are pseudo-life-table and not a basis for pop counts. 330 (#388) u5? columns 9 &amp; 10, male &amp; female.<br />
+<p>Preussische Statistik <a href="https://books.google.ca/books?id=yXQOAAAAQAAJ">xxxix 1875 ages u5</a> vol 39 Uebersicht IV Geschlecht und Alter p50 u5 ages in 1875 vol xxiii 1869 Druck, temp xxiv 1870 Druck, temp xxv 1871 Druck, temp xxvi in and out migration einwanderung und auswanderung xxvii 1872 Druck, Temp xxviii 1869-72 violent deaths etc xxix births, marriages, deaths <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c3458206&amp;view=1up&amp;seq=5">1868-72</a> Trauungen p74 ages of couples p178 (Trauungen weddings) xxx Die Ergebnisse der Volkszählung und Volksbeschreibung</p>
+<p><a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&amp;view=1up&amp;seq=388">1871 census</a> p24 #82 293 #352 agricultural census Some “balancing” data/estimates … Jim deems these are pseudo-life-table and not a basis for pop counts. 330 (#388) u5? columns 9 &amp; 10, male &amp; female.<br />
 315 Darn! Jim can’t find age/sex counts … this seems to be the most likely volume …</p>
-<p>XXXI Viehzählung (cattle count) XXXII Klimatologie XXXiii Druck , Temperatur , Feuchtigkeit und Niederschläge XXXiv 1874 Druck, Temp … XXXV Finanzstatistik</p>
-<p>xxxx business census?</p>
-<p>XXXVII weather xxxviii accidents &amp; suicides 1873,74,75</p>
-<p><a href="https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/">Sweden</a> IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)).</p>
+<p>XXXI Viehzählung (cattle count); XXXII Klimatologie; XXXiii Druck , Temperatur , Feuchtigkeit und Niederschläge; XXXiv 1874 Druck, Temp … ; XXXV Finanzstatistik; xxxx business census?; XXXVII weather; xxxviii accidents &amp; suicides 1873,74,75;</p>
+<p><strong>AUSTRIA</strong></p>
+<p>u5 for SR have 1880 1890; looking for 1869 and 1900 and 1910 and 1923</p>
+<p><a href="file:///home/jim/Downloads/population_stat.yearbook.pdf">u5 pops at censuses from 1869</a> found at <a href="http://www.statistik.at/web_en/nomenu/searchresults/index.html" class="uri">http://www.statistik.at/web_en/nomenu/searchresults/index.html</a> <a href="http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&amp;RevisionSelectionMethod=LatestReleased&amp;dDocName=042776">Population (Stat.Yearbook</a> But that is a very small version of Austria</p>
+<p><a href="https://www.google.com/books/edition/Statistisches_Jahrbuch_f%C3%BCr_das_Jahr/lz5YAAAAYAAJ">1868</a> p20 for infant deaths<br />
+<a href="https://www.google.com/books/edition/_/h0NYAAAAYAAJ?gbpv=1">1873</a> p44 infant deaths? p50 Kindersterblichkeit (infant mortality) von der Geburt bis mit 5 Jahren (birth to 5 yrs) by month of year</p>
+<p>Bewegung der Bevölkerung, mouvement de la population, volume annuel depuis 1881.</p>
+<p>Statistisches Jahrbuch der österreichischen Monarchie, Annuaire statistique : 1863-68 (1 vol.); 1869-70 (1 vol.); volume annuel de 1871 à 1881. Osterreichisches statistisches Handbuch, volume annuel depuis 1881.</p>
+<p><a href="https://www.google.com/books/edition/_/h0NYAAAAYAAJ?gbpv=0">various Jahrbuch at Google</a></p>
+<p><a href="https://www.google.com/books/edition/_/L0FYAAAAYAAJ?gbpv=1">1870</a> p20 weddings according to age</p>
+<p><a href="https://www.google.com/books/edition/_/WkVYAAAAYAAJ?gbpv=1">1877</a> GoogleBooks lists as 1880, the publication year.</p>
+<p><a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033611834&amp;view=1up&amp;seq=53">1878 at Hathi</a> not on Google</p>
+<p><a href="https://www.google.com/books/edition/_/IUZYAAAAYAAJ?gbpv=1">1879</a> p44 Kindersterblichkeit</p>
+<p><a href="https://www.google.com/books/edition/_/nElYAAAAYAAJ?gbpv=1">1881</a> Stats Jahrbuch does not seem to have the births and deaths for previous years, which we find in later volumes (Ji looking for 1876-79 )</p>
+<p><a href="https://www.google.com/books/edition/_/nElYAAAAYAAJ?gbpv=1">1882</a></p>
+<p><a href="https://books.google.com/books?id=D0sS25Ei5KsC">1886</a> has 1880 u5 pops (p3) and u5 mortality by sex <a href="https://babel.hathitrust.org/cgi/pt?id=chi.12960051">1893</a> p24 has births and u1 deaths 1882-1893. <a href="https://babel.hathitrust.org/cgi/pt?id=chi.101238827&amp;view=1up&amp;seq=22&amp;size=125">19xx</a> for 1895-1906</p>
+<p>Statistisches Jahrbuch. Österreichisches statistisches Handbuch Hathi 1895-10 9(got) got 1895-1909</p>
+<p>1920 on is Statistisches Jahrbuch für die Republik Österreich <a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112054454993&amp;view=1up&amp;seq=10">1921</a> has 1914-1921</p>
+<p><a href="https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/"><strong>Sweden</strong></a> IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)).</p>
 <p><a href="https://www.ssb.no/a/histstat/tabeller/3-13.html#">Norway births &amp; u1 deaths</a></p>
 <p>(<a href="https://www.ssb.no/a/histstat/hs1978/hs1978.pdf" class="uri">https://www.ssb.no/a/histstat/hs1978/hs1978.pdf</a>) and 1968 – have 5year average IMR; Mitchell publishes annual IMR values (source seems to be (p117) &quot;official publications noted on p xv:)<br />
 <a href="https://www.ssb.no/a/histstat/">Historisk statistikk</a> Mitchell reports IMR for Norway from 1786; but I cannot find those in the sources he cites (too broad a set for me to get through and translate). We will use the HMD time frame, 1846 forward.</p>

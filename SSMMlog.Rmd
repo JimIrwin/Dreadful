@@ -14,16 +14,17 @@ Jim to track down Children's Bureau IMR studies/publications
 
 http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR implications or data?
 
-
 <p>IMR in 1999 around the world Table 46-1 in Masuy-Stroobant essay in Caselli Demog. North Africa 55, Central Africa 104, Asia 56, West Europe 5   North America 7 </p>
 
 Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.0704 Prussia IMR completed; 
+
 2021.0701 Found great source for Prussian data. In Effingham will get Prussia, Australia, NewZ, SoutAft done ...
 
-NewZealand data now includes mIMR and fIMR 1872-19223
+NewZealand data now includes mIMR and fIMR 1872-1923
 
 2021.0628 working on Australia ... getting close 
 
@@ -39,7 +40,6 @@ Js asks for Ji to confirm relative m/f mortality in Mass IMR data -- where is th
 Ok if we look at 3yr avgs?
 
 From Knodel, Germ IMR data in 5yr averages for 1872 to 1943  His Appendix has disaggregated data
-
 
 Maybe lack of breastfeeding in rural areas will pull IMR up to urban levels?  Looking at van de Walle (1986) on Euro IM and see that 1860s Bavaria's urban IMR is just 104% of the rural (Table 4.3) -- that from Knodel 1974 Table 4.6 with rural Bavaria >300 until 1888 and Munich ~400 1862-75;   and shows Prussia rural ~200 and ~220-240 for cities and up to 300 for Berlin 
 
