@@ -20,6 +20,15 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+
+2021.0710 Ji sees Galloway's Prussian IMR is much above Knodel's -- 240-250 vs 205-210. Why? 
+Gallardo-Albarrán (2020 EHR) seems to match Galloway's?  Next step: find basis of Knodel's IMR values.
+
+
+2021.0709 Ji looking for steps to complete the data-collection. 
+
+Prussia, Germany, Austria should be ready for Jesse (who will need to estimate IMR rates from births and U1 deaths?). Jim still needs to check Prussian IMR rates in Knodel vs Jahrbuchs. NOT COMPATIBLE?
+
 2021.0704 Prussia IMR completed; 
 
 2021.0701 Found great source for Prussian data. In Effingham will get Prussia, Australia, NewZ, SoutAft done ...
@@ -31,12 +40,9 @@ NewZealand data now includes mIMR and fIMR 1872-1923
 2021.0624  Austria life table publication via HMD life tables ...
 
 
-2021.0621 
-
-Js asks for Ji to confirm relative m/f mortality in Mass IMR data -- where is that xls or wk4? WORK NEEDED to tidy
-
-1899 SRQ0 1.173 IMR 149 simulated 102.8 SR1 (from 105)
-1913 SRQ0 1.273 IMR 110 simulated 102.7 SR1 (from 105)
+2021.0621 Js asks for Ji to confirm relative m/f mortality in Mass IMR data -- where is that xls or wk4? WORK NEEDED to tidy    
+1899 SRQ0 1.173 IMR 149 simulated 102.8 SR1 (from 105)     
+1913 SRQ0 1.273 IMR 110 simulated 102.7 SR1 (from 105)     
 Ok if we look at 3yr avgs?
 
 From Knodel, Germ IMR data in 5yr averages for 1872 to 1943  His Appendix has disaggregated data

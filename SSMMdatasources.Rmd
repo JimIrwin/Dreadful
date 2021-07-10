@@ -10,12 +10,45 @@ output: html_document
 ## Overview ##
 <p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
-### New ###
+## Post-CEA IMR-SR Data Collection#
 
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
 
+### Europe ### 
+many 19-c sources listed in Galloway, Patrick R., "The golden age of published demographic data in Europe 1850-1915: sources and research possibilities", 2008. [Download](http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf)  See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905. 
 
-**Europe**  many 19-c sources listed in Galloway, Patrick R., "The golden age of published demographic data in Europe 1850-1915: sources and research possibilities", 2008. [Download](http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf)  See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905. 
+#### Swiss data ####
+
+IMR from HSSO matches Mitchell/IHS 2013. Calc via 4yrs of data 1867-70 210.3, 4yr avg 210.2
+
+
+
+[u5 ages](https://hsso.ch/en/1996/b/8) for censuses 1860 onward from HSSS
+
+[deaths by age](https://hsso.ch/en/2012/c/38)   Historical Statistics of Switzerland HSSO, 2012. Tab. C.38. hsso.ch/2012/c/38  Total Deaths by Age Group 1841–1870 (Estimate of I. and H. Ritzmann)
+
+c39 Male Deaths (Excluding Stillborn Births) by Age Group 1867–1995    
+c40 Female Deaths by Age Group c40      Total Deaths by Age Group c41
+c42 Deaths in First Month and First Year of Life
+c43 Deaths in First Year of Life by Month
+Male Deaths in First Year of Life [c44](https://hsso.ch/en/2012/c/44)
+Deaths in First Year of Life by Canton 1867–1995 [c45](https://hsso.ch/en/2012/c/45)
+
+1871-1890 in the 4 volumes of Mariages, naissances, décès en Suisse de 1871 à 1890.   
+v1 marriages; v2 births; v3pt1 deaths; v3pt2 death-causes. All [full-view at Hathi](https://catalog.hathitrust.org/Record/011529302).     
+births 1871-1890 [Vol 2](https://babel.hathitrust.org/cgi/pt?id=coo.31924092590847)      
+p3 total births per year (copied)    
+p47 La prédominance régulière des garçons est un phénomène bien connu  (106 b/f)     
+Pages restart with Tables.    
+Table 8 (p14) births by sex, 1871-1890     
+Volume has data on still-born (mort-nés) but not infant mortality.     
+Vol 3 pt 1, deaths; Vol 3, pt 2 causes;   
+V3pt1 Tables p18 deaths by sex/age
+
+1860 census [v3](https://catalog.hathitrust.org/Record/101659639) for age/sex (5year)
+
+
+1888 census [v2](https://babel.hathitrust.org/cgi/pt?id=hvd.32044106522675&view=1up&seq=59) for age/sex data  p191 1860-1888  p210 1888 
 
 
 **Germany** 
@@ -23,6 +56,10 @@ output: html_document
 Germany 1880-1933 with IMR/SR  ~240 100.5  (1880)  to   ~77 103.7 (1933)  
 Prussia 1875  ~220 101.1
 
+[Statistisches Jahrbuch für das Deutsche Reich](https://catalog.hathitrust.org/Record/100422931) has Hathi full-view of 1886-1908
+
+
+[Stat Jbuch 1903](https://babel.hathitrust.org/cgi/pt?id=hvd.32044106515596) 
 
 [Statistical Yearbooks](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303) 1881-1943 are online from German site. Jim looked at 1881 but could not make out age/sex data with 20 minutes effort. These seem not to be searchable.  1914's p497 has International Overview (of what?)
 
@@ -66,6 +103,7 @@ HMD life-tables for Germany, [1870s](https://www.lifetable.de/data/DEU/DEUFRG018
 [Patrick R. Galloway](http://www.patrickrgalloway.com/prussia.htm) Prussian data. But they are an old version of XLS file, which read_excel can't open; they need resaving in a somewhat more current version of XLS.    
 
 annual IMR data 1875-1914; births by sex, but u1-deaths not by sex    
+These values are much above Knodel's ... 
 
 age/sex counts 1867 u10;  in IMR-SR.xls 1871 u5; 1875 u1, 1to4; pop1885, 1890no, age1895, age1900, age1905, pop1910: u1, 1to4 (so u5); m/f ages NOT in 1890 (pop,age), pop1900, pop1905;
 
@@ -96,9 +134,18 @@ XXXI Viehzählung  (cattle count); XXXII Klimatologie; XXXiii Druck , Temperatur
 
 **AUSTRIA**   
 
-u5 for SR have 1880 1890; looking for 1869 and 1900 and 1910 and 1923    
+u5 for SR have 1880 1890 1900; looking for 1869 and 1910 and 1923    
 
-[u5 pops at censuses from 1869](file:///home/jim/Downloads/population_stat.yearbook.pdf)
+From Google Doc:  we have data for IMR by sex for 1875-1907; total IMR (Mitchell/IHS) 1908 onward. M & F u5 pops for 1880, 1890, 1900 from contemporary sources; use Mitchell for 1910 u5 pops (total matches OK with 1910 census as reported in 1913 Statistische Monatschrift.  Austria’s stats bureau has u5 pops for only a very small subset, smaller than offered by the Jahrbooks of circa 1900/1910).  
+HMD’s ”Austria” is very small compared to 19C Austrian sources. 
+Yearbook 1886 p3. has 1880 u5 pops 1449168 1465661, matches IHS/Mitchell (2013:pdf3440) has 1449 1466. The corresponding SR-values are 98.87 and 98.84 (so IHS rounds to .1 lower).
+Page 5 has infants deaths, m & f, <1month, 1-12mos. HMD says “In general, the degree of completeness is high enough to classify Austrian birth statistics as being of high quality”.
+HMD’s birth count for 1880s are only about ⅕ of Austria’s YrBk for 1886. From MItchell/IHS it seems YrBk does not include Salzburg.
+
+
+
+
+Modern/small Austria's [u5 pops at censuses from 1869](file:///home/jim/Downloads/population_stat.yearbook.pdf)
 found at http://www.statistik.at/web_en/nomenu/searchresults/index.html [Population (Stat.Yearbook](http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&RevisionSelectionMethod=LatestReleased&dDocName=042776)  But that is a very small version of Austria
 
 
@@ -111,10 +158,12 @@ Bewegung der Bevölkerung, mouvement de la population, volume annuel depuis 1881
 Statistisches Jahrbuch der österreichischen Monarchie, Annuaire statistique : 1863-68 (1 vol.); 1869-70  (1 vol.); volume annuel de 1871 à 1881.
 Osterreichisches statistisches Handbuch, volume annuel depuis 1881.
 
+[Stats Jahrbuch 1861 to 1881](https://catalog.hathitrust.org/Record/000678775) Hathi-UMich
+
+
 [various Jahrbuch at Google](https://www.google.com/books/edition/_/h0NYAAAAYAAJ?gbpv=0) 
 
 [1870](https://www.google.com/books/edition/_/L0FYAAAAYAAJ?gbpv=1)   p20  weddings according to age 
-
 
 [1877](https://www.google.com/books/edition/_/WkVYAAAAYAAJ?gbpv=1) GoogleBooks lists as 1880, the publication year.
 
@@ -128,14 +177,35 @@ Osterreichisches statistisches Handbuch, volume annuel depuis 1881.
 
  [1886](https://books.google.com/books?id=D0sS25Ei5KsC) has 1880 u5 pops (p3) and u5 mortality by sex   [1893](https://babel.hathitrust.org/cgi/pt?id=chi.12960051) p24 has births and u1 deaths 1882-1893.      [19xx](https://babel.hathitrust.org/cgi/pt?id=chi.101238827&view=1up&seq=22&size=125) for 1895-1906
 
- Statistisches Jahrbuch.
- Österreichisches statistisches Handbuch Hathi 1895-10 9(got) got 1895-1909
+ Statistisches Jahrbuch 
+ Österreichisches statistisches Handbuch Hathi 1895-10 9(got) got 1895-1909  OSH
 
-1920 on is 	Statistisches Jahrbuch für die Republik Österreich
+[OSH 1893 1899 1901](https://catalog.hathitrust.org/Record/100466360) via Hathi-Harvard
+
+[OSH 1895-1909](https://catalog.hathitrust.org/Record/012306732) via Hathi-NYPL
+
+[1904](https://www.google.com/books/edition/_/bs1CAQAAIAAJ?hl=en&sa=X&ved=2ahUKEwj9p4zO_8zxAhUTQ80KHZ9QDCgQ7_IDMAB6BAgDEDQ) check for leads / other editions to bridge 1907 to 1914 and to look for u5 populations ...
+
+[1909 Os st Hb](https://babel.hathitrust.org/cgi/pt?id=nyp.33433090775069&view=1up&seq=42&q1=alter) 
+
+p2 Zivilbevölkerung civil population 1818-1900    
+p7 Altersgliederung nach einzelnen Altersjahren und dem Geschlechte  1900  agebreakdown by sex (lists birth year and m f pops)     
+p28 1907 infant deaths (#42 p28)  p40-    has 1895-1906     
+a) Ohne Berücksichtigung der Legitimität  -- w/o taking legitimacy into account     
+p41 b) taking legit into account
+ Ehelich Geborene  born in wedlock; Unehelich Geborene illegitimate births
+
+ 1911-1919 GoogBks no preview Österreichische Statistik
+
+
+1920 onward is 	Statistisches Jahrbuch für die Republik Österreich   SJB
 [1921](https://babel.hathitrust.org/cgi/pt?id=uiug.30112054454993&view=1up&seq=10) has 1914-1921
 
+1923&1924 doesn't have age/sex
 
+HAVE JESSE CHECK [Statistische monatschrift](https://clio.columbia.edu/catalog/ht009025775)
 
+ and Jim to check more
 
 [**Sweden**](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/) IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)).
 
@@ -161,7 +231,7 @@ New Zealand Yearbooks [1920-29](https://www.stats.govt.nz/indicators-and-snapsho
 
 [1921 census report](https://catalog.hathitrust.org/Record/100209810)  hard copy at Columbia, looks like p82 has Age-Distribution in 1921
 
-[1871 Results of a census of New Zealand ... ](https://catalog.hathitrust.org/Record/100615639) full view available. The catalog page has links to [1891 full](https://catalog.hathitrust.org/Record/008430840) 1901 ([digitized](https://www3.stats.govt.nz/historic_publications/1901-census/1901-results-census/1901-results-census.html) at Stats NZ) 1916 1911 1916 1921
+[1871 Results of a census of New Zealand ... ](https://catalog.hathitrust.org/Record/100615639) full view available. The catalog page has links to [1891 full](https://catalog.hathitrust.org/Record/008430840) 1901 [digitized](https://www3.stats.govt.nz/historic_publications/1901-census/1901-results-census/1901-results-census.html) at Stats NZ) 1916 1911 1916 1921
 
 Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
 
