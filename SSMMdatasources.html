@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">10 July, 2021</h4>
+<h4 class="date">11 July, 2021</h4>
 
 </div>
 
@@ -401,7 +401,10 @@ Vol 3 pt 1, deaths; Vol 3, pt 2 causes;<br />
 V3pt1 Tables p18 deaths by sex/age</p>
 <p>1860 census <a href="https://catalog.hathitrust.org/Record/101659639">v3</a> for age/sex (5year)</p>
 <p>1888 census <a href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044106522675&amp;view=1up&amp;seq=59">v2</a> for age/sex data p191 1860-1888 p210 1888</p>
-<p><strong>Germany</strong></p>
+</div>
+</div>
+<div id="germany" class="section level3">
+<h3>Germany</h3>
 <p>Germany 1880-1933 with IMR/SR ~240 100.5 (1880) to ~77 103.7 (1933)<br />
 Prussia 1875 ~220 101.1</p>
 <p><a href="https://catalog.hathitrust.org/Record/100422931">Statistisches Jahrbuch für das Deutsche Reich</a> has Hathi full-view of 1886-1908</p>
@@ -420,15 +423,28 @@ Prussia 1875 ~220 101.1</p>
 <p>The u5 counts in Mitchell match the Yearbook Vol 4. There “Eheschliessungen, Geburten und Sterbefälle in den Jahren 1872—1881” (Marriages, births, deaths).</p>
 <p>HMD life-tables for Germany, <a href="https://www.lifetable.de/data/DEU/DEUFRG018711880AU1.txt">1870s</a> has q0m of 252.73 q0f 217.40</p>
 <p><strong>Prussia</strong> and Berlin. Annual IMR 1875-1914 and u5 m &amp; f counts for 1875, 1885, 1895, 1900, 1905, 1910.</p>
+<p>Our Prussian IMR match Knodel where we have overlap: 1876-80 1881-1885.</p>
+<p>Voegele 2000 show 1886 peaks. From our source, rural/urban all 211/251 225 – seems consistent <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100401527&amp;view=1up&amp;seq=284&amp;size=125">1886</a></p>
 <p><a href="http://www.patrickrgalloway.com/prussia.htm">Patrick R. Galloway</a> Prussian data. But they are an old version of XLS file, which read_excel can’t open; they need resaving in a somewhat more current version of XLS.</p>
-<p>annual IMR data 1875-1914; births by sex, but u1-deaths not by sex<br />
+<p>annual IMR data 1875-1914 via births by sex, but u1-deaths not by sex<br />
 These values are much above Knodel’s …</p>
 <p>age/sex counts 1867 u10; in IMR-SR.xls 1871 u5; 1875 u1, 1to4; pop1885, 1890no, age1895, age1900, age1905, pop1910: u1, 1to4 (so u5); m/f ages NOT in 1890 (pop,age), pop1900, pop1905;</p>
-<p>E.g. POP71.XLS gives us u5 pop; via his <a href="http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf">codebook</a>, I confirm the souce is the vol 30 <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&amp;view=1up&amp;seq=258&amp;size=125">1871</a>. Hathis page #516 or so. BIR1871.xls has births by sex, from same source (pages 24-25, 29-36)</p>
+<p>E.g. POP71.XLS gives us u5 pop; via his <a href="http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf">codebook</a>, I confirm the souce is the vol 30 <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&amp;view=1up&amp;seq=258&amp;size=125">1871</a>. Hathis page #516 or so. BIR1871.xls has births by sex, from same source (pages 24-25, 29-36)<br />
+Die Ergebnisse der Volkszählung und Volksbeschreibung im Preussischen Staate<br />
+The results of the census and description of the population in Prussian states</p>
 <p>vit1875-vit1914 births and u1 deaths – now in RDS</p>
 <p>birm &amp; birf includes birinstm/f – those in public institutions;<br />
 geburten births Zahl der Geborenen number of born<br />
 sterblichkeit mortality Zahl der Gestorbenen number of dead</p>
+<p>via 1888 I see my birth count is live-births;</p>
+<p>Galloway’s codebook directs to <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100244813&amp;view=1up&amp;seq=241&amp;size=125">1875 Prussia Yrbk (vol 42)</a></p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>Geburten/Births Ueberhaupt/in general (overall) in</li>
+</ol>
+<p>my birth counts are good (live births only), but I need to deduct stillborns …</p>
+<p>the mortality count includes stillborn<br />
+IV. Sterbefälle (einschliesslich der Totgeborenen).<br />
+IV. Deaths (including the stillborn).</p>
 <p>Galloway via <a href="https://www.ifo.de/en/node/44166">ifo institute iPEHD data</a></p>
 <p>Prussian below is superseded by Galloway (but might be used to corroborate)</p>
 <p><a href="https://books.google.ca/books?id=yXQOAAAAQAAJ">Prussia 1877</a></p>
@@ -467,7 +483,7 @@ p41 b) taking legit into account Ehelich Geborene born in wedlock; Unehelich Geb
 <p>1911-1919 GoogBks no preview Österreichische Statistik</p>
 <p>1920 onward is Statistisches Jahrbuch für die Republik Österreich SJB <a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112054454993&amp;view=1up&amp;seq=10">1921</a> has 1914-1921</p>
 <p>1923&amp;1924 doesn’t have age/sex</p>
-<p>HAVE JESSE CHECK <a href="https://clio.columbia.edu/catalog/ht009025775">Statistische monatschrift</a></p>
+<p>Maybe JESSE CHECK <a href="https://clio.columbia.edu/catalog/ht009025775">Statistische monatschrift</a></p>
 <p>and Jim to check more</p>
 <p><a href="https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/"><strong>Sweden</strong></a> IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)).</p>
 <p><a href="https://www.ssb.no/a/histstat/tabeller/3-13.html#">Norway births &amp; u1 deaths</a></p>
@@ -482,10 +498,10 @@ p41 b) taking legit into account Ehelich Geborene born in wedlock; Unehelich Geb
 <p><a href="https://catalog.hathitrust.org/Record/100209810">1921 census report</a> hard copy at Columbia, looks like p82 has Age-Distribution in 1921</p>
 <p><a href="https://catalog.hathitrust.org/Record/100615639">1871 Results of a census of New Zealand …</a> full view available. The catalog page has links to <a href="https://catalog.hathitrust.org/Record/008430840">1891 full</a> 1901 <a href="https://www3.stats.govt.nz/historic_publications/1901-census/1901-results-census/1901-results-census.html">digitized</a> at Stats NZ) 1916 1911 1916 1921</p>
 <p>Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.</p>
-<H3>
-Australia
-</H3>
-<p><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2112.01911?OpenDocument">1911 census</a> Ages volume has “adjusted” numbers by age/sex for 1881 1891 1901 1911 (pdf p32) Vol1 discussion of smoothing has figures suggesting not much done to 0-4 group</p>
+<p><strong><em>Australia</em></strong> Ji to work on pre-1901 (so far, for 19th C we have New South Wales 1871, 1881, 1891)</p>
+<p>1901 onward is straightfoward; ABS (Austr Bur of Statistics) data: annual IMR, Australia and by states and territories (3105…ds0005_2019.xls); u5 pops 1901, 1911, 1921-2019 (some regional data before 1901). ABS <a href="https://www.abs.gov.au/statistics/people/population/historical-population/latest-release">Historical population</a></p>
+<p>Historical Statistics of Australia Ch3 has IMR nationally and by states from 1870; also infant deaths. 1921 on some sex-specific</p>
+<p>Births 1860 onward from HMD. Infant deaths 1901 onward. ABS offers u5 populations at decennial census benchmarks 1901-1921 and annually from 1922. Decennial censuses benchmark 1881, 1891, 1901, 1911 are in <a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2112.01911?OpenDocument">1911 census</a> Ages volume has “adjusted” numbers by age/sex for 1881 1891 1901 1911 (pdf p32) Vol1 discussion of smoothing has figures suggesting not much done to 0-4 group</p>
 <p>HMD <a href="https://www.mortality.org/hmd/AUS/InputDB/AUScom.pdf">on Australia data</a> Due to the legal requirements of the birth registration system established in the middle of the 19th century, data on births are considered to be complete and of good quality</p>
 <p><a href="https://www.abs.gov.au/statistics/people/population/historical-population/2016">Aussie historical stats</a> infant deaths 1901 onwards; HMD has births from</p>
 <p><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-842X.1998.tb01141.x">Taylor et al 1998</a> p28 says &quot;Annual infant deaths … for Australia are recorded back to 1870. FN 4,5,8,9</p>
@@ -498,7 +514,6 @@ Australia
 <p><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&amp;view=ProductsbyReleaseDate&amp;Action=Expand&amp;Num=129.2" class="uri">https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&amp;view=ProductsbyReleaseDate&amp;Action=Expand&amp;Num=129.2</a></p>
 <p><a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/viewcontent?readform&amp;view=ProductsbyReleaseDate&amp;Action=expandview&amp;num=1">items by date</a> Lots of Aussie datA</p>
 <p>9 is <a href="https://openresearch-repository.anu.edu.au/handle/1885/117391">P Mein Smith thesis</a> link down Sun 27 Jun 912.</p>
-</div>
 </div>
 <div id="south-africa" class="section level3">
 <h3>South Africa</h3>

@@ -20,6 +20,7 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.0711 revise our Prussian IMR because we had included stillborn in u1 deaths (in R script for Galloway files)
 
 2021.0710 Ji sees Galloway's Prussian IMR is much above Knodel's -- 240-250 vs 205-210. Why? 
 Gallardo-Albarrán (2020 EHR) seems to match Galloway's?  Next step: find basis of Knodel's IMR values.

@@ -27,9 +27,6 @@ blurb/article about the journal article
 
 
 
-
-
-
 To check: Preston 1975   Gwatkin 2000
 
 Deaton (2003 JEL)   p133 refers to Almond, Chay, Greenstone for narrowing black/white IMR gap 1965-1971 -- we see SR2 +1.4 (1940-1950 similar, but 1950 anomolously high?)    
@@ -181,8 +178,17 @@ McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Huma
 
 ### Germany ###
 
+<p>
+Gallardo-Albarrán (2020 EHR)^[Sanitary infrastructures and the decline of mortality in Germany, 1877–1913]  Seems similar to Alsan & Goldin, not looking at overll IMR, but at the urban component (so issue of shift from rural to urban not covered).
+<p>Figure 1 presents Prussia IMR 1877-1913. Urban IMR volatile, but seems to start to decline from mid1880s (230-250) to late 1890s (200-220), then steeper decline 1900-1913 (ends at about 150 in 1913). With elimination of urban penalty circa 1901-1906. Rural IMR hovers in the 180-200 range, by my eyeball. p739 Table 1 reports mean IMR 213
+<br> As noted, G-A reports that infant mortality in German cities "declined by almost half" from the 1870s to WW1 (p731). Mitchell's IHS says Germany IMR 1860s 300ish falling to 1880s 230ish  1900 205ish (p121,123).
+<br>p745 reports the logCDR in sample fell 0.54 (so level fell to 58%), with .109 of that from water & sewage. p746 reports logIMR fell 0.439 (to 64.5%), and attributes 0.108 of that to water & sewage.
+<br>In conclusion, they write, "This article has studied the causes of the first sustained decline in mortality in Germany by looking at the role of public health infrastructures." Interesting to note the German U5 is 100.5 in 1871, 1880; 100.7 in 1890, 1900; then 101.4 in 1910; big rise comes by 1925 with 103.4.
 
-Becker, Sascha O. & Cinnirella, Francesco. 2020. «Prussia disaggregated: the demography of its universe of localities in 1871». Journal of Demographic Economics 86 (3): 259–290. doi:10.1017/dem.2020.12.
+Their 
+
+</p>
+
 
 Haines & Kinter [2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2660667/) "Can Breast Feeding Help You in Later Life? Evidence from German Military Heights in the Early 20th Century"*
 The creation of the German Empire after the Franco-Prussian War also coincides with the sustained mortality decline and with improved statistical coverage. The crude death rate declined from 28.9 per 1000 in 1871 to 16.7 in 1910, while the expectation of life at birth (for both sexes combined) rose from 37.0 in 1875 to 48.8 years by 1910. The infant mortality rate fell from 246 infant deaths per 1000 live births in 1869/73 to 170 in 1908/12 (Haines and Kintner, 2000, Table 3 & Table 4). Despite its rapid economic development prior to World War I, Germany was still, however, one of the nations with high mortality and especially high infant mortality. Compare, for example, the infant mortality rates for some other nations for the period 1908/12: Sweden, 75; Norway, 70; England and Wales, 112; the Netherlands, 112; Switzerland, 109; France, 123 (Mitchell, 1998, Table A7).
@@ -198,7 +204,14 @@ Statistik des Deutschen Reichs at Hathi
 Statistisches Jahrbuch für das Deutsche Reich 1886 on, at Hathi
 </p>
 
+###Prussia
 
+Becker, Sascha O. & Cinnirella, Francesco. 2020. «Prussia disaggregated: the demography of its universe of localities in 1871». Journal of Demographic Economics 86 (3): 259–290. doi:10.1017/dem.2020.12.
+
+Vogele/Vögele (2000 Health & Place -- above) graphs Prussia IMR 1877-1913, shows 1886 spike, as does our series; but Vogel graph looks like urban 250 rural 220 while our series has 266 -- maybe our series includes stillborn in deaths?
+
+
+Knodel 1974 IMR values for Prussia 1876-80 205  1881-86 207   Our values are 204  and 210  ... hmmm 
 
 
 ### Amsterdam ###
@@ -714,13 +727,8 @@ Humphries, Jane and Timothy Leunig. 2009. Was Dick Whittington taller than those
 ## Urban Penalty & Mortality Transition 1850 to 1950 ##
 
 #### Various General/International Perspectives ####
-<p>
-Gallardo-Albarrán (2020 EHR)^[Sanitary infrastructures and the decline of mortality in Germany, 1877–1913]  Seems similar to Alsan & Goldin, not looking at overll IMR, but at the urban component (so issue of shift from rural to urban not covered).
-<p>Figure 1 presents Prussia IMR 1877-1913. Urban IMR volatile, but seems to start to decline from mid1880s (230-250) to late 1890s (200-220), then steeper decline 1900-1913 (ends at about 150 in 1913). With elimination of urban penalty circa 1901-1906. Rural IMR hovers in the 180-200 range, by my eyeball. p739 Table 1 reports mean IMR 213
-<br> As noted, G-A reports that infant mortality in German cities "declined by almost half" from the 1870s to WW1 (p731). Mitchell's IHS says Germany IMR 1860s 300ish falling to 1880s 230ish  1900 205ish (p121,123).
-<br>p745 reports the logCDR in sample fell 0.54 (so level fell to 58%), with .109 of that from water & sewage. p746 reports logIMR fell 0.439 (to 64.5%), and attributes 0.108 of that to water & sewage.
-<br>In conclusion, they write, "This article has studied the causes of the first sustained decline in mortality in Germany by looking at the role of public health infrastructures." Interesting to note the German U5 is 100.5 in 1871, 1880; 100.7 in 1890, 1900; then 101.4 in 1910; big rise comes by 1925 with 103.4.
-</p>
+
+
 <p>From Mitchell IHS, I'd say France IMR 150-170 in 1850s and 1890s. So France and England both have post1900 IMR declines. Germany earlier.  
 </p>
 

@@ -21,8 +21,6 @@ many 19-c sources listed in Galloway, Patrick R., "The golden age of published d
 
 IMR from HSSO matches Mitchell/IHS 2013. Calc via 4yrs of data 1867-70 210.3, 4yr avg 210.2
 
-
-
 [u5 ages](https://hsso.ch/en/1996/b/8) for censuses 1860 onward from HSSS
 
 [deaths by age](https://hsso.ch/en/2012/c/38)   Historical Statistics of Switzerland HSSO, 2012. Tab. C.38. hsso.ch/2012/c/38  Total Deaths by Age Group 1841–1870 (Estimate of I. and H. Ritzmann)
@@ -51,7 +49,7 @@ V3pt1 Tables p18 deaths by sex/age
 1888 census [v2](https://babel.hathitrust.org/cgi/pt?id=hvd.32044106522675&view=1up&seq=59) for age/sex data  p191 1860-1888  p210 1888 
 
 
-**Germany** 
+### Germany
 
 Germany 1880-1933 with IMR/SR  ~240 100.5  (1880)  to   ~77 103.7 (1933)  
 Prussia 1875  ~220 101.1
@@ -100,20 +98,40 @@ HMD life-tables for Germany, [1870s](https://www.lifetable.de/data/DEU/DEUFRG018
 
 **Prussia** and Berlin. Annual IMR 1875-1914 and u5 m & f counts for 1875, 1885, 1895, 1900, 1905, 1910. 
 
+Our Prussian IMR match Knodel where we have overlap: 1876-80 1881-1885.
+
+Voegele 2000 show 1886 peaks. From our source, rural/urban all  211/251  225  -- seems consistent
+[1886](https://babel.hathitrust.org/cgi/pt?id=uc1.c100401527&view=1up&seq=284&size=125) 
+
 [Patrick R. Galloway](http://www.patrickrgalloway.com/prussia.htm) Prussian data. But they are an old version of XLS file, which read_excel can't open; they need resaving in a somewhat more current version of XLS.    
 
-annual IMR data 1875-1914; births by sex, but u1-deaths not by sex    
+annual IMR data 1875-1914 via births by sex, but u1-deaths not by sex    
 These values are much above Knodel's ... 
 
 age/sex counts 1867 u10;  in IMR-SR.xls 1871 u5; 1875 u1, 1to4; pop1885, 1890no, age1895, age1900, age1905, pop1910: u1, 1to4 (so u5); m/f ages NOT in 1890 (pop,age), pop1900, pop1905;
 
-E.g. POP71.XLS gives us u5 pop; via his [codebook](http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf), I confirm the souce is the vol 30 [1871](https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&view=1up&seq=258&size=125). Hathis page #516 or so.  BIR1871.xls has births by sex, from same source (pages 24-25, 29-36) 
+E.g. POP71.XLS gives us u5 pop; via his [codebook](http://www.patrickrgalloway.com/galloway_2007_prussia_codebook.pdf), I confirm the souce is the vol 30 [1871](https://babel.hathitrust.org/cgi/pt?id=uc1.c100244734&view=1up&seq=258&size=125). Hathis page #516 or so.  BIR1871.xls has births by sex, from same source (pages 24-25, 29-36)      
+Die Ergebnisse der Volkszählung und Volksbeschreibung im Preussischen Staate   
+The results of the census and description of the population in Prussian states
+
 
 vit1875-vit1914 births and u1 deaths -- now in RDS
 
 birm & birf  includes  birinstm/f -- those in public institutions;   
 geburten births  Zahl der Geborenen number of born     
 sterblichkeit  mortality   Zahl der Gestorbenen     number of dead     
+
+via 1888 I see my birth count is live-births;
+
+Galloway's codebook directs to [1875 Prussia Yrbk (vol 42)](https://babel.hathitrust.org/cgi/pt?id=uc1.c100244813&view=1up&seq=241&size=125)
+
+II. Geburten/Births   Ueberhaupt/in general (overall)    in
+
+my birth counts are good (live births only), but I need to deduct stillborns ... 
+
+the mortality count includes stillborn     
+IV. Sterbefälle (einschliesslich der Totgeborenen).     
+IV. Deaths (including the stillborn).     
 
 Galloway via [ifo institute iPEHD data](https://www.ifo.de/en/node/44166)
 
@@ -142,12 +160,8 @@ Yearbook 1886 p3. has 1880 u5 pops 1449168 1465661, matches IHS/Mitchell (2013:p
 Page 5 has infants deaths, m & f, <1month, 1-12mos. HMD says “In general, the degree of completeness is high enough to classify Austrian birth statistics as being of high quality”.
 HMD’s birth count for 1880s are only about ⅕ of Austria’s YrBk for 1886. From MItchell/IHS it seems YrBk does not include Salzburg.
 
-
-
-
 Modern/small Austria's [u5 pops at censuses from 1869](file:///home/jim/Downloads/population_stat.yearbook.pdf)
 found at http://www.statistik.at/web_en/nomenu/searchresults/index.html [Population (Stat.Yearbook](http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&RevisionSelectionMethod=LatestReleased&dDocName=042776)  But that is a very small version of Austria
-
 
 [1868](https://www.google.com/books/edition/Statistisches_Jahrbuch_f%C3%BCr_das_Jahr/lz5YAAAAYAAJ) p20 for infant deaths     
 [1873](https://www.google.com/books/edition/_/h0NYAAAAYAAJ?gbpv=1)  p44 infant deaths? 
@@ -197,13 +211,12 @@ p41 b) taking legit into account
 
  1911-1919 GoogBks no preview Österreichische Statistik
 
-
 1920 onward is 	Statistisches Jahrbuch für die Republik Österreich   SJB
 [1921](https://babel.hathitrust.org/cgi/pt?id=uiug.30112054454993&view=1up&seq=10) has 1914-1921
 
 1923&1924 doesn't have age/sex
 
-HAVE JESSE CHECK [Statistische monatschrift](https://clio.columbia.edu/catalog/ht009025775)
+Maybe JESSE CHECK [Statistische monatschrift](https://clio.columbia.edu/catalog/ht009025775)
 
  and Jim to check more
 
@@ -235,8 +248,19 @@ New Zealand Yearbooks [1920-29](https://www.stats.govt.nz/indicators-and-snapsho
 
 Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
 
-<H3>Australia</H3>   
-[1911 census](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2112.01911?OpenDocument)
+***Australia***
+Ji to work on pre-1901 (so far, for 19th C we have New South Wales 1871, 1881, 1891)
+
+1901 onward is straightfoward; ABS (Austr Bur of Statistics) data: annual IMR, Australia and by states and territories (3105...ds0005_2019.xls); u5 pops 1901, 1911, 1921-2019 (some regional data before 1901). ABS [Historical population](https://www.abs.gov.au/statistics/people/population/historical-population/latest-release)
+
+
+Historical Statistics of Australia Ch3 has IMR nationally and by states from 1870; also infant deaths. 1921 on some sex-specific
+
+
+
+
+Births 1860 onward from HMD. Infant deaths 1901 onward. ABS offers u5 populations at decennial census benchmarks 1901-1921 and annually from 1922.
+Decennial censuses benchmark 1881, 1891, 1901, 1911 are in [1911 census](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2112.01911?OpenDocument)
  Ages volume has "adjusted" numbers by age/sex for 1881 1891 1901 1911  (pdf p32)  Vol1 discussion of smoothing has figures suggesting not much done to 0-4 group
 
 
@@ -262,8 +286,9 @@ https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyRel
 
 [items by date](https://www.abs.gov.au/AUSSTATS/abs@.nsf/viewcontent?readform&view=ProductsbyReleaseDate&Action=expandview&num=1)  Lots of Aussie datA
 
-
 9 is [P Mein Smith thesis](https://openresearch-repository.anu.edu.au/handle/1885/117391) link down Sun 27 Jun 912. 
+
+
 
 ### South Africa ###
 
