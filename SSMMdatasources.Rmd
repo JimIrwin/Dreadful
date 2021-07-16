@@ -10,6 +10,8 @@ output: html_document
 ## Overview ##
 <p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
+[Australasia](#AUSNZ)
+
 ## Post-CEA IMR-SR Data Collection#
 
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
@@ -233,6 +235,10 @@ Finland. Use HMD births and u1 deaths; they match Mitchell IMR for 1878 & 1879.
 
 [Brazil 1872](https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&view=detalhes)  Some funny-looking sex-ratio values in mestizos and slave >10 yrs?
 
+<a name="AUSNZ"></a>
+
+### Australasia
+
 [**NewZealand**](https://www3.stats.govt.nz/historic_publications/)
 [1916](https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399) has u1 counts for 1881 through 1916
 
@@ -249,24 +255,35 @@ New Zealand Yearbooks [1920-29](https://www.stats.govt.nz/indicators-and-snapsho
 Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
 
 ***Australia***
-Ji to work on pre-1901 (so far, for 19th C we have New South Wales 1871, 1881, 1891)
 
-1901 onward is straightfoward; ABS (Austr Bur of Statistics) data: annual IMR, Australia and by states and territories (3105...ds0005_2019.xls); u5 pops 1901, 1911, 1921-2019 (some regional data before 1901). ABS [Historical population](https://www.abs.gov.au/statistics/people/population/historical-population/latest-release)
+1901 onward is straightfoward, with the data in [ABS spreadsheets](https://www.abs.gov.au/statistics/people/population/historical-population/latest-release) (3105.0.65.001 Australian Historical Population Statistics, 2019).     
+U5 pops from [2. Population Age and Sex Structure](https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0002_2019.xls)
+Table 2.1 has AUS u5 f/m pops 1901, 1911, 1921-2019.  Various other tables give state-level U5 by sex from 1901 onwards (NSW, Vic, Qld, SA, WA, Tas). Varying coverage of pre-1901 (see below.)     
+IMR data from Table 5.4 in [5. Deaths](https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0005_2019.xls). This provides annual IMR, Australia and by states and territories (3105...ds0005_2019.xls) for 1901 forward.     
 
-
-Historical Statistics of Australia Ch3 has IMR nationally and by states from 1870; also infant deaths. 1921 on some sex-specific
-
-
-
-
-Births 1860 onward from HMD. Infant deaths 1901 onward. ABS offers u5 populations at decennial census benchmarks 1901-1921 and annually from 1922.
-Decennial censuses benchmark 1881, 1891, 1901, 1911 are in [1911 census](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2112.01911?OpenDocument)
- Ages volume has "adjusted" numbers by age/sex for 1881 1891 1901 1911  (pdf p32)  Vol1 discussion of smoothing has figures suggesting not much done to 0-4 group
+We may also want to use [4. Births](https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0004_2019.xls) in Table 4.1 Births registered by sex, states and territories, 1824 onwards  Births (m,f) for AUS and by state from 1860 or earlier.
 
 
-HMD [on Australia data](https://www.mortality.org/hmd/AUS/InputDB/AUScom.pdf)  Due to the legal requirements of the birth registration system established in the middle of the 19th century, data on births are considered to be complete and of good quality
+For data before 1901, we mostly refer to Vamplew (1987) Australians - Historical Statistics.     
+Ch 2 (Population) includes census data with u5 f/m pops for AUS and states for census years 1861 to 1901; also      
+1854, 1857 Victoria; 1856 New South Wales (u4 populations). If additional regional data is needed, we should check the ABS Tables above (Population Age and Sex Structure) -- but I expect those are the same.
 
-[Aussie historical stats](https://www.abs.gov.au/statistics/people/population/historical-population/2016)  infant deaths 1901 onwards; HMD has births from 
+Ch 3 has IMR nationally and by states from 1870; also infant deaths. 1921 on has some sex-specific data.    
+Ch 18 (Health & Medicine) has NSW death rates for u1 male and female for census years 1861 to 1891.
+
+
+If narrower age breakdowns are desired, for state-level data 1911 onward, use [census publications 1901 onward](https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyCatalogue&Action=Expand&Num=2.2)   
+For 1911, use census values "recorded" for regions; the "recorded" values for AUS are those in ABS 3105 Table 2.1  And so we don't use "unadjusted" (unknown ages added in, unsmoothed), nor the "adjusted" which are smoothed in some fashion. We rely on ABS 3105 Table 2.1 and our presumption that recorded is best. 
+
+Notes on 1911 *Ages* "Number of Males recorded at each Age" and same for females, by state; also u5 f/m pops for 1901 and 1911. Also for AUS f/m pops by single-year of age in 1891, 1901, 1911 (p15); described as "unadjusted" but unspecified have been added in pro rata ("but the figures have not been smoothed" Table 7 p15pdf15).     
+Also for AUS, f/m U5 pops for 1881, 1891, 1901, 1911.  1911 U5m 268,073  -- same note as above, uspec added in     
+Also "adjusted number" at each age in 1911. Consider age 0:      
+males recorded NSW 22,939 AUS 59,102 (Tab 1, p5)     But with unspec Tab 7 1911 AUS male u1 59,248    
+adjusted males NSW 22,750 AUS 58,648 (Tab 9, p17)     
+My older notes said: Decennial censuses benchmark 1881, 1891, 1901, 1911 are in [1911 census](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2112.01911?OpenDocument) Ages volume has "adjusted" numbers by age/sex for 1881 1891 1901 1911  (pdf p32)  Vol1 discussion of smoothing has figures suggesting not much done to 0-4 group.
+
+1911 Table 24 has age/sex for cities (metropolises)
+
 
 [Taylor et al 1998](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-842X.1998.tb01141.x) p28 says "Annual infant deaths ... for Australia are recorded back to 1870. FN 4,5,8,9
 
@@ -274,11 +291,20 @@ HMD [on Australia data](https://www.mortality.org/hmd/AUS/InputDB/AUScom.pdf)  D
 
 5 is Cumpston JHL. Health and disease in Australia: a history. LCumpston JHL. Health and disease in Australia: a history. Limited search via google books ...
 
-[Coghlan](https://books.googleusercontent.com/books/content?req=AKW5QacLxS9FxdOAYp5OZP-7Lsx_u8gMBG-CjXZbaH_jay-RpWDhOnIOd5pJsVWLfYdTovb0GqnHLZ-S7YsdPjMMhpBoSmkTfByTzkKszm-V6uiVbBrBh_Zdmg3gapE3cfjOwehJtzEA3QK-kuJGSSHxts9mgOleJPEHvlaJkC0EZnJg1-6F8lS5oeVTsLvBDnQsApjwo2PDHkDUMLXLz1ijq1lpdmWThHhPfB0RQ0GmmcKleTuk4yreld_eyJshIaqLdb2jC1XaFVp1eHPibHOSANdJ74Jzh4MAC88TioRHaA7qZV-4bvo)
+9 is [P Mein Smith thesis](https://openresearch-repository.anu.edu.au/handle/1885/117391) link down Sun 27 Jun 912. 
 
-or at [ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1398.01899-1900?OpenDocument)
 
-And Coghlan's full? [set of volumes](https://www.abs.gov.au/AUSSTATS/abs@.nsf/second+level+view?ReadForm&prodno=1398.0&viewtitle=A%20Statistical%20Account%20of%20the%20Seven%20Colonies%20of%20Australasia~1892~Previous~22/04/1892&&tabname=Past%20Future%20Issues&prodno=1398.0&issue=1892&num=&view=&)   Past releases Tab
+ABS has Coghlan's [full set of volumes](https://www.abs.gov.au/AUSSTATS/abs@.nsf/second+level+view?ReadForm&prodno=1398.0&viewtitle=A%20Statistical%20Account%20of%20the%20Seven%20Colonies%20of%20Australasia~1892~Previous~22/04/1892&&tabname=Past%20Future%20Issues&prodno=1398.0&issue=1892&num=&view=&)   Past releases Tab
+
+Limited data for 1899-1900 in [issue8 1899-1900 at ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1398.01899-1900?OpenDocument)
+
+Coghlan 1899-1900 p249 (pdf264) Population    pdf271 1899 births by sex and state, and New Zealand. Later, total births by 5yr periods (could be useful to check HMD) But deaths are for 1898, data for ages 0 1 2 3 4 5-19 by sex pdf 277    
+p272 whooping cough kills girls more than boys
+
+Google.ca has some (or all?) volumes of Coghlan. E.g. [Coghlan v10 1902-03 ](https://books.google.ca/books/about/A_Statistical_Account_of_Australia_and_N.html?id=mmoZAAAAYAAJ&redir_esc=y)  
+
+
+Coghlan [1903-04 Vital Stats](https://www.ausstats.abs.gov.au/ausstats/free.nsf/0/383F14EFC0D4D9E4CA257F60007C3D73/$File/18_13980_1903-04_Vital_Statistics.pdf)  p177 births in 1903, by sex, for States, AUS, & NZ; p 184 deaths by age in 1903, for states, AUS, & NZ. 
 
 [Victoria 1871](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1309.21871?OpenDocument)
 
@@ -286,7 +312,14 @@ https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyRel
 
 [items by date](https://www.abs.gov.au/AUSSTATS/abs@.nsf/viewcontent?readform&view=ProductsbyReleaseDate&Action=expandview&num=1)  Lots of Aussie datA
 
-9 is [P Mein Smith thesis](https://openresearch-repository.anu.edu.au/handle/1885/117391) link down Sun 27 Jun 912. 
+
+For interest, other sources include [Yearbook Australia](https://www.abs.gov.au/AUSSTATS/abs@.nsf/second+level+view?ReadForm&prodno=1301.0&viewtitle=Year%20Book%20Australia~2012~Latest~24/05/2012&&tabname=Past%20Future%20Issues&prodno=1301.0&issue=2012&num=&view=&) annually 1908 onward
+
+HMD [on Australia data](https://www.mortality.org/hmd/AUS/InputDB/AUScom.pdf) says:   
+
+     Due to the legal requirements of the birth registration system established in the middle of the 19th century, data on births are considered to be complete and of good quality
+
+ABS page with [good overview of the censuses](https://www.abs.gov.au/ausstats/abs@.nsf/Products/F3AF616665E821A6CA2575D2001AA12E?opendocument) as well as links to spreadsheets of data.
 
 
 
