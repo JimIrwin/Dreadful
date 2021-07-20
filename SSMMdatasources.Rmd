@@ -240,7 +240,7 @@ Finland. Use HMD births and u1 deaths; they match Mitchell IMR for 1878 & 1879.
 ### Australasia
 
 [**NewZealand**](https://www3.stats.govt.nz/historic_publications/)
-[1916](https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399) has u1 counts for 1881 through 1916
+[1916](https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399) has u2 and u5 counts for 1881 through 1916 (censuses at 5yr interval)
 
 New Zealand Yearbooks [1920-29](https://www.stats.govt.nz/indicators-and-snapshots/digitised-collections/yearbook-collection-18932012#Yearbook-1920-29) 1921-22 reports on 1916 census; 1923 some imr data;  no SR data: 1924 (some 1921 census data), 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935. AGES 1936 has 1926 u5 (also estimates for 1935, extrap from 1926 via vital stats -- not census, we don't use). NOT: 1937x 1938x 1939x   1940x, 1941yes (via 1836 census)
 
@@ -975,13 +975,13 @@ On SRB in England 1880, from [Plowden's Report on the census of India ... 1881](
 
 ### Scotland
   
-[Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report, [page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0).  
-Great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"  
+[Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report.    
+[page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0) has a great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"  
 Citation: Census of Scotland -- 1861, Population Tables and Report (Number of the inhabitants, families, children at school, houses, ... ), Edinburgh 1862.
 
 Scotland 1861 [age table](https://www.dropbox.com/s/r8w9j9y521809yw/Scotland1861ages.png?dl=0).  Scotland 1851 is with England
 
-
+Mitchell has IMR from 1855 -- to be valudated
 
 
 
