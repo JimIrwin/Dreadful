@@ -20,6 +20,14 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+
+2021.0726 Ji makes 3 RDS file with Scots data for Jesse to project populations from census counts, births, death by age by yeaar.
+
+2021.0724 Ji comparing HMD and census/registrar data for Scotland.
+SR values are about the same from the two sources, but HMD counts tend to be up to 1% larger. PUMS are full-count, so perhaps we'd prefer those. But the SR values again are about the same. So the question is whether we have concerns about the IMR data.
+
+
+
 2021.0711 revise our Prussian IMR because we had included stillborn in u1 deaths (in R script for Galloway files)
 
 2021.0710 Ji sees Galloway's Prussian IMR is much above Knodel's -- 240-250 vs 205-210. Why? 

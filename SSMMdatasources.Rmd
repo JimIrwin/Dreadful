@@ -974,15 +974,65 @@ On SRB in England 1880, from [Plowden's Report on the census of India ... 1881](
 </p>
 
 ### Scotland
-  
-[Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report.    
-[page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0) has a great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"  
-Citation: Census of Scotland -- 1861, Population Tables and Report (Number of the inhabitants, families, children at school, houses, ... ), Edinburgh 1862.
 
-Scotland 1861 [age table](https://www.dropbox.com/s/r8w9j9y521809yw/Scotland1861ages.png?dl=0).  Scotland 1851 is with England
+HMD offers age/sex data from 1855 -- probably their description of 1855-60 is relevant
+"Population estimates for the period 1855-1860 are pre-censal population estimates calculated according to the HMD methodology (assuming zero net-migration)." 
+    HMD sex-ratios are very close to census values (usually 0.1 less feminine than census; biggest discrepency is 1861's 0.3 less feminine).
 
-Mitchell has IMR from 1855 -- to be valudated
+HMD says The compulsory registration of births began on July 1st, 1837. However, according to the U.K. Office for National Statistics (ONS) birth registration was incomplete until 1874. Therefore, the quality of the data for 1855-1875 is assumed to be lower than in later years and should be used with caution.
 
+Mitchell has IMR from 1855 
+
+Scotland,  Births (1-year)	Last modified: 10 Jul 2020;  Methods Protocol: v6 (2017)
+Scotland, Deaths (period 1x1), 	Last modified: 10 Jul 2020;  Methods Protocol: v6 (2017)
+Use R to check the births/deaths ... 
+
+
+Scotland 1851 is with England. 
+
+SR5 values in HMD versus the census.  1861-1911 HMD a little less feminine.    
+1861 HMD is 0.3 less feminine; 1871 is 0.1 less femin; 1881 is 0.2 less femin; 1891, 1901, 1911 are all 0.1 less femin.    
+
+By either source, census or HMD, SR5-wise, 1901 & 1911 look less healthy (101.3-101.5) versus the 1861-1891 values (103.3    102.7   102.5  103.0) 
+
+1861 the HMD u5 count is 0.5% above the census; HMD SR5 is 0.3 points less feminine. So the HMD SR5 looks healthier the census value. PUMS is full-count; it is 0.1 points less feminine thant the census (96.7 vs 96.8)
+
+[Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report.    [page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0) has a great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"       
+Citation: Census of Scotland -- 1861, Population Tables and Report (Number of the inhabitants, families, children at school, houses, ... ), Edinburgh 1862.     
+That volume does not have the age data.
+
+Scotland 1861 [age table](https://www.dropbox.com/s/r8w9j9y521809yw/Scotland1861ages.png?dl=0). The text with the table says "the ages of only 2695 persons, consisting of 2467 men and 228 women, were not ascertained. The great majority ... consisted of seamen on board ... vessels ... round the coast." Table title includes "The Ages not ascertained distributed among the others." It is NOT the case that unspecified ages are simply distributed among all ages, in which case the m/f ratio of kids would be somewhat inflated: u5 SR would feminize by 0.2 points. Comparison of Table 1 to Ages table in Volume 2 shows u5 ages are not augmented, those e.g. 30-35 are.
+
+[1861 at GoogleBooks](https://books.google.ca/books?id=ng8TAQAAMAAJ&dq=Scotland+1861+census+volumes&source=gbs_navlinks_s)  p xi says of Table 1 "the persons whose ages were not ascertained are distributed among the classified ages according to the periods of life to which they most probably belonged; "     
+Table 1 u1m 46055 m30-35 90,975  f30-35 111,570   95-100 109 250
+Vol2p1 u1m 46055  m30-35 90,665  f30-35 111,543   95-100 109 250
+
+
+
+1871 Census u5 count is 0.9% below the HMD value; the census SR5 is 0.1 more female than the HMD (97.40 vs 97.31).     
+
+Ages Census of Scotland, 1871, Eighth decennial census of the population of Scotland taken 3d April 1871, with report. Vol. II.    BPP 1873 LXXIII [C.841]    xii     
+p xiv Table 3 is a little inconsistent with the Table 1 values. Table 3 says U5 has 97.3 female per 100 males, and it lists u5 proportions as 50.656 and 49.344 but the Table 1 values give values 97.4 fems per 100 males, and 50.658 and 49.342 -- so Table 3 reflects some rough figuring (97.3 says less fems, 49.344 says more fems).  
+
+Table 3 reports for 1871 England: 99.8 female to every 100 males.     
+
+p xv "105.4 males are brought into the world in Scotland for every 100 females.  ... But whatever the case with other countries, it happens in Scotland that males are so much more difficult to rear than females, that by the time the 17th year of life is arrived at, the excess of males has died off, leaving but one male for every female." Census of Scotland, 1871, Eighth decennial census of the population of Scotland taken 3d April 1871, with report. Vol. II.    BPP 1873 LXXIII [C.841]    xv (page image dropboxed)
+
+
+
+1901 ages are given in 1911 vol II (along with 1911 ages). The census is 0.1 more feminine than the HMD.
+
+1901 Census vol III is occupations (see GoogleBooks)
+
+
+
+
+
+1911 Census vol II has ages.  
+
+1931 ages Census of Scotland, 1931, Vol. II Populations, ages and conjugal conditions, birthplaces, Gaelic speaking and housing    BPP 1933  [n/a]    79
+
+Census 1981, Scotland : historic tables, 1801-1981; Age u15 1861 on -- too broad for us.
 
 
 ### Ireland Census
