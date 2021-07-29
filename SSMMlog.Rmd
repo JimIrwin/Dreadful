@@ -21,7 +21,22 @@ Missing Women web page needs better cites, eg Klasen
 ### current log
 
 
-2021.0726 Ji makes 3 RDS file with Scots data for Jesse to project populations from census counts, births, death by age by yeaar.
+2021.0729 Ji makes RDS files for Aussie SR5 and IMR, and also for Aussie states (AUSregAges.RDS AUSregIMR.RDS) for NewSouWales and Victoria.
+
+2021.0727 Ji not having luck finding Registrar Report dealing with issues of Registration quality. Maybe need to scrutinize Scottish demography literature. 
+leads from gayle Davis EHR  9 See the extensive historical demographic work of Anderson, including British population history; and on infant  mortality specifically, see Blaikie, 'Infant survival chances'; Cage and Foster, 'Overcrowding and infant mortality';  Garrett, 'Birth spacing'; Kemmer
+LOOK FOR GLAISTER
+ Garrett, E., 'Birth spacing and infant mortality on the Isle of Skye, Scotland, in the 1880s: a comparison with the  town of Ipswich, England', Local Population Studies, 71 (2003), pp. 53-74.
+ Glaister, J., 'Death certification and registration in Scotland: its present defects and a proposed remedy', Glasgow
+ Medical Journal, 6 (1893), pp. 241-60. 
+ Marland, H., 'A pioneer in infant welfare: the Huddersfield scheme 1903-1920', Social History of Medicine, 6
+ (1993), pp. 25-50.
+ Mooney, G., 'Still-births and the measurement of urban infant mortality rates c. 1890-1930', Local Population
+ Studies, 53 (1994), pp. 42-52.
+ Morgan, L., ' "Properly disposed of": a h 
+
+
+2021.0726 Ji makes 3 RDS file with Scots data for Jesse to project populations from census counts, births, death by age by year.
 
 2021.0724 Ji comparing HMD and census/registrar data for Scotland.
 SR values are about the same from the two sources, but HMD counts tend to be up to 1% larger. PUMS are full-count, so perhaps we'd prefer those. But the SR values again are about the same. So the question is whether we have concerns about the IMR data.
