@@ -10,9 +10,31 @@ output: html_document
 ## Overview ##
 <p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
-[Australasia](#AUSNZ)
+[Australasia](#AUSNZ)   [South Africa](#SouAfr)
 
-## Post-CEA IMR-SR Data Collection#
+
+
+### to organize/move ###
+
+
+Jesse might find in NYC? or we have now?  Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
+
+
+[Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf)
+
+ Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   
+
+
+[Bourbeau, Légaré, Émond](http://www.publications.gc.ca/Collection/Statcan/91F0015M/91F0015MIE1997003.pdf) 
+
+McQuillan 1985 life tables for Ontario <br>
+
+<p>MOVE THIS TO CDC DATA AREA -- Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+
+Richards (1909) "A Study of New England Mortality"
+[Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+
 
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
 
@@ -152,9 +174,16 @@ Darn! Jim can't find age/sex counts ... this seems to be the most likely volume 
 
 XXXI Viehzählung  (cattle count); XXXII Klimatologie; XXXiii Druck , Temperatur , Feuchtigkeit und Niederschläge; XXXiv 1874 Druck, Temp ... ; XXXV Finanzstatistik; xxxx business census?; XXXVII weather; xxxviii accidents & suicides 1873,74,75; 
 
-**AUSTRIA**   
+**AUT AUSTRIA**   
 
-u5 for SR have 1880 1890 1900; looking for 1869 and 1910 and 1923    
+u5 for SR have 1880 1890 1900 from 19C AUT sources; use IHS for 1869 and 1910; 2010 YrBk and IHS have 1923 and 1931 Republic of Austria    
+
+IMR 
+1876-1907 u1 deaths from StHb1909; 1875-1907 births from YrBks 1886, 1893, StHb1907, 1909.
+
+IHS "From 1914 the statistics apply to the present Republic, except that Burgenland is not included until 1922 -- so how big is Burgenland? 1923 286K in pop of 6535K  or 4% -- I deem NEGLIGIBLE for us
+
+
 
 From Google Doc:  we have data for IMR by sex for 1875-1907; total IMR (Mitchell/IHS) 1908 onward. M & F u5 pops for 1880, 1890, 1900 from contemporary sources; use Mitchell for 1910 u5 pops (total matches OK with 1910 census as reported in 1913 Statistische Monatschrift.  Austria’s stats bureau has u5 pops for only a very small subset, smaller than offered by the Jahrbooks of circa 1900/1910).  
 HMD’s ”Austria” is very small compared to 19C Austrian sources. 
@@ -321,26 +350,25 @@ HMD [on Australia data](https://www.mortality.org/hmd/AUS/InputDB/AUScom.pdf) sa
 
 ABS page with [good overview of the censuses](https://www.abs.gov.au/ausstats/abs@.nsf/Products/F3AF616665E821A6CA2575D2001AA12E?opendocument) as well as links to spreadsheets of data.
 
+<a name="SouAfr"></a>
 
 
 ### South Africa ###
 
-**IMR** from [YearBooks](https://clio.columbia.edu/quicksearch?q=Official+year+book+of+the+Union+and+of+Basutoland&commit=Search) are online at Columbia University (search term= Official year book of the Union and of Basutoland )  Nos. 1-4 
+We could look to add 1926 and 1931. Columbia seems to have u5 and u2 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online (u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1).
 
-IMR 1924-1928 p932 of 1928;    1919 p209 ; 
+The 1921-1923 IMR data needs to be tweaked -- the 1924 YrBk gives values for "European" while the earlier volumes are for  "Whites"; some IMR values are the same, but the 1920 and 1921 (?) values are differ slightly. This to fix for completeness, but it would amazing if it made any difference ...  
 
-[1922 Yearbook Vol 5](https://books.google.ca/books?id=hNIzAQAAMAAJ) has rich data for 1910-1921. PDF p17 suggests that 1922 repeats and adds to the stats data in vold 1-4.     
+**IMR** Sou Afr as a whole, 1910-1923 in 1924. Ji & Js should check [1925](https://hdl.handle.net/2027/uc1.b3076166) and [various of 1924 to 1960](https://catalog.hathitrust.org/Record/007119366)
+
+
+
+
+IMR from [YearBooks](https://clio.columbia.edu/quicksearch?q=Official+year+book+of+the+Union+and+of+Basutoland&commit=Search); they are online at Columbia University (search term= Official year book of the Union and of Basutoland )  Nos. 1-4 ;  IMR 1924-1928 p932 of 1928;    1919 p209 ; 
+
+[1922 Yearbook Vol 5](https://books.google.ca/books?id=hNIzAQAAMAAJ) has rich data for 1910-1921. PDF p17 indicates that 1922 repeats and adds to the stats data in vols 1-4 (No. 1, 1917, has 1910-16; No. 5, 1921, has 1910-21).     
 p157-59   Ages of the people, lots of u5 data for 1904, 1911, 1918.    
 p158 urban/rural 1911 1918
-
-
-
-Hathi has [Cape of Good Hope](https://catalog.hathitrust.org/Record/100119047): 1893 full view (also three search only 1902, 1907, 1908).  They are available on Google Books  [1905](https://books.google.ca/books?id=2NxCAQAAMAAJ)
-
-Statistical Register of the Cape of Good Hope [for the year 1904](https://books.google.ca/books?id=2NxCAQAAMAAJ) page v lists births by year 1895-1904 with text saying 1904  euro or white 9454 males and 9006 females; Malay 291 males and 293 females; Fingo, Kafir, Bechuanaland 10,661 males and 10,187 females; Mixed and other 8548 males and 8361 females. Colony proper (ex. Bechuanaland) 46,419 9006 maleEuro 8603 femEuro (9006 twice - stet) ...   The 46,419 are also shown for 1904 in the table of births.  
-Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 1904, 1903, 1902
-
-1904, 1909 search only at Hathi
 
 
 Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
@@ -358,13 +386,13 @@ Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/
 368 Table XIV Proportions 374p132 Table XV proportions, by race    
 380p138 Table XVI Urban, **single year 1-5** 144 Table XVII Proportions 392p150 TableXVIII proportions 396p154 Table XIX Numbers, single year, centres 2000 and more  402p160 Table XIX continued  408p166 TableXX RURAL    414p172 Table XXI rural proportions  420p178 Table XXII Proportions  424p182 Table XXIII Ages: Union, Provinces, Census Districts  440p198 Table XXIII continued         477- Census Tables Part III Education
 
+
+1921 Third census of the population of the Union of South Africa  -- HATHI search-only  f548p18 asiatics by age;
+
+
 [1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa. 
 Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics
  163Part3 341p1 372p32 occs & birthplaces
-
-
-
-
 
 
 Census of the Union of South Africa, [1911 search-only Hathi](https://catalog.hathitrust.org/Record/100615661)
@@ -376,27 +404,31 @@ Census of the European or white races of the Union of South Africa, [1918](https
 
 Dead-ends: Yearbook leads at this [Springer link](https://link.springer.com/chapter/10.1057/9780230271104_144)   [2001-2020](https://www.gcis.gov.za/content/resourcecentre/sa-info/yearbook)
 
-
-### Jesse might find in NYC
-
-Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
-
-
-### to organize/move ###
-
-[Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf)
-
- Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   
+***Natal***
+1891 Census -- no IMR or birth data   Table 4 age and sex
+1894 Statistical Year Book  G 8-9 some vital stats, with u5 pop and marriages, but not infant deaths,
 
 
-[Bourbeau, Légaré, Émond](http://www.publications.gc.ca/Collection/Statcan/91F0015M/91F0015MIE1997003.pdf) 
+***Good Hope***
 
-McQuillan 1985 life tables for Ontario <br>
+[1875 census](https://babel.hathitrust.org/cgi/pt?id=uc1.l0074071200)  54p47 age by sex  No death data
 
-<p>MOVE THIS TO CDC DATA AREA -- Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+Hathi has [Cape of Good Hope](https://catalog.hathitrust.org/Record/100119047): 1893 full view (also three search only 1902, 1907, 1908).  They are available on Google Books  [1905](https://books.google.ca/books?id=2NxCAQAAMAAJ)
 
-Richards (1909) "A Study of New England Mortality"
-[Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+Statistical Register of the Cape of Good Hope [for the year 1904](https://books.google.ca/books?id=2NxCAQAAMAAJ) page v lists births by year 1895-1904 with text saying 1904  euro or white 9454 males and 9006 females; Malay 291 males and 293 females; Fingo, Kafir, Bechuanaland 10,661 males and 10,187 females; Mixed and other 8548 males and 8361 females. Colony proper (ex. Bechuanaland) 46,419 9006 maleEuro 8603 femEuro (9006 twice - stet) ...   The 46,419 are also shown for 1904 in the table of births.  
+Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 1904, 1903, 1902
+
+1904, 1909 search only at Hathi
+
+[1892](https://babel.hathitrust.org/cgi/pt?id=nyp.33433062734938&view=1up&seq=9&skin=2021) reports the 1891 census data u5 and single years
+[1894](https://babel.hathitrust.org/cgi/pt?id=nyp.33433062734946&view=1up&seq=7&skin=2021)  p32 U14 ages
+
+
+
+
+
+
+
 
 ### Organization/locations of R scripts and csv files
 
@@ -987,7 +1019,6 @@ Scotland,  Births (1-year)	Last modified: 10 Jul 2020;  Methods Protocol: v6 (20
 Scotland, Deaths (period 1x1), 	Last modified: 10 Jul 2020;  Methods Protocol: v6 (2017)
 Use R to check the births/deaths ... 
 
-
 Scotland 1851 is with England. 
 
 SR5 values in HMD versus the census.  1861-1911 HMD a little less feminine.    
@@ -1023,10 +1054,6 @@ p xv "105.4 males are brought into the world in Scotland for every 100 females. 
 1901 ages are given in 1911 vol II (along with 1911 ages). The census is 0.1 more feminine than the HMD.
 
 1901 Census vol III is occupations (see GoogleBooks)
-
-
-
-
 
 1911 Census vol II has ages.  
 
@@ -1217,7 +1244,6 @@ Part IV tables of M & f pop of parl counties 1801-1841 and ages 1841
 
 Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5   
 Eurostat 2008-2018  Not historical 
-
 
 Die Gemeinden und Gutsbezirke des Preussischen Staates und ihre Bevölkerung: Nach den Urmaterialien der allgemeinen Volkszählung vom 1. december 1871 bearb. und zusammengestellt vom Königlichen Statistischen Bureau, Volumes 2-3 Hathi & Google books -- Under10 school stuff
 

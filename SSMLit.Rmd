@@ -48,12 +48,25 @@ Sapolsky Wild Baboons    McEwen NewEngJMed  stress mediators ...  allostasis
 
 #### loose ends
 
-
 2021 Sex ratios and gender discrimination in Modern Greece (Francisco J. Beltrán Tapia & Michail Raftakis) [Pop Studies 2021](https://www.tandfonline.com/doi/pdf/10.1080/00324728.2021.1923787?needAccess=true)
 <br> p5Before considering the relative numbers of boys and girls in the Greek censuses, it is important to note that child sex ratios in the past are not comparable to contemporary ones because mortality levels during infancy and childhood have a direct influence  on sex ratios in these age groups. Due to the survival advantage of females, harsher environments are especially deleterious to boys (especially during the first years of life), thus increasing their relative mortality and resulting in lower sex ratios. Following the estimation in Beltrán Tapia (2019, pp. 5–6), Figure 2 plots the available information on infant mortality and child sex ratios (ages 0–4) in European countries between 1750 and 2001 and illustrates the negative relationship between these two variables. According to these estimates, infant mortality of slightly below 200 deaths per 1,000 live births (in line with the values reported for Greece during the second half of the nineteenth century [Valaoras 1960, p. 132]), should yield child sex ratios of around 101 boys per 100 girl
 
 Charaus, [2010 Phd thesis, Marquette](https://epublications.marquette.edu/dissertations_mu/68)
 p146 G-I U2 deaths surge 1888/90 and high 'til 1910.  And discussion of breast-feeding, referring to Levenstein, harvey JAH 1983 
+
+### August readimg to sort
+
+*Livi-Bacci 1991* Pop & Nutrition
+
+Ch 4 The starving and the well-fed     
+arguing that 17C and before the well-fed elite did not have lower mortality than avg 
+
+78p64     "Examples abound which demonstrate the free access to food enjoyed by the privileged classes."  BUT argues against advantage in life expectancy 
+
+p67 weird claim of better nutrition for urban populations
+p68 US  e0 37-43 years -- n23 R Haines Avery -- JIH re US life tables REMINDING of the need for us to get a handle on 19th-C US IMR for US e0
+
+148p136 (pp 77-80 notes)
 
 
 
@@ -64,7 +77,6 @@ p146 G-I U2 deaths surge 1888/90 and high 'til 1910.  And discussion of breast-f
 van de Walle 1986 in Coale & Watkins   
 p203 For example, in most of Bavaria during the last half of the nineteenth century, nursing was avoided and high mortality and high fertility went hand-in-hand (Knodel, 1968)
 p215 In sum, the exact date of decline in infant mortality is difficult to pinpoint because of irregularities in its course and because of scarcity of documents prior to the last decades of the nineteenth century. Before the general massive drop in this century, there were wide differences in levels and trends of infant mortality among European regions, among countries, and within each country. 
-
 
 <p>via HMD England (& Wales): England's early rise in e0 (40/42/46 in 1850/1875/1900) comes before IMR declines  <br>
 life-expectancy rises 4.3 years from 1875 to 1900, and 12.1 years from 1900 to 1925<br>
@@ -1748,15 +1760,46 @@ Annual report of the Registrar-General for England and Wales -- We have this
 
 
 #### Scotland
+
+
+##### Orkney papers
+ Notion that low IMR may reflect under-reporting of infant deaths -- if so, would we see population smaller than expected? Otherwise, probably not worth our attention for our project.
+
+Jennings, Quaranta, Bengtsson (2017 Pop Studies), "Inequality and demographic response to short-term economic stress in North Orkney, Scotland, 1855–1910: Sector differences".    
+Refer to "Previous work on the predictors of infant and child mortality in Orkney has demonstrated that mortality was associated with household composition (Sparks 2007; Sparks et al. 2013) and climate conditions (Jennings et al. 2012)."
+
+Sparks et al 2013 AJPhysAnth  p194 on Data -- 1855-2001, 3 types of records: birth, marriage, death.  "some under-recording of vital events ... especially during early portions of the period of interest (Jennings et al 2008, Sparks 2007, 2009). 
+
+Jennings et al 2012
+
+Sparks 2009  1851-1901  p31 One apparent problem of concern is the reliability of the vital registration data, especially concerning infant deaths and incomplete linkage due to out-migration prior to death or marriage. Specifically under-enumeration of infant deaths was suspected, as mortality rates under age one were very low, ...
+ ...  avoiding the problematic data (notably, enumerations of infant deaths).
+
+Sparks 2007  corey s Sparks  PA State PhD Anthro & Demog; 
+
+
+  
+Glaister (1893) "Death certification and registration in Scotland: its present defects and a proposed remedy" 241-260  NOT much use for us, no attention to issue of completeness of death counts (perhaps non-recording is negligible?), yet concern with still-births as possibly suspicious may imply mis-counting of infant deaths? (i.e. early infant deaths labelled still-birth and not counted as death?)     
+p242 Lancet 1883 draws on faulty weekly reports and overstates problem, saying 1/5 "of the total deaths in Scotland was uncertified; ... statistics for Scotland were of little practical value"    
+Glaister paper read before the Philosophical Society of Glascow in the session 1884-85              
+244 "uncertified" deaths ... they are most frequent at the age extremes of life -- in the very young and in the very old -- at the times when life is of the least value;  ... more incidental to illegitimate than to legitimate offspring;  
+249 argues for counting stillbirths and notes that midwives can certify a stillbirth but not the death of live-born infant. Glascow 1783-1855 included  still-births in the "burial-rates"
+252 downplays issue of secret crime, focus on public health information role of certified deaths   254 public health departments should investigate causes of uncertified deaths    
+255 pay medical professionals for certifying deaths     
+deaths in the infants from "overlying"  "children found asphyxiated in bed beside their parents-- parents, too, who have gone to bed in an intoxicated condition. It is but too true that hundreds of such cases occur annually in Scotland, that probably an enquiry is held in every one of them, and that very few prosecutions result."   ... "legal" guilt is difficult to prove.    
+256  every still-birth should be registered ... stating cause of the still-birth ... course is adopted in America      
+pp258-260 Appendix  "Uncertified" Deaths in Scotland and England     
+Table 1 Counties of Scotland 1881 and 1890   Table II Principal Towns in Scotland  Table III Groups of districts Principal Town Districts drop from 7.8% to 3.3% ; Mainland Rural rises from 7 to 9.5 ;  
+Table IV England 1890 2.8% of 562,248 total deaths were "Not Certified"  (0.9% in "London and Wiltshire", 6.4% in North Wales)    
+Table V  Scotland 1890 Total Deaths 79,004 5.8% (4569) uncertified;     
   
 [Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report, [page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0).  
 Great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"  
 Citation: Census of Scotland -- 1861, Population Tables and Report (Number of the inhabitants, families, children at school, houses, ... ), Edinburgh 1862.
 
-Scotland 1861 [age table](https://www.dropbox.com/s/r8w9j9y521809yw/Scotland1861ages.png?dl=0).
 
-Scotland 1851 is with England
 
+### India
 
 1871 Madras Presidency - Supplementary Reports -- 5-year ages
 1872 Bombay Presidency - [Detailed Returns of](https://www.jstor.org/stable/saoa.crl.25057642?seq=1#metadata_info_tab_contents)   VolIII 37-72 p22- detailed geog age/sex 0 1-5 etc by religion   LT1 data found, see WK4
@@ -1873,7 +1916,7 @@ Catalano 2003 1991 East German economic collapse SRB falls to 104.4 from 105.9  
 
 2020 Early Human Development [Special Best Practice Guidelines Section: The Sex Ratio At Birth - 1](https://www.sciencedirect.com/journal/early-human-development/vol/140/suppl/C)  "This and the next series of Best Practise Guidelines will revisit the main theories that attempt to explain the influences on the sex ratio at birth (M/F), which was similarly reviewed in this journal in 2015. ... "     
 
-
+  
 The sex ratio at birth (1), Victor Grech    
 [Grech (2020 Early Human Development) "The sex ratio at birth – Historical aspects"](https://www.sciencedirect.com/science/article/pii/S0378378219305092) Useful recap of literature ...     
 What is the sex ratio at birth? Victor Grech, Julian Mamo;     
