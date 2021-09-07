@@ -355,12 +355,15 @@ ABS page with [good overview of the censuses](https://www.abs.gov.au/ausstats/ab
 
 ### South Africa ###
 
-We could look to add 1926 and 1931. Columbia seems to have u5 and u2 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online (u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1).
+Aug30 looked to add 1926 and 1931, but copyright nonsense makes it impractical. Perhaps a trip to NYPL would reveal IMR data for South Africa in the period 1924-1931, but that is for another time. 
+Maybe Columbia has u5 and u2 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online (u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1).      
+
+IMR for those years might be in this set of the ["Official year book"](https://catalog.hathitrust.org/Record/007119366), which has various years from 1924 to 1960. Or in [this set](https://catalog.hathitrust.org/Record/009064515) with various in the years 1917 to 1953.
+
 
 The 1921-1923 IMR data needs to be tweaked -- the 1924 YrBk gives values for "European" while the earlier volumes are for  "Whites"; some IMR values are the same, but the 1920 and 1921 (?) values are differ slightly. This to fix for completeness, but it would amazing if it made any difference ...  
 
-**IMR** Sou Afr as a whole, 1910-1923 in 1924. Ji & Js should check [1925](https://hdl.handle.net/2027/uc1.b3076166) and [various of 1924 to 1960](https://catalog.hathitrust.org/Record/007119366)
-
+**IMR** Sou Afr as a whole, 1910-1923 in 1924. Ji & Js should check [1925](https://hdl.handle.net/2027/uc1.b3076166) 
 
 
 
@@ -422,11 +425,6 @@ Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 190
 
 [1892](https://babel.hathitrust.org/cgi/pt?id=nyp.33433062734938&view=1up&seq=9&skin=2021) reports the 1891 census data u5 and single years
 [1894](https://babel.hathitrust.org/cgi/pt?id=nyp.33433062734946&view=1up&seq=7&skin=2021)  p32 U14 ages
-
-
-
-
-
 
 
 
@@ -1242,7 +1240,8 @@ Part IV tables of M & f pop of parl counties 1801-1841 and ages 1841
 
 ### Prussia
 
-Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5   
+Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5
+
 Eurostat 2008-2018  Not historical 
 
 Die Gemeinden und Gutsbezirke des Preussischen Staates und ihre Bevölkerung: Nach den Urmaterialien der allgemeinen Volkszählung vom 1. december 1871 bearb. und zusammengestellt vom Königlichen Statistischen Bureau, Volumes 2-3 Hathi & Google books -- Under10 school stuff
@@ -1250,7 +1249,21 @@ Die Gemeinden und Gutsbezirke des Preussischen Staates und ihre Bevölkerung: Na
 Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catalog.hathitrust.org/Record/000496591)   5-year age groups    pop by birthplace, by religion,  pdf126p104 m,f 5-year age groups (born 1885-81 1880-76 1871-75 etc)
    pdf304 ships less than 1 year old
 
+### Italy ###
 
+Possible source:  The Aging of Populations and Its Economic and Social Implications
+
+Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5
+
+Mitchell IHS (pdf140) shows IMR 200 or more in 1863-88 except for 5 years (192 198 186 194 193) in 1881-1887 ;  And his Table A2 (pdf47) has Italy u5 populations which give Ln(SR5) 1861 -2.0% 1871 -2.9% 1881 -3.66%  (1881 m/f of 103.7  -- 'healthy-looking'?) and 1901 104.2  1911 103.8   1921 104.4  TREATMENT OF STILLBORN IN ITALY's STATS?
+Mitchell's sources Annali di Statistica (1871-)
+Annuario Statistico Italiano (1878-)
+Cento Anno di Svi/uppo Economico e Sociale del/' Italia
+Somma rio di Statistiche Storiche italiane, 1861-1955 
+
+HMD has single-year by sex for 1872 forward -- source?
+For the Human Mortality Database, we use data based on the presente population for years prior to 1981. Population estimates are calculated based on census counts of the presente population in order to be consistent with the vital statistics (i.e., deaths, births). 
+Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age
 
 <a name="IndiaCensus"></a>
 

@@ -18,6 +18,18 @@ output: html_document
 
 ### new stuff to review and then move (to the proper place in the page)
 
+Hollingshaus et al [(2019 Hi Methods)](https://www.researchgate.net/profile/Ryan-Schacht/publication/332683599_Sex_ratios_and_life_tables_Historical_demography_of_the_age_at_which_women_outnumber_men_in_seven_countries_1850-2016/links/5cc316f4299bf120978276e4/Sex-ratios-and-life-tables-Historical-demography-of-the-age-at-which-women-outnumber-men-in-seven-countries-1850-2016.pdf)     
+REMARK ON ITALY DATA QUALITY The estimated SRXs range from 3 through 101, with a mean of 51.9 over the period. The low and high values occur in Sweden and Italy, respectively. These two countries have data series extending prior to 1900, and also have large standard deviations. This is likely due to relatively poor data quality in the early years.
+
+
+de Hansen 
+p342  McKeown stresses that throughout the century infant mortality actually increased, and did not fall until the early 20th century, well after the onset of a decline in fertility (1976: 63). In 1910 there were 105 infant deaths per 1000 live births, in 1920, 80, and in 1930, 60 per 1000 (Tilly and Scott, 1978: 102)  
+
+Ji DISSENTS FROM deHansen's reading of McKeown, who says on p63 simply that for the 19th and early 20th C "it is necessary to combine prematurity with other diseases of infancy. It should be emphasized that deaths in this class increased in the late nineteenth century, and did not fall until after 1901. This largely explains the observation that the decline of infant mortality was delayed until after 1901.
+
+McKeown (1967:123) draws on Beaver to argue for importance of milk quality for reducing IM  <discussed more in next chapter>
+
+
 Morse & Luke ( [2021 Pop Studies](https://www.tandfonline.com/doi/abs/10.1080/00324728.2021.1877793) )
 "Foetal loss and feminine sex ratios at birth in sub-Saharan Africa" . Published online 2021 Feb 18, we get via Jun28 George Alter sends Jun28 [N-IUSSP](https://www.niussp.org/fertility-and-reproduction/missing-boys-in-sub-saharan-africa-due-to-high-rates-of-foetal-loss/)
 blurb/article about the journal article
@@ -2323,13 +2335,13 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 2015 Pozzi & Fariñas (2015 ADH)  Infant and child mortality in the past
 
-2012 Pozzi & Barona (2012 ADH)  Vulnerable Babies. Late foetal, neonatal and infant mortality in Europe (18th-20th Centuries)
-
-<p>Pozzi & Barona (2012 ADH, intro to special issue)
+2012 Pozzi & Barona (2012 ADH)  Vulnerable Babies. Late foetal, neonatal and infant mortality in Europe (18th-20th Centuries)  ...  <p>Pozzi & Barona (2012 ADH, intro to special issue)
 
 p13 [quoting Reid or Derosa?, suggestion that "Referring to infant mortality as a whole can be necessary and even useful when we aim at providing aggregate measures, establishing comparisons or outlining trends for large populations, but we must keep in mind that it is a statistical artefact we are dealing with […]when it comes to moving from description to interpretation, a more analytical approach is required, taking into account the heterogeneity embedded in infant mortality. Only after breaking it into pieces a more comprehensive interpretation will be possible" 
     
     “addressing infant mortality as a single measure […] ? not only-disguises a fundamental fissure between neonatal and post-neonatal mortality” (Reid, 2001, 213), but also fails to take the complexity of the determinants of infant survival into account. Infant mortality is no simple matter. An infant death can be caused by a wide array of factors of very different nature. The process eventually leading to death is usually neither plain nor straightforward and is influenced by a large number of determinants that can favour its course or oppose it and even avoid its worst consequences. […] Referring to infant mortality as a whole can be necessary and even useful when we aim at providing aggregate measures, establishing comparisons or outlining trends for large populations, but we must keep in mind that it is a statistical artefact we are dealing with […]when it comes to moving from description to interpretation, a more analytical approach is required, taking into account the heterogeneity embedded in infant mortality. Only after breaking it into pieces a more comprehensive interpretation will be possible (Derosas, 2002, 65-66).
+
+p14 Marco Breschi and his colleagues ...  In the Italian case with which they are dealing, the limitations of the official  sources with respect to very early deaths are well documented and it is recognised that they probably give a biased picture of the geographical and temporal evolution of rates of stillbirth and neonatal mortality
 
 
 2006 Garrett, Eilidh, ed. Infant mortality: a continuing social problem. A volume to mark the centenary of the 1906 publication of *Infant Mortality: a Social Problem* by George Newman. Ashgate Publishing, Ltd., 2006. 
@@ -2635,6 +2647,8 @@ Das Gupta 1987
 ### Excess Female Mortality in Europe
 
 Routine Infanticide in the West 1500–1800  G Hanlon - History Compass, 2016 - Wiley Online Library  Historians have assumed that early modern Europeans did not practice neo‐naticide similar to the great Asian civilizations, but sex‐ratio studies are only now entering the demographic literature. This article passes in review both published and unpublished research on sex
+p535 In his compelling recent study on northeastern Japan, Fabian Drixler suggests that one-third of live births ended with infanticide during the 18th century, despite government disapproval of the practice.5  5 Fabian Drixler, Mabiki: Infanticide and Population Growth in Eastern Japan, 1660–1950, Berkeley and London, 2013, 3.
+
 
 
 Vallin, Caselli, Surault (2006)
