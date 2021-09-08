@@ -20,6 +20,10 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.0908 Jim adds DEU (Germany) to IMR.RDS (and confirms it is in U5); the new IMR includes the 2 blank AUT values for 1920 and 1921
+
+there are 63 observations in deu
+
 2021.0827 Ji making S Afr U5 and IMR
 2021.0812 AUT 
 2021.0808 (Beaver Isle) U5.RDS has AUS-VIC&NSW, AUS, NewZea, SCOT (decennial 1861-1931), 

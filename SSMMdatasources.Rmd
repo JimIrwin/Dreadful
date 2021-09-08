@@ -13,7 +13,6 @@ output: html_document
 [Australasia](#AUSNZ)   [South Africa](#SouAfr)
 
 
-
 ### to organize/move ###
 
 
@@ -1251,7 +1250,11 @@ Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catal
 
 ### Italy ###
 
-Possible source:  The Aging of Populations and Its Economic and Social Implications
+For SR5 [Istat](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1) and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census).  Deaths-data are in the [Health tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=34&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=b73e856aedfc85d2f1e27730c3822c86)  While births are population data are in the [Population tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=32&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=04e5a2e51acfa92f173aac082f0d8872)
+
+
+
+UN volume The Aging of Populations and Its Economic and Social Implications  -- used by Mitchell IHS for 1861? Greece population by age/sex
 
 Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5
 
@@ -1264,6 +1267,10 @@ Somma rio di Statistiche Storiche italiane, 1861-1955
 HMD has single-year by sex for 1872 forward -- source?
 For the Human Mortality Database, we use data based on the presente population for years prior to 1981. Population estimates are calculated based on census counts of the presente population in order to be consistent with the vital statistics (i.e., deaths, births). 
 Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age
+For 1912-20 and 1937-51, the pre- and post-war census counts and deaths data for the total population (including the military) are used to derive annual (January 1st) population estimates
+
+
+
 
 <a name="IndiaCensus"></a>
 
@@ -1424,5 +1431,11 @@ Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/
 [1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa. 
 Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics
  163Part3 341p1 372p32 occs & birthplaces
+
+### various leads that we've glimpsed ###
+
+[European Historical Population Samples Network](https://ehps-net.eu/databases) lists a wide range of micro data. Probably not useful for us. It includes the mosaic project, which seems like IPUMS for europe. [Historical Sample of the Netherlands](https://ehps-net.eu/databases/historical-sample-netherlands) indicates that Netherland used a population registry (rather than a census? or as well as?). I don't find any census-volume leads there.
+
+  
 
 [back to top](#TOC)

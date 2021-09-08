@@ -35,6 +35,12 @@ Morse & Luke ( [2021 Pop Studies](https://www.tandfonline.com/doi/abs/10.1080/00
 blurb/article about the journal article
 
 
+Galloway [A reconstruction of the population of North Italy from 1650 to 1881 ...  annual inverse projection ... comparisons to England, France, and Sweden](https://link.springer.com/content/pdf/10.1007/BF01265303.pdf)
+
+Argues against underregistration of infant and child deaths ... 
+p227 an examination of the series suggests that the dramatic underregistration of infant and child deaths found in Spain and France is not a problem in North Italy.
+p256n6 An unusually low or a significant long-term increase in the infant mortality rate can be an indicator of under-registration of infant deaths. Del Panta and Livi Bacci's (1980, p. 103) review of decadal infant mortality rates from 1691 to 1820 in ten parishes and cities located in North Italy suggests that infant mortality had no long-term trend in some places, an upward trend in others, and a downward trend in still other places. The average infant mortality rate for all ten places over the whole period was 252 ... a downward trend in infant mortality from 1641 to 1880 in three parishes near Bologna with an average of 284 ... A similar downward trend is found in three parishes near Ravenna from 1690 to 1796 (Bolognesi, 1980, p. 270) with an average of 302
+
 ### newly added and maybe important
 
 
@@ -2331,6 +2337,21 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 <a name="InfMort"></a>
 
+### IMR as indicator ###
+
+Reidpath & Allotey (2003 JEpComH c527)	["Infant mortality rate as an indicator of population health"](https://jech.bmj.com/content/57/5/344.short)   Defends IMR as opposed to DALE ... ?too narrow for us?
+
+Wise (2003 ) ["THE ANATOMY OF A DISPARITY IN INFANT MORTALITY"](https://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.24.100901.140816#)
+ Interesting point about "tension between technical and social interpretations" of IMR (technical: Chadwick and Nightingale advocating for sanitary engineering improvements for water quality; social: Engels "saw disparities in infant mortality as empirical evidence of unjust social relations")
+
+
+
+? maybe look to World Bank or IMF or UNicef for simple statement on IMR as indicator; then back it up with references.
+? Sen
+
+Below, maybe it is Reid who attacks IMR as crude (but different context?)
+
+
 ### Infant Mortality outside North America ###
 
 2015 Pozzi & Fariñas (2015 ADH)  Infant and child mortality in the past
@@ -2378,8 +2399,7 @@ Infant mortality in France 1750-1950
 Kytir & Munz Infant mortality in Austria - 1820-1950
 
 
-
-van de Walle 1986 (in Coale & Watkins) JIM REVIEW for URBAN PENALTY
+van de Walle 1986, "Infant Mortality and the European Demographic Transition" in Coale & Watkins) JIM REVIEW for URBAN PENALTY
 
 
 Dyhouse (1978 JSocHi)     
