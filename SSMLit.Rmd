@@ -2333,23 +2333,51 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 <a name="DEMOG"></a>
 
-### Demography ###
+## Demography ##
 
 <a name="InfMort"></a>
 
+#### IMR vs u5MR ####
+
+Guillot M, Gerland P, Pelletier F, Saabneh A (2012) Child Mortality Estimation: A Global Overview of Infant and Child Mortality Age Patterns in Light of New Empirical Data. [PLoS Med 9(8): e1001299.](https://doi.org/10.1371/journal.pmed.10)   Interesting for variation in 1q0 relative to 4q1 with implications for IMR vs u5MR
+
+ Even though 5q0 is not free of errors (e.g., it is affected by omission of under-five deaths), it is generally considered a more reliable indicator than 1q0 and 4q1 in sample surveys, because unlike 1q0and 4q1, it is not subject to incorrect reporting of whether a death occurred before or after the child’s first birthday. Another reason is that the larger amount of mortality exposure embodied in 5q0 attenuates the amount of random sampling error for that indicator.
+
+Model life tables for both sexes combined are obtained from sex-specific model life tables by calculating a weighted average of male and female values of 4q1 predicted at a given level of 1q0 while assuming a sex ratio at birth of 1.05.    
+In this paper, we focus on the relationship between 4q1 and 1q0, instead of the relationship between 5q0 and 1q0. The relationship between 5q0 and 1q0 is a byproduct of the relationship between the 4q1 and 1q0. Indeed, the three indicators are related with one another through the equation 5q0 = 1−(1−1q0)(1−4q1). We decided to focus on the relationship between 4q1 and 1q0, because these two indicators have no age overlap, which generates more variance and makes patterns of deviation easier to detect.
+
+
+
+
 ### IMR as indicator ###
 
-Reidpath & Allotey (2003 JEpComH c527)	["Infant mortality rate as an indicator of population health"](https://jech.bmj.com/content/57/5/344.short)   Defends IMR as opposed to DALE ... ?too narrow for us?
+Reidpath & Allotey (2003 JEpComH c527)	["Infant mortality rate as an indicator of population health"](https://jech.bmj.com/content/57/5/344.short)   Defends IMR as opposed to DALE (now called HALE) ... Just 3 pages; probably ?too narrow/minor for our purposes?    
+They are attacked by Mathers, Salomon, Murray (2003 JEpComH) "Infant mortality is not an adequate summary measure of population health
 
 Wise (2003 ) ["THE ANATOMY OF A DISPARITY IN INFANT MORTALITY"](https://www.annualreviews.org/doi/full/10.1146/annurev.publhealth.24.100901.140816#)
- Interesting point about "tension between technical and social interpretations" of IMR (technical: Chadwick and Nightingale advocating for sanitary engineering improvements for water quality; social: Engels "saw disparities in infant mortality as empirical evidence of unjust social relations")
-
-
+ Interesting point about "tension between technical and social interpretations" of IMR (technical: Chadwick and Nightingale advocating for sanitary engineering improvements for water quality; social: Engels "saw disparities in infant mortality as empirical evidence of unjust social relations")   
+  Fig 1 plots US IMR by race 1975 forward -- has Black IMR about 27 in 1975 and White about 14 ...
 
 ? maybe look to World Bank or IMF or UNicef for simple statement on IMR as indicator; then back it up with references.
 ? Sen
 
 Below, maybe it is Reid who attacks IMR as crude (but different context?)
+
+UN IGME, [Levels & Trends in Child Mortality: Report 2020 ...,](https://www.unicef.org/media/79371/file/UN-IGME-child-mortality-report-2020.pdf.pdf) for recent international data and some IMR u5MR info ... (neonatal prob death 17%, 1month-1yr 11%, 1-5 years 10%).
+
+
+
+The UN's [The 2030 Agenda for Sustainable Development](https://sdgs.un.org/sites/default/files/publications/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)   includes, under Goal 3. Ensure healthy lives and promote well-being for all at all ages
+3.1 By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births
+3.2 By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births
+
+Health at a Glance: Asia/Pacific 2020 : Measuring Progress Towards Universal Health Coverage <br>
+[Under age 5 mortality](https://www.oecd-ilibrary.org/sites/ea4f3775-en/index.html?itemId=/content/component/ea4f3775-en)<br>
+The under age 5 mortality rate is an indicator of child health as well as the overall development and well-being of a population. As part of their Sustainable Development Goals, the United Nations has set a target of reducing under age 5 mortality to at least as low as 25 per 1 000 live births by 2030 (United Nations, 2015[8]).
+
+   ...  In addition, focused efforts need to be undertaken to improve neonatal survival as more than three-quarters of under age 5 deaths occur in the neonatal period.
+
+Under age 5 mortality is defined as the probability of a child born in a given year dying before reaching their fifth birthday, and is expressed per 1 000 live births. Since under age 5 mortality is derived from a life table, it is, strictly speaking, not a rate but a probability of death.
 
 
 ### Infant Mortality outside North America ###

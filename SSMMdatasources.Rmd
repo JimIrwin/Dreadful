@@ -38,6 +38,11 @@ Richards (1909) "A Study of New England Mortality"
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
 
 ### Europe ### 
+
+Nothing new for us in JSSL 1885 "Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium," Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297. No age data on Italy    
+  Reporting on Toussaint Loua's paper published by Journal of the Paris Statistical Society ... LT5
+  On France:  the falling off in the number of the population comprised in the age period 10-15, chiefly due in his opinion to the excessive  infantile mortality during the year 1871, and also by the abnormally large number of females returned as being between the ages of 20 and 25, which he attributes to the fact that many women, desirous  of being thought to be younger than they really are, return them-selves as under 25 
+
 many 19-c sources listed in Galloway, Patrick R., "The golden age of published demographic data in Europe 1850-1915: sources and research possibilities", 2008. [Download](http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf)  See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905. 
 
 #### Swiss data ####
@@ -992,6 +997,9 @@ censuses up to 1871 in one volume [online](https://archive.org/stream/censusofca
 
 Statistics Canada pubs at Internet Archive [1941](https://archive.org/details/statisticscanada?&and[]=year%3A%221941%22)
 
+
+
+
 <a name="UKIre"></a>
 ## England, Scotland, Ireland Data & Results ##
 
@@ -1250,13 +1258,28 @@ Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catal
 
 ### Italy ###
 
+
+1880 census volume just has population with geographic breakdowns (no age nor sex)
+
+1901 census vol 2 ([google books CA](https://books.google.ca/books?id=6JUyAQAAMAAJ))  pdf475 Indice, 
+pdf 615 Tav III is population par sesso & eta for various places  132-140  141-177, 178-229, 230-267, 
+
+A In ciascun capoluogo di provincia o avente oltre 15,000 abitanti (In each provincial capital or with over 15,000 inhabitants)
+
+B In ciascun circondario ed in ciascuna provincia (In each district and in each province)
+
+268-319 (744-795) single/married by age groups
+
+320-337 (796-813) ages by sex  
+C In ciascun compartimento e nel regno (In each compartment and in the kingdom) 
+ 
+
+annual stats are Annuario statistico italiano, [Vol 1](https://books.google.ca/books?id=TUoYAAAAMAAJ) is 1878.
+
+
 For SR5 [Istat](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1) and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census).  Deaths-data are in the [Health tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=34&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=b73e856aedfc85d2f1e27730c3822c86)  While births are population data are in the [Population tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=32&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=04e5a2e51acfa92f173aac082f0d8872)
 
 
-
-UN volume The Aging of Populations and Its Economic and Social Implications  -- used by Mitchell IHS for 1861? Greece population by age/sex
-
-Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium, Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297.  LT5
 
 Mitchell IHS (pdf140) shows IMR 200 or more in 1863-88 except for 5 years (192 198 186 194 193) in 1881-1887 ;  And his Table A2 (pdf47) has Italy u5 populations which give Ln(SR5) 1861 -2.0% 1871 -2.9% 1881 -3.66%  (1881 m/f of 103.7  -- 'healthy-looking'?) and 1901 104.2  1911 103.8   1921 104.4  TREATMENT OF STILLBORN IN ITALY's STATS?
 Mitchell's sources Annali di Statistica (1871-)
@@ -1269,6 +1292,8 @@ For the Human Mortality Database, we use data based on the presente population f
 Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age
 For 1912-20 and 1937-51, the pre- and post-war census counts and deaths data for the total population (including the military) are used to derive annual (January 1st) population estimates
 
+
+UN volume The Aging of Populations and Its Economic and Social Implications  -- used by Mitchell IHS for Greece population by age/sex in 1861 (or so)
 
 
 
