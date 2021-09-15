@@ -10,7 +10,7 @@ output: html_document
 ## Overview ##
 <p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
-[Australasia](#AUSNZ)   [South Africa](#SouAfr)
+[Australasia](#AUSNZ)   [South Africa](#SouAfr)    [Italy](#ITALY)
 
 
 ### to organize/move ###
@@ -289,13 +289,24 @@ Seems not useful: source book of population data : New Zealand, non-Maori popula
 
 ***Australia***
 
+
+Australia under-5 populations by sex.
+1901, 1911, 1921-2016 from Table 2.1 "Population, age and sex, Australia, 30 June, 1901 onwards" (Released at 11.30am (Canberra time) 18 April 2019); downloaded 27 June 2021  from 3105.0.65.001 Australian Historical Population Statistics, 2019.  
+
+
+
+IMR 1901-1991 from Australian Bureau of Statistics
+
+For AUS  IMR 1870-1991 (1870-1901 AHS; 1901-1991 ABS; 1901 values same in both); Before 1870, we have only 1 point: NSW 1861 IMR & U5   (IMR 89.2 Ln(f/m) = -1.42% (m/f=101.4) )
+ 
+
+
 1901 onward is straightfoward, with the data in [ABS spreadsheets](https://www.abs.gov.au/statistics/people/population/historical-population/latest-release) (3105.0.65.001 Australian Historical Population Statistics, 2019).     
 U5 pops from [2. Population Age and Sex Structure](https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0002_2019.xls)
 Table 2.1 has AUS u5 f/m pops 1901, 1911, 1921-2019.  Various other tables give state-level U5 by sex from 1901 onwards (NSW, Vic, Qld, SA, WA, Tas). Varying coverage of pre-1901 (see below.)     
 IMR data from Table 5.4 in [5. Deaths](https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0005_2019.xls). This provides annual IMR, Australia and by states and territories (3105...ds0005_2019.xls) for 1901 forward.     
 
 We may also want to use [4. Births](https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0004_2019.xls) in Table 4.1 Births registered by sex, states and territories, 1824 onwards  Births (m,f) for AUS and by state from 1860 or earlier.
-
 
 For data before 1901, we mostly refer to Vamplew (1987) Australians - Historical Statistics.     
 Ch 2 (Population) includes census data with u5 f/m pops for AUS and states for census years 1861 to 1901; also      
@@ -325,7 +336,6 @@ My older notes said: Decennial censuses benchmark 1881, 1891, 1901, 1911 are in 
 5 is Cumpston JHL. Health and disease in Australia: a history. LCumpston JHL. Health and disease in Australia: a history. Limited search via google books ...
 
 9 is [P Mein Smith thesis](https://openresearch-repository.anu.edu.au/handle/1885/117391) link down Sun 27 Jun 912. 
-
 
 ABS has Coghlan's [full set of volumes](https://www.abs.gov.au/AUSSTATS/abs@.nsf/second+level+view?ReadForm&prodno=1398.0&viewtitle=A%20Statistical%20Account%20of%20the%20Seven%20Colonies%20of%20Australasia~1892~Previous~22/04/1892&&tabname=Past%20Future%20Issues&prodno=1398.0&issue=1892&num=&view=&)   Past releases Tab
 
@@ -1256,45 +1266,56 @@ Die Gemeinden und Gutsbezirke des Preussischen Staates und ihre Bevölkerung: Na
 Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catalog.hathitrust.org/Record/000496591)   5-year age groups    pop by birthplace, by religion,  pdf126p104 m,f 5-year age groups (born 1885-81 1880-76 1871-75 etc)
    pdf304 ships less than 1 year old
 
+<a name="ITALY"></a>
+
 ### Italy ###
 
+U5 populations are on the Istat web-site with the same values as Mitchell's IHS. They differ from HMD's data.
+IMR values are on the Istat web-site; IHS (2013) has less precise version of the same.
 
-1880 census volume just has population with geographic breakdowns (no age nor sex)
+Italy's SR data seems inconsistent with the IMR values; e.g. 1881 Ln(u5f/u5m) = -3.7%   and IMR > 200 ;   
 
-1901 census vol 2 ([google books CA](https://books.google.ca/books?id=6JUyAQAAMAAJ))  pdf475 Indice, 
-pdf 615 Tav III is population par sesso & eta for various places  132-140  141-177, 178-229, 230-267, 
+The Istat data are in xls tables in dempap
 
-A In ciascun capoluogo di provincia o avente oltre 15,000 abitanti (In each provincial capital or with over 15,000 inhabitants)
+For SR5 [Istat](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1) and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census).  Deaths-data are in the [Health tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=34&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=b73e856aedfc85d2f1e27730c3822c86)  
 
-B In ciascun circondario ed in ciascuna provincia (In each district and in each province)
+Istat births are in Table 2.5 in the [Population  tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=32&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=04e5a2e51acfa92f173aac082f0d8872), under the menu-heading [Resident population and demographic dynamics](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=32&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=04e5a2e51acfa92f173aac082f0d8872#), "Births by vitality and legitimacy status - Present population at reference year borders - Years 1863-2014". These these births data are the same as those in Annuario statistica and HMD.     
+Different birth data are in Istat Table 2.3  (demographic balance: note a     
+(a) The demographic balance of the Italian population for individual years has been estimated on the basis of Censuses and demographic statistics availables. For more information: "Sviluppo della popolazione italiana dal 1861 al 1961" Annali si Statistica Serie VIII, Vol. 17, Istat 1965.)
 
-268-319 (744-795) single/married by age groups
-
-320-337 (796-813) ages by sex  
-C In ciascun compartimento e nel regno (In each compartment and in the kingdom) 
- 
-
-annual stats are Annuario statistico italiano, [Vol 1](https://books.google.ca/books?id=TUoYAAAAMAAJ) is 1878.
-
-
-For SR5 [Istat](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1) and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census).  Deaths-data are in the [Health tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=34&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=b73e856aedfc85d2f1e27730c3822c86)  While births are population data are in the [Population tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=32&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=04e5a2e51acfa92f173aac082f0d8872)
-
-
-
-Mitchell IHS (pdf140) shows IMR 200 or more in 1863-88 except for 5 years (192 198 186 194 193) in 1881-1887 ;  And his Table A2 (pdf47) has Italy u5 populations which give Ln(SR5) 1861 -2.0% 1871 -2.9% 1881 -3.66%  (1881 m/f of 103.7  -- 'healthy-looking'?) and 1901 104.2  1911 103.8   1921 104.4  TREATMENT OF STILLBORN IN ITALY's STATS?
-Mitchell's sources Annali di Statistica (1871-)
-Annuario Statistico Italiano (1878-)
-Cento Anno di Svi/uppo Economico e Sociale del/' Italia
-Somma rio di Statistiche Storiche italiane, 1861-1955 
+Mitchell IHS (pdf140) shows IMR 200 or more in 1863-88 except for 5 years (192 198 186 194 193) in 1881-1887 ;  And his Table A2 (pdf47) has Italy u5 populations which give Ln(SR5) 1861 -2.0% 1871 -2.9% 1881 -3.66%  (1881 m/f of 103.7  -- 'healthy-looking'?) and 1901 104.2  1911 103.8   1921 104.4  TREATMENT OF STILLBORN IN ITALY's STATS?     
+Mitchell's sources: Annali di Statistica (1871-); Annuario Statistico Italiano (1878-); Cento Anno di Svi/uppo Economico e Sociale del/' Italia ; Somma rio di Statistiche Storiche italiane, 1861-1955 
 
 HMD has single-year by sex for 1872 forward -- source?
 For the Human Mortality Database, we use data based on the presente population for years prior to 1981. Population estimates are calculated based on census counts of the presente population in order to be consistent with the vital statistics (i.e., deaths, births). 
 Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age
 For 1912-20 and 1937-51, the pre- and post-war census counts and deaths data for the total population (including the military) are used to derive annual (January 1st) population estimates
 
-
 UN volume The Aging of Populations and Its Economic and Social Implications  -- used by Mitchell IHS for Greece population by age/sex in 1861 (or so)
 
+
+
+#### Italy's historical data sources ####
+
+1880 census volume just has population with geographic breakdowns (no age nor sex)
+
+1901 census population counts are by year of birth, with 1901 Jan 1 to Feb 9 and earlier full years. Perhaps of interest, the SR of the January babies is very male (m/f 109%), and moreso than the SRB. 
+
+1901 census vol 2 ([google books CA](https://books.google.ca/books?id=6JUyAQAAMAAJ))  pdf475 Indice, 
+pdf 615 Tav III is population par sesso & eta for various places  132-140  141-177, 178-229, 230-267,    
+A In ciascun capoluogo di provincia o avente oltre 15,000 abitanti (In each provincial capital or with over 15,000 inhabitants)      
+B In ciascun circondario ed in ciascuna provincia (In each district and in each province). Pp 230-267 (706-743) pop by birth-year and sex; 268-319 (744-795) single/married by age groups    
+
+C In ciascun compartimento e nel regno (In each compartment and in the kingdom). Pp 320-337 (796-813) ages by sex ; pdf813 is p337 with population by sex and birth-year for the kingdom as a whole (Regno).
+
+Annual stats are Annuario statistico italiano, [Vol 1](https://books.google.ca/books?id=TUoYAAAAMAAJ) is 1878.
+ 1897 has births by sex 1872-1895  pp38-39 pdf62-63. Birth totals match HMD and Table 2.5 of Istat (but Table 2.3 of Istat estimates larger birth counts; e.g. 1880 Istat's 989 K live births; AnnStat and HMD have 957,900 (as does Table 2.5).
+
+ pdf67 Igiene e sanita -- sources include Statistica delle cause delle morti;  limited mortality data -- pdf68 p44  1887 828,992 total deaths -- matches HMD. HMD says age 0 deaths 1887
+
+ HMD deaths shows 1881 age 0  95620.21 112217.85  207838.06
+ 
+ Statistica delle cause delle morti [1888](https://books.google.ca/books?id=2AuQ4GGhjkQC) -- does not seem to give infant deaths (nor deaths by age otherwise). 1887 also available (via other editions)
 
 
 <a name="IndiaCensus"></a>
