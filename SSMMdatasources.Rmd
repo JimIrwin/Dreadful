@@ -67,7 +67,7 @@ p3 total births per year (copied)
 p47 La prédominance régulière des garçons est un phénomène bien connu  (106 b/f)     
 Pages restart with Tables.    
 Table 8 (p14) births by sex, 1871-1890     
-Volume has data on still-born (mort-nés) but not infant mortality.     
+Volumse has data on still-born (mort-nés) but not infant mortality.     
 Vol 3 pt 1, deaths; Vol 3, pt 2 causes;   
 V3pt1 Tables p18 deaths by sex/age
 
@@ -366,8 +366,9 @@ ABS page with [good overview of the censuses](https://www.abs.gov.au/ausstats/ab
 
 <a name="SouAfr"></a>
 
-
 ### South Africa ###
+
+
 
 Aug30 looked to add 1926 and 1931, but copyright nonsense makes it impractical. Perhaps a trip to NYPL would reveal IMR data for South Africa in the period 1924-1931, but that is for another time. 
 Maybe Columbia has u5 and u2 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online (u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1).      
@@ -1273,9 +1274,15 @@ Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catal
 U5 populations are on the Istat web-site with the same values as Mitchell's IHS. They differ from HMD's data.
 IMR values are on the Istat web-site; IHS (2013) has less precise version of the same.
 
-Italy's SR data seems inconsistent with the IMR values; e.g. 1881 Ln(u5f/u5m) = -3.7%   and IMR > 200 ;   
+Italy's SR data seems inconsistent with the IMR values; e.g. 1881 Ln(u5f/u5m) = -3.7%   and IMR > 200 .    
+Sex ratios by age do not show a shift toward boys, as in the case of substantial excess female mortality.
 
-The Istat data are in xls tables in dempap
+At least for 1901, the under-5 age group embraces some 5-year-olds, insomuch as the census reported Feb 9, 1901 populations by year of birth; probably less than 1/12 of the 1896-birthyear were age 5 at the census-date. But one wonders how precise the census-takers and respondents were when doing the census.     
+
+SRB is somewhat male-tilted, with Ln(m/f) values usually at or above 6.0% until the second half of the 1880s; values usually in the 5.5-5.9% range into the early 20th century; values range from 4.9% to 5.4% in the years from 1908 to 1916. Interesting to see births fall more than 1/3 from 1915 to 1917 and the SRB tilt 0.9% toward boys (presumably because the decline of births was concentrated among the poorer and less-healthy women).
+
+
+The Istat data are in xls tables in the dempap/wrangling/raw folder.
 
 For SR5 [Istat](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1) and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census).  Deaths-data are in the [Health tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=34&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=b73e856aedfc85d2f1e27730c3822c86)  
 

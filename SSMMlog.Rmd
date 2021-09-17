@@ -20,6 +20,14 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.0916 Ji finally off his ass to work on the data appendix  ... Swiss 1880 u5 from HMD differs (size) from Swiss census and IHS, but the SR value is the same. Ji pushes against demographers' massaging of census data, in favor of raw census data, but it doesn't matter for 1880 (same SR) and so Ji needs to carry on and look at other years ... (but sleep now)
+
+
+
+ HMD [Switzerland Data sources](https://mortality.org/hmd/CHE/DOCS/ref.pdf) says      
+      Population Estimates  ...  1876 - 1989: Calot, G., with Confesson, A., Sardon, J., Barazini, E., Cotter, S., Wanner, P. (1998). Table 1 - Distribution of population by sex and age on 1st of January (among tables not associated with graphics). Pg. 227 (data on CD-Rom) in: Two Centuries of Swiss Demographic History: Graphic Album of the 1860-2050 period. Neuchâtel: Swiss Federal Statistical Office. 
+
+
 2021.0913 Ji messing with Italian sources; concern is that the Italian SR is not consistent with the IMR estimates from HMD or Istat.  
 
 2021.0908 Jim adds DEU (Germany) to IMR.RDS (and confirms it is in U5); the new IMR includes the 2 blank AUT values for 1920 and 1921
