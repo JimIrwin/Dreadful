@@ -6,7 +6,7 @@ output: html_document
 ---
   
 <a name="TOC"></a>
-[Our Applications or "cases"](#cases)
+
 
 #### loose ends (move/tidy when noted)
 
@@ -19,6 +19,14 @@ http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR i
 Missing Women web page needs better cites, eg Klasen
 
 ### current log
+
+2021.0928 Ji runs into Norway historical statistics data -- seems important difference from HMD? See data source html
+
+2021.0927 Google Doc has data sources for dempap (but some attention to format and styles needed?).    
+Wrote up SouAfr sources -- but do we use SouAfr in our Figure? We have only 1910, 1911 IMR for 1911 sr5; we have imr 1910 onward, but only the 1918 and 1921 SR5 values (and what do we do about their overlap?)
+
+
+2021.0917 Ji looking for ultrasound citation and discussion from our earlier work ... got it, from lit?
 
 2021.0916 Ji finally off his ass to work on the data appendix  ... Swiss 1880 u5 from HMD differs (size) from Swiss census and IHS, but the SR value is the same. Ji pushes against demographers' massaging of census data, in favor of raw census data, but it doesn't matter for 1880 (same SR) and so Ji needs to carry on and look at other years ... (but sleep now)
 

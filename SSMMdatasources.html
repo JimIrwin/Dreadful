@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">16 September, 2021</h4>
+<h4 class="date">28 September, 2021</h4>
 
 </div>
 
@@ -378,6 +378,7 @@ summary {
 <p><a href="#AUSNZ">Australasia</a> <a href="#SouAfr">South Africa</a> <a href="#ITALY">Italy</a></p>
 <div id="to-organizemove" class="section level3">
 <h3>to organize/move</h3>
+<p>US Census offers biblio of recent <a href="https://www.census.gov/prod/2011pubs/12statab/app1c.pdf">foreign Statistical Abstracts</a></p>
 <p>Jesse might find in NYC? or we have now? Corsini &amp; Viazzo, <a href="https://books.google.ca/books?id=0l3wMZBq3hgC&amp;dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&amp;source=gbs_similarbooks">The Decline of Infant and Child Mortality</a></p>
 <p><a href="https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf">Handy UN chapter on LifeTables</a></p>
 <p>Total, UN <a href="https://population.un.org/wpp/Download/Standard/Population/">World Population Prospects</a></p>
@@ -407,7 +408,7 @@ p3 total births per year (copied)<br />
 p47 La prédominance régulière des garçons est un phénomène bien connu (106 b/f)<br />
 Pages restart with Tables.<br />
 Table 8 (p14) births by sex, 1871-1890<br />
-Volume has data on still-born (mort-nés) but not infant mortality.<br />
+Volumse has data on still-born (mort-nés) but not infant mortality.<br />
 Vol 3 pt 1, deaths; Vol 3, pt 2 causes;<br />
 V3pt1 Tables p18 deaths by sex/age</p>
 <p>1860 census <a href="https://catalog.hathitrust.org/Record/101659639">v3</a> for age/sex (5year)</p>
@@ -436,7 +437,7 @@ Prussia 1875 ~220 101.1</p>
 <p><strong>Prussia</strong> and Berlin. Annual IMR 1875-1914 and u5 m &amp; f counts for 1875, 1885, 1895, 1900, 1905, 1910.</p>
 <p>Our Prussian IMR match Knodel where we have overlap: 1876-80 1881-1885.</p>
 <p>Voegele 2000 show 1886 peaks. From our source, rural/urban all 211/251 225 – seems consistent <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c100401527&amp;view=1up&amp;seq=284&amp;size=125">1886</a></p>
-<p><a href="http://www.patrickrgalloway.com/prussia.htm">Patrick R. Galloway</a> Prussian data. But they are an old version of XLS file, which read_excel can’t open; they need resaving in a somewhat more current version of XLS.</p>
+<p><a href="http://www.patrickrgalloway.com/prussia.htm">Patrick R. Galloway</a> Prussian data. But they are an old version of XLS file, which read_excel can’t open; they need resaving in a somewhat more current version of XLS. Jim’s R code to get Galloway data is in github/dreadful (home to my log, lit, sources htmls): SSMMgallow.R and SSMMgallowFix.R</p>
 <p>annual IMR data 1875-1914 via births by sex, but u1-deaths not by sex<br />
 These values are much above Knodel’s …</p>
 <p>age/sex counts 1867 u10; in IMR-SR.xls 1871 u5; 1875 u1, 1to4; pop1885, 1890no, age1895, age1900, age1905, pop1910: u1, 1to4 (so u5); m/f ages NOT in 1890 (pop,age), pop1900, pop1905;</p>
@@ -464,9 +465,15 @@ IV. Deaths (including the stillborn).</p>
 315 Darn! Jim can’t find age/sex counts … this seems to be the most likely volume …</p>
 <p>XXXI Viehzählung (cattle count); XXXII Klimatologie; XXXiii Druck , Temperatur , Feuchtigkeit und Niederschläge; XXXiv 1874 Druck, Temp … ; XXXV Finanzstatistik; xxxx business census?; XXXVII weather; xxxviii accidents &amp; suicides 1873,74,75;</p>
 <p><strong>AUT AUSTRIA</strong></p>
+<p>u5<br />
+1869, 1910 from IHS<br />
+1880 from Handbuch 1886, p3; 1890 from <a href="https://babel.hathitrust.org/cgi/pt?id=hvd.hl0lnt&amp;view=1up&amp;seq=5&amp;skin=2021">Handbuch 1893</a>, p. 6; 1900 from 1903, p. 7.</p>
+<p>Interesting <a href="https://anno.onb.ac.at/cgi-content/anno?zoom=33">austrian biblio</a><br />
+A <a href="Statistisches_Jahrbuch_der_Österreichischen_Monarchie">wiki</a> that may provide links for AUT data<br />
+<a href="http://www.literature.at/viewer.alo?objid=785&amp;viewmode=overview">austrian lit online</a></p>
+<p>In the IHS listing of sources, the only reference to 1869 is Statistisches Jahrbuch der Österreichischen Monarchie (1861–1881). Those are linked in <a href="https://de.wikisource.org/wiki/Statistisches_Jahrbuch_der_%C3%96sterreichischen_Monarchie#1863%E2%80%931881:_Statistisches_Jahrbuch">this wiki</a>. Looking for age/sex: not 1868-1871; (new format starts in 1872) 1872-1880 (has 1880 census); end looking.</p>
 <p>u5 for SR have 1880 1890 1900 from 19C AUT sources; use IHS for 1869 and 1910; 2010 YrBk and IHS have 1923 and 1931 Republic of Austria</p>
-<p>IMR 1876-1907 u1 deaths from StHb1909; 1875-1907 births from YrBks 1886, 1893, StHb1907, 1909.</p>
-<p>IHS &quot;From 1914 the statistics apply to the present Republic, except that Burgenland is not included until 1922 – so how big is Burgenland? 1923 286K in pop of 6535K or 4% – I deem NEGLIGIBLE for us</p>
+<p>IMR 1876-1907 u1 deaths from StHb1909; 1875-1907 births from YrBks 1886, 1893, StHb1907, 1909. IHS &quot;From 1914 the statistics apply to the present Republic, except that Burgenland is not included until 1922 – so how big is Burgenland? 1923 286K in pop of 6535K or 4% – I deem NEGLIGIBLE for us</p>
 <p>From Google Doc: we have data for IMR by sex for 1875-1907; total IMR (Mitchell/IHS) 1908 onward. M &amp; F u5 pops for 1880, 1890, 1900 from contemporary sources; use Mitchell for 1910 u5 pops (total matches OK with 1910 census as reported in 1913 Statistische Monatschrift. Austria’s stats bureau has u5 pops for only a very small subset, smaller than offered by the Jahrbooks of circa 1900/1910).<br />
 HMD’s ”Austria” is very small compared to 19C Austrian sources. Yearbook 1886 p3. has 1880 u5 pops 1449168 1465661, matches IHS/Mitchell (2013:pdf3440) has 1449 1466. The corresponding SR-values are 98.87 and 98.84 (so IHS rounds to .1 lower). Page 5 has infants deaths, m &amp; f, &lt;1month, 1-12mos. HMD says “In general, the degree of completeness is high enough to classify Austrian birth statistics as being of high quality”. HMD’s birth count for 1880s are only about ⅕ of Austria’s YrBk for 1886. From MItchell/IHS it seems YrBk does not include Salzburg.</p>
 <p>Modern/small Austria’s <a href="file:///home/jim/Downloads/population_stat.yearbook.pdf">u5 pops at censuses from 1869</a> found at <a href="http://www.statistik.at/web_en/nomenu/searchresults/index.html" class="uri">http://www.statistik.at/web_en/nomenu/searchresults/index.html</a> <a href="http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&amp;RevisionSelectionMethod=LatestReleased&amp;dDocName=042776">Population (Stat.Yearbook</a> But that is a very small version of Austria</p>
@@ -476,13 +483,7 @@ HMD’s ”Austria” is very small compared to 19C Austrian sources. Yearbook 1
 <p>Statistisches Jahrbuch der österreichischen Monarchie, Annuaire statistique : 1863-68 (1 vol.); 1869-70 (1 vol.); volume annuel de 1871 à 1881. Osterreichisches statistisches Handbuch, volume annuel depuis 1881.</p>
 <p><a href="https://catalog.hathitrust.org/Record/000678775">Stats Jahrbuch 1861 to 1881</a> Hathi-UMich</p>
 <p><a href="https://www.google.com/books/edition/_/h0NYAAAAYAAJ?gbpv=0">various Jahrbuch at Google</a></p>
-<p><a href="https://www.google.com/books/edition/_/L0FYAAAAYAAJ?gbpv=1">1870</a> p20 weddings according to age</p>
-<p><a href="https://www.google.com/books/edition/_/WkVYAAAAYAAJ?gbpv=1">1877</a> GoogleBooks lists as 1880, the publication year.</p>
-<p><a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033611834&amp;view=1up&amp;seq=53">1878 at Hathi</a> not on Google</p>
-<p><a href="https://www.google.com/books/edition/_/IUZYAAAAYAAJ?gbpv=1">1879</a> p44 Kindersterblichkeit</p>
-<p><a href="https://www.google.com/books/edition/_/nElYAAAAYAAJ?gbpv=1">1881</a> Stats Jahrbuch does not seem to have the births and deaths for previous years, which we find in later volumes (Ji looking for 1876-79 )</p>
-<p><a href="https://www.google.com/books/edition/_/nElYAAAAYAAJ?gbpv=1">1882</a></p>
-<p><a href="https://books.google.com/books?id=D0sS25Ei5KsC">1886</a> has 1880 u5 pops (p3) and u5 mortality by sex <a href="https://babel.hathitrust.org/cgi/pt?id=chi.12960051">1893</a> p24 has births and u1 deaths 1882-1893. <a href="https://babel.hathitrust.org/cgi/pt?id=chi.101238827&amp;view=1up&amp;seq=22&amp;size=125">19xx</a> for 1895-1906</p>
+<p><a href="https://www.google.com/books/edition/_/L0FYAAAAYAAJ?gbpv=1">1870</a> p20 weddings according to age <a href="https://www.google.com/books/edition/_/WkVYAAAAYAAJ?gbpv=1">1877</a> GoogleBooks lists as 1880, the publication year. <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033611834&amp;view=1up&amp;seq=53">1878 at Hathi</a> not on Google <a href="https://www.google.com/books/edition/_/IUZYAAAAYAAJ?gbpv=1">1879</a> p44 Kindersterblichkeit <a href="https://www.google.com/books/edition/_/nElYAAAAYAAJ?gbpv=1">1881</a> Stats Jahrbuch does not seem to have the births and deaths for previous years, which we find in later volumes (Ji looking for 1876-79 ) <a href="https://www.google.com/books/edition/_/nElYAAAAYAAJ?gbpv=1">1882</a> <a href="https://books.google.com/books?id=D0sS25Ei5KsC">1886</a> has 1880 u5 pops (p3) and u5 mortality by sex <a href="https://babel.hathitrust.org/cgi/pt?id=chi.12960051">1893</a> p24 has births and u1 deaths 1882-1893. <a href="https://babel.hathitrust.org/cgi/pt?id=chi.101238827&amp;view=1up&amp;seq=22&amp;size=125">19xx</a> for 1895-1906</p>
 <p>Statistisches Jahrbuch Österreichisches statistisches Handbuch Hathi 1895-10 9(got) got 1895-1909 OSH</p>
 <p><a href="https://catalog.hathitrust.org/Record/100466360">OSH 1893 1899 1901</a> via Hathi-Harvard</p>
 <p><a href="https://catalog.hathitrust.org/Record/012306732">OSH 1895-1909</a> via Hathi-NYPL</p>
@@ -496,26 +497,102 @@ p41 b) taking legit into account Ehelich Geborene born in wedlock; Unehelich Geb
 <p>1911-1919 GoogBks no preview Österreichische Statistik</p>
 <p>1920 onward is Statistisches Jahrbuch für die Republik Österreich SJB <a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112054454993&amp;view=1up&amp;seq=10">1921</a> has 1914-1921</p>
 <p>1923&amp;1924 doesn’t have age/sex</p>
-<p>Maybe JESSE CHECK <a href="https://clio.columbia.edu/catalog/ht009025775">Statistische monatschrift</a></p>
-<p>and Jim to check more</p>
+<p>Monthly data in <a href="https://clio.columbia.edu/catalog/ht009025775">Statistische monatschrift</a> are not likely of use (Jim had a quick look)</p>
 <p><a href="https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/"><strong>Sweden</strong></a> IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)).</p>
+</div>
+<div id="norway" class="section level3">
+<h3>Norway</h3>
+<p>Listing of Norway publications <a href="https://www.ssb.no/a/english/histstat/publications/">1828-1876</a></p>
+<p>U5 populations 1900, 1930, 1960,Historik statistikk <a href="https://www.ssb.no/a/histstat/tabeller/3-3-en.html">3.3 Resident population, by sex, marital status and age</a></p>
+<p><a href="https://www.ssb.no/a/histstat/tabeller/3-6-en.html">U7 populations</a></p>
+<p>Norway IMR by periods (1876-80, 1881-85, … 1946-50, … 1966-70)</p>
+<p><a href="https://www.ssb.no/a/english/histstat/publications/">Historical publications 1828-1996</a> list all statistical publications by subject with links.]</p>
+<p>Historical Statistics 1994 1968 1948 1948 version has u5 pops 1865 1875 1900 1910 1920 1930 1940 and IMR annually from 1836</p>
+<p><a href="https://www.ssb.no/a/histstat/publikasjoner/histemne-02.html#P538_17722">2. Befolkning. Helseforhold (Population. Health)</a></p>
+<p>Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901 (Population de droit) <a href="https://www.ssb.no/a/histstat/nos/nos_v_113.pdf">V 113</a></p>
 <p><a href="https://www.ssb.no/a/histstat/tabeller/3-13.html#">Norway births &amp; u1 deaths</a></p>
 <p>(<a href="https://www.ssb.no/a/histstat/hs1978/hs1978.pdf" class="uri">https://www.ssb.no/a/histstat/hs1978/hs1978.pdf</a>) and 1968 – have 5year average IMR; Mitchell publishes annual IMR values (source seems to be (p117) &quot;official publications noted on p xv:)<br />
 <a href="https://www.ssb.no/a/histstat/">Historisk statistikk</a> Mitchell reports IMR for Norway from 1786; but I cannot find those in the sources he cites (too broad a set for me to get through and translate). We will use the HMD time frame, 1846 forward.</p>
-<p>Finland. Use HMD births and u1 deaths; they match Mitchell IMR for 1878 &amp; 1879. <a href="https://www.doria.fi/handle/10024/67152/browse?type=dateissued">Statistical Yearbook of Finland</a> (Suomen tilastollinen vuosikirja). Might use Mitchell for IMR, or HMD u1 deaths &amp; u1 pop match Mitchell IMR for 1878 &amp; 1879. HMD has births 1865-2019; deaths by yearly-age run from 1878 – as do u1 death rates. Mitchell has IMR from 1866 … Mitchell’s U5 populations do not match HMD (series 1); the do match HMD series 2;</p>
+</div>
+<div id="finland" class="section level3">
+<h3>Finland</h3>
+<p>. Use HMD births and u1 deaths; they match Mitchell IMR for 1878 &amp; 1879. <a href="https://www.doria.fi/handle/10024/67152/browse?type=dateissued">Statistical Yearbook of Finland</a> (Suomen tilastollinen vuosikirja). Might use Mitchell for IMR, or HMD u1 deaths &amp; u1 pop match Mitchell IMR for 1878 &amp; 1879. HMD has births 1865-2019; deaths by yearly-age run from 1878 – as do u1 death rates. Mitchell has IMR from 1866 … Mitchell’s U5 populations do not match HMD (series 1); the do match HMD series 2;</p>
+</div>
+<div id="brazil" class="section level3">
+<h3>Brazil</h3>
+<p>Brazil’s <a href="https://loja.ibge.gov.br/">IBGE</a> has historical statistics for <a href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&amp;id=231573">download:</a>; e.g <a href="https://loja.ibge.gov.br/historia-das-estatisticas-brasileiras-estatisticas-desejadas.html">1822-89</a>,</p>
 <p><a href="https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&amp;view=detalhes">Brazil 1872</a> Some funny-looking sex-ratio values in mestizos and slave &gt;10 yrs?</p>
 <p><a name="AUSNZ"></a></p>
 </div>
 <div id="australasia" class="section level3">
 <h3>Australasia</h3>
-<p><a href="https://www3.stats.govt.nz/historic_publications/"><strong>NewZealand</strong></a> <a href="https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399">1916</a> has u2 and u5 counts for 1881 through 1916 (censuses at 5yr interval)</p>
-<p>New Zealand Yearbooks <a href="https://www.stats.govt.nz/indicators-and-snapshots/digitised-collections/yearbook-collection-18932012#Yearbook-1920-29">1920-29</a> 1921-22 reports on 1916 census; 1923 some imr data; no SR data: 1924 (some 1921 census data), 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935. AGES 1936 has 1926 u5 (also estimates for 1935, extrap from 1926 via vital stats – not census, we don’t use). NOT: 1937x 1938x 1939x 1940x, 1941yes (via 1836 census)</p>
-<p><a href="https://web.archive.org/web/20120325003954/http://www.stats.govt.nz/yearbooks">all years</a></p>
+<div id="new-zealand" class="section level4">
+<h4>New Zealand</h4>
+<p>u5 populations by sex.</p>
+<p>1864, 1867, 1871, 1874, 1878, 1881 <a href="https://www3.stats.govt.nz/historic_publications/1881-census/1881-results-census.html#idsect1_1_1564">Results of a Census of the Colony of New Zealand … 1874</a> Chapter 28, Table 1 (&quot;Showing the Increases of Persons … at different Ages … the various censuses … 1864 … 1881).</p>
+<p>1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916: Results of a census of the Dominion of New Zealand … 1916, <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2991401&amp;view=page&amp;seq=13&amp;skin=2021">Part II Ages</a>, p. 1.</p>
+<p>Alternative sources:</p>
+<p>1864, 1867, 1871, 1874 <a href="https://www3.stats.govt.nz/historic_publications/1874-census/1874-results-census.html#idchapter_1_38615">Results of a Census of the Colony of New Zealand … 1874</a> Chapter 5, Table 1 (&quot;Showing the Increases of Persons … at different ages … the various censuses … 1864 … 1874),</p>
+<p>1867, 1871: <a href="https://babel.hathitrust.org/cgi/pt?id=nyp.33433109911655&amp;view=page&amp;seq=23&amp;skin=2021">Results of a Census of New Zealand … 1871</a>, page xvii.</p>
+<p><em>1886</em>, <em>1891</em> in Ch 19 of 1891 Report <em>1896</em>, <em>1901</em> in Ch 17 of 1901 Results <em>1906</em>, <em>1911</em> in Ch 52 of 1911 Results<br />
+1886, 1896, 1906, <em>1916</em> in Ch 24 of 1916 Report.<br />
+Proportions by age for males and females 1867, 1871, 1874, 1878, 1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916 in Ch 24 of <a href="https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399">1916 census</a></p>
+<p>Ji thought there were u2 and u5 counts for 1881 through 1916 (censuses at 5yr interval) in a 1916 volume. Seems only u5? in ages part 2</p>
+<p>– the easily-found digitized 1916 census is overview only. BEWARE OF wasting time with 1916 census Report <a href="https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html?_ga=2.105906122.859603122.1632398281-861795157.1632395815">condensed form</a> Preface. THIS volume gives in condensed form, with comments, the principal results of the New Zealand population census of 1916. Detailed results have already been published in twelve parts and five appendices, as under:— Population May, 1918. Ages July, 1918. Birthplaces and Length of Residence in New Zealand Sept., 1918. Religions Aug., 1918. Education Nov., 1918. Infirmity Nov., 1918. Conjugal Condition Nov., 1918. Fertility Sept. 1919. Occupations May, 1919. Aliens Feb., 1919. Dwellings June, 1919. Households: June, 1920. Appendices: (a.) Maori Census May, 1918. May, 1918. (b.) Census of Cook and other Pacific Islands May, 1918. (c.) Libraries and Religious Denominations May, 1918. (d.) Industrial Manufacture May, 1918. (e.) Poultry and Bees Oct., 1918.<br />
+1916 census<br />
+<a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2991400&amp;view=1up&amp;seq=5&amp;skin=2021">Vol 1</a> has 2 pdfs per page;<br />
+<a href="https://babel.hathitrust.org/cgi/pt?id=uc1.c2991401&amp;view=page&amp;seq=7&amp;skin=2021">Part II Ages</a> <a href="https://babel.hathitrust.org/cgi/pt?id=nnc1.cu08551570&amp;view=1up&amp;seq=94&amp;skin=2021&amp;q1=under%205">Part II Ages</a> is pdf 94 on. <a href="https://babel.hathitrust.org/cgi/pt?id=nnc1.cu08551588&amp;view=1up&amp;seq=9&amp;skin=2021">Appendices A-D</a></p>
+<p>Listing of NZ stats-books online, from <a href="https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=New%20Zealand%2E%20Registrar%2DGeneral%27s%20Office">UPenn</a></p>
+<p><a href="http://infoshare.stats.govt.nz/infoshare/SelectVariables.aspx?pxID=766e0a03-8df4-4b06-98f6-9b372a266fbc">Stats NZ Inforshare, Long-term data series, Infant mortality rates - DMMA</a></p>
+<p>IMR was published in the NZ official year books; most have multiple years from which we can cobble together a series for total/non-maori/maori. Name changes from European to Non-maori. E.g 1950 has 1939-1949, 1957 has 1937-1956, 1941 reports non-maori only, as IMR, for 1939 &amp; 1940. 1890 Handbook 1881-90; 1899 1883-1892; 1893, 1894 inf mort in 4 cities</p>
+<p>Excel spreadsheet at Stats NZ Store House, <a href="https://cdm20045.contentdm.oclc.org/digital/collection/p20045coll35/id/220/rec/1">A2.7 Infant mortality rate and infant mortality number</a></p>
+<p>Long-term data series / About this collection / This collection contains datasets that are no longer on the Stats NZ website.<br />
+The long-term data series were collected by staff at Treasury to provide a general reference source of information on demographic, social, and economic trends in New Zealand. The series cover varying periods of time between 1840 and 2004. They are available as downloadable Excel spreadsheets (Excel 2002 format), and each file contains one data worksheet and one documentation worksheet.<br />
+18 spreadsheets from search term Population in LTDS: A1.1 Total Pop; A1.4 North and South ISland pop; A1.6 Pop by Aage and sex; A1.2 Rural and urban population; A1.3 Maori and Pac Isl Pop; A2.8 Nat Increase; A1.5 Pop main cities and towns; A3.3 Assisted immigration; A2.4 deaths rates and numbers; A2.3 Birth rates and birth nums; a3.4 immig expendit ; a2.2 Divorce; a3.1 immig emig net; a2.5 Life exp; a2.1 marriage; a3.2 international visitors; a2.6 fertility rates; a2.7 imr</p>
+<p><a href="https://cdm20045.contentdm.oclc.org/digital/collection/p20045coll35/search/searchterm/long-term%20data%20series!Population/field/subjec!subjec/mode/exact!exact/conn/and!and">browsing items in Long-term data series</a></p>
+<p>Infoshare search results for ‘ltds’ has 17 results, 2 with imr –</p>
+<p>9 Infant mortality rates - DMMA (Annual-Dec) Last updated: 02 April 2012 10:45am Table path: Long-term data series-term data series - LTD Use with caution<br />
+Select variables Select series identifiers 10 Infant mortality numbers - VSDA (Annual-Dec) Last updated: 02 April 2012 10:45am Table path: Long-term data series  Long-term data series - LTD Use with caution<br />
+Select variables Select series identifiers</p>
+<p>Note, via HMD, Ji finds claims of underenumeration of births, with uncounted neonatal deaths ommitted from births and deaths. Correction might raise IMR from 100 to 116 in circa 1879.</p>
+<p>births<br />
+1855 to 1916 in <a href="https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idsect1_1_16061">Chapter 20</a> of 1916 Census.</p>
+<p><a href="https://www3.stats.govt.nz/historic_publications/"><strong><em>New Zealand</em></strong></a> <a href="https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399">1916</a> has u2 and u5 counts for 1881 through 1916 (censuses at 5yr interval)</p>
+<p>New Zealand <a href="https://www.stats.govt.nz/indicators-and-snapshots/digitised-collections/yearbook-collection-18932012/">Yearbook collection: 1893–2012</a><br />
+<a href="https://web.archive.org/web/20120325003954/http://www.stats.govt.nz/yearbooks">Archived version</a></p>
+<p>1920 NZOYb no age data; 1921-22 reports on 1916 census; 1923 some imr data; no SR data: 1924 (some 1921 census data), 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935. AGES 1936 has 1926 u5 (also estimates for 1935, extrap from 1926 via vital stats – not census, we don’t use). NOT: 1937x 1938x 1939x 1940x, 1941no (1940 ages extrapolated from 1936 census)</p>
 <p><a href="http://infoshare.stats.govt.nz/infoshare/SelectVariables.aspx?pxID=d7395c5c-e0e0-47bc-8747-9ec8360322d6">pop data</a> with “discontinued data” selected – this has 1936 onward, all or excl Maori; but IMR includes Maori as of 1925ish</p>
 <p><a href="https://catalog.hathitrust.org/Record/100209810">1921 census report</a> hard copy at Columbia, looks like p82 has Age-Distribution in 1921</p>
 <p><a href="https://catalog.hathitrust.org/Record/100615639">1871 Results of a census of New Zealand …</a> full view available. The catalog page has links to <a href="https://catalog.hathitrust.org/Record/008430840">1891 full</a> 1901 <a href="https://www3.stats.govt.nz/historic_publications/1901-census/1901-results-census/1901-results-census.html">digitized</a> at Stats NZ) 1916 1911 1916 1921</p>
-<p>Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.</p>
+<p><a href="https://www.stats.govt.nz/census/previous-censuses/historical-census-collection/">Historical census collection</a> for 1871, 1874, 1878, 1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916.</p>
+<H4>
+HMD on New Zealand
+</H4>
+<p>HMD suggests problems with NZ data.<br />
+Non-Maori <a href="file:///home/jim/Downloads/firefox.tmp/NZL_NMcom-1.pdf">Background and Documentation</a>. “ABOUT MORTALITY DATA FOR NEW ZEALAND NON-MĀORI”. By Domantas Jasilionis and Dmitri Jdanov Last updated: 07 December 2017.<br />
+Important note: Due to recently discovered numerous inconsistencies in the historical data for Non-Māori, we restricted previously published series of Non-Māori data to the period 1901 onwards (for more details see the Background and Documentation file for New Zealand).</p>
+<p>New Zealand, Total Population. <a href="https://mortality.org/hmd/NZL_NP/InputDB/NZL_NPcom.pdf">Background and Documentation</a> links to “ABOUT MORTALITY DATA FOR NEW ZEALAND”. By Domantas Jasilionis, Rembrandt Scholz, and Dmitri Jdanov Last updated: 07 December 2017<br />
+Important note: the population data for New Zealand are complicated by different levels of data quality by ethnic group (Māori and Non-Māori). Due to recently discovered numerous inconsistencies in the early historical data for Non-Māori, we restricted previously published series of Non-Māori data to the period 1901 onwards (for more details see the ‘Data Quality Issues’ section below). Starting in 1901, data for the Non-Māori population meet at least minimal data quality standards.</p>
+<p>p4 There is some evidence that death registration was incomplete until the beginning of the 1960s. First of all, concerning Māori deaths, … possible underestimation at older ages prior to the 1960s … In addition, Non-Māori neonatal deaths were seriously underestimated at least until the 1910s (by about 18% in 1876). NO SOURCE GIVEN p4 Due to very serious deficiencies of data on deaths before 1901, the series of Non-Māori mortality estimates begin in the year 1901. However, the user should be aware that the HMD estimates for the Non-Māori for the periods 1901-1921 and 1939-1947 should be used with extra caution (see the ‘Data Quality Issues’ section below).<br />
+p7 Historical data on Non-Māori births are also problematic, especially before the 1910s (Statistics New Zealand, 2006). First, there was an underestimation of neonatal deaths, which was quite significant (about 18% in 1876) until the beginning of the 20th century. Second, some Māori births were registered as Non-Māori. Last, births of Non-Māori who lived among Māori were also generally unrecorded (Statistics New Zealand, 2006).</p>
+<p>p10 There is evidence that New Zealand censuses conducted before 1926 were affected by undercount and age misreporting problems (Pool, 1973). Pool (1973 Pop Studies), “Estimates of New Zealand Maori vital rates from the mid-nineteenth century to World War I”. Page 121: “From 1911 on ages were published in quinquennial groups, but the I9I6 Census was noted to be poor both in terms of coverage and age-reporting, while by 1921 the ‘half-caste’ rule mentioned above was becoming unworkable.”<br />
+Very strange to challenge non-Maori census data via an article seeking to estimate Maori vital rates.</p>
+<p>HMD SOURCES refers to “Census Counts” Bloomfield, Gerald T. (1984). Tables II.5-II.6. Pp. 47-51 in: New Zealand, A Handbook of Historical Statistics. Reference publications in international statistics 1984. Boston, MA: Hall and Co. By sex and age group for 1858, 1861, 1864, 1867, 1871, 1874, 1878, 1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916, 1921, and 1926.</p>
+<p>Non-HMD:<br />
+Cited by HMD, Statistics New Zealand (2006), <a href="http://globalag.igc.org/elderrights/world/2007/survivalnewzealand.pdf">“A History of Survival in New Zealand: Cohort life tables 1876–2004”</a><br />
+p9 Non-Mäori births understated when neonatal deaths occurred, probably until 1910s. p12 2.1.4 Non-Mäori live births, 1876–1935 Although the birth registration system is believed to have provided an acceptable level of non-Mäori coverage, some adjustments to registration data were needed to estimate the number of non-Mäori live births that actually occurred in each year. The most signifi adjustment was the addition of unregistered births when neonatal death occurred. The under-registration of neonatal deaths in New Zealand is recognised (eg Pool 1982, 1985), although quantifying the extent of registration is more difficult. The distribution of infant deaths by age (days at death) suggests under-registration of non-Mäori neonatal deaths before the 1910s and Mäori neonatal deaths before the 1960s. Based on mortality patterns at that time, roughly 80 percent of these unregistered neonatal deaths were likely to have occurred within the fi rst day of life. For infants who died soon after birth, it is likely that if their death was unregistered then their birth was unregistered also. The adjustments to neonatal deaths (see Section 2.2.4) were therefore applied to births. This corresponds to an increase in non-Mäori births of less than 2 percent in 1876–1911.<br />
+p21 [births] Maximum of 320 added in 1879. 1921 census has births – implication is IMR of 100 raised to 116</p>
+<p>older version (maybe HMD)? <a href="https://www.demogr.mpg.de/publications/files/2172_1150381700_1_MortDataNewZealand.pdf">ABOUT MORTALITY DATA FOR NEW ZEALAND</a> By Domantas Jasilionis Last updated: 06 October 2005 Rembrandt Scholz Dmitri Jdanov<br />
+p2 Although the completeness of Māori data has improved, data quality problems remain important (see the section on “Data quality issues”). Furthermore, starting in 1962, these problems may have also been relevant for the Non-Māori data1<br />
+p5 Historical population data on Non-Māori (prior 1930s) seem to have data quality problems at older ages (see section on ”Data quality issues”).<br />
+p6 Due to poor quality of Māori statistics, births may be underreported or misreported until 1961<br />
+p7 DATA QUALITY ISSUES<br />
+1. Quality of data on population counts. There is evidence that New Zealand censuses conducted before 1926 are affected by undercount and age misreporting problems (Pool, 1973). Due to substantial under-reporting of vital events, the quality of Māori population estimates are considered less reliable until 1936, or perhaps even 1961 (Statistics New Zealand, 2004a).<br />
+Our own estimates suggest serious under-reporting of deaths at older ages among the Māori and Non-Māori populations<br />
+p8 3. Problems with Non-Māori old age mortality estimates before 1902. Prior to 1902, our estimated death rates at older ages are implausibly low</p>
+<p>OTHER: Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.</p>
 <p><strong><em>Australia</em></strong></p>
+<p>HMD u5 counts and IMR date from 1921</p>
 <p>Australia under-5 populations by sex. 1901, 1911, 1921-2016 from Table 2.1 “Population, age and sex, Australia, 30 June, 1901 onwards” (Released at 11.30am (Canberra time) 18 April 2019); downloaded 27 June 2021 from 3105.0.65.001 Australian Historical Population Statistics, 2019.</p>
 <p>IMR 1901-1991 from Australian Bureau of Statistics</p>
 <p>For AUS IMR 1870-1991 (1870-1901 AHS; 1901-1991 ABS; 1901 values same in both); Before 1870, we have only 1 point: NSW 1861 IMR &amp; U5 (IMR 89.2 Ln(f/m) = -1.42% (m/f=101.4) )</p>
@@ -523,7 +600,7 @@ p41 b) taking legit into account Ehelich Geborene born in wedlock; Unehelich Geb
 U5 pops from <a href="https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0002_2019.xls">2. Population Age and Sex Structure</a> Table 2.1 has AUS u5 f/m pops 1901, 1911, 1921-2019. Various other tables give state-level U5 by sex from 1901 onwards (NSW, Vic, Qld, SA, WA, Tas). Varying coverage of pre-1901 (see below.)<br />
 IMR data from Table 5.4 in <a href="https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0005_2019.xls">5. Deaths</a>. This provides annual IMR, Australia and by states and territories (3105…ds0005_2019.xls) for 1901 forward.</p>
 <p>We may also want to use <a href="https://www.abs.gov.au/statistics/people/population/historical-population/2016/3105065001ds0004_2019.xls">4. Births</a> in Table 4.1 Births registered by sex, states and territories, 1824 onwards Births (m,f) for AUS and by state from 1860 or earlier.</p>
-<p>For data before 1901, we mostly refer to Vamplew (1987) Australians - Historical Statistics.<br />
+<p>For data before 1901, we mostly refer to Vamplew (1987) <em>Australians: Historical Statistics.</em><br />
 Ch 2 (Population) includes census data with u5 f/m pops for AUS and states for census years 1861 to 1901; also<br />
 1854, 1857 Victoria; 1856 New South Wales (u4 populations). If additional regional data is needed, we should check the ABS Tables above (Population Age and Sex Structure) – but I expect those are the same.</p>
 <p>Ch 3 has IMR nationally and by states from 1870; also infant deaths. 1921 on has some sex-specific data.<br />
@@ -556,12 +633,27 @@ p272 whooping cough kills girls more than boys</p>
 <p>ABS page with <a href="https://www.abs.gov.au/ausstats/abs@.nsf/Products/F3AF616665E821A6CA2575D2001AA12E?opendocument">good overview of the censuses</a> as well as links to spreadsheets of data.</p>
 <p><a name="SouAfr"></a></p>
 </div>
+</div>
 <div id="south-africa" class="section level3">
 <h3>South Africa</h3>
-<p>Aug30 looked to add 1926 and 1931, but copyright nonsense makes it impractical. Perhaps a trip to NYPL would reveal IMR data for South Africa in the period 1924-1931, but that is for another time. Maybe Columbia has u5 and u2 pops in <a href="https://catalog.hathitrust.org/Record/009114310">Fourth census … 1926</a>; but 1931 seems not online (u5 and u2 pops from <a href="https://clio.columbia.edu/catalog/SCSB-7896259">Report with summaries (1933)</a> or <a href="https://clio.columbia.edu/catalog/2731375?counter=1">Fifth census … 1931</a>.</p>
-<p>IMR for those years might be in this set of the <a href="https://catalog.hathitrust.org/Record/007119366">“Official year book”</a>, which has various years from 1924 to 1960. Or in <a href="https://catalog.hathitrust.org/Record/009064515">this set</a> with various in the years 1917 to 1953.</p>
-<p>The 1921-1923 IMR data needs to be tweaked – the 1924 YrBk gives values for “European” while the earlier volumes are for “Whites”; some IMR values are the same, but the 1920 and 1921 (?) values are differ slightly. This to fix for completeness, but it would amazing if it made any difference …</p>
-<p><strong>IMR</strong> Sou Afr as a whole, 1910-1923 in 1924. Ji &amp; Js should check <a href="https://hdl.handle.net/2027/uc1.b3076166">1925</a></p>
+<p>u5 population data is lacking; we have 1904, 1911, 1918. IMR data is available for whites 1910-1990.</p>
+<p>IMR for whites in IHS, 1910-1990. These are reported as integer values of rates per thousand; more precise values are found in the official yearbooks (Ji notice a few small discrepencies, but IHS is consistent with the more recent Yearbooks’ data).</p>
+<p>u5 white populations (by sex) : we have 1904, 1911, 1918</p>
+<p>Maybe Columbia has u5 pops in <a href="https://catalog.hathitrust.org/Record/009114310">Fourth census … 1926</a>; but 1931 seems not online. Expect we can get u5 and u2 pops from <a href="https://clio.columbia.edu/catalog/SCSB-7896259">Report with summaries (1933)</a> or <a href="https://clio.columbia.edu/catalog/2731375?counter=1">Fifth census … 1931</a>; same is <a href="https://catalog.hathitrust.org/Record/009127872">search-only for Jim at Hathi</a>.</p>
+<p>Columbia U has <a href="https://clio.columbia.edu/catalog/10770950">1921 online</a>, 1926, 1931, 1936, 1941 are off-site at NYPL?;</p>
+<p>First General Census of the Union of South Africa (1911) Census of the European or white races of the Union of South Africa, 1918<br />
+Third census of the population of the Union of South Africa, enumerated 3rd May, 1921.<br />
+Fourth census of the population of the Union of South Africa, 4th May, 1926. (Enumeration of Europeans only)<br />
+Fifth census of the population of the union of South Africa enumerated 5th May, 1931.<br />
+Sixth Census 1936; Later censuses of interest 1951, 1960, 1970.</p>
+<p>Censuses listed in the <a href="https://books.openedition.org/irdeditions/1805?lang=en">OpenEdition book</a>: 1951, 1960, 1970, 1980, 1985, 1991, 1996, 2001 Bevolkingsensus 1985 / Population census 1985</p>
+<p>Aug30 looked to add 1926 and 1931, but copyright nonsense makes it impractical. IHS has IMR data – so no need for a trip to NYPL for IMR data.</p>
+<p>** Yearbooks **</p>
+<p>Maybe SR5 data for census years will be found in this set of the <a href="https://catalog.hathitrust.org/Record/007119366">“Official year book” at Hathi</a>, which has various years from 1924 to 1960. Or in <a href="https://catalog.hathitrust.org/Record/009064515">this set</a> with various in the years 1917 to 1953.</p>
+<p>Yearbooks 1919-61 are “Offsite” but requested/used at <a href="https://www.nypl.org/research/research-catalog/bib/cb3033381#">NYPL</a>. That entry explains “None published 1922, 1936, 1942-1945, 1947, 1951, 1958-1959. Some years combined.”</p>
+<p>1964-66 on microfilm <a href="https://searchworks.stanford.edu/view/6789332">at Stanford</a> or <a href="https://clio.columbia.edu/catalog/834401">offsite at Columbia</a></p>
+<p>1968-1995 is called Suid-Afrikaanse statistieke <a href="https://clio.columbia.edu/catalog/SCSB-8157364">e.g at Columbia/NYPL</a>, they have 1968-1974,1988-2009.</p>
+<p>Js checked <a href="https://hdl.handle.net/2027/uc1.b3076166">1925 Yearbook</a>: IMR by “health year” vs calendar year; the former running July 1 to June 30. Bantu pop by sex u1 1-14 – too broad.</p>
 <p>IMR from <a href="https://clio.columbia.edu/quicksearch?q=Official+year+book+of+the+Union+and+of+Basutoland&amp;commit=Search">YearBooks</a>; they are online at Columbia University (search term= Official year book of the Union and of Basutoland ) Nos. 1-4 ; IMR 1924-1928 p932 of 1928; 1919 p209 ;</p>
 <p><a href="https://books.google.ca/books?id=hNIzAQAAMAAJ">1922 Yearbook Vol 5</a> has rich data for 1910-1921. PDF p17 indicates that 1922 repeats and adds to the stats data in vols 1-4 (No. 1, 1917, has 1910-16; No. 5, 1921, has 1910-21).<br />
 p157-59 Ages of the people, lots of u5 data for 1904, 1911, 1918.<br />
@@ -578,13 +670,13 @@ p158 urban/rural 1911 1918</p>
 <p><a href="https://catalog.hathitrust.org/Record/008616578">maybe</a> Simkins &amp; van Heyningen article seems to have leads</p>
 <p>Dead-ends: Yearbook leads at this <a href="https://link.springer.com/chapter/10.1057/9780230271104_144">Springer link</a> <a href="https://www.gcis.gov.za/content/resourcecentre/sa-info/yearbook">2001-2020</a></p>
 <p><strong><em>Natal</em></strong> 1891 Census – no IMR or birth data Table 4 age and sex 1894 Statistical Year Book G 8-9 some vital stats, with u5 pop and marriages, but not infant deaths,</p>
-<p><strong><em>Good Hope</em></strong></p>
-<p><a href="https://babel.hathitrust.org/cgi/pt?id=uc1.l0074071200">1875 census</a> 54p47 age by sex No death data</p>
+<p><strong><em>Good Hope</em></strong> <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.l0074071200">1875 census</a> 54p47 age by sex No death data</p>
 <p>Hathi has <a href="https://catalog.hathitrust.org/Record/100119047">Cape of Good Hope</a>: 1893 full view (also three search only 1902, 1907, 1908). They are available on Google Books <a href="https://books.google.ca/books?id=2NxCAQAAMAAJ">1905</a></p>
 <p>Statistical Register of the Cape of Good Hope <a href="https://books.google.ca/books?id=2NxCAQAAMAAJ">for the year 1904</a> page v lists births by year 1895-1904 with text saying 1904 euro or white 9454 males and 9006 females; Malay 291 males and 293 females; Fingo, Kafir, Bechuanaland 10,661 males and 10,187 females; Mixed and other 8548 males and 8361 females. Colony proper (ex. Bechuanaland) 46,419 9006 maleEuro 8603 femEuro (9006 twice - stet) … The 46,419 are also shown for 1904 in the table of births.<br />
 Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 1904, 1903, 1902</p>
 <p>1904, 1909 search only at Hathi</p>
 <p><a href="https://babel.hathitrust.org/cgi/pt?id=nyp.33433062734938&amp;view=1up&amp;seq=9&amp;skin=2021">1892</a> reports the 1891 census data u5 and single years <a href="https://babel.hathitrust.org/cgi/pt?id=nyp.33433062734946&amp;view=1up&amp;seq=7&amp;skin=2021">1894</a> p32 U14 ages</p>
+<p>IHS cites South Africa Statistical Year Book (1912–13, 1915–16); Official Yearbook of South Africa (1917–60); South African Statistics (1964 ongoing). And IHS gives white IMR 1910-1990; 1910 value in IHS is 89 but 1922 YrBk has 91.24 and 1980/1 has 88.5 A7 Africa: Deaths of Infants under One Year Old per 1,000 Live Births IHS 1750-2010: Africa, Asia and Oceania</p>
 </div>
 <div id="organizationlocations-of-r-scripts-and-csv-files" class="section level3">
 <h3>Organization/locations of R scripts and csv files</h3>
