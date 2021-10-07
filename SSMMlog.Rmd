@@ -20,6 +20,8 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.1007 we have Norway 1845 in our set; the (SR7=101.3 b/g ) is from the census, and it suggests an unhealthy population ... the question for me is whether the IMR is plausible, at just 118.2 ? Certainly the point is way off any sort of fitted line ... hmmmm 
+
 2021.1006 Norway data in U5.RDS and IMR.RDS ; for U5 we rely on the censuses of Norway, when available, in preference to the HMD values; for IMR we use IHS, which are almost the same as the values implied by the births and infant deaths available from Statistiks Norway  --- more discussion to come.     
 <br>
 <br>
