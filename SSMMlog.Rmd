@@ -20,8 +20,13 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.1006 Norway data in U5.RDS and IMR.RDS ; for U5 we rely on the censuses of Norway, when available, in preference to the HMD values; for IMR we use IHS, which are almost the same as the values implied by the births and infant deaths available from Statistiks Norway  --- more discussion to come.     
+<br>
+<br>
+Norway u5 dates are end of year, and so they go with the IMR from the census year and the four prior years. Ji needs to review data synchronization issue for all the other places. 
+<p>
 2021.0928 Ji runs into Norway historical statistics data -- seems important difference from HMD? See data source html
-
+</p>
 2021.0927 Google Doc has data sources for dempap (but some attention to format and styles needed?).    
 Wrote up SouAfr sources -- but do we use SouAfr in our Figure? We have only 1910, 1911 IMR for 1911 sr5; we have imr 1910 onward, but only the 1918 and 1921 SR5 values (and what do we do about their overlap?)
 

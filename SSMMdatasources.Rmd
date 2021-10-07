@@ -261,15 +261,104 @@ Monthly data in [Statistische monatschrift](https://clio.columbia.edu/catalog/ht
 
 ### Norway ###
 
+u5 Populations -- years are year-end, to line up with IMR
+1846 (Jan 1) HMD, which has same values as in Norges folkemængde; corroborated with reference to u7 values found in Hist-Stat 1948.   
+    
+1866 (jan 1)  Census, same values as in HMD. 
+    
+1876 (Jan 1) Census, resident population (negligible difference from population present). The HMD value     
+[YrBk 1885-86](https://www.ssb.no/a/histstat/aarbok/1885-1886.pdf)  p10 refers to pop by age 1875   then 1856-84 p19 births   p20 sstillb  deaths
+
+
+
+1901
+
+
+
+Careful of dating -- HMD data are for Jan 1 of the year stated, but StatsNorway gives same values as Dec 31 of the prior year. So there is a simple 1-year discrepency to be alert for.
+
+u5 ages also on pdf3478 of Mitchell (2013)
+
+IMR data
+
+
+1882 YrBk has births & u1 deaths for 1871-1880
+1885/86 YrBk has births & u1 deaths for 1878-1884
+
+1902 YrBk 1898-1900  plus 5yr avgs 1871-75, ... 1896-1900  (pdf 44); 1903 nothing new;
+1905 YrBk 1899-1903   inf deaths 1897-1903
+1911 YrBk       births & inf deaths 1900-09
+1922 YrBk 1900-1919 (also 1917 has 1901-1915); slight changes from 1911, 1905 entries
+1925 YrBk 1900-1921 --but later birth totals not by sex don't match totals in table by sex 
+
+
+Mortality 1856-1955(https://www.ssb.no/a/histstat/sos/sos_010.pdf) has 5yr avgs 1836-40, 1841-45 etc to 1951-55    
+1948 Hist Stats has 5yr avg 1891 forward
+
+
+
+
+
+Two issues for HMD data. Timing, HMD year is (StatsNor +1); HMD is for Jan 1 and SN is Dec 31. So HMD u5 t should be associated with IMR t-1, t-2, ..., t-5. Magnitudes: *Norges folk* refers to census-based populations: "The figures relating to the population on January 1, 1846, 1856, 1866, 1876, 1891 and 1901, rely on censuses, while those for all intermediate year is calculated." (translated from Norwegian).
+
+E.g. HMD for 1866 and 1971 are Jan 1 values, which show up as the 1865 and 1870 values at Statistics Norway Tab 05810 (which table has footnote "Until 1990 the figures correspond per 31 Desember. As from 1995 the figures correspond per 1 January.." )
+
+u7 populations 1845-2021 in [05810: Population, by sex and age 1845 - 2021](https://www.ssb.no/en/statbank/table/05810); those years correpsond to HMD(year+1); thus the 05810's 1865 value is HMD's 1866 value.
+
+HMD & Norgesfolkemængde have same timing -- 
+
+
+HMD u5 is same data as Norges folkemængde, which states age/sex data is for the start of the year; e.g. u5 male 1866 117,026 -- that is the value reported for 1865 by Statistiske oversikter 1948 and by HMD?.  Census refers to Jan 1, 1866 (but pdf39p3 refers to 31Dec1865 pop 1,701,756 which is table 05810 value for 1865 . 
+e.g. u5 male 1865 114,326  1866 117,026  in HMD  & Norges folk; reported for 1865 in Statistiske 1948    
+
+[Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901 (Population de droit](https://www.ssb.no/a/histstat/nos/nos_v_113.pdf)  RESIDENT POP (de droit)
+TRANSLATED   
+FROM NORWEG: The figures relating to the population on January 1, 1846, 1856, 1866, 1876, 1891 and 1901, rely on censuses, while those for all intermediate year is calculated.
+FROM FRENCH: Since 1876 the age has been expressed year by year, but for years previous years into groups which have been divided by years using calculations approximate, based on the number of births over the years corresponding. Similar calculations have been undertaken in part also for the censuses of 1876, 1891 and 1900 in order to correct certain irregularities from ages shown in round numbers.
+FROM NORWEG: Norway's resident population distributed by individual age at the beginning of each of the years 1846-1901
+
+[pop movements? 1846-55](https://www.ssb.no/a/histstat/nos/st_16r_1846-55.pdf) Jim finds no age/sex on quick look
+
+[Resultaterne af Folketællingen i Norge 1 Januar 1876](https://www.ssb.no/a/histstat/nos/nos_i_c1_i_1876.pdf)    slightly different age/sex counts for u5
+p97 Tilstedeværende Folkemængde -- population present;    p134 Hjemmehørende Folkemængde  NATIVE population
+
+
+ pdf22 of [1886 census](https://www.ssb.no/a/histstat/nos/nos_iii_053.pdf) shows u15 by sex
+
+
+[Statistisk årbok 1880](https://www.ssb.no/a/histstat/aarbok/1880.pdf)  (1880 yearbook)
+ægtevielser marriages in 1876
+livebirths m,f,tot 1870-76 pdf29 p21
+u1 deaths m,f,tot 1870-76 p22 (6,236 in 1876; p23 born in 1876 died in 1876 4,238; born 1875 died in 1876 3,219)
+
+Antal utvandrere  number of emigrants
+
+
+[1925](https://www.ssb.no/a/histstat/aarbok/1925.pdf)  p25 Table 22 has IMR 1901-1923  p22 births
+
+1952 
+
+[Statistical Yearbook of Norway 2000](https://www.ssb.no/a/en/histstat/aarbok/2000_en.pdf) Includes historical statistics and discussion, including "Nearly all statistics are revised, and nearly every revision means that comparisons of data from one year to another cannot be made without reservation. In notes to the tables, attention has been called to the substance of some of these revisions and how they have affected the data. For more information readers are referred to the text of Statistical Survey 1948, Historical Statistics 1968 and Historical Statistics 1994 (http:/Mww.ssb.no/historisk/ .).      
+p67 provides dates of censuses, for us: 1845/46  1855/56 1865/66  31Dec (1945,55,65,75,90); 3Dec (1900,46); 1Dec (1910,20,30,50); 1Nov (1960,70,80); 3Nov (1990)    
+p83 has u6 by sex every 5 yrs from 1961Jan1 to 2000.    p123 has IMR 5yr avg 1876-95, annually 1988-96.
+
+
+
+
+HMD births data has m/f 106.00 for 1847-1915, except 1907 is 105.9948 -- I'm surprised they didn't tweak m or f by 1 ...
+
+
+
 Listing of Norway publications [1828-1876](https://www.ssb.no/a/english/histstat/publications/)
 
-U5 populations 1900, 1930, 1960,Historik statistikk	[3.3 Resident population, by sex, marital status and age](https://www.ssb.no/a/histstat/tabeller/3-3-en.html)
 
 [U7 populations](https://www.ssb.no/a/histstat/tabeller/3-6-en.html)
 
 Norway IMR by periods (1876-80, 1881-85, ... 1946-50, ... 1966-70)
 
-[Historical publications 1828-1996](https://www.ssb.no/a/english/histstat/publications/)  list all statistical publications by subject with links.]
+[Dødeligheten blant spedbarn i Norge 1901-1963](https://www.ssb.no/a/histstat/sos/sos_017.pdf)  IMR 5yr averages, 1901-1905 ... 1956-60, 1961-63    Also [public in Norweg re: mort](https://www.ssb.no/a/publikasjoner/pdf/sa94/sa94.pdf) has some graphs re IMR, e.g. pdf44
+
+
 
 Historical Statistics 1994 1968  1948
 1948 version has u5 pops 1865 1875 1900 1910 1920 1930 1940    and IMR annually from 1836 
@@ -277,14 +366,39 @@ Historical Statistics 1994 1968  1948
 [2. Befolkning. Helseforhold (Population. Health)](https://www.ssb.no/a/histstat/publikasjoner/histemne-02.html#P538_17722)
 
 
-Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901 (Population de droit) [V 113](https://www.ssb.no/a/histstat/nos/nos_v_113.pdf)  
 
+	
+HISTORISKE TABELLER OVER FOLKEMENGDE, GIFTERMAL, OG DODSFALL](https://www.ssb.no/a/histstat/nos/nos_a986.pdf) Historical Tables on Population Marriages and Deaths 1911-1976   --- based on 1911 entries, this has the HMD value offset by 1 year. The 1911 value here (end of 1911) is the HMD's 1921 value (start of year).
+
+Historik statistikk	[3.3 Resident population, by sex, marital status and age](https://www.ssb.no/a/histstat/tabeller/3-3-en.html)  gives resident population data, slightly different from (HMD and Norges Folk).
 
 
 [Norway births & u1 deaths](https://www.ssb.no/a/histstat/tabeller/3-13.html#)
 
 (https://www.ssb.no/a/histstat/hs1978/hs1978.pdf) and 1968 -- have 5year average IMR; Mitchell publishes annual IMR values (source seems to be (p117) "official publications noted on p xv:)    
-[Historisk statistikk](https://www.ssb.no/a/histstat/) Mitchell reports IMR for Norway from 1786; but I cannot find those in the sources he cites (too broad a set for me to get through and translate). We will use the HMD time frame, 1846 forward. 
+[Historisk statistikk](https://www.ssb.no/a/histstat/)      
+Mitchell reports IMR for Norway from 1786; but I cannot find those in the sources he cites (too broad a set for me to get through and translate). We will use the HMD time frame, 1846 forward. 
+
+
+Statistics Norway [Historical Statistics](https://www.ssb.no/a/en/histstat/) .       
+[Historical publications 1828-1996](https://www.ssb.no/a/english/histstat/publications/) list all statistical publications by subject with links.   That in turn groups the pubs as [1828-1976](https://www.ssb.no/a/histstat/publikasjoner/histemne-02.html) and [1977-1996](https://www.ssb.no/a/english/histstat/publications/ereg77-96_en.html#02) . The latter has two with pre-20th C items: the censuses of 1769 and 1801.
+
+
+FROM SN: 
+
+     Statistical survey/Historical statistics is a series of survey publications of historical time series published by Statistics Norway. Until the 1948 edition the publications were in Norwegian and French, thereafter in Norwegian and English. CR    The historical time series date as far back as it has been possible to give comparable figures. The publications are organized by subject and each chapter starts with an overview of the statistical sources and with a description of development trends.  CR  Editions: 1994 | 1978 | 1968 | 1958 | 1948  CR Note: The editions from 1978 and 1968 are more extensive than the 1994 edition.
+
+[1978](https://www.ssb.no/a/histstat/hs1978/hs1978.pdf)
+
+[TREND OF MORTALITY AND CAUSES OF DEATH IN NORWAY 1856-1955](https://www.ssb.no/a/histstat/sos/sos_010.pdf)    
+Chapter IV.     
+Table 20. Stillbirth rate and infant mortality rate 1836—1955 55    
+presents 5-yr averages of IMR.   
+ 
+Table 21. Perinatal mortality and infant mortality rates 1876—1955 57
+
+
+
 
 ### Finland ###
 
