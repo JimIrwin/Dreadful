@@ -10,7 +10,7 @@ output: html_document
 
 #### loose ends (move/tidy when noted)
 
-Jim to track down Children's Bureau IMR studies/publications
+Jim to track down Children's Bureau IMR studies/publications    
 
 http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR implications or data?
 
@@ -19,6 +19,11 @@ http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR i
 Missing Women web page needs better cites, eg Klasen
 
 ### current log
+
+2021.1008 Norway's reliable IMR data starts with 1876 (before that, early-dead infants counted as stillborn, deflating births and infant-deaths). Issue now is whether to pair the 1876-1970 IMR data with NorgesFolk-HMD SR data which are interpolations between census years. Perhaps we want to use the 1876-1880 IMR with the 1880 HMD SR data (just 5 years post-census); and could pair 1881-85 IMR with 1885 SR, etc ... 
+
+1961 publication by
+Statistisk Sentralbyrå 
 
 2021.1007 we have Norway 1845 in our set; the (SR7=101.3 b/g ) is from the census, and it suggests an unhealthy population ... the question for me is whether the IMR is plausible, at just 118.2 ? Certainly the point is way off any sort of fitted line ... hmmmm 
 
