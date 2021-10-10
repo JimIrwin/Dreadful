@@ -20,6 +20,8 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.1010 updates RDS files with NOR 1886onward and with DEU more precise (but still need to input 1925 1933)
+
 2021.1008 Norway's reliable IMR data starts with 1876 (before that, early-dead infants counted as stillborn, deflating births and infant-deaths). Issue now is whether to pair the 1876-1970 IMR data with NorgesFolk-HMD SR data which are interpolations between census years. Perhaps we want to use the 1876-1880 IMR with the 1880 HMD SR data (just 5 years post-census); and could pair 1881-85 IMR with 1885 SR, etc ... 
 
 1961 publication by
