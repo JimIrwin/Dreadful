@@ -1,7 +1,7 @@
 ---
 title: "SSMM-Log : Captains' Log for the SSMM/SR1 Project "
 author: "jri & jrm"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "11 October, 2021"
 output: html_document
 ---
   
@@ -20,7 +20,6 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
-1012 wondering if we want to look at igme with SR?  Nigeria 2006 census 104.9 --- hmmm missing girls?
 
 2021.1011 Ji write-up German sources; NOTE: presumably Prussia is not part of DemPap (it is included in the data for Germany)
 2021.1010 updates RDS files with NOR 1886 onward and with DEU more precise (but still need to input 1925 1933)

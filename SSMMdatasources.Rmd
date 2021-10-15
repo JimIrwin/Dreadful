@@ -12,19 +12,18 @@ output: html_document
 
 [Australasia](#AUSNZ)   [South Africa](#SouAfr)    [Italy](#ITALY)
 
+UN [pop by age/sex](https://population.un.org/wpp/Download/Standard/Interpolated/)
+UN [life tables](https://www.un.org/en/development/desa/population/publications/mortality/model-life-tables.asp)
 
 ### to organize/move ###
 
 US Census offers biblio of recent [foreign Statistical Abstracts](https://www.census.gov/prod/2011pubs/12statab/app1c.pdf)
 
-
 Jesse might find in NYC? or we have now?  Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
-
 
 [Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf)
 
- Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   
-
+Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   Sou Afr total pop, u2 and u5, by sex (coloured/white not separate). 
 
 [Bourbeau, Légaré, Émond](http://www.publications.gc.ca/Collection/Statcan/91F0015M/91F0015MIE1997003.pdf) 
 
@@ -39,13 +38,35 @@ Richards (1909) "A Study of New England Mortality"
 
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
 
+### CRVS ####
+
+UN Demographic Yearbook [2019](https://unstats.un.org/unsd/demographic-social/products/dyb/dyb_2019/) classifies vital stats data as complete C or incomplete I  Introduction discusses classification.  But note that IMR estimate at IGME don't seem to need CRVS to be any good
+
+Suthar et al [2019 PloS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002929 ) “Evaluation of approaches to strengthen civil registration and vital statistics systems: A systematic review and synthesis of policies in 25 countries” most low- and middle-income countries still have underdeveloped systems
+
+The World Bank. [Civil Registration and Vital Statistics for Monitoring the Sustainable Development Goals 2017.](http://documents.worldbank.org/curated/en/979321495190619598/pdf/115150-WP-CRVS-for-Monitoring-the-SDGs-web-version-May-18-2017-PUBLIC.pdf) 
+
+[Mikkelsen, et al (2015 The Lancet)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60171-4/fulltext)
+"A global assessment of civil registration and vital statistics systems: monitoring data quality and progress"
+
+
 ### Europe ### 
+
+Summary view of societies, time-periods for which we have good IMR/SR data.     
+Nordic countries: Denmark (1840-1970), Finland (1885-1970), Iceland (1845-1970), Norway (1890-1970) and Sweden (1751-1970)
 
 Nothing new for us in JSSL 1885 "Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium," Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297. No age data on Italy    
   Reporting on Toussaint Loua's paper published by Journal of the Paris Statistical Society ... LT5
   On France:  the falling off in the number of the population comprised in the age period 10-15, chiefly due in his opinion to the excessive  infantile mortality during the year 1871, and also by the abnormally large number of females returned as being between the ages of 20 and 25, which he attributes to the fact that many women, desirous  of being thought to be younger than they really are, return them-selves as under 25 
 
 many 19-c sources listed in Galloway, Patrick R., "The golden age of published demographic data in Europe 1850-1915: sources and research possibilities", 2008. [Download](http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf)  See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905. 
+
+#### Italy ####
+
+Mitchell IHS
+
+italian [digital stats pubs](https://ebiblio.istat.it/SebinaOpac/resource/annali-di-statistica/IST0030194?locale=eng&tabDoc=taboggd) incl one referenced in tab 2.3 which has different birth counts
+
 
 #### Swiss data ####
 
@@ -84,54 +105,55 @@ V3pt1 Tables p18 deaths by sex/age
 Germany 1880-1933 with IMR/SR  ~240 100.5  (1880)  to   ~77 103.7 (1933)  
 Prussia 1875  ~220 101.1
 
-[Statistical Yearbooks](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303) 1881-1943 are online from German site.     
+u5 populations
+1871 IHS-A7-3580; 1880: Statistisches Jahrbuch 1883, p. 10; 1890: Statistisches Jahrbuch 1896, p. 5;   1900: Statistisches Jahrbuch 1903, p.6;  1910: Statistisches Jahrbuch 1919, pp. 6-7;  1925:  Statistisches Jahrbuch 1919, p. 14; 1933: Statistisches Jahrbuch 1939, p. 14.
+
+
+[Statistical Yearbooks](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303) 1880-1941/42 are online from German site.      
 [1903](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303_1902) has age/sex [p6](http://www.digizeitschriften.de/download/PPN514401303_1903/PPN514401303_1903___log7.pdf) has age/sex     
-1893 has u10  ;   1913 no; 1914, 1915 u12; 1916,17,18 no; 
-Jim looked at 1881 but could not make out age/sex data with 20 minutes effort. These seem not to be searchable.  1914's p497 has International Overview (of what?)    
+1893 has u10  ;   1913 no; 1914, 1915 u12; 1916,17,18 no;   1927x  1928&1929 have 1925 age/sex.     
+1936 yrbk has the IHS values of u5 pop, date of 31dec1833; 1837 yrbk gives slightly smaller values, from June which is the census date. So we should use those -- the census values.
 
+1881 no age/sex data found. These seem not to be searchable.      
+1914 p497 has International Overview (of what?)     
+1991 has data for 1950 forward     
 
-
-
-[Statistisches Jahrbuch für das Deutsche Reich](https://catalog.hathitrust.org/Record/100422931) has Hathi full-view of 1886-1908
-
-
-[Stat Jbuch 1903](https://babel.hathitrust.org/cgi/pt?id=hvd.32044106515596) 
-
-
-1891 [full-view at Hathi](https://babel.hathitrust.org/cgi/pt?id=umn.319510012197977&view=plaintext&seq=7&q1=alter) and 1895 at   
-[Google](https://books.google.ca/books?id=JigoAAAAYAAJ&source=gbs_book_other_versions) have search capability.
+Early YrBooks, full-view at Hathi, [1873 and later](https://catalog.hathitrust.org/Record/100422932)
+ 1873 no ages; 
 
 Seems that all the Yearbooks are [Online at Columbia](https://clio.columbia.edu/quicksearch?q=Statistisches+Jahrbuch+f%C3%BCr+das+Deutsche+Reich&commit=Search) (Statistik des Deutschen Reichs) and those probably are Hathi and searchable. 
 
-Statistisches Jahrbuch für das Deutsche Reich Volumes 1-4 By Germany. Statistisches Reichsamt · 1880  At google books, but my search for "alter" doesn't yield age/sex 
-Säuglingsalter infancy p 10 -- count of total, not by sex
-Volkszählung  census   
-
 Later Yearbooks are online. I checked 1991 index: Säuglingssterblichkeit  74, 86, 434.
-p434 causes; p74 births; deaths in first year of life;
-Gestorbene im 1 Lebensjahr 1950 1116701 67175
-Die Säuglingssterbeziffer  
+p434 causes; p74 births; deaths in first year of life;    
+Gestorbene im 1 Lebensjahr 1950 1116701 67175     
+Die Säuglingssterbeziffer    
 
 
 **Mitchell**   2013 pdf3396 A- Population and Vital Stats
 
-We'll use Mitchell's u5 populations for 1880 1890 1900 1910 1925 1933 (Series A2, 2013:13pdf3454, 1983:45). Seems Alsace & Lorraine included 1871-1918 (But Js assures these are small).  Series A1 Germany (pdf3408) has fn24 (pdf3437); A1 has pops for those census years. 1910 has fn25 From 1910 (2nd line) the territories ceded after the First World War are excluded 
+YrBks corroborate Mitchell's u5 populations for 1880 1890 1900 1910 1925 1933 (Series A2, 2013:13pdf3454, 1983:45). Seems Alsace & Lorraine included 1871-1918 (But Js assures these are small).  Series A1 Germany (pdf3408) has fn24 (pdf3437); A1 has pops for those census years. 1910 has fn25 From 1910 (2nd line) the territories ceded after the First World War are excluded 
 A2 is pop by 5-yr ages.  (2013:15pdf3454);  1933n13 p45pdf3484 Excludes Saarland.
 A1 is census pops (2013:10pdf3407) 1910 has two lines, n25 ()
-
 
 Mitchell gives a consistent series for IMR data for 1875-1900 ("five states"), but 1900-40 (Empire & Republic) is different.    
 
 Our spreadsheet (IMR-SR.xls) refers to 1875-1900 series as D5S (5 states) and it is to be used for SRs from 1880-1900.  The subsequent IMR series is DER (Empire & Republic) and it is to be used for the 1910 and later German data.
 
 Mitchell reports (pdf139, 2013:pdf3577) IMR from 1836 (292), but via footnote 3 (pdf146p127) 1836-50 is Bavaria only; 1851-70 is Bavaria and Kingdom Saxony;  1871-74 + Baden, Wurttenburg; 1875-1900 + Prussia; 1901-1940 German Empire & Republic.   fn7 
-1875 242 but n9 1875 without Prussia 308 (1872-1874 values listed are 301 307 297)  so Prussia pulls average IMR way down. Knodel 1974 corroborates that, with Prussia IMR 1871-75 224 1876-80 205
-
+1875 IMR=242 but n9 1875 say IMR without Prussia 308 (1872-1874 values listed are 301 307 297)  so Prussia pulls average IMR way down. Knodel 1974 corroborates that, with Prussia IMR 1871-75 224 1876-80 205      
+Mitchell IMR p3589 n3: Bavaria, Saxony, Baden, Württemberg, and Prussia for 1875–1900; German Empire and Republic for 1901–40;     
+Mitchell U5 p3454, n13 on 1925& 1933, n14 on 1939;  p3484 A2 Notes 2. For fuller footnotes on territorial changes and on the nature of these statistics see table A1 (Population of European Countries at Censuses).  Footnotes 13 Excluding Saarland. 14 1937 territory.       
+Table A1 p3407 Germany footnote 24, p3408 1910 n25, 1933 n27        
+n24 figures to 1864 (1st line) ... exclusive of areas ceded ... in 1860-71  / <those areas included> from 1865     
+n25 from 1910 second line territories ceded after WW1 are excluded     
+n27 1939 includes a small part of Austria    
 
 The u5 counts in Mitchell match the Yearbook Vol 4. There  "Eheschliessungen, Geburten und Sterbefälle in den Jahren 1872—1881" (Marriages, births, deaths).
 
-
 HMD life-tables for Germany, [1870s](https://www.lifetable.de/data/DEU/DEUFRG018711880AU1.txt) has q0m of 252.73 q0f 217.40 
+
+Säuglingssterblichkeit 
+
 
 **Prussia** and Berlin. Annual IMR 1875-1914 and u5 m & f counts for 1875, 1885, 1895, 1900, 1905, 1910. 
 
@@ -267,6 +289,8 @@ Monthly data in [Statistische monatschrift](https://clio.columbia.edu/catalog/ht
 
 
 ### Norway ###
+
+Thinking we'll want to estimate Norway's IMR 1845, 1855, 1865, 1875 based on the SR values and Nordic IMR:SR relationship of 19th C ...
 
 Listing of Statistics Norway historical publications by subject [1828-1876 & 1977-96](https://www.ssb.no/a/english/histstat/publications/)
 
@@ -432,8 +456,9 @@ p94 Table 4.14 shows (for year 1832-38) inland IMR rates between 97 and 122; coa
 
 ### Finland ###
 
-. Use HMD births and u1 deaths; they match Mitchell IMR for 1878 & 1879.
-[Statistical Yearbook of Finland](https://www.doria.fi/handle/10024/67152/browse?type=dateissued) (Suomen tilastollinen vuosikirja). Might use Mitchell for IMR, or HMD u1 deaths & u1 pop match Mitchell IMR for 1878 & 1879. HMD has births 1865-2019; deaths by yearly-age run from 1878 -- as do u1 death rates. Mitchell has IMR from 1866 ...   Mitchell's U5 populations do not match HMD (series 1); the do match HMD series 2;
+Use HMD births and u1 deaths; they match Mitchell IMR for 1878 & 1879.
+[Statistical Yearbook of Finland](https://www.doria.fi/handle/10024/67152/browse?type=dateissued) (Suomen tilastollinen vuosikirja) runs from 1879.     
+Might use Mitchell for IMR, or HMD u1 deaths & u1 pop match Mitchell IMR for 1878 & 1879. HMD has births 1865-2019; deaths by yearly-age run from 1878 -- as do u1 death rates. Mitchell has IMR from 1866 ...   Mitchell's U5 populations do not match HMD (series 1), but they match HMD series 2;      
 
 ### Brazil
 
@@ -648,11 +673,59 @@ ABS page with [good overview of the censuses](https://www.abs.gov.au/ausstats/ab
 
 u5 population data is lacking; we have 1904, 1911, 1918. IMR data is available for whites 1910-1990.
 
-IMR for whites in IHS,  1910-1990. These are reported as integer values of rates per thousand; more precise values are found in the official yearbooks (Ji notice a few small discrepencies, but IHS is consistent with the more recent Yearbooks' data).
+IMR "coloured" IHS starts with 1937 and 1937-1940 ranges 157-166 (with 1941 166, 1942 177)
+So we want SR data 1921 1931?  1941?      6th census 1936  vol II ages  vol IX Bantu     
+
+Columbia Clio shows     
+microform [South Africa--Census, 1865, 1904, 1911, 1918, 1921, 1916, 1931, 1936, 1941]()
+
+
+[1921](https://clio.columbia.edu/catalog/10770950) via Gale, 19th C COllections Online
+
+1936 is more than vol 1 available? SHould be, since it is on microfilm
+ZAN-T4817 Africa: South Africa  1926: no. 1-1936: no. 1   ADV REQUEST
+	
+Sixth census of the population of the Union of South Africa, enumerated 5th May 1936. Ages and marital condition of the Bantu Population / Sesde sensus van die bevolking van die Unie van Suid-Afrika, opgeneem 5 Mei 1936. Leeftye en huwelikstaat van die Bantoebevolking / Unie van Suid-Afrika. by South Africa. Office of Census and Statistics (1917-1951);
+
+South Africa. Office of Census and Statistics.  Sixth census of the population of the Union of South Africa, enumerated 5th May, 1936. = Sesde sensu  Pretoria : Printed by the government printer, 1938
+Schomburg Center - Research & Reference	 Sc+ 312-S (South Africa. Office of Census and Statistics. Sixth census)  v. 6-7, 9  
+
+[Columbia -- Offsite at Princeton](https://clio.columbia.edu/catalog/SCSB-1076056)
+Natives (Bantu) and other non-European races. [Microform]
+AuthorSouth Africa. Office of Census and Statistics.
+TitleNatives (Bantu) and other non-European races. [Microform]
+PublishedPretoria, 1942.  
+Subjects
+South Africa > Census, 1936.
+
+UG12/42, Sixth Census of the Union of South Africa 1936, Volume IX Natives (Bantu) and Other Non-European Races (Government Printer, Pretoria, 1942), p xxv.      
+UG50-'38, Sixth Census of the Union of South Africa 1936, Supplement to Volume IX Ages and Marital Condition of Bantu Population (Government Printer, Pretoria, 1938), p v.     
+
+International population census publications, region, Africa. Country, South Africa. [Census year(s), 1946, 1951, 1960](https://clio.columbia.edu/catalog/SCSB-8778348) Seems to have 1946 no. 0-6   Seems to be at NYPL ... OFFSITE - Request in Advance for use at Schwarzman Bldg - Microforms Rm 315  
+
+[Info on Sou Afr censuses](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0018-229X2011000200001)  1911  1918 whites only  1921 full pop   1926 whites only 1931 whites only  1936 full pop  1946 full pop   1951 full pop  1960 full 
+
+[UPenn online Sou Afr stats](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=South%20Africa%2E%20Office%20of%20Census%20and%20Statistics)
+
+Maybe 1938 Official year book of the Union and of Basutoland would have age/sex for sr5?
+
+IGME 1974.5 IMR 90    1980 67
+IHS  1974 18 116  1975 20 104 (4/5 B  implies ~87)  1980   13  61 NOPE  
+IMR for whites in IHS,  1910-1990. These are reported as integer values of rates per thousand; more precise values are found in the official yearbooks (Ji notice a few small discrepencies, but IHS is consistent with the more recent Yearbooks' data).    
+IMR for "colored" 1937-1990    
+But IGME IMR are higher:  1980 67.01  while IHS w 13 col 61  ...
 
 u5 white populations (by sex) :  we have 1904, 1911, 1918    
 
-Maybe Columbia has u5 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online. Expect we can get u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1); same is [search-only for Jim at Hathi](https://catalog.hathitrust.org/Record/009127872).      
+Ouderdom -- Age
+
+Report 03-00-092016.pdf says IMR fell to 35 per 1000 in 2011-16 versus 45 in 1993-98 (DHS )
+
+IGME suggests 
+
+Maybe Columbia has u5 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online. Expect we can get u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1); same is [search-only for Jim at Hathi](https://catalog.hathitrust.org/Record/009127872).       
+
+Columbia has [1970 census[(https://clio.columbia.edu/catalog/2520600)
 
 Columbia U has [1921 online](https://clio.columbia.edu/catalog/10770950), 1926, 1931, 1936, 1941 are off-site at NYPL?;  
 
