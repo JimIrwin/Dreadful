@@ -1469,6 +1469,15 @@ p1 births (reported/corrected) 1889 49272/65224 1890 52306/60555
 p2 SRBs are silly high  108 109 109 109 117  p3 1890 SRB 27523/24687 = 111.5 SILLY HIGH
 <br>calculations are in Canada spreadsheet
 
+### Misc US health/demog 
+
+Meeker 1972 EEH says e0 rose 1850-1900 from about 40 to about 50
+uses the e0 estimates of Jacobson (1957) and Meech     
+says Jacobson uses "Greville short-cut method, a technique that uses age-specific death rates as its basic data input."  ... uses death registration for Mass and MD for 1850    Meech examined survival rates in the census 1830-1860  ... both get e0 male of 40-41     
+356 That expectation of life at birth increased during the second half of the nineteenth century is beyond dispute.   
+358 I believe, with Meech, that the expectation of life improved only very slowly before 1880; it then began to improve rapidly. This view is consistent with the Massachusetts data, and as shown below, Massachusetts data-despite surface appearances to the contraryappear to be fairly representative of the United States as a whole. 
+
+
 
 ### Crap to Mostly Ignore (even if we cite it) ###
 <p>Costa & Kahn (2015 AER-P&P) 1900-1930 p564 The urban mortality premium relative to rural areas in 1880 was ten years in Philadelphia (Haines 2001).  ... We will show that between 1900 and 1930 neighborhood convergence took place in New York City and Philadelphia such that infectious disease death rates in the highest baseline death rate areas declined by more than in the relatively safer areas </p>
@@ -1568,9 +1577,8 @@ p142  every cotton labor camp carved out of the southwestern woods used torture 
 
 walter Johnson 2013 BOOK
 
-p170 memories bespeak spaces and routines that were dense with the threat of  vio-lence in flicted on bodies exposed by their labor.   ...  Slave-holders used the well- grooved patterns of  plantation life to construct a simulacrum of  domestic and agricultural order over sexual predation
+p170 memories bespeak spaces and routines that were dense with the threat of  vio-lence inflicted on bodies exposed by their labor.   ...  Slave-holders used the well- grooved patterns of  plantation life to construct a simulacrum of  domestic and agricultural order over sexual predation
 p195  Being enslaved was not only a condition characterized  by  vulnerability  to  sexual  assault—it  was  always  al-ready  a  condition  of   sexual  violation.  n46 Debh Gray 
-
 
 p464notes   almost impossible to imagine a scenario in which most field hands did not suf fer from some level of  malnutrition. 
 p468 Follett estiamties that some Louisiana sugar plantations had a 55 percent mortality rate among slave children within the first year of life
@@ -1580,6 +1588,10 @@ Pargas 2011 Slv&Abol
 
 
 </p>
+
+<p>Meeker EEH
+
+
 
 ## Sex-Ratios and Sex-Discrimination: Testing for Excess Girl Mortality -- maybe a separate paper?
 
@@ -2503,6 +2515,9 @@ Davis (1913) Statistical comparison of the mortality of breast-fed and bottle-fe
 </p>
 
 **Norway**
+
+Lynch & Greenhouse 
+ Perrenoud has formalized this difference between the Norwegian and Swedish pattern and that of the rest of Europe, by distinguishing a 'northern' and 'western' model for the nineteenth century: the northern model 'with constant and more or less regular decline',  and the western model 'which shows no tendency to decline before the 1880s, and even  a prominent increase between 1830-1840 and 1860 1870'.12
 
 Edvinsson et al 2008 Cont&Ch Nordic  
 

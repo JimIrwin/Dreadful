@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">14 October, 2021</h4>
+<h4 class="date">17 October, 2021</h4>
 
 </div>
 
@@ -404,13 +404,61 @@ Nordic countries: Denmark (1840-1970), Finland (1885-1970), Iceland (1845-1970),
 <p>Nothing new for us in JSSL 1885 “Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium,” Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297. No age data on Italy<br />
 Reporting on Toussaint Loua’s paper published by Journal of the Paris Statistical Society … LT5 On France: the falling off in the number of the population comprised in the age period 10-15, chiefly due in his opinion to the excessive infantile mortality during the year 1871, and also by the abnormally large number of females returned as being between the ages of 20 and 25, which he attributes to the fact that many women, desirous of being thought to be younger than they really are, return them-selves as under 25</p>
 <p>many 19-c sources listed in Galloway, Patrick R., “The golden age of published demographic data in Europe 1850-1915: sources and research possibilities”, 2008. <a href="http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf">Download</a> See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905.</p>
+<p><a name="ITALY"></a></p>
 <div id="italy" class="section level4">
 <h4>Italy</h4>
-<p>Mitchell IHS</p>
-<p>italian <a href="https://ebiblio.istat.it/SebinaOpac/resource/annali-di-statistica/IST0030194?locale=eng&amp;tabDoc=taboggd">digital stats pubs</a> incl one referenced in tab 2.3 which has different birth counts</p>
+<p>It is tempting to use the comment about “extra caution” and data problems for Italian mortality as a basis for dropping the Italian SR:IMR set. But comment misleads about IMR data, which does have single year deaths (and original sources show u1month and u1year deaths, by sex).<br />
+Jim kills a day poking around ITA 19th C data (and sources) to find that stillborns are a little lower than expected for the IMR (e.g. 30 per K livebirths while Prussia has more like 40 – and they both have IMR around 200). But that does not seem to be a basis for challenging the Italian IMR. If we shifted infant deaths over to stillbirths to make Italy look like Prussia (raise ITA stillborns by 1/3) then 1870s avg IMR drops from 214 to 207 – negligible.</p>
+<p>But Pizzo &amp; Barona quote Woods “Italy offers an excellent example of what we would expect to see in a country with improving registration coverage. National rates of late-fetal mortality only reached credible levels during the early decades of the twentieth century because regional differences in registration quality had narrowed by them. Rates in the south rose to match those in the north and then stayed at a higher level longer” (Woods, 2009, 82).&quot;</p>
+<p>LOOK AT BRESCHI REGIONAL IMRS and TRY TO LINK TO SR REGIONALLY ….</p>
+<p>HMD “ABOUT MORTALITY DATA FOR ITALY” (Last updated 2021 May 12) Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age. The data for 1883-84 demonstrate clear patterns of age heaping. In 1893 and 1894, data are available only for the total number of deaths by sex (not by age group); the age distribution has been estimated (see Appendix II for details)<br />
+p5 DATA QUALITY ISSUES<br />
+The data prior to 1906 should be used with extra caution due to problems of quality. For most of these early years, the original death counts were available only by five-year age groups with an open age interval at age 75+ years. Thus, life tables by single years of age are based on estimates. Users are advised to use the life tables by five-year (or 10-year) age groups, which are based mostly on the original data rather than estimates.</p>
+<p>Sviluppo pdf 694-95 gives births and u1 deaths 1862-1960?</p>
+<p><a href="https://books.google.ca/books?id=HxtRAQAAMAAJ&amp;printsec=frontcover&amp;dq=Statistica+delle+cause+di+morte&amp;hl=en&amp;newbks=1&amp;newbks_redir=0&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Statistica%20delle%20cause%20di%20morte&amp;f=false">1881 &amp; 1882 Statistica delle cause di mort</a><br />
+pdf56-65 p2 Tavola I 1881 total pop 7,000,883 IHS shows pop 28.46 million<br />
+pdf162 Tav2 total deaths across months 197,559 NOT all of Italy</p>
+<p>1881 age0 deaths (within first year of life)<br />
+Istat 112,182 95,605 218,244<br />
+HMD__ 112,218 95,620 207,838</p>
+<p>Movimente della popolazione seconda gli atti dello stato civile xx Nati</p>
+<p>1874 pdf009 1875 pdf067 119pLI Nascite 120 births by sex: Italy France EngW Germ Prussia Bavaria 146 stillborn 1876 pdf237 258pxx Nascite pdf307 Appendice</p>
+<p>1881 pdf46 births by sex, 1863-1881; 1892 pdf31 births by sex, 1872-1892; nati-morti pdf45 same years ; 1890,91,92 deaths sex/age 1903 pdf34 births by sex, 1882-1903; nati-morti only 1901-1903</p>
+<p>Sviluppo 1965 pdf694 p688 has births 1862-</p>
+<p>For Jim, bottom line question is whether the IMRs are overstated. Do stillbirth data suggest anything? The fact that the male rate is only 10% above the female is interesting – that is consistent with the sex-ratios being not-so-female-biased. This is all about Italy’s SR data being inconsistent with the IMR values; e.g. 1881 Ln(u5f/u5m) = -3.7% and IMR &gt; 200. My simulator predicts -3% Can’t rule out mortal misogyny, but sex ratios by age do not show a shift toward boys (as expected in case of substantial excess female mortality).</p>
+<p>Italian <a href="https://ebiblio.istat.it/SebinaOpac/resource/annali-di-statistica/IST0030194?locale=eng&amp;tabDoc=taboggd">digital stats pubs</a> incl one referenced in tab 2.3 which has different birth counts</p>
+<p>U5 populations are on the Istat web-site with the same values as Mitchell’s IHS. HMD’s data has years are advanced by 1; seems HMD refers to start of year and Istat end of year? IMR values are on the Istat web-site; IHS (2013) has less precise version of the same.</p>
+<p>At least for 1901, the under-5 age group embraces some 5-year-olds, insomuch as the census reported Feb 9, 1901 populations by year of birth; probably less than 1/12 of the 1896-birthyear were age 5 at the census-date. But one wonders how precise the census-takers and respondents were when doing the census.</p>
+<p>SRB is somewhat male-tilted, with Ln(m/f) values usually at or above 6.0% until the second half of the 1880s; values usually in the 5.5-5.9% range into the early 20th century; values range from 4.9% to 5.4% in the years from 1908 to 1916. Interesting to see births fall more than 1/3 from 1915 to 1917 and the SRB tilt 0.9% toward boys (presumably because the decline of births was concentrated among the poorer and less-healthy women).</p>
+<p>The Istat data are in xls tables in the dempap/wrangling/raw folder.</p>
+<p>For SR5 <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1">Istat</a> and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census). HMD numbers seem the same, but years are advanced by 1.</p>
+<p>Deaths-data are in the <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1&amp;tx_usercento_centofe%5Bcategoria%5D=34&amp;tx_usercento_centofe%5Baction%5D=show&amp;tx_usercento_centofe%5Bcontroller%5D=Categoria&amp;cHash=b73e856aedfc85d2f1e27730c3822c86">Health tab</a></p>
+<p>Istat births are in Table 2.5 in the <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1&amp;tx_usercento_centofe%5Bcategoria%5D=32&amp;tx_usercento_centofe%5Baction%5D=show&amp;tx_usercento_centofe%5Bcontroller%5D=Categoria&amp;cHash=04e5a2e51acfa92f173aac082f0d8872">Population tab</a>, under the menu-heading <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1&amp;tx_usercento_centofe%5Bcategoria%5D=32&amp;tx_usercento_centofe%5Baction%5D=show&amp;tx_usercento_centofe%5Bcontroller%5D=Categoria&amp;cHash=04e5a2e51acfa92f173aac082f0d8872#">Resident population and demographic dynamics</a>, “Births by vitality and legitimacy status - Present population at reference year borders - Years 1863-2014”. These these births data are the same as those in Annuario statistica and HMD.<br />
+Different birth data are in Istat Table 2.3 (demographic balance: note a<br />
+(a) The demographic balance of the Italian population for individual years has been estimated on the basis of Censuses and demographic statistics availables. For more information: “Sviluppo della popolazione italiana dal 1861 al 1961” Annali si Statistica Serie VIII, Vol. 17, Istat 1965.)</p>
+<p>Mitchell IHS (pdf140) shows IMR 200 or more in 1863-88 except for 5 years (192 198 186 194 193) in 1881-1887 ; And his Table A2 (pdf47) has Italy u5 populations which give Ln(SR5) 1861 -2.0% 1871 -2.9% 1881 -3.66% (1881 m/f of 103.7 – ‘healthy-looking’?) and 1901 104.2 1911 103.8 1921 104.4 TREATMENT OF STILLBORN IN ITALY’s STATS?<br />
+Mitchell’s sources: Annali di Statistica (1871-); Annuario Statistico Italiano (1878-); Cento Anno di Svi/uppo Economico e Sociale del/’ Italia ; Somma rio di Statistiche Storiche italiane, 1861-1955</p>
+<p>HMD has single-year by sex for 1872 forward – source? For the Human Mortality Database, we use data based on the presente population for years prior to 1981. Population estimates are calculated based on census counts of the presente population in order to be consistent with the vital statistics (i.e., deaths, births). Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age. For 1912-20 and 1937-51, the pre- and post-war census counts and deaths data for the total population (including the military) are used to derive annual (January 1st) population estimates.</p>
+<p>For 1912-21, 1937-51 (WWI, WWII), HMD “Italy, data sources” refers to Jdanov et al. for births &amp; deaths, but that paper covers war-time mortality of young males.</p>
+<p>UN volume The Aging of Populations and Its Economic and Social Implications – used by Mitchell IHS for Greece population by age/sex in 1861 (or so)</p>
 </div>
-<div id="swiss-data" class="section level4">
-<h4>Swiss data</h4>
+<div id="italys-historical-data-sources" class="section level4">
+<h4>Italy’s historical data sources</h4>
+<p>1880 census volume just has population with geographic breakdowns (no age nor sex)</p>
+<p>1901 census population counts are by year of birth, with 1901 Jan 1 to Feb 9 and earlier full years. Perhaps of interest, the SR of the January babies is very male (m/f 109%), and moreso than the SRB.</p>
+<p>1901 census vol 2 (<a href="https://books.google.ca/books?id=6JUyAQAAMAAJ">google books CA</a>) pdf475 Indice, pdf 615 Tav III is population par sesso &amp; eta for various places 132-140 141-177, 178-229, 230-267,<br />
+A In ciascun capoluogo di provincia o avente oltre 15,000 abitanti (In each provincial capital or with over 15,000 inhabitants)<br />
+B In ciascun circondario ed in ciascuna provincia (In each district and in each province). Pp 230-267 (706-743) pop by birth-year and sex; 268-319 (744-795) single/married by age groups<br />
+C In ciascun compartimento e nel regno (In each compartment and in the kingdom). Pp 320-337 (796-813) ages by sex ; pdf813 is p337 with population by sex and birth-year for the kingdom as a whole (Regno).</p>
+<p>1901 vol 1 Tavola 1 Popolazione dei Comuni e Frazioni di Comune</p>
+<p>Annual stats are Annuario statistico italiano, <a href="https://books.google.ca/books?id=TUoYAAAAMAAJ">Vol 1</a> is 1878. 1897 has births by sex 1872-1895 pp38-39 pdf62-63. Birth totals match HMD and Table 2.5 of Istat (but Table 2.3 of Istat estimates larger birth counts; e.g. 1880 Istat’s 989 K live births; AnnStat and HMD have 957,900 (as does Table 2.5).</p>
+<p>pdf67 Igiene e sanita – sources include Statistica delle cause delle morti; limited mortality data – pdf68 p44 1887 828,992 total deaths – matches HMD. HMD says age 0 deaths 1887</p>
+<p>HMD deaths shows 1881 age 0 95620.21 112217.85 207838.06</p>
+<p>Statistica delle cause delle morti <a href="https://books.google.ca/books?id=2AuQ4GGhjkQC">1888</a> – does not seem to give infant deaths (nor deaths by age otherwise). 1887 also available (via other editions)</p>
+</div>
+<div id="switzerland-che" class="section level4">
+<h4>Switzerland (CHE)</h4>
+<p>Combined.RDS has 1880, 1888, 1900, 1910, 1920, 1930, 1941, 1950, 1960. Why not 1970? Maybe IMR too low (1960 is ~23)</p>
 <p>IMR from HSSO matches Mitchell/IHS 2013. Calc via 4yrs of data 1867-70 210.3, 4yr avg 210.2</p>
 <p><a href="https://hsso.ch/en/1996/b/8">u5 ages</a> for censuses 1860 onward from HSSS</p>
 <p><a href="https://hsso.ch/en/2012/c/38">deaths by age</a> Historical Statistics of Switzerland HSSO, 2012. Tab. C.38. hsso.ch/2012/c/38 Total Deaths by Age Group 1841–1870 (Estimate of I. and H. Ritzmann)</p>
@@ -1222,38 +1270,7 @@ Londo ex mil 1942336 1948369 pdf095p090 Counties-House 1841; and Pop … pdf097p
 <p>Eurostat 2008-2018 Not historical</p>
 <p>Die Gemeinden und Gutsbezirke des Preussischen Staates und ihre Bevölkerung: Nach den Urmaterialien der allgemeinen Volkszählung vom 1. december 1871 bearb. und zusammengestellt vom Königlichen Statistischen Bureau, Volumes 2-3 Hathi &amp; Google books – Under10 school stuff</p>
 <p>Statistisches Handbuch für den Preussischen Staat. <a href="https://catalog.hathitrust.org/Record/000496591">Band 1. 1888</a> 5-year age groups pop by birthplace, by religion, pdf126p104 m,f 5-year age groups (born 1885-81 1880-76 1871-75 etc) pdf304 ships less than 1 year old</p>
-<p><a name="ITALY"></a></p>
-</div>
-<div id="italy-1" class="section level3">
-<h3>Italy</h3>
-<p>U5 populations are on the Istat web-site with the same values as Mitchell’s IHS. They differ from HMD’s data. IMR values are on the Istat web-site; IHS (2013) has less precise version of the same.</p>
-<p>Italy’s SR data seems inconsistent with the IMR values; e.g. 1881 Ln(u5f/u5m) = -3.7% and IMR &gt; 200 .<br />
-Sex ratios by age do not show a shift toward boys, as in the case of substantial excess female mortality.</p>
-<p>At least for 1901, the under-5 age group embraces some 5-year-olds, insomuch as the census reported Feb 9, 1901 populations by year of birth; probably less than 1/12 of the 1896-birthyear were age 5 at the census-date. But one wonders how precise the census-takers and respondents were when doing the census.</p>
-<p>SRB is somewhat male-tilted, with Ln(m/f) values usually at or above 6.0% until the second half of the 1880s; values usually in the 5.5-5.9% range into the early 20th century; values range from 4.9% to 5.4% in the years from 1908 to 1916. Interesting to see births fall more than 1/3 from 1915 to 1917 and the SRB tilt 0.9% toward boys (presumably because the decline of births was concentrated among the poorer and less-healthy women).</p>
-<p>The Istat data are in xls tables in the dempap/wrangling/raw folder.</p>
-<p>For SR5 <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1">Istat</a> and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census). Deaths-data are in the <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1&amp;tx_usercento_centofe%5Bcategoria%5D=34&amp;tx_usercento_centofe%5Baction%5D=show&amp;tx_usercento_centofe%5Bcontroller%5D=Categoria&amp;cHash=b73e856aedfc85d2f1e27730c3822c86">Health tab</a></p>
-<p>Istat births are in Table 2.5 in the <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1&amp;tx_usercento_centofe%5Bcategoria%5D=32&amp;tx_usercento_centofe%5Baction%5D=show&amp;tx_usercento_centofe%5Bcontroller%5D=Categoria&amp;cHash=04e5a2e51acfa92f173aac082f0d8872">Population tab</a>, under the menu-heading <a href="http://seriestoriche.istat.it/index.php?id=1&amp;no_cache=1&amp;L=1&amp;tx_usercento_centofe%5Bcategoria%5D=32&amp;tx_usercento_centofe%5Baction%5D=show&amp;tx_usercento_centofe%5Bcontroller%5D=Categoria&amp;cHash=04e5a2e51acfa92f173aac082f0d8872#">Resident population and demographic dynamics</a>, “Births by vitality and legitimacy status - Present population at reference year borders - Years 1863-2014”. These these births data are the same as those in Annuario statistica and HMD.<br />
-Different birth data are in Istat Table 2.3 (demographic balance: note a<br />
-(a) The demographic balance of the Italian population for individual years has been estimated on the basis of Censuses and demographic statistics availables. For more information: “Sviluppo della popolazione italiana dal 1861 al 1961” Annali si Statistica Serie VIII, Vol. 17, Istat 1965.)</p>
-<p>Mitchell IHS (pdf140) shows IMR 200 or more in 1863-88 except for 5 years (192 198 186 194 193) in 1881-1887 ; And his Table A2 (pdf47) has Italy u5 populations which give Ln(SR5) 1861 -2.0% 1871 -2.9% 1881 -3.66% (1881 m/f of 103.7 – ‘healthy-looking’?) and 1901 104.2 1911 103.8 1921 104.4 TREATMENT OF STILLBORN IN ITALY’s STATS?<br />
-Mitchell’s sources: Annali di Statistica (1871-); Annuario Statistico Italiano (1878-); Cento Anno di Svi/uppo Economico e Sociale del/’ Italia ; Somma rio di Statistiche Storiche italiane, 1861-1955</p>
-<p>HMD has single-year by sex for 1872 forward – source? For the Human Mortality Database, we use data based on the presente population for years prior to 1981. Population estimates are calculated based on census counts of the presente population in order to be consistent with the vital statistics (i.e., deaths, births). Prior to 1906, deaths counts are available only by five-year age groups (i.e., 0-4, 5-9, …, 65-74, 75+), with the exception of 1883-84, when they are available for single years of age For 1912-20 and 1937-51, the pre- and post-war census counts and deaths data for the total population (including the military) are used to derive annual (January 1st) population estimates</p>
-<p>UN volume The Aging of Populations and Its Economic and Social Implications – used by Mitchell IHS for Greece population by age/sex in 1861 (or so)</p>
-<div id="italys-historical-data-sources" class="section level4">
-<h4>Italy’s historical data sources</h4>
-<p>1880 census volume just has population with geographic breakdowns (no age nor sex)</p>
-<p>1901 census population counts are by year of birth, with 1901 Jan 1 to Feb 9 and earlier full years. Perhaps of interest, the SR of the January babies is very male (m/f 109%), and moreso than the SRB.</p>
-<p>1901 census vol 2 (<a href="https://books.google.ca/books?id=6JUyAQAAMAAJ">google books CA</a>) pdf475 Indice, pdf 615 Tav III is population par sesso &amp; eta for various places 132-140 141-177, 178-229, 230-267,<br />
-A In ciascun capoluogo di provincia o avente oltre 15,000 abitanti (In each provincial capital or with over 15,000 inhabitants)<br />
-B In ciascun circondario ed in ciascuna provincia (In each district and in each province). Pp 230-267 (706-743) pop by birth-year and sex; 268-319 (744-795) single/married by age groups</p>
-<p>C In ciascun compartimento e nel regno (In each compartment and in the kingdom). Pp 320-337 (796-813) ages by sex ; pdf813 is p337 with population by sex and birth-year for the kingdom as a whole (Regno).</p>
-<p>Annual stats are Annuario statistico italiano, <a href="https://books.google.ca/books?id=TUoYAAAAMAAJ">Vol 1</a> is 1878. 1897 has births by sex 1872-1895 pp38-39 pdf62-63. Birth totals match HMD and Table 2.5 of Istat (but Table 2.3 of Istat estimates larger birth counts; e.g. 1880 Istat’s 989 K live births; AnnStat and HMD have 957,900 (as does Table 2.5).</p>
-<p>pdf67 Igiene e sanita – sources include Statistica delle cause delle morti; limited mortality data – pdf68 p44 1887 828,992 total deaths – matches HMD. HMD says age 0 deaths 1887</p>
-<p>HMD deaths shows 1881 age 0 95620.21 112217.85 207838.06</p>
-<p>Statistica delle cause delle morti <a href="https://books.google.ca/books?id=2AuQ4GGhjkQC">1888</a> – does not seem to give infant deaths (nor deaths by age otherwise). 1887 also available (via other editions)</p>
 <p><a name="IndiaCensus"></a></p>
-</div>
 </div>
 <div id="india-census-data" class="section level3">
 <h3>India Census Data</h3>
