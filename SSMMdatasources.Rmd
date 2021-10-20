@@ -66,20 +66,33 @@ many 19-c sources listed in Galloway, Patrick R., "The golden age of published d
 
 #### Italy ####
 
+Breschi et al fn 1: 1  The bibliography on infant and child mortality in Italy is very wide. For an overview, see: Del Panta, 1997; Pozzi, 2000; 2002; Pozzi and Robles González, 1997; Manfredini and Pozzi, 2004.
+
+
 ##### mid-October exploring regional data #####
+
+Various scholars trash the stillborn data (before maybe 1930s?) but they seem to see the IMR data as valid. So we are left with anomalous results ... like 1936 Campania (in southern ITA) with f/m -4% with IMR 116 (and male mortality just 9.6% greater (Ln) ). 
 
 Regional IMR from IStat 1975 [Tendenze evolutive della mortalità infantile](https://ebiblio.istat.it/SebinaOpac/resource/tendenze-evolutive-della-mortalita-infantile-in-italia/IST0002260?locale=eng)
 
-Regional stillbirths data from Istat (1965), [Sviluppo della popolazione italiana dal 1861 al 1961](https://ebiblio.istat.it/SebinaOpac/resource/sviluppo-della-popolazione-italiana-dal-1861-al-1961/IST0002072?locale=eng), Annali di Statistica, s. 8, vol. 17.    E.g. pdf752p746 for Calabria
+p238 Piemonte p242 Valle d'Aosta (1943-70) p244 Lombardia p248 Trentino-Alto Adige/Südtirol p252 Bolzano Bozen (So Tyrol 1927-70) p254 Prov di Trento (1927-70), 
+p256 Veneto p260  Friuli-Venezia Giulia (1924-72) p262 Liguria p268 Emilia-Romagno p272 Toscana p278 Umbria p282 Marche p288 Lazio p292 Abruzzi e Molise p298 Campania p302 Puglia p308 Basilicata p312 Calabria p318 Sicilia p322 Sardegna p328 ITALIA
 
+
+Regional stillbirths data from Istat (1965), [Sviluppo della popolazione italiana dal 1861 al 1961](https://ebiblio.istat.it/SebinaOpac/resource/sviluppo-della-popolazione-italiana-dal-1861-al-1961/IST0002072?locale=eng), Annali di Statistica, s. 8, vol. 17.    E.g. p722 Umbria p726 Lazio p730 Campania p734 Abruzzi e Molise  p738 Puglia  p742 Basilicata p746 Calabria  p750 Sicilia p754 Sardegna
+
+Regions mapped and labelled in Daniele & Malanima (2014 EcHiRes).
 
 1901 census has regional age/sex (by birth-year);
+
+1911 census; vol II has age/sex by region Campania pdf638 p632
 
 1921 census seems to have volumes by region --  Puglie looks to have a wicked 
 
 [1926 census volumes](https://ebiblio.istat.it/SebinaOpac/resource/risultati-sommari-del-censimento-della-popolazione-eseguito-il-1-dicembre-1921/IST0010376?locale=eng&tabDoc=tabcontiene)
 
-This [1936 census volume](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1936/IST0005813vol3RegnoParte2_Tavole/IST0005813_vol3_Regno_Parte_2_Tavole+OCR_ottimizzato.pdf) has age/sex by region -- pdf p. 134 is Piemonte
+This [1936 census volume](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1936/IST0005813vol3RegnoParte2_Tavole/IST0005813_vol3_Regno_Parte_2_Tavole+OCR_ottimizzato.pdf) has age/sex by region -- pdf134p126 is Piemonte, resident
+p135 UmbriaRes, 136 LazioRes, 137 Abruzz Mol, 138 Campania
 
 
 It is tempting to use the comment about "extra caution" and data problems for Italian mortality as a basis for dropping the Italian SR:IMR set.  But the comment misleads about IMR data, which does have single year deaths (and original sources show u1month and u1year deaths, by sex).     

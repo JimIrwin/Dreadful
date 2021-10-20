@@ -66,17 +66,14 @@ However, gender ratio has been shown to provide a quite robust proxy for fetal d
 
 p4 More- over, we proxy infant mortalitywith gender ratio of live births as introduced in Sanders and Stoecker (2011). 
 
-  
-
-
-
-
 
 Hollingshaus et al [(2019 Hi Methods)](https://www.researchgate.net/profile/Ryan-Schacht/publication/332683599_Sex_ratios_and_life_tables_Historical_demography_of_the_age_at_which_women_outnumber_men_in_seven_countries_1850-2016/links/5cc316f4299bf120978276e4/Sex-ratios-and-life-tables-Historical-demography-of-the-age-at-which-women-outnumber-men-in-seven-countries-1850-2016.pdf)     
 REMARK ON ITALY DATA QUALITY The estimated SRXs range from 3 through 101, with a mean of 51.9 over the period. The low and high values occur in Sweden and Italy, respectively. These two countries have data series extending prior to 1900, and also have large standard deviations. This is likely due to relatively poor data quality in the early years.
 
 
-de Hansen 
+
+
+de Hansen (1979) re: SIDS and IM in 19th C ENgland
 p342  McKeown stresses that throughout the century infant mortality actually increased, and did not fall until the early 20th century, well after the onset of a decline in fertility (1976: 63). In 1910 there were 105 infant deaths per 1000 live births, in 1920, 80, and in 1930, 60 per 1000 (Tilly and Scott, 1978: 102)  
 
 Ji DISSENTS FROM deHansen's reading of McKeown, who says on p63 simply that for the 19th and early 20th C "it is necessary to combine prematurity with other diseases of infancy. It should be emphasized that deaths in this class increased in the late nineteenth century, and did not fall until after 1901. This largely explains the observation that the decline of infant mortality was delayed until after 1901.
@@ -89,9 +86,9 @@ Morse & Luke ( [2021 Pop Studies](https://www.tandfonline.com/doi/abs/10.1080/00
 blurb/article about the journal article
 
 
-Galloway [A reconstruction of the population of North Italy from 1650 to 1881 ...  annual inverse projection ... comparisons to England, France, and Sweden](https://link.springer.com/content/pdf/10.1007/BF01265303.pdf)
+Galloway [(1994 EuJPop)](https://link.springer.com/content/pdf/10.1007/BF01265303.pdf) "A reconstruction of the population of North Italy from 1650 to 1881 ...  annual inverse projection ... comparisons to England, France, and Sweden"
 
-Argues against underregistration of infant and child deaths ... 
+Argues against underregistration of infant and child deaths in North Italy ... 
 p227 an examination of the series suggests that the dramatic underregistration of infant and child deaths found in Spain and France is not a problem in North Italy.
 p256n6 An unusually low or a significant long-term increase in the infant mortality rate can be an indicator of under-registration of infant deaths. Del Panta and Livi Bacci's (1980, p. 103) review of decadal infant mortality rates from 1691 to 1820 in ten parishes and cities located in North Italy suggests that infant mortality had no long-term trend in some places, an upward trend in others, and a downward trend in still other places. The average infant mortality rate for all ten places over the whole period was 252 ... a downward trend in infant mortality from 1641 to 1880 in three parishes near Bologna with an average of 284 ... A similar downward trend is found in three parishes near Ravenna from 1690 to 1796 (Bolognesi, 1980, p. 270) with an average of 302
 
@@ -258,7 +255,40 @@ Posted as News -- before Dec 18
 McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Human Sex Ratio at Birth in the United States, 1915–1948”, The Millbank Memorial Fund Quarterly, 29 (3), 273–293. Mentions, but does not test SES ... 
 
 
-## European 
+## Europe 
+
+### Italy
+
+Ruiu & Breschi (2019) 
+ For stillbirths, Breschi et al. (2012) noted that, especially in the South, the presence of biases in the registration of stillbirths was clear. 
+
+
+Breschi et al (2012 ADH)      
+quote suggesting Italian IMR messed up by stillborn issues?      
+
+note 1 gives us "The bibliography on infant and child mortality in Italy is very wide. For an overview, see: Del Panta, 1997 <in Bideau>; Pozzi, 2000; 2002; Pozzi and Robles González, 1997; Manfredini and Pozzi, 2004."
+
+Del Panta (1997 in Bideau) 
+Pozzi 2000 La lotta per la vita. Evoluzion e e geografia della sopravvivenza in Italia fra ’800 e ’900
+
+looking for Del Panta 1997, I see Del Panta (1994 ADH), "Infant and early childhood mortality in Italy from the eighteenth to the twentieth century: long-term tendencies and regional differences." -- abstract of french text article
+
+Pozzi 2002   NE&Centre high IMR linked to first-month; Southern post-neonatal; also elevated childMR    
+p79 "By the beginning of the 20th century, these territorial differences had been largely deleted, and during the first half of the new century IMR –as well as CMR- became one of the clearest indicators of the social and economic backwardness of the Italian Southern areas."      
+p80 universal breastfeeding on Sardegna -- turn of the century low IMR  Tend has IMR 153 for 1897-1901; Italy 166 -- hardly "low" ?
+
+Del Panta (1997 in Bideau)
+p12 If we set aside some particular regions, like Lombardy & Sardinia ... northern regions respiratory, broncho-pneumonic ... southern gastro-enteric, ... particularly high during weaning period
+
+Table 1.5 1881-90 imr   q0months and q1-12months  Italy 80.6 124.4  
+Piedmont 80.6 109.3   
+
+
+
+Galloway (1994 EJP) aruges against undercounts of births and IMR in North Italy to 1881. Partly by citing DelPantaa and Livi Bacci 1980 ...  Del Panta, L. and Livi-Bacci, M., 1980. 'Le componenti naturali dell'evoluzione demografica nell'Italia del settecento', in Societa Italiana di Demografia Storica, La Popolazione Italiana nel Settecento, CLUEB, Bologna, pp. 71-140. 
+
+      the dramatic underregistration of infant and child deaths found in Spain and France is not a problem in North Italy.
+
 
 ### Germany ###
 
