@@ -20,6 +20,8 @@ Missing Women web page needs better cites, eg Klasen
 
 ### current log
 
+2021.1021 likely Italian story is that the major northern regions fit our story, with the southern regions a bizarre jumble of very male-biased sex ratios that seem unrelated to infant mortality (maybe we want to break Italy in two?). No sign of excess female mortality after 4 ... Some more data to be entered to pin down patterns; and some reflection/discussion in order (for footnotes at least).
+
 2021.1019 long slog into Italian regions. Not finding a sensible North vs wacky South in terms of regional SR:IMR. 1901 looks like crap ...
 1901 Marche and Umbria have ln(f/m) -5.6% with IMR of 160
 
