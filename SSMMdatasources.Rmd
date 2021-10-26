@@ -36,7 +36,11 @@ Richards (1909) "A Study of New England Mortality"
 
 
 
+### General Sources ###
+
+
 [HMD country codes](https://www.mortality.org/cgi-bin/hmd/DataAvailability.php)
+
 
 ### CRVS ####
 
@@ -69,33 +73,58 @@ many 19-c sources listed in Galloway, Patrick R., "The golden age of published d
 Breschi et al fn 1: 1  The bibliography on infant and child mortality in Italy is very wide. For an overview, see: Del Panta, 1997; Pozzi, 2000; 2002; Pozzi and Robles González, 1997; Manfredini and Pozzi, 2004.
 
 
-##### mid-October exploring regional data #####
+##### Italy regional data #####
 
-Various scholars trash the stillborn data (before maybe 1930s?) but they seem to see the IMR data as valid. So we are left with anomalous results ... like 1936 Campania (in southern ITA) with f/m -4% with IMR 116 (and male mortality just 9.6% greater (Ln) ). 
+Various scholars trash the stillborn data (before maybe 1930s?) but they seem to see the IMR data as valid. So we are left with anomalous results ... like 1936 Campania (in southern ITA) with f/m -4% with IMR 116 (and male mortality just 9.6% greater (Ln) ). And worse, Sicilian SR5 that is -8% female ...
 
 Regions mapped and labelled in Daniele & Malanima (2014 EcHiRes).
 
-1901 census has regional age/sex (by birth-year);      
-1911 census; vol II has age/sex by region   Presente 621 Piemonte, 622 Liguria, 623 Lombardia    632 Campania pdf638, 636 Sicilia,     
+1881 census: have not found regional breakdowns (see below)
+
+1901 census has regional age/sex (by birth-year), 621-;      
+1911 census; vol II has age/sex by region   Presente 621 Piemonte, 622 Liguria, 623 Lombardia,  624 Veneto, 625 Emilia-Duc
+632 Campania pdf638, 636 Sicilia,     
 [1921 census volumes](https://ebiblio.istat.it/SebinaOpac/resource/risultati-sommari-del-censimento-della-popolazione-eseguito-il-1-dicembre-1921/IST0010376?locale=eng&tabDoc=tabcontiene)   
 
-This [1936 census volume](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1936/IST0005813vol3RegnoParte2_Tavole/IST0005813_vol3_Regno_Parte_2_Tavole+OCR_ottimizzato.pdf) has age/sex by region -- pdf134p126 is Piemonte, resident 128 Lombardia, 129 Venezia Tridentina, p130 Veneto 131 Venezia Giulia e Zara ~80k u5, 132 Emilia (Bologna), 
-p135 UmbriaRes, 136 LazioRes, 137 Abruzz Mol, 138 Campania 
+This [1936 census volume](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1936/IST0005813vol3RegnoParte2_Tavole/IST0005813_vol3_Regno_Parte_2_Tavole+OCR_ottimizzato.pdf) has age/sex by region -- pdf134 126 Piemonte, 127 Liguria, 128 Lombardia,
 
-1951 census 
-1961 census  121 Piemonte 122 Valle d'Aosta, Liguria, Lombardia, Trentino-Alto Adige, 126 Veneto,
-1971 census  [volV](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1971/Volumi/RER0044590CP1971_VOL_V_Sesso_eta_stato_civile+OCRottimizz.pdf)  pdf246p240 Trentino-Alto Adige  pdf270p264 Puglia p242 Veneto
+[129 Venezia Tridentina, 130 Veneto, 131 Venezia Giulia e Zara (80k)  Veneto IMR 80; Greater area 86.6]
+Veneto SR5 104.0  
+
+132 Emilia (Bologna), 135 Umbria, 136 Lazio, next are SOUTH (I deem) 137 Abruzz Mol, 138 Campania 
+
+  Wikip has The Triveneto or Tre Venezie ... a historical region of Italy ... what would become the three Italian regions of Venezia Euganea, Venezia Giulia and Venezia Tridentin     1936 has VenTrid VenezGuilia  
+
+1936 census 129 Venezia Tridentina 62k -- becomes Trentino-Alto Adige; [130 Veneto 460k is long-term region], 131 Venezia Giulia e Zara 80k   IMR combine note that TAA is comprised of (SouTyrol aka BlozanoBozen) and (Prov di Trento) and the sum (TAA) and the 2 parts are reported
+248- Trentino-Alto Adige/Südtirol imr 100, 252-53 Bolzano Bozen (So Tyrol; 1927-70) imr114  , 254- Prov di Trento (1927-70 ), 256 Veneto imr80, 260 Venezia Giulia (1924-72) imr 102;
+
+1936 census corrections -- look for those in Table XII:  pdf 3 p98 col 2 line 72 instead of 97133 read 47133  pdf 4 none;
 
 
-Regional IMR from IStat 1975 [Tendenze evolutive della mortalità infantile](https://ebiblio.istat.it/SebinaOpac/resource/tendenze-evolutive-della-mortalita-infantile-in-italia/IST0002260?locale=eng)
 
-p238 Piemonte p242 Valle d'Aosta (1943-70) p244 Lombardia p248 Trentino-Alto Adige/Südtirol p252 Bolzano Bozen (So Tyrol 1927-70) p254 Prov di Trento (1927-70), 256 Veneto, 260 Friuli-Venezia Giulia (1924-72), 262 Liguria, 268 Emilia-Romagno p272 Toscana p278 Umbria p282 Marche p288 Lazio    
+1951 census   10 Piemonte, 12 Lombardia, 13 Trentino-Alto Adige, 14 Veneto, 15 Friuli-Venezia Giulia, 17 Liguria, 18 Emilia-Romagna, 19 Toscana,  20 Umbria (70K), 21 Marche            
+1951 tiny places 11 Valle d'Aosta (tiny); 16 Trieste, <16K, capital city of Friuli-V G;
+1961 census  121 Piemonte 122 Valle d'Aosta, Liguria (99k), Lombardia, Trentino-Alto Adige (69k), 126 Veneto, 127 Friuli (74k), 128 Emil-Rom (238k), 129 March (97k), 130 Toscana (205k), 131 Umbria (53k), 132 Lazio (336k), 133 Campania (510k),  134 Avruzzi e Molise,  135 Puglia, 136 Basilicata (69k), 137 Calabria, Sicilia, Sardegna 
+1971 census  [volV](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1971/Volumi/RER0044590CP1971_VOL_V_Sesso_eta_stato_civile+OCRottimizz.pdf)  pdf246p240 Trentino-Alto Adige,  p234 Piemonte, p236 Valle d'Aosta, 238 Lombardia, 240 Tentino-Alto Ad, 242 Veneto, 264 Liguria, 248 Emil-Rom, 250 Toscana, 252 Umbria, 254 Marche, 256 Lazio SOUTH:   258 Abruzzi, 260 Molise, 262 Campania   p264 Puglia pdf270,  
+
+1971 The sums of "Regione" u5 populations end up much below the "Stato" total value. 428,136 boys short -- about 19% --  ? Rome? other cities?      
+p692- Tav 4 Pop resident & present of the capital municipalities by sex and age    
+p786- Tav 5 Pop residente per sesso, anno di nascita e stato civile A) Stato  796- B) Regione     
+  
+1971 add Abruzzi and Molise to pair with Abruzzi IMR  
+ 
+ 
+
+Regional IMR from IStat 1975 [Tendenze evolutive della mortalità infantile](https://ebiblio.istat.it/SebinaOpac/resource/tendenze-evolutive-della-mortalita-infantile-in-italia/IST0002260?locale=eng)     
+238-43 Piemonte, 242-45 Valle d'Aosta (1943-70), 244-49 Lombardia, 248- Trentino-Alto Adige/Südtirol, 252-53 Bolzano Bozen (So Tyrol; 1927-70), 254- Prov di Trento (1927-70), 256 Veneto, 260 Venezi-Guilia Zara  262 Friuli-Venezia Giulia (1924-72),  262 Liguria, 268 Emilia-Romagno, 272 Toscana, 278 Umbria, 282 Marche, 288 Lazio,     
 SOUTH p292 Abruzzi e Molise p298 Campania p302 Puglia p308 Basilicata p312 Calabria p318 Sicilia p322 Sardegna p328 ITALIA
 
+IMR by region 1990-2013 online at Istat, ranges from 3.9 to 10.4 -- so those data are too late for us.
 
 Regional stillbirths data from Istat (1965), [Sviluppo della popolazione italiana dal 1861 al 1961](https://ebiblio.istat.it/SebinaOpac/resource/sviluppo-della-popolazione-italiana-dal-1861-al-1961/IST0002072?locale=eng), Annali di Statistica, s. 8, vol. 17.    E.g. p722 Umbria p726 Lazio p730 Campania p734 Abruzzi e Molise  p738 Puglia  p742 Basilicata p746 Calabria  p750 Sicilia p754 Sardegna
 
-
+Deadends:       
+1881 IST400060cp1881sullaclassificazionexeta      
 
 
 It is tempting to use the comment about "extra caution" and data problems for Italian mortality as a basis for dropping the Italian SR:IMR set.  But the comment misleads about IMR data, which does have single year deaths (and original sources show u1month and u1year deaths, by sex).     
@@ -149,6 +178,9 @@ SRB is somewhat male-tilted, with Ln(m/f) values usually at or above 6.0% until 
 The Istat data are in xls tables in the dempap/wrangling/raw folder.
 
 For SR5 [Istat](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1) and IHS (Mitchell) have the same numbers for 1861, 1871, 1881, 1901 (no 1891 census). HMD numbers seem the same, but years are advanced by 1.
+
+1881 census ["Sulla classificazione per età della popolazione del Regno](https://ebiblio.istat.it/digibib/Censimenti%20popolazione/censpop1881/IST400060cp1881sullaclassificazionexeta+OCR.pdf) offers various estimates of pop by sex and age for 1881 and 1871, along with discussion. Probably using birth/death data to "equalize" populations ... 
+
 
 Deaths-data are in the [Health tab](http://seriestoriche.istat.it/index.php?id=1&no_cache=1&L=1&tx_usercento_centofe%5Bcategoria%5D=34&tx_usercento_centofe%5Baction%5D=show&tx_usercento_centofe%5Bcontroller%5D=Categoria&cHash=b73e856aedfc85d2f1e27730c3822c86)  
 
@@ -622,25 +654,28 @@ Brazil's [IBGE](https://loja.ibge.gov.br/) has historical statistics for [downlo
 
 ### Australasia
 
-#### New Zealand ####
+#### New Zealand  NZL ####
 
 u5 populations by sex. 
 
-1864, 1867, 1871, 1874, 1878, 1881 [Results of a Census of the Colony of New Zealand ... 1874](https://www3.stats.govt.nz/historic_publications/1881-census/1881-results-census.html#idsect1_1_1564) Chapter 28, Table 1 ("Showing the Increases of Persons ... at different Ages ... the various censuses ... 1864 ... 1881). 
+1864, 1867, 1871, 1874, 1878, 1881: [Results of a census of the colony of New Zealand, taken for the night of the 3rd of April, 1881](https://www3.stats.govt.nz/historic_publications/1881-census/1881-results-census.html#idchapter_1_92910), 
+Chapter 28, Table 1 ("Showing the Increases of Persons ... at different Ages ... the various censuses ... 1864 ... 1881).      
 
-1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916: Results of a census of the Dominion of New Zealand ... 1916, [Part II Ages](https://babel.hathitrust.org/cgi/pt?id=uc1.c2991401&view=page&seq=13&skin=2021), p. 1.
+1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916: Results of a census of the Dominion of New Zealand ... 1916, [Part II Ages](https://babel.hathitrust.org/cgi/pt?id=uc1.c2991401&view=page&seq=13&skin=2021), p. 1.     
 
-
-
+[pop data](http://infoshare.stats.govt.nz/infoshare/SelectVariables.aspx?pxID=d7395c5c-e0e0-47bc-8747-9ec8360322d6) with "discontinued data" selected -- this has 1936 onward, all or excl Maori; but IMR includes Maori as of 1925ish
+     
+IMR:   1862-1945 ex-Maori  1947-1971 incl Maori  (NZ VS)     
+     
 Alternative sources:       
       
 1864, 1867, 1871, 1874  [Results of a Census of the Colony of New Zealand ... 1874](https://www3.stats.govt.nz/historic_publications/1874-census/1874-results-census.html#idchapter_1_38615) Chapter 5, Table 1 ("Showing the Increases of Persons ... at different ages ... the various censuses ... 1864 ... 1874),
        
 1867, 1871: [Results of a Census of New Zealand ... 1871](https://babel.hathitrust.org/cgi/pt?id=nyp.33433109911655&view=page&seq=23&skin=2021), page xvii.    
 
-*1886*, *1891* in Ch 19 of 1891 Report 
-*1896*, *1901* in Ch 17 of 1901 Results
-*1906*, *1911* in Ch 52 of 1911 Results     
+*1886*, *1891* in Ch 19 of 1891 Report     
+*1896*, *1901* in Ch 17 of 1901 Results    
+1896, 1901, 1906, 1911* in Ch 52 of 1911 Results (inet archive & downloaded)     
 1886, 1896, 1906, *1916* in Ch 24 of 1916 Report.     
 Proportions by age for males and females 1867, 1871, 1874, 1878, 1881, 1886, 1891, 1896, 1901, 1906, 1911, 1916 in Ch 24 of [1916 census](https://www3.stats.govt.nz/historic_publications/1916-census/Report%20on%20Results%20of%20Census%201916/1916-report-results-census%20.html#idchapter_1_20399) 
 
@@ -656,6 +691,7 @@ Population May, 1918.  Ages July, 1918. Birthplaces and Length of Residence in N
 [Appendices A-D](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu08551588&view=1up&seq=9&skin=2021) 
 
 Listing of NZ stats-books online, from [UPenn](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=New%20Zealand%2E%20Registrar%2DGeneral%27s%20Office) 
+
 
 [Stats NZ Inforshare, Long-term data series, Infant mortality rates - DMMA](http://infoshare.stats.govt.nz/infoshare/SelectVariables.aspx?pxID=766e0a03-8df4-4b06-98f6-9b372a266fbc)
 
@@ -695,8 +731,6 @@ New Zealand [Yearbook collection: 1893–2012](https://www.stats.govt.nz/indicat
 
 1920 NZOYb no age data; 
 1921-22 reports on 1916 census; 1923 some imr data;  no SR data: 1924 (some 1921 census data), 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935. AGES 1936 has 1926 u5 (also estimates for 1935, extrap from 1926 via vital stats -- not census, we don't use). NOT: 1937x 1938x 1939x 1940x, 1941no (1940 ages extrapolated from 1936 census) 
-
-[pop data](http://infoshare.stats.govt.nz/infoshare/SelectVariables.aspx?pxID=d7395c5c-e0e0-47bc-8747-9ec8360322d6) with "discontinued data" selected -- this has 1936 onward, all or excl Maori; but IMR includes Maori as of 1925ish
 
 [1921 census report](https://catalog.hathitrust.org/Record/100209810)  hard copy at Columbia, looks like p82 has Age-Distribution in 1921
 
@@ -745,12 +779,40 @@ p8 3. Problems with Non-Māori old age mortality estimates before 1902. Prior to
 
 OTHER: Seems not useful: source book of population data : New Zealand, non-Maori population, 1921-1967 / by Shailendra K. Jain.
 
-***Australia***
+#### Australia ####
 
-HMD u5 counts and IMR date from 1921 
 
-Australia under-5 populations by sex.
-1901, 1911, 1921-2016 from Table 2.1 "Population, age and sex, Australia, 30 June, 1901 onwards" (Released at 11.30am (Canberra time) 18 April 2019); downloaded 27 June 2021  from 3105.0.65.001 Australian Historical Population Statistics, 2019.  
+Australia under-5 populations by sex: census values, populations "as recorded" 1901-1961; 1966 & 1971 census allocated "unspecified" ages to ages based on responses to other questions, so the values ("adjusted" rather than pure census) should be fine for us.
+
+1901 April 
+
+Slightly different values are in ABD 3105.0.65.001 Table 2.1: "Population, age and sex, Australia, 30 June, 1901 onwards" (Released at 11.30am (Canberra time) 18 April 2019); downloaded 27 June 2021  from 3105.0.65.001 Australian Historical Population Statistics, 2019.   
+
+[Census volumes at ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyCatalogue&Action=Expand&Num=2.2)
+
+[Dates](https://www.abs.gov.au/methodologies/historical-population-methodology/2016) of censuses      
+1871 Apr 2 (QuLd Sep)  1881 Apr 3, 1891 Apr 5, 1901 31 Mar; April 1-3 for 1911, 1921. 1936 forward June 30.  
+
+[HCCDA](https://dataverse.ada.edu.au/file.xhtml?fileId=15310&version=4.1) has wide range of AUS census data.
+
+1933 census offers populations "as recorded" by age/sex for 1901, 1911, 1921, 1933
+1901 is almost the same as the ABS; 1911 ABS is the "as recorded" census value; 1921 almost the same (ABS 103.71 Cen 103.68)      
+1933 is non-negligible: ABS 104.85  Cen 102.29   -- deviation is 0.54%      
+<p>1947 census offers recorded age/sex populations 1901 to 1947;     
+1954 census has  
+</p>
+<p>1961 Bull 25 p2 The figures for five-year age groups contaim:d. herein are a r3vision of and supersede the f,'L'ouped age data appearing in p:revious bUlletins. The single age data are pUblished for the first tL:le</p>
+
+<p>1966 5yr ages shows 1954 1961 1966 unspec ages were allocated (various discussions suggest well enough for us)
+</p>
+1971 census includes aboriginals, for the first time; Bulletin 3 has u15, then single year ages.     
+1976, 1981 census pubs don't seem to add data for us (1981 confirms 1971 u5 total). 1976 and others have % distributions ...
+
+
+HMD has u5 counts and IMR date from 1921; we use ABS data instead (basically the same for 1921 onward)
+
+
+##### IMR for AUS
 
 IMR 1901-1991 from Australian Bureau of Statistics
 
@@ -1016,6 +1078,9 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 <br> * also see the PDF on 20thC US for linked sources, in our B/W page
 </p>
 
+Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+
+
 #### USA data on/for Infant Mortality 1890, 1900-1904, 1900-1905
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
@@ -1025,9 +1090,6 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 Children's Bureau
 Montclair NJ, Baltimore MD, Waterbury CT, Johnstown PA, Manchester NH, Brockton MA, NewBedford MA  
 Also Pittsburgh 1920, Memphis
-
-
-
 
 Duncan BS, Duke E. 1917. Infant mortality: Results of a field study in Manchester, N.H. based in births in one year. Washington, DC: U.S. Government Printing Office, 134 pp. (Children's Bureau publication; no. 20; Infant mortality series; no. 6)
 
