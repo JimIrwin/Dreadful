@@ -9,6 +9,9 @@ output: html_document
 
 ###current log
 
+<p>2021.1027 Ji correcting 1920 & 1930 BRA data (april 15 so we want 6 yrs of IMR, weighted 3/4 1 1 1 1 1/4)       
+2021.1026 Looking for Mass and BRA sources, and for RDS-making code in process 
+</p>
 <p>2021.1025 AUS & NZ revised to bring to 1971. AUS.RDS to be added to end of combined.RDS  Jim's u5.rds & imr.rds now have revised NewZea and not AUS (separate .RDS now). AUS writing needs attention to describe weighed IMR (April 1 :  1/4year etc). NZ needs attention to census dates (year end or not) and that could lead to attention to IMR weights.
 
 </p>2021.1023 figured out Italian regions across the 20th C, with reference to the IMR data and the u5 pop-data. Still some questions on why Italian pop values exceed the sum of the regions in some years ... tba ... tomorrow ITA data and N/S dichotomy to be written up.<br>

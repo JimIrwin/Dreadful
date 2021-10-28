@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">25 October, 2021</h4>
+<h4 class="date">27 October, 2021</h4>
 
 </div>
 
@@ -963,6 +963,13 @@ Unicef spreadsheet of <a href="https://data.unicef.org/wp-content/uploads/2020/0
 US Census Office offers a partial listing of <a href="https://www.census.gov/programs-surveys/decennial-census/decade.1950.html"><strong>Pubs by decadal census</strong></a>. But the 1890 page does not show Volume 4, which has vital statistics<br> Maybe other volumes are at the older link to <a href="https://www.census.gov/prod/www/decennial.html">Decennial Pubs</a>. <br>Sometime useful are the IPUMS USA <a href="https://usa.ipums.org/usa/voliii/tPublished.shtml">incomplete links to census volumes</a> <br> * also see the PDF on 20thC US for linked sources, in our B/W page
 </p>
 <p>Bell&amp;Miller Life Tables, Table 6 is “Period Life Tables” and 1900 has male e0x 46.41 (p26); Table 7 is “Cohort Life Tables” and 1900 has e0x (p89) 51.52</p>
+<div id="our-bradra-data" class="section level4">
+<h4>Our BRA/DRA data</h4>
+<p>DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor 1910 u5 boys 3145145.0 eIMR 107.45935 (m&amp;f)</p>
+<p>1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US … USimrDRA1910.RDS</p>
+<p>BRA data for IMR 1920, 1930 USimrBRA.RDS is simply the BRA part of USimr-BRA.xls (which covers 1915-1931); that RDS file was made by EstUSimrDRA.R, and that file reads the u1 deaths counts from USimr-BRA.xls (top part of which is the BRA data) and merges them with the u1 pop counts in US1910SR1.RDS (which was created from 1910 PUMS full-count in 2nd part of buildPUMSurb10.R). That SR1 file has 27 states (tot/urb10k, rur10k)</p>
+<p>1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US …</p>
+</div>
 <div id="usa-data-onfor-infant-mortality-1890-1900-1904-1900-1905" class="section level4">
 <h4>USA data on/for Infant Mortality 1890, 1900-1904, 1900-1905</h4>
 <p>
@@ -999,6 +1006,25 @@ Early on: Bureau of Labor Statistics <a href="https://fraser.stlouisfed.org/titl
 </p>
 <p>
 <p>But there are death-by-age in Registration cities for 1900 (census year, in Census Reports, Volume IV, Vital Statistics, Part II, <a href="https://www.cdc.gov/nchs/data/vsushistorical/vsush_1900_4.pdf">Statistics of Deaths</a>); I pdf-save Table 5 23-55 pp21-53</p>
+</div>
+<div id="state-of-mass" class="section level4">
+<h4>State of Mass</h4>
+<div id="u5-populations-by-sex" class="section level5">
+<h5>U5 populations by sex:</h5>
+<p>US census volumes and data-sets for 1860-1970 at 10-year intervals; Mass State Census for 1865-1915 at 10-year intervals. 1925-1965? (2021Oct26): not 1925 1935 1945 1965.<br />
+Some in 1955, Table 16, p 108</p>
+<p>
+<p>Mass <a href="https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued">state cenuses</a> of 1865-1915 have u5 pop by sex. Not so: 1925</p>
+<p><a href="https://archives.lib.state.ma.us/handle/2452/122030">1855 MASS census</a> Table 2 (64-97 -119) gives totals in age-groups, but not by sex. p222 discusses sex. Jim cannot find any sex/age data here.</p>
+<a href="https://archives.lib.state.ma.us/handle/2452/122031">1865 MASS census</a> has age/sex
+</p>
+</div>
+<div id="mass-imr" class="section level5">
+<h5>Mass IMR</h5>
+<p>Haines (1998:231) Unfortunately, collection of vital statistics was left to individual states and municipalities, which resulted in tardy and uneven coverage. Massachusetts was the first to begin this activity at the state level in 1842 and achieved relatively good coverage by about 1855 (Abbott, 1897:714-715).</p>
+<p>Abbott 1897:714 The period of forty years (1856–95) has been selected for consideration for the reason that it presents a definite portion of time in which the returns of vital statistics of the cities and towns may be deemed to be fairly accurate. The returns of the first few years following 1842 are more or less incomplete and untrustworthy, but those of the forty years under consideration must be considered as approximately correct.</p>
+<p><br> Note: arguably, the rural data are perhaps not “deemed to be fairly accurate” ?</p>
+<p>Haines (2006 HSUS essay) The Massachusetts data reach reasonable quality by about 1860 and are reproduced here in Tables Ab928 and Ab1048–1058.</p>
 <p>
 Mass Vital Statistics <a href="https://archives.lib.state.ma.us/handle/2452/39847">Annual Reports</a> <a href="https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued">By date?</a> I started to check 1890 versus 1885 and 1895, but realized Mass 1890 looks fine …
 </p>
@@ -1012,11 +1038,6 @@ Mass Vital Statistics <a href="https://archives.lib.state.ma.us/handle/2452/3984
 <p>1889 24 year totals p198 deaths p185 births</p>
 <p>1898 1899 2, 34 1900 34 (pdf46)</p>
 <p>1914 has births 1866 forward pdf194 p180 1915 TOCpdf8 deaths 130-31</p>
-<p>
-<p>Mass <a href="https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued">state cenuses</a></p>
-<p><a href="https://archives.lib.state.ma.us/handle/2452/122030">1855 MASS census</a> Table 2 (64-97 -119) gives totals in age-groups, but not by sex. p222 discusses sex. Jim cannot find any sex/age data here.</p>
-<a href="https://archives.lib.state.ma.us/handle/2452/122031">1865 MASS census</a> has age/sex
-</p>
 <p>
 <a href="https://usa.ipums.org/usa-action/variables/CITY#codes_section">city codes</a> Boston 0810 NewYork 4610 (Brooklyn 4611) Phil 5330 (1850: 5331-35) Chicago 1190 Baltimore 530 NewOrleans 4570 Cleveland 1330 Detroit 1750 <br> <a href="https://usa.ipums.org/usa-action/variables/STATEICP#codes_section">State Codes</a>
 </p>
@@ -1162,6 +1183,7 @@ Can muscle out city U2 vales – Chicago U2 103.3 U5 102.3 – pattern like Illi
 <p><strong>1875</strong> Mass state census pdf p141 County of Barnstable pdf541 occs</p>
 <p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html"><strong>1870</strong></a> US aggregates in Vol 2 <a href="https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0">Table XXII</a> <br> <a href="https://www.census.gov/library/publications/1872/dec/1870b.html">Table XXIII</a> for state-level ages. Vol 1? tables large age group“ages” is school age, 18+ ; XXV some large age groups, some cities, but no way to get u5 City-level data for SRs not found. V1 Tab XXV has school age counts.</p>
 <p>1860 state-level ages u1 1-5 (as in ICPSR); so use IPUMS full instead</p>
+</div>
 </div>
 </div>
 <div id="us-census-for-the-black-sr1" class="section level3">

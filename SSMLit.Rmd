@@ -1017,8 +1017,8 @@ The annual collection of mortality statistics for the registration area began wi
 <br>q5 177          (176 197 173)  
 <br>From Table 2.5: age model 153/177 ; marital-dur NA  
 </p>
-
-<p>Birth Registration States
+<p>BRA pops HSUS series Ab32, DRA pops HSUS seriesAb35;  </p>
+<p>Birth Registration States 
 <br>1915 New York	Connecticut	Michigan	Minnesota
 <br>1916 Maryland
 <br>*1917* North Carolina	Kansas	Indiana	Kentucky	Utah	Virginia	Washington	Wisconsin	Ohio

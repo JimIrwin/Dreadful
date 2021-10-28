@@ -1080,6 +1080,21 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 
 Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
 
+#### Our BRA/DRA data
+
+DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor
+ 1910 u5 boys 3145145.0      eIMR 107.45935 (m&f)
+
+1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
+USimrDRA1910.RDS 
+
+
+BRA data for IMR 1920, 1930
+USimrBRA.RDS is simply the BRA part of USimr-BRA.xls (which covers 1915-1931); that RDS file was made by EstUSimrDRA.R, and that file reads the u1 deaths counts from USimr-BRA.xls (top part of which is the BRA data) and merges them with the u1 pop counts in US1910SR1.RDS (which was created from 1910 PUMS full-count in 2nd part of buildPUMSurb10.R). That SR1 file has 27 states (tot/urb10k, rur10k)
+
+
+
+1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
 
 #### USA data on/for Infant Mortality 1890, 1900-1904, 1900-1905
 
@@ -1142,6 +1157,33 @@ p572. I'm looking for SRB data -- not Table 53, which gives total births (and IM
 <p>Early on: Bureau of Labor Statistics [Annual Reports](https://fraser.stlouisfed.org/title/bulletin-united-states-bureau-labor-3943?browse=1890s#477578) have city-level deaths by causes (these found via Cain & Rotella (2001)). But they lack age-specific deaths.  
 </p><p>But there are death-by-age in Registration cities for 1900 (census year, in Census Reports, Volume IV, Vital Statistics, Part II, [Statistics of Deaths](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1900_4.pdf)); I pdf-save Table 5 23-55   pp21-53
 
+#### State of Mass
+
+##### U5 populations by sex: 
+
+US census volumes and data-sets for 1860-1970 at 10-year intervals; Mass State Census for 1865-1915 at 10-year intervals. 1925-1965? (2021Oct26): not 1925 1935  1945 1965.      
+Some in 1955, Table 16, p 108
+
+<p>Mass [state cenuses](https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued) of 1865-1915 have u5 pop by sex. Not so: 1925 
+
+[1855 MASS census](https://archives.lib.state.ma.us/handle/2452/122030) Table 2 (64-97 -119) gives totals in age-groups, but not by sex.  p222 discusses sex. Jim cannot find any sex/age data here. 
+
+[1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
+</p>
+
+
+
+##### Mass IMR 
+
+Haines (1998:231) Unfortunately, collection of vital statistics was left to individual states and municipalities, which resulted in tardy and uneven coverage. Massachusetts was the first to begin this activity at the state level in 1842 and achieved relatively good coverage by about 1855 (Abbott, 1897:714-715). 
+
+Abbott 1897:714 The period of forty years (1856–95) has been selected for consideration for the reason that it presents a definite portion of time in which the returns of vital statistics of the cities and towns may be deemed to be fairly accurate. The returns of the first few years following 1842 are more or less incomplete and untrustworthy, but those of the forty years under consideration must be considered as approximately correct.
+
+<br> Note: arguably, the rural data are perhaps not "deemed to be fairly accurate" ?
+
+Haines (2006 HSUS essay) The Massachusetts data reach reasonable quality by about 1860 and are reproduced here in Tables Ab928 and Ab1048–1058.
+
+
 <p>Mass Vital Statistics [Annual Reports](https://archives.lib.state.ma.us/handle/2452/39847)
 [By date?](https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued)  I started to check 1890 versus 1885 and 1895, but realized Mass 1890 looks fine ...</p>
 
@@ -1167,13 +1209,6 @@ p572. I'm looking for SRB data -- not Table 53, which gives total births (and IM
 1914 has births 1866 forward pdf194 p180 
 1915 TOCpdf8 deaths 130-31
 
-
-<p>Mass [state cenuses](https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued)
-
-[1855 MASS census](https://archives.lib.state.ma.us/handle/2452/122030) Table 2 (64-97 -119) gives totals in age-groups, but not by sex.  p222 discusses sex. Jim cannot find any sex/age data here. 
-
-[1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
-</p>
 
 <p>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
