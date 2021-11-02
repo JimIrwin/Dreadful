@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">27 October, 2021</h4>
+<h4 class="date">31 October, 2021</h4>
 
 </div>
 
@@ -963,11 +963,13 @@ Unicef spreadsheet of <a href="https://data.unicef.org/wp-content/uploads/2020/0
 US Census Office offers a partial listing of <a href="https://www.census.gov/programs-surveys/decennial-census/decade.1950.html"><strong>Pubs by decadal census</strong></a>. But the 1890 page does not show Volume 4, which has vital statistics<br> Maybe other volumes are at the older link to <a href="https://www.census.gov/prod/www/decennial.html">Decennial Pubs</a>. <br>Sometime useful are the IPUMS USA <a href="https://usa.ipums.org/usa/voliii/tPublished.shtml">incomplete links to census volumes</a> <br> * also see the PDF on 20thC US for linked sources, in our B/W page
 </p>
 <p>Bell&amp;Miller Life Tables, Table 6 is “Period Life Tables” and 1900 has male e0x 46.41 (p26); Table 7 is “Cohort Life Tables” and 1900 has e0x (p89) 51.52</p>
+<p><a href="https://www.cdc.gov/nchs/nvss/mortality/hist293.htm">NVSS HIST293</a> offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98)</p>
 <div id="our-bradra-data" class="section level4">
 <h4>Our BRA/DRA data</h4>
 <p>DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor 1910 u5 boys 3145145.0 eIMR 107.45935 (m&amp;f)</p>
 <p>1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US … USimrDRA1910.RDS</p>
 <p>BRA data for IMR 1920, 1930 USimrBRA.RDS is simply the BRA part of USimr-BRA.xls (which covers 1915-1931); that RDS file was made by EstUSimrDRA.R, and that file reads the u1 deaths counts from USimr-BRA.xls (top part of which is the BRA data) and merges them with the u1 pop counts in US1910SR1.RDS (which was created from 1910 PUMS full-count in 2nd part of buildPUMSurb10.R). That SR1 file has 27 states (tot/urb10k, rur10k)</p>
+<p>u2u5forBRAimr.RDS</p>
 <p>1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US …</p>
 </div>
 <div id="usa-data-onfor-infant-mortality-1890-1900-1904-1900-1905" class="section level4">
