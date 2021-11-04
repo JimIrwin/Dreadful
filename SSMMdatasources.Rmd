@@ -1072,6 +1072,14 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+<br>
+census timing: 1930 onward April 1; 1920 Jan 1;    1910 April 15, 1840-1900 June 1* (1890 June 2)  
+1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
+[1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Jan.1; [1910](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Apr 15; 1920 Jan 1;   
+
+<br>
+
+
 <p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics<br>
 Maybe other volumes are at the older link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html). 
 <br>Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)
@@ -1082,33 +1090,37 @@ Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 4
 
 [NVSS HIST293](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98) 
 
-#### Our BRA/DRA data
+<p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
+<br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
+</p>
 
+
+#### BRA/DRA data
+
+2021Nov02 1850-1900 June 1 (1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
+[1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) June 1; [1910](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Apr 15; 1920 Jan 1;   
 DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor
  1910 u5 boys 3145145.0      eIMR 107.45935 (m&f)
 
 1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
 USimrDRA1910.RDS   Note we have only 1 yr of IMR data to connect to SR (so use SR2?)
 
-
-BRA data for IMR 1920, 1930: we do US-North 1920 (excludes DC) amd   1930 US-North US-Sou-white US-Sou-black   
+Dempap uses full BRA. BRA data for IMR 1920, 1930 -- US totals (but 1920 is Jan 1, so 1920 refers to 1919; before 2021Nov 2, 1920 erroneously included some 1920 IMR). Ji also looked at US-North 1920 (excludes DC) amd   1930 US-North US-Sou-white US-Sou-black.        
 
 USimrBRA.RDS is simply the BRA part of USimr-BRA.xls (which covers 1915-1931); that RDS file was made by EstUSimrDRA.R, and that file reads the u1 deaths counts from USimr-BRA.xls (top part of which is the BRA data) and merges them with the u1 pop counts in US1910SR1.RDS (which was created from 1910 PUMS full-count in 2nd part of buildPUMSurb10.R). That SR1 file has 27 states (tot/urb10k, rur10k)
 
 u2u5forBRAimr.RDS 
 
-
 For 1920 and 1930, we get IMR by state/race from [Lindner & Grove (1943)](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm#:~:text=Lindner%20FE%2C%20Grove,the%20Census.%201943%3B) Vital statistics rates in the United States, 1900-1940. We use annual Birth Statistics pubs to get birth counts. Oddly, [Hetzel's](https://www.cdc.gov/nchs/products/other/miscpub/vsushist.htm) history of US vital statistics systems has SC starting in DRA 1916 and BRA 1919, yet SC not in Birth Stats 1926     
 
 South: 1925-1930 DC (6 2.8) DE (3.6 0.7) FL (20 9) KT (53 3.5) MD (24 6) NC (53 24) VA (38 16) WV (38 2) 
-
-
 
 1925 birth stats (google books or Hathi)  pdf 33 has table with legit & illegit by state, but not total births ...       
 Va 1917      
 Ala Ark La Tn are 1927 onward, so could relate them to SR2 ...   GA 1928 
 
 1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
+
 
 #### USA data on/for Infant Mortality 1890, 1900-1904, 1900-1905
   
