@@ -1072,14 +1072,15 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+<p>our spreadsheets USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
+
 <br>
 census timing: 1930 onward April 1; 1920 Jan 1;    1910 April 15, 1840-1900 June 1* (1890 June 2)  
 1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
 [1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Jan.1; [1910](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Apr 15; 1920 Jan 1;   
 
 <br>
-
-
+1850 compendium DeBow p 104 mentions age heaping at 10 15 20 ....
 <p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics<br>
 Maybe other volumes are at the older link to [Decennial Pubs](https://www.census.gov/prod/www/decennial.html). 
 <br>Sometime useful are the IPUMS USA [incomplete links to census volumes](https://usa.ipums.org/usa/voliii/tPublished.shtml)

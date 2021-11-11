@@ -9,10 +9,31 @@ output: html_document
 
 ###current log
 
-<p>2021.1103 
+<p>2021.1110 Ji to write up Alter-issue results. Key result is that 1900's 11-14 ages points to 1890 as high IMR!
+</p><p>Done working with Yasuba and his sources; two issues here -- the Alter challenge, being claims that under-counting of infants invalidates our method; and geographic and temporal variation in the US, in order to conjecture bounds to IMR at census benchmarks 1850-1930.</p>
+<p>Via Yasuba look at Whipple 1917 for attention to Boston and towns circa 1830-1845. Whipple's estimates have u5 mortality increasing over time, and an urban penalty (presumably closely connected). SSMLit has details. A small Boston u5 population has an unhealthy-looking SR5. So too does 1860's Suffolk Co (mostly Boston) and New York city. Various pop figures are in my .wk4 file. Also, U5 mortality in Boston 1845 about triple that of towns of average health circa 1830. Possible we can connect these to urban/rural IMR:SR relationships from early 20th C?
+</p>
+<p>2021.1106 (and from 1105) summary on Alter issues:
+1850 fPUMS SR2 104.7  SR5 103.8   1860 ages 10-14 104.4 and 11-14 103.6 (age 10 107.0, with age-heaping suspected ). Census values for SR5 among total white (not just native-born):    
+103.3 (2.8965 m) in published census and
+103.7 (2.9028 m) in fPUMS -- 0.22% greater count of kids
+CONCLUSION: SR5 at least 103.6  
+  
+  
+1900 presumed most accurate for infant ages. 
+1900 fPUMS SR2 & SR5 102.5 -- worse than 1850.
+
+
+Note that using 1900 to infer 1890 -- 102.3 for 10-11 and 10-14
+
+
+BTW we can accept the consensus that 1850 is worst for undercounting infants (various allusions to 1850 Compendium saying 1 as smallest age-value reported: not seen in Jim's inspection of pp1-30; nor in his search at Google books -- might be able to look at <1 vs 1 in 1850 vs 1860; or look to see if district level is visble in 1850 full count)
+
+
+</p><p>2021.1103 
 continuing on G Alter's concerns ... yes, 10-yr-old populations are greater than infants of the previous decennial census. But the 10-14 cohort SR values corroborate our picture .... 
 
-1850 vs 1860. We see most plausible undercount of infants here, with 1860's 10yr-olds 122% of infants (but 11yr-olds just 92%). But the 1860 SR values point to health kids (10-14 104.5; 12-13 103.8; worst is 13-14 103.2);  (10 107)
+1850 vs 1860. We see most plausible undercount of infants here, with 1860's 10yr-olds 122% of infants (but 11yr-olds just 92%). But the 1860 SR values point to healthy kids (10-14 104.5; 12-13 103.8; worst is 13-14 103.2);  (10 107)
 
 1860 vs 1870  1870s 11-12 102.6  13-14 102.3  10-14 103.2  10-12 103.6  (10 105.8)
 
