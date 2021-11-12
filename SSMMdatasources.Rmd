@@ -1072,6 +1072,10 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+<p>Underenumeration of infants?  
+Thomspon & Whelpton (found via Yasuba & Coale & Zelnick)
+</p>
+
 <p>our spreadsheets USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
 
 <br>

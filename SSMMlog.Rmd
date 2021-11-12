@@ -9,6 +9,11 @@ output: html_document
 
 ###current log
 
+<p>2021.1111 leads to pursue:
+Work the sequence Hacker (2003 Demog), Haines (1989 Demog), Coale & Zelnick, Thompson & Whelpton (1958) for (1) underenumeration of infants -- implications for our CEA findings and (2) the use of the Mass life tables for predicting birth rates in the US -- is it not the case that we'd say Mass IMR is high in 19thC US, and so won't Mass life tables overstate birth rates?
+<br>
+Coale & Rives (1973) for black sex ratios 1880 onward
+</p>
 <p>2021.1110 Ji to write up Alter-issue results. Key result is that 1900's 11-14 ages points to 1890 as high IMR!
 </p><p>Done working with Yasuba and his sources; two issues here -- the Alter challenge, being claims that under-counting of infants invalidates our method; and geographic and temporal variation in the US, in order to conjecture bounds to IMR at census benchmarks 1850-1930.</p>
 <p>Via Yasuba look at Whipple 1917 for attention to Boston and towns circa 1830-1845. Whipple's estimates have u5 mortality increasing over time, and an urban penalty (presumably closely connected). SSMLit has details. A small Boston u5 population has an unhealthy-looking SR5. So too does 1860's Suffolk Co (mostly Boston) and New York city. Various pop figures are in my .wk4 file. Also, U5 mortality in Boston 1845 about triple that of towns of average health circa 1830. Possible we can connect these to urban/rural IMR:SR relationships from early 20th C?
@@ -17,8 +22,7 @@ output: html_document
 1850 fPUMS SR2 104.7  SR5 103.8   1860 ages 10-14 104.4 and 11-14 103.6 (age 10 107.0, with age-heaping suspected ). Census values for SR5 among total white (not just native-born):    
 103.3 (2.8965 m) in published census and
 103.7 (2.9028 m) in fPUMS -- 0.22% greater count of kids
-CONCLUSION: SR5 at least 103.6  
-  
+CONCLUSION: SR5 at least 103.6    
   
 1900 presumed most accurate for infant ages. 
 1900 fPUMS SR2 & SR5 102.5 -- worse than 1850.

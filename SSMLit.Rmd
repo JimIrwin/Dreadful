@@ -977,16 +977,13 @@ p23  In 1850 and thereafter, the number of children under 1 was also reported bu
 p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>  SO: Yasuba assumes same 5% underenumeration of u5
 
 pp29-30 5% underenumeration of u5  from Whelpton     
-pp34-35 Thompson & Whelpton / Grabill
-p70 mention of underenum of kids
-p97 U5 +5% for enum
-p142 relatively large underenum in 1850
-p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.
-p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ... 
+pp34-35 Thompson & Whelpton / Grabill    
+p70 mention of underenum of kids    
+p97 U5 +5% for enum    
+p142 relatively large underenum in 1850    
+p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.     
+p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ...        
       
-
-
-
 p193 IM 79, 81   seems to suggest 1850 census mortality shows relative ranking of states in terms of u10 mortality (and therefore infant mortality?)
 
 
@@ -1002,6 +999,8 @@ p80 white u10 death rates by state via census ... USA 20.5  Mass 38.5 RI 27.1  N
 <br>p87  2. Trend of Mortality, 1800-1860 
 p96 "it is likely that the death rate increased somewhat duirng the few decades preceding the Civil War." 
 
+
+Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (19)
 
 Grabill et al (1958) p. 409 Some enumerators began the age count with 1 year according to the Compendium of the Seventh Census, so the 1850 Census may have had more misstatements of age of infants than usual.
 Jim *cannot find that point in the 1850 Compendium* (also not found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      
