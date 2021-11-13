@@ -9,6 +9,32 @@ output: html_document
 
 ###current log
 
+
+2021.113
+CEA revisions ... Ji takes the lead (we hope) and Js responds.
+1. Alter critique -- Jim 
+2. Update IMR estimates via Dempap; via BRA; via alternate ages
+3. For our conclusion -- implications for USA fertility story 
+4. Remove section on proof of concept? Goal: <1 page of text plus a modelled SR from West life-table?
+5. Narrow down the CEA paper -- Northern US & Canada? NE North America?
+
+Other papers to write:
+A "note" to challenge and expunge the 19th C IMR estimates presented in HSUS. 
+Via 
+Reid & Jaadish -- issue of ECM in relation to IMR
+GOAL: be able to say, "oh yeah, from 1860 to 1900, England E0 rose by 5? years from improvemnet in ECM while IMR stayed high; and it was only with the collapse of IMR that Englign jumped up past 35? years"  ...
+
+fPUMS siblings data ... changes in sex-discrimination? Missing girls are evident from stopping behavior? With possibility of mortal sex-discrimination -- see Monica DasGupta's work? Looking for patterns that cannot be biological ... 
+
+Demography -- generally read and authoritative; but not open_source. 
+Demographic Research -- open_source
+Pop Dev Review? Population Studies? 
+
+
+
+<p>2021.1112     
+Making the point that census enumeration of race and nativity is error-ridden because of coding errors when interpreting manuscript. For example, [17 people](https://www.dropbox.com/s/7b9huqofxvnwimu/BlackIrishKingsCo1860.jpeg?dl=0) error-enumerated as Blacks in Brooklyn in 1860. Wondering how to find examples of mistaken nativity coding?
+</p>
 <p>2021.1111 leads to pursue:
 Work the sequence Hacker (2003 Demog), Haines (1989 Demog), Coale & Zelnick, Thompson & Whelpton (1958) for (1) underenumeration of infants -- implications for our CEA findings and (2) the use of the Mass life tables for predicting birth rates in the US -- is it not the case that we'd say Mass IMR is high in 19thC US, and so won't Mass life tables overstate birth rates?
 <br>

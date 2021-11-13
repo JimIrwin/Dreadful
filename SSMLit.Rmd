@@ -960,21 +960,25 @@ Ontario female Eo ~40 1850  1900 ~50   1920 ~70
 Ontario mortality below national average, signifcantly lower than rates in Quebec <br>
 
 
-USA mort CEA   JIMJIM
-
 <a name="USAmort"></a>
 
 ### USA
 
 #### Nov 2021 additions
 
-Yasuba  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
-
-index/underenumeration of children 19, 23, 26, 29-30, 34-35, 70, 97, 142, 180; NY births 123
-      
+<p>
+Yasuba (1962)  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
+</p>
+<p>Fertility     
+pp27-28 Yasuba uses Thompson & Whelton's approach: u5 counts + 5% + implied deaths (Mass Life Table) for 5yrs ending in census year. Then the 5yrs til the next 5yrs gives increase per 4 years, 1/4 of the increase added to shift to centred on census year.
+ 
+</p>
+<p>Index entries for underenumeration of children 19, 23, 26, 29-30, 34-35, 70, 97, 142, 180; NY births 123
+<br>      
 p19  In Chapter III, mortality records are examined to see whether differentials and trends in child mortality largely accounted for the differentials and trends in the birth ratios. It will be found that a part, but only a small part, of the differentials in the birth ratios may have been due to differentials in mortality. The child mortality rate in the United States may have increased in the few decades preceding the Civil War but not so rapidly as to explain to a considerable extent the fall in the refined birth ratio. Other factors which may have affected the birth ratios such as the extent of underenumeration of young children and the rate of increase of yearly births tended to mask the differentials and trends in the birth ratios.     
 p23  In 1850 and thereafter, the number of children under 1 was also reported but, owing partly to heavy underenumeration in this age class and partly to the desire for comparability of the ratios throughout the nineteenth century, most demographers have preferred to use the number of children under 5 or under 10. <NO CITES FOR UNDERENUM>      
-p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>  SO: Yasuba assumes same 5% underenumeration of u5
+p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>     
+Yasuba assumes same 5% underenumeration of u5 for 1850-1920     
 
 pp29-30 5% underenumeration of u5  from Whelpton     
 pp34-35 Thompson & Whelpton / Grabill    
@@ -983,11 +987,10 @@ p97 U5 +5% for enum
 p142 relatively large underenum in 1850    
 p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.     
 p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ...        
-      
 p193 IM 79, 81   seems to suggest 1850 census mortality shows relative ranking of states in terms of u10 mortality (and therefore infant mortality?)
 
 
-Yasuba pp73-101 -- WASTE OF time for our project.  Ch 3 Mortality (his issue is extent to which birth-ratio patterns are from mortality (patterns are downward time-trend and regional differentials).     
+<p>Yasuba Ch 3 Mortality pp73-101; mostly a waste of time for our project. His concern is extent to which birth-ratio patterns are from mortality (patterns are downward time-trend and regional differentials).     
 p73 1. Relative levels of Mortality in Different States and Territories    
 Blodgett, Seaman: mort higher in South (Seaman IMR higher in North)
 p74 sanitary conditions in cities in this country in the middle of the 19th C were bad. Numerous remarks by city officials and medical authorities on filthiness and overcrowding, deficient ventilation, improper drainage, scanty water supply and the resultant rage of infectious diseases and high mortality bear testimony to this.4 [n4 NOT CONVINCING -- see below NYC 1866 TENEMENTS; AMedA 1848 NO; Mass 1917 -- BOSTON urban penalty 1830-45;  generally, very vague allusions to hygiene and disease and mortality in these ...] <br>
@@ -998,14 +1001,17 @@ p80 white u10 death rates by state via census ... USA 20.5  Mass 38.5 RI 27.1  N
 <br> My view: we'd waste our time getting into the game of trying to discern meaning in census mortality data ... 
 <br>p87  2. Trend of Mortality, 1800-1860 
 p96 "it is likely that the death rate increased somewhat duirng the few decades preceding the Civil War." 
-
+</p>
 
 Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (19)
 
 Grabill et al (1958) p. 409 Some enumerators began the age count with 1 year according to the Compendium of the Seventh Census, so the 1850 Census may have had more misstatements of age of infants than usual.
-Jim *cannot find that point in the 1850 Compendium* (also not found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      
-  random NY via surname Johnson NY-Kings i52-i60     
-  2 ] 2 1 ] 1 ] 1 ] 2 1 1 2/12 ] 1 ] 8/12 1 1 ] 1 1 1 8/12 ] 2 2 [60]
+Jim *cannot find that point in the 1850 Compendium* (also *not* found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      
+       
+random 1850 MS census pages from NY  via surname Johnson NY-Kings i52-i60, list of u3 ages from those pages:   2 ] 2 1 ] 1 ] 1 ] 2 1 1 2/12 ] 1 ] 8/12 1 1 ] 1 1 1 8/12 ] 2 2 [60]     
+So we see 5 2-yr-olds, 11 1-yr-olds, 3 infants ... seems suspicious; let's update that?
+
+
       
 p97 (Grabill or Yasuba?) To estimate the number of births, first, the number of children under 5 was increased by 5 per cent in order to allow for under¬enumeration ; the number of children aged 4-9 was left unchanged. ... In 1920 the census was less complete than usual at all ages, partly because of enumerator-recruitment problems.     
 p410 In some censuses it was noted that the number of children in the first 2 years of age was much less than the numbers at ages 2, 3, and 4 , al. though fragmentary birth statistics pointed to rapidly increasing annual numbers of births . Thus, the existence of an undercount of infants was " obvious" from data on population by single years of age in some censuses taken in a time of rapid population growth . Such an undercount was noted as early as 1850, when the first tabulations of population by single years of age were made for the United States.     
