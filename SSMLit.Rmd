@@ -900,7 +900,6 @@ STOLNITZ (1955 Pop Studies) sees 1940 as much improved over 1850 -- but does he 
 
 McInnis estimates for 1891 have Quebec 173 once Montreal & QC are dropped
 
-
 Cranfield & Inwood (2007 EcHuBio) 
 <br>
 p217 It is clear that mortality risk fell during the 20th century  ... However, the 19th century remains a statistical ‘dark age’ that conceals the precise beginning of secular improvement in life expectancy (Pouyez et al., 1983, pp. 292–298 [Sagueny]; Pelletier et al., 1997 [QUE PopStudies])     ...  Only in the small Ontario town of Ingersoll is there clear evidence of an age-adjusted mortality decline before 1900  ... decline in age-specific mortality in Ingersoll began as early as the 1870s or 1880s. This timing is consistent with the most recent American evidence (Haines, 2000, p. 333) 
@@ -950,9 +949,33 @@ p266 the three Quebec cities  average rate of 280  (Montreal 285)  rest of provi
 The general run of Ontario counties  IMRs 80 to 100       Essex 120 pocket of Fr Cdn settlement
  
 
-
 Thornton and Olson (1991 )  Alter (1997) mentions for Montreal French IMR higher than non-French  
 Thornton, Olson, Thuy Thach (1988) 
+
+Carpenter, P. P. 1859. "On the relative value of human life in different parts of Canada", [The Canadian Naturalist and  Geologist 4](https://www.canadiana.ca/view/oocihm.8_04260_21/14?r=0&s=1): 173-186. rambling discussion on high mortality of Montreal ... downloaded by Jim
+
+Carpenter, P. P. 1866. "On the vital statistics of Montreal", The Canadian Naturalist and Geologist 3, 134-156
+https://www.canadiana.ca/view/oocihm.8_04260  [PLB 1997 say 1867]  -- downloaded by Jim TO LOOK OVER
+
+###Quebec
+
+Pelletier, Légaré, Bourbeau (1997 Pop Studies)     
+Table 3 Quebec city IMR falls from 300 (1801-19) to 270 (1821-30) to 230 (1841-60) to 213 (1861-70) According to Lesperance 1970 MA Thesis.    
+p97 FrCdn & irish IMR 1859-60  Montreal 250 (via Thach, Th&Olsen) QuebecCity 223 (Lesperance)
+
+
+Thornton, Olson, Thach (1988 AnnDH)	Dimensions sociales de la mortalite infantile a Montreal au milieu du XIXe sie
+
+
+Lesperance (1970) MA thesis Montreal
+
+Carpenter, P. P. 1866. "On the vital statistics of Montreal", The Canadian Naturalist and Geologist 3, 134-156
+https://www.canadiana.ca/view/oocihm.8_04260  [PLB 1997 say 1867]  -- downloaded by Jim TO LOOK OVER
+
+
+
+
+###Ontario
 
 McQuillan (1985) life tables for Ontario <br>
 p42 "mortality conditions improved gradually but steadily ... 1861-1921" <br> 
