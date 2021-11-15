@@ -1594,12 +1594,16 @@ Canada & provinces [Lifetables 1999-2001](https://www150.statcan.gc.ca/n1/en/pub
 which is titled Table: 13-10-0712-01 (formerly CANSIM 102-0506) 
 Geography: Canada
 
+1861 census Lower Canada deaths unumbered page before [p578](https://www.canadiana.ca/view/oocihm.9_01612/309?r=0&s=4) . Total deaths by cause
 
 </p>
 
 Maybe https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310011401&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=3.1&pickMembers%5B2%5D=4.3&cubeTimeFrame.startYear=1980+%2F+1982&cubeTimeFrame.endYear=2017+%2F+2019&referencePeriods=19800101%2C20170101
 
 #### Census Sources for Canada
+
+<p>UofT library offers wide range of Can census [online](https://mdl.library.utoronto.ca/collections/numeric-data/census-canada/historical)
+</p>
 
 <p>
 <br>1851 Que [p208](https://archive.org/details/censusofcana1800cana/page/208/mode/2up); Ontario p184  (NB U6 p224; NS U10 p230; Assiniboin p240 family heads;    

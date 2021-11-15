@@ -10,26 +10,27 @@ output: html_document
 ###current log
 
 
-2021.113
-CEA revisions ... Ji takes the lead (we hope) and Js responds.
-1. Alter critique -- Jim 
-2. Update IMR estimates via Dempap; via BRA; via alternate ages
-3. For our conclusion -- implications for USA fertility story 
-4. Remove section on proof of concept? Goal: <1 page of text plus a modelled SR from West life-table?
-5. Narrow down the CEA paper -- Northern US & Canada? NE North America?
-
+2021.1114 maybe worthwhile to document more age-heaping at 1-year? easy in full-count PUMS ...
+<br>my pums data 55 is 1920 and 1930; 
+<br>Conclusion: scoping out degrees of underenumeration is a deep and tangled rabbit warren. We need to focus on implications of 10-year cross-census comparisons for our SR-based IMR claims. And we should look for corroborative evidence from state censuses and other sources ...
+2021.1113
+CEA revisions ... Ji takes the lead (we hope) and Js responds.     
+<br>1. Alter critique -- Jim<
+<br>2. Update IMR estimates via Dempap; via BRA; via alternate ages
+<br>3. For our conclusion -- implications for USA fertility story 
+<br>4. Remove section on proof of concept? Goal: <1 page of text plus a modelled SR from West life-table?
+<br>5. Narrow down the CEA paper -- Northern US & Canada? NE North America?
+<p>
 Other papers to write:
-A "note" to challenge and expunge the 19th C IMR estimates presented in HSUS. 
-Via 
-Reid & Jaadish -- issue of ECM in relation to IMR
+<br>A "note" to challenge and expunge the 19th C IMR estimates presented in HSUS. 
+<br>Via  Reid & Jaadish -- issue of ECM in relation to IMR.
 GOAL: be able to say, "oh yeah, from 1860 to 1900, England E0 rose by 5? years from improvemnet in ECM while IMR stayed high; and it was only with the collapse of IMR that Englign jumped up past 35? years"  ...
-
+<br>
 fPUMS siblings data ... changes in sex-discrimination? Missing girls are evident from stopping behavior? With possibility of mortal sex-discrimination -- see Monica DasGupta's work? Looking for patterns that cannot be biological ... 
-
+</p>
 Demography -- generally read and authoritative; but not open_source. 
-Demographic Research -- open_source
-Pop Dev Review? Population Studies? 
-
+<br>Demographic Research -- open_source
+<br>Pop Dev Review? Population Studies? 
 
 
 <p>2021.1112     
