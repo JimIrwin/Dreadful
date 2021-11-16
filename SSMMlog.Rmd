@@ -9,10 +9,19 @@ output: html_document
 
 ###current log
 
+<p>2021.1115 
+<p>looking from 1850 2-5 to 1860 12-15 -- 96% as many, consistent with no undercount in 1850.
+<br>Hacker (2003) undercount estimates by sex and age-group.
+<br>Request 56 for 1850-60; pums55 1920&1930; pums54 1910&1920; pums53 1910&1920 0-16; 
 
-2021.1114 maybe worthwhile to document more age-heaping at 1-year? easy in full-count PUMS ...
+<br>Js sends [nice graphic](https://ourworldindata.org/its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages) about England's e0 and e at other ages. But does it show, incorrectly, declining infant mortality before 1900? Maybe not -- the gap bewteen the e0 and e1 lines perhaps only narrows after 1900? With ECM declining and IMR constant, the e0 and e1 lines should be parrallel. 
+<br>Js asks for [the link](https://jimirwin.github.io/Dreadful/) for this page.
+<br>
+pums55 1920&1930; pums54 1910&1920; pums53 1910&1920 0-16; 
+
+</p><p>2021.1114 maybe worthwhile to document more age-heaping at 1-year? easy in full-count PUMS ...
 <br>my pums data 55 is 1920 and 1930; 
-<br>Conclusion: scoping out degrees of underenumeration is a deep and tangled rabbit warren. We need to focus on implications of 10-year cross-census comparisons for our SR-based IMR claims. And we should look for corroborative evidence from state censuses and other sources ...
+<br>Conclusion: scoping out degrees of underenumeration is a deep and tangled rabbit warren. We need to focus on implications of 10-year cross-census comparisons for our SR-based IMR claims. And we should look for corroborative evidence from state censuses and other sources ...<p>
 2021.1113
 CEA revisions ... Ji takes the lead (we hope) and Js responds.     
 <br>1. Alter critique -- Jim<

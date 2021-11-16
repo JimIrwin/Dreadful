@@ -9,7 +9,7 @@ output: html_document
 
 ## Overview -- Data now has [its own page](https://jimirwin.github.io/Dreadful/SSMMdatasources.html)
 
-<p>Our Applications or "cases": [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
+<p>Our "cases": [Europe](#EUROPE) [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
 [Ireland](#IRE), [19C Mort Decline](#URB), [Urban Penalty & Mort Transition](#URB), [Canada](#CANmort), [USA](#USAmort) 
 </p>    
 <p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#InfMort)     </p>
@@ -137,10 +137,6 @@ p68 US  e0 37-43 years -- n23 R Haines Avery -- JIH re US life tables REMINDING 
 
 148p136 (pp 77-80 notes)
 
-
-
-
-
 ### Input for CEA paper ###
 
 van de Walle 1986 in Coale & Watkins   
@@ -254,8 +250,14 @@ Posted as News -- before Dec 18
 **Anderson & Ray (2010:) see black SBR of 1.03 as genetic**   
 McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Human Sex Ratio at Birth in the United States, 1915–1948”, The Millbank Memorial Fund Quarterly, 29 (3), 273–293. Mentions, but does not test SES ... 
 
+<a name="EUROPE"></a>
 
 ## Europe 
+
+Brown & Guinanne (2007 EHR) "Regions and time in the European fertility transition: problems in the Princeton project’s statistical methodology"  
+<br>aggregation reduces power of tests to reject null of non-effect of economic factors of fertility. Knodel's work an example. 
+<br>crap treatment of change over time issues, so Princeton project misses 
+
 
 ### Italy
 
