@@ -1072,8 +1072,9 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
-<p>Underenumeration of infants?  
-Thomspon & Whelpton (found via Yasuba & Coale & Zelnick)
+#### SR Population counts
+
+<p>Underenumeration of infants and children. We'll rely on Hacker (2003). Earlier work on fertility refers to infants, but the empircal work and estimates work with 5-yr groups (u5, 5-9, etc). See LIT? for Thompson & Whelpton (1933), Yasuba, Coale & Zelnick.
 </p>
 
 <p>our spreadsheets USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
@@ -1091,9 +1092,21 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 <br> * also see the PDF on 20thC US for linked sources, in our B/W page
 </p>
 
-Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+#### USA IMR
 
-[NVSS HIST293](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98) 
+HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf). Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics--Special Reports, vol. 45, No. 1, p7. {I find it at Google via Hathi. Odd that they don't cite Linder & Grove, as in the 1957 edition}. 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.
+<br>1915-1932 Registration area only.  1915 99.9  1916 101.0   1931-61.6 1932-57.6  1933-58.1
+And same values in Linder & Grove.     
+<br>p44 B 1-220. General note.  
+<br>A two-part compendium updating and expanding the second edition, Historical Statistics of the United States, Colonial Times to 1957. 
+<br> US Bureau of the Census, *Historical Statistics of the United States, Colonial Times to 1970,Bicentennial Edition, Part 1*, Washington, D.C., 1975.
+
+<p>June 1959 [Historical Statistics of the United States, 1789 - 1957](https://www.census.gov/library/publications/1949/compendia/hist_stats_1789-1945.html)9-
+<br>Cites Linder & Grove for IMR. 
+    </p>
+
+
+<br>[NVSS HIST293](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98) 
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 <br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
@@ -1128,7 +1141,6 @@ Ala Ark La Tn are 1927 onward, so could relate them to SR2 ...   GA 1928
 
 
 #### USA data on/for Infant Mortality 1890, 1900-1904, 1900-1905
-  
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 <br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
@@ -1189,9 +1201,30 @@ p572. I'm looking for SRB data -- not Table 53, which gives total births (and IM
 <p>Early on: Bureau of Labor Statistics [Annual Reports](https://fraser.stlouisfed.org/title/bulletin-united-states-bureau-labor-3943?browse=1890s#477578) have city-level deaths by causes (these found via Cain & Rotella (2001)). But they lack age-specific deaths.  
 </p><p>But there are death-by-age in Registration cities for 1900 (census year, in Census Reports, Volume IV, Vital Statistics, Part II, [Statistics of Deaths](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1900_4.pdf)); I pdf-save Table 5 23-55   pp21-53
 
+
+#### CDC "Births:Final Data for 20xx ####
+
+annual [Health](https://www.cdc.gov/nchs/hus/previous.htm
+https://search.cdc.gov/search/index.html?query=%22sex%20ratio%22&sitelimit=NCHS&exact=sex%20ratio%20at%20birth#results) reports.
+
+https://www.cdc.gov/nchs/products/vsus/vsus_1980_2003.htm
+vital stats don't have births by sex
+
+[National Vital Statistics  Reports](<https://www.cdc.gov/nchs/products/nvsr.htm>). (Births)
+Most recent (as of 2020 May) seems to be 2018 (SBRs  1.046all 1.052white 1.029black 1.063Asian 1.036Hispanic 1.036Amerind/Alaska 1.022PacficIsle). Looking for SRB discussion later than 2001 report (not 2018, 2015,  YES: 2005 noting downward trend 1970s to 2002 -- citing Mathews&Hamilton (2005 CDC)
+
+Mathews&Hamilton (2005 CDC) [Trend analysis of sex ratio at birth in the United States](<https://www.cdc.gov/nchs/data/nvsr/nvsr53/nvsr53_20.pdf>). Quick read by Jim indicates they don't place a welfare interpretation on the declining SBR 1970s to 2000 ...  1.050  "In 2002 the sex ratio reported for fetal loss was higher than for live births (1,128 compared with 1,048)" 1.0763 -- CDC data
+
+Matin, Hamilton, et al. [Births 2001 (CDC 2002)](<https://data.nber.org/natality/2001/docs/nvsr51_02.pdf>). p8 1046 p9 .... 
+
+CDC Deaths 2017 Infant mortality 
+
+Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
+
+
 #### State of Mass
 
-##### U5 populations by sex: 
+##### U5 populations by sex in Mass 
 
 US census volumes and data-sets for 1860-1970 at 10-year intervals; Mass State Census for 1865-1915 at 10-year intervals. 1925-1965? (2021Oct26): not 1925 1935  1945 1965.      
 Some in 1955, Table 16, p 108
@@ -1202,8 +1235,6 @@ Some in 1955, Table 16, p 108
 
 [1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
 </p>
-
-
 
 ##### Mass IMR 
 
@@ -1226,7 +1257,7 @@ Haines (2006 HSUS essay) The Massachusetts data reach reasonable quality by abou
 
 1859 births 20 xx   stillbirths xxvi  deaths 42? 44? 54?  xxxiv (pdf132)
 1860 xxiv ; 1861   xxxiv   (births pdf 100 p xx)     
-1862 xxxiv pdf111 for u1 m/f deaths
+    1862 xxxiv pdf111 for u1 m/f deaths
 
 
 1865  6? 10?    p29    clii -- 10  year sum 
@@ -2001,23 +2032,6 @@ p7 interesting on errors in counts
 1911 Punjab
 1911  Appendices to the Imperial Tables, Part III, Vo-XIV, Punjab   NOT AGES
 
-
-#### CDC "Births:Final Data for 20xx ####
-
-annual [Health](https://www.cdc.gov/nchs/hus/previous.htm
-https://search.cdc.gov/search/index.html?query=%22sex%20ratio%22&sitelimit=NCHS&exact=sex%20ratio%20at%20birth#results) reports.
-
-https://www.cdc.gov/nchs/products/vsus/vsus_1980_2003.htm
-vital stats don't have births by sex
-
-[National Vital Statistics  Reports](<https://www.cdc.gov/nchs/products/nvsr.htm>). (Births)
-Most recent (as of 2020 May) seems to be 2018 (SBRs  1.046all 1.052white 1.029black 1.063Asian 1.036Hispanic 1.036Amerind/Alaska 1.022PacficIsle). Looking for SRB discussion later than 2001 report (not 2018, 2015,  YES: 2005 noting downward trend 1970s to 2002 -- citing Mathews&Hamilton (2005 CDC)
-
-Mathews&Hamilton (2005 CDC) [Trend analysis of sex ratio at birth in the United States](<https://www.cdc.gov/nchs/data/nvsr/nvsr53/nvsr53_20.pdf>). Quick read by Jim indicates they don't place a welfare interpretation on the declining SBR 1970s to 2000 ...  1.050  "In 2002 the sex ratio reported for fetal loss was higher than for live births (1,128 compared with 1,048)" 1.0763 -- CDC data
-
-Matin, Hamilton, et al. [Births 2001 (CDC 2002)](<https://data.nber.org/natality/2001/docs/nvsr51_02.pdf>). p8 1046 p9 .... 
-
-CDC Deaths 2017 Infant mortality 
 
 [back to top](#TOC)
 <p>

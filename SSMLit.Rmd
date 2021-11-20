@@ -629,6 +629,13 @@ HarrisBe (2008 ResEconHist) "Gender, Health, and Welfare in England and Wales si
 Johansson (2005 PopSt) on Fogel ... 
 [casting doubt on Fogel's view of chronic malnutriion] p248 Even now it remains conventional to assume that some part of the excess mortality of females in the nineteenth century reflects the pre- [p249] sence of chronic malnutrition among wives and daughters in low-income households, but not among their husbands and sons, except during harvest failure or famine (Alter et al. 2004).
 
+ReidA (2002 PopSt), " Infant feeding and post neonatal mortality in Derbyshire, England, in the early twentieth century.  pp151-66.
+151 The chronology of the decline of infant mortality in  England and Wales has been well established. Its  refusal to decline in parallel with mortality at older  ages in the late nineteenth and early twentieth cen-turies has provided a longstanding focus of research for historical demographers.     
+<br>p163ry. None of the findings in the paper  were unexpected; for the most part they have  already been demonstrated ... <br>Environmental influences loom large in this data  set, particularly in relation to the risk of death from  respiratory diseases. Infants living in densely popu-lated districts, districts at high altitude, and mining  districts were in an especially precarious position.  The all-pervasive influence of coal dust ... The quality of the  environment has frequently been implicated in the  risk of diarrhoeal disease, and other analyses have  demonstrated a relationship between population  density and diarrhoeal mortality (Woods and  Shelton 1997, pp. 55-57). It is therefore surprising  that the risk of diarrhoeal death is not responsive to  density or other environmental indices in this data  set. The reason may be that the data were collected  at a time when diarrhoea had already decreased  substantially  <br>p164 Within this nexus, breastfeeding occu-pied a dual role in both offering a buffer against exposure and boosting resistance to a variety of  afflictions. 
+<br>p165 Both this paper and the earlier paper on neonatal mortality (Reid  2001) have demonstrated that, in the early twentieth  century, most class differences in infant mortality could be explained by the type of housing and  environment people could afford to live in, leaving little role for nutrition and medical services
+
+
+
 WoodsR (2000 CUP) <br>
 p252 FIG 7-2  early child mortality (1-4) series is volatile, but decline is evident starting in the 1860s; Infant mortality stays high into the 20C
 p263n18 The decline in the SRB from 1052 in 1841–45 to 1039 in 1906–10 was considered in chapter 2 as a means of detecting biased birth registration. See figure 2.10 and table 2.2
@@ -965,6 +972,8 @@ Pelletier, Légaré, Bourbeau (1997 Pop Studies)
 Table 3 Quebec city IMR falls from 300 (1801-19) to 270 (1821-30) to 230 (1841-60) to 213 (1861-70) According to Lesperance 1970 MA Thesis.    
 p97 FrCdn & irish IMR 1859-60  Montreal 250 (via Thach, Th&Olsen) QuebecCity 223 (Lesperance)
 
+McInnis estimates for 1891 have Quebec 173 once Montreal & QC are dropped
+
 
 Thornton, Olson, Thach (1988 AnnDH)	Dimensions sociales de la mortalite infantile a Montreal au milieu du XIXe sie
 
@@ -991,6 +1000,10 @@ Ontario mortality below national average, signifcantly lower than rates in Quebe
 
 #### Nov 2021 additions
 
+<p>Results are in alter-view.xls in our dropbox folder.
+<br>Hacker (2013) offers estimates of the census undercounts, via the PUMS samples, which are on 1% samples for 1850, 1860, 1870, 1910, 1920, 1940, and if he used defaults then 1880 10%, 1900 5%, 1930 5%  ... 
+<br>p72 This article estimates age- and sex-specific net census underenumera-tion of the native-born white population in the United States for the census years 1850–70 and revises existing estimates for the census years 1880–1930 (see Coale and Zelnik 1963). It relies on the 1850–70 IPUMS samples of the US census, published census data from the 1880–1940 censuses, new esti-mates of nineteenth-century mortality, and back-projection methods to esti-mate the “true” white population by age and sex at each census.
+<br>QUESTION: how would fullPUMS (1850-1870) change his story?
 <p>
 Yasuba (1962)  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
 </p>
@@ -1074,6 +1087,7 @@ p319 recommend institutions be formed to educate and qualify females to be nurse
 </p>
 
 #### Current views of the onset of Infant-Mortality Transition in the USA? 
+
 ### Massachusetts Mortality
 
 <p>Alsan & Goldin (2019 JPE) 1880-1920 sse below for [MASSdem](#MASSdem) 
@@ -1783,13 +1797,26 @@ More generally, dubious for failure to attend to sample-size and source issues i
 
 ### SRB, SR1  Bio-related Lit
 
-**CONS** Arguing SRB is **not** reduced by maternal misery (malnutrition, stress, other): Wilcox (2010); SteinAD, Zybert, Lumey (2004 PRSCL); SteinAD, Barnett, Sellen (2004 PRSCL); SteinZM, Susser, Saenger et al (1975 OUP); 
+**CONS** Arguing SRB is **not** reduced by maternal misery (malnutrition, stress, other): Wilcox (2010); MathewsF, JohnsonPJ, NeilA (2008 PRSLBBS), SteinAD, Zybert, Lumey (2004 PRSCL); SteinAD, Barnett, Sellen (2004 PRSCL); SteinZM, Susser, Saenger et al (1975 OUP); 
 
-**Pros** Indicating SRB **is** reduced by maternal misery (malnutrition, stress, other): Chacon-Puignau & JaffeK (2019 Soc Bio) Venezuela; Kanninen & Karhula (2016 PloS one) GOOFBALL OECD macroecon SRB up pcInc; Wainstock et al. (2015 Stress); Navara (2014 PLoS); MathewsF, JohnsonPJ, Neil (2008 PRSCL); Andersson & Bergström (1998 Hu Bio);
+MathewsF, JohnsonPJ, NeilA (2008 PRSLBBS) Song (2015 EHD) cites for not-finding effect in "purely observational" study. Ommited variable bias etc.
+
+SteinAD, Barnett, Sellen (2004 PRSCL)  Song (2015 EHD) cites for not-finding effect in "purely observational" study. Ommited variable bias etc.
 
 
+**Pros** Indicating SRB **is** reduced by maternal misery (malnutrition, stress, other): Chacon-Puignau & JaffeK (2019 Soc Bio) Venezuela; Kanninen & Karhula (2016 PloS one) GOOFBALL OECD macroecon SRB up pcInc; Wainstock et al. (2015 Stress); Navara (2014 PLoS); MathewsF, JohnsonPJ, NeilA (2008 PRSCL), "You are what your mother eats: evidence for maternal preconception diet influencing foetal sex in humans. Proc R Soc Lond B Biol Sci 2008;275:1661–8.
+(Song 2015 meta for Pro)
+
+Mathews F, Johnson PJ, Neil A. You are what your mother eats: evidence for maternal preconception diet influencing foetal sex in humans. Proc R Soc Lond B Biol Sci 2008;275:1661–8.  n=740 
+
+Gibson MA, Mace R. (2003) Strong mothers bear more sons in rural Ethiopia, Proc R Soc Lond B Biol Sci 2003;270:S108–9; Andersson & Bergström (1998 Hu Bio);
+
+**Both pro & con **
 
 Agnostic on SRB & maternal stress:  Møller
+
+Schacht, R., Tharp, D. & Smith, K.R. Sex ratios at birth vary with environmental harshness but not maternal condition. Sci Rep 9, 9066 (2019). FRAIL MALES yes; MATERNAL MISERY no.
+
 
 ## SRB articles ##
 
