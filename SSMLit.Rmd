@@ -886,6 +886,14 @@ Schofield & Reher 1991 "The Decline of Mortality in Europe" [available at Intern
 <br>p6 During the latter part of the nineteenth century mortality once again began to decline ... As Vallin points out ... in most areas the mortality of children aged between 1 and 14 years declined first and most, and was followed by that of infant mortality which proved to be somewhat more resistant to change. n21 Preston has argued that the English experience analysed by McKeown was highly untypical.
 </p><p>Chap 13 is Roger Woods "Public Health and Public Hygiene: The Urban Enviro ... Late 19th and Early 20th Cs"
 
+<p>Kunitz & Engerman (1992) 
+p30  In this paper we shall describe secular patterns of change in income and mortality;  suggest some of the reasons why commonsense observations of the association between  income and life chances are not reflected in the secular association between them; explore some of the reasons why, however, such a relation has commonly been assumed to be the  case; and discuss some ways of thinking about the causes of disease and death that may be
+ applicable to considerations of the impact of real wages and income on mortality.
+p32 ss Domestic Product per man-year averaged about 1.2 per cent per annum from 1856 to
+ 1973. Clearly, the accelerated increase in the growth of per capita income is associated with  an accelerated decline in mortality, as well as with dramatic shifts in the location of the  population from rural to urban areas, and with significant changes in the contribution of  various diseases to mortality; a shift from epidemics to endemic infectious diseases and,  finally, to a phase characterized by chronic diseases.5
+</p>
+
+
 Woods & WOodward 1984 Urban Disease and Mortality in 19th C England
 
 
