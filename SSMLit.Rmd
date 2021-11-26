@@ -71,8 +71,6 @@ Hollingshaus et al [(2019 Hi Methods)](https://www.researchgate.net/profile/Ryan
 REMARK ON ITALY DATA QUALITY The estimated SRXs range from 3 through 101, with a mean of 51.9 over the period. The low and high values occur in Sweden and Italy, respectively. These two countries have data series extending prior to 1900, and also have large standard deviations. This is likely due to relatively poor data quality in the early years.
 
 
-
-
 de Hansen (1979) re: SIDS and IM in 19th C ENgland
 p342  McKeown stresses that throughout the century infant mortality actually increased, and did not fall until the early 20th century, well after the onset of a decline in fertility (1976: 63). In 1910 there were 105 infant deaths per 1000 live births, in 1920, 80, and in 1930, 60 per 1000 (Tilly and Scott, 1978: 102)  
 
@@ -257,6 +255,16 @@ McMAHAN, C. (1951), “An Empirical Test of Three Hypotheses Concerning the Huma
 Brown & Guinanne (2007 EHR) "Regions and time in the European fertility transition: problems in the Princeton project’s statistical methodology"  
 <br>aggregation reduces power of tests to reject null of non-effect of economic factors of fertility. Knodel's work an example. 
 <br>crap treatment of change over time issues, so Princeton project misses 
+
+### France    
+
+Guinanne (2011 JEL) Most scholars agree that Frances fertility decline started in the early nineteenth century at the latest. <refers to Weir 1994 table B3>
+ 
+Weir (1994 PopSt) ["New estimates of nuptiality and marital fertility in France, 1740–1911"](https://www.tandfonline.com/doi/abs/10.1080/0032472031000147816)
+ slight decline in overall fertility via nuptiality 1755-90 then bigger declines 1790-1850, 1870-1905, via marital fertility
+
+
+Wrigley (1985) 2-part article, "https://www.tandfonline.com/doi/abs/10.1080/0032472031000147816
 
 
 ### Italy
@@ -688,7 +696,7 @@ p99  Armstrong's two separate analyses of  death registration records for 1838-4
 p100  for the town of Carlisle compared with those of the 1780s, especially  among those aged 0-4 (16-21 per cent higher) and among all adults over  age 15 (about 25 per cent higher).4
 p101 
  Huck's research  suggests that by the 1840s several of these towns were exhibiting infant  mortality rates of 200 or more per 1,000 live births, a figure which is consistent with life expectancy at birth values of little more than 30  years.4
-   Wrigley, in comparing the  Cambridge Group's parish register reconstitution results with Woods's  work and with the official civil register data for the period after the  1830s, has concurred that there was a 'striking change' in the nation's  mortality regime across the 1 830s.5
+   Wrigley, in comparing the  Cambridge Group's parish register reconstitution results with Woods's  work and with the official civil register data for the period after the  1830s, has concurred that there was a 'striking change' in the nation's  mortality regime across the 1830s.5
 p104 E0 flat until 1870s  
 p108 deterioration during the 2nd and 3rd quarters of the century
 109  THIS WORK supports other bodies of recent research    in identifying the second quarter of the nine-teenth century as a key period of discontinuities and stresses, from the  point of view of general patterns in the proletarian 'standard of living
@@ -2271,9 +2279,6 @@ Guillot M, Gerland P, Pelletier F, Saabneh A (2012) Child Mortality Estimation: 
 Model life tables for both sexes combined are obtained from sex-specific model life tables by calculating a weighted average of male and female values of 4q1 predicted at a given level of 1q0 while assuming a sex ratio at birth of 1.05.    
 In this paper, we focus on the relationship between 4q1 and 1q0, instead of the relationship between 5q0 and 1q0. The relationship between 5q0 and 1q0 is a byproduct of the relationship between the 4q1 and 1q0. Indeed, the three indicators are related with one another through the equation 5q0 = 1−(1−1q0)(1−4q1). We decided to focus on the relationship between 4q1 and 1q0, because these two indicators have no age overlap, which generates more variance and makes patterns of deviation easier to detect.
 
-
-
-
 ### IMR as indicator ###
 
 Reidpath & Allotey (2003 JEpComH c527)	["Infant mortality rate as an indicator of population health"](https://jech.bmj.com/content/57/5/344.short)   Defends IMR as opposed to DALE (now called HALE) ... Just 3 pages; probably ?too narrow/minor for our purposes?    
@@ -2303,7 +2308,6 @@ The under age 5 mortality rate is an indicator of child health as well as the ov
    ...  In addition, focused efforts need to be undertaken to improve neonatal survival as more than three-quarters of under age 5 deaths occur in the neonatal period.
 
 Under age 5 mortality is defined as the probability of a child born in a given year dying before reaching their fifth birthday, and is expressed per 1 000 live births. Since under age 5 mortality is derived from a life table, it is, strictly speaking, not a rate but a probability of death.
-
 
 ### Infant Mortality outside North America ###
 
@@ -2429,6 +2433,18 @@ Bideau et al. 1997 [Infant and Child Mortality in the Past](https://books.google
 They cite Tabutin & Williams (1994)  for excess female mortality in age groups 5-9 and 10-14  in many developed countries almost until the outbreak of the WWII / and T&W 1993 for excess female mort after first bday in developing countries today
    MAYBE OF INTEREST -- maybe it looks at SR?  But the part I read says excess fem mort early (?? if so, high SR)
 
+
+### Fertility / Demog Transition
+
+<p>Guinanne (2011 JEL)
+
+<br>p590  This paper has two goals. I provide an overview of the historical fertility transition, and then discuss the main hypotheses that are current in the economics and economic history literature. ... I set aside three other issues ... implications of demog change for econ gr & devel ... the way fertility declines <spacing ceasing? fertility transition in developing countries since WWII .
+<br>p593 Some economists have accepted the view that the fertility transition took place all at once across Europe. Most economists would not admire the data and methods upon which that assertion is based.3 <critique of Ig> The all-at-once view has important implications for causality. Some scholars invoke the claim of simultaneous fertility transitions to support their view that economics has little to do with the fertility transition 
+<br>p593 Most scholars agree that France's fertility decline started in the early nineteenth century at the latest. <refers to Weir 1994 table B3> USA also "well before the late 19th C"    
+<br> reliance on CBR ... understates the change in behavior ... 
+<br>p594 Cohort Fertility Rate (CFR) Eng, Fr, Ger, It, USA  from Festy 1979
+<br>p599 The TFRs reported by Haines (2000b, table 8.2) decline from the early nineteenth century; there is no sustained fall in the infant mortality rate, on the other hand, until the 1890s. <Haines 2000b is in Pop Hist of North America>
+<br>609  Despite at least one hundred years of academic and official interest in the decline of fertility, this question is not one for which economists have a clear, empirically <610> well-founded explanation.
 
 
 [back to top](#TOC)
