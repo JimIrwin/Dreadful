@@ -9,10 +9,39 @@ output: html_document
 
 ###current log
 
-<p>2021.1126 Testing the move to SSSMM  </p>
+<p>2021.1206 left off in Michigan, getting 1920 & 1930 ready for sr5 and sr2 regressions. Will need to think about weighting issues, when Delaware and NY each represent one observation ... 
+<br>CA ~1930 imr all/urban not much difference, suggesting limited gains to imputting those data.
+<br>CO IMR starts with 1928, so we can use it in the SR2 regressions (IMR 90ish). 
+</p>
+<p>Noted that fPUMS and Census SR values for 1910 differ by 0.5 (Mass) & 0.7 (NY white). At 1910 search, white born 1909-1910, fname John. First entry is John Kri (i14 ED241 Aurora, St Louis MN). That page has 6 families with young children, in those 0 under-ones and 5 one-year-olds. Next page, i15p174: 4 u1, 0 1yr. i16 1 u1, 1 1yr.  -- dead end, b/c I dunno whether the index is the same fPUMS.  
+i13 22 April, i14 (no day) April, i15 25 April,  
+<br>
+</p>
+
+<p>2021.1205 1910 might be ready: USA-1910DRA has u2 populations and 1909-10 IMR ... but Jim should confirm they are valid ....
+</p>
+<p>2021.1130 1906-1908 perhaps not useful, with no births data available ... go ahead with IMR estimate via 1909 & 1910 u1deaths, and 1910 u1 population. And relate that to SR2 and SR5 of 1910, recognizing it will be fairly crude
+</p>
+<p>2021.1129 entering DRA u1 deaths for 1910 census SRs.
+<br>1910 counts are formally for April 15, 1910 -- so the "one-year-olds" are supposed to have been born between April 16, 1908 and April 15 1909. So SR 1910 reflects IMR 1909,8,7,6,5 and 
+<br>JanFebMar 31+28+31+15=105/365 for 1910 and 260/365 for 1905
+<br>1906 CA CO MD PA join DRA ... could use them for Sr2? Wash Wisc 1908 OH join 1909 MN MT UT 1910 
+<br>For 1900 have CT DC IN ME MA MI NH NJ NY RI VT
+</p><p>2021.1127 
+Dempap BRA draws on usa1910-40.RDS, which is built from fPUMS. But I want census-volume based populations as well.  Started to compile 1910-40 pop data in wrangling/raw
+
+</p>
+<p>2021.1126 
+<br>Roughly using France's 1890s and later, for q0,4q1 25%,15% and q0 10%,3% the implied effect on births: with better survival, just 73% of the births required for the same population at exact age 5 (diffLn -31%).    
+
+Recall (1124) we looked at implications of IMR differences for fertility ... roughly consider IMRs of 25% vs 10% and thus exact-age-1 survivals of 75% vs 90% of births. With the same post-infancy mortality, the implication for birth rates is that the same stable population would need only 75/90 as many births, -18% as many (ln[75/90]).
+If we use GRR for our fertility measure, Wrigley reports values for France vs England as 2.00 and 2.93 (-38%) in 1800-09 and 1.70 and 2.34 or 32% for 1850-59 ... 
+<br>US-BRA.RDS is total for 1920 & 1930 ... 
+<br>Found Corsini&Viazzo on LibGen. Alice Reid there, on geog/class IMR ENg & Wales. Quick look at Portugal, after seeing anomolous IMR m/f 1960 for Portugal (120/60) in Viazzo&Corsini 1997. They cite Keyfitz & FLieger. There, p8, "Not-stated ages were distributed in proportion to the stated ages of each sex." But that will fem-bias the SR2 because older ages are much more female?
+<br>Testing the move to SSSMM -- it worked.  </p>
 
 <p>2021.1125 
-<br> look at Sweden SR5 with reference to Sandberg & Steckel (1997)
+<br>TO DO: look at Sweden SR5 with reference to Sandberg & Steckel (1997)
 <br> Sánchez-Barricarte has 2 papers in *Demographic Research* that discuss fertility?  Push for looking at fertility measure weighted by 0q25 -- for a notion of how many surviving kids families (women) will have. 
 </p>
 <p>2021.1124 implications of IMR differences for fertility ... roughly consider IMRs of 25% vs 10% and thus exact-age-1 survivals of 75% vs 90% of births. With the same post-infancy mortality, the implication for birth rates is that the same stable population would need only 75/90 as many births, -18% as many (ln[75/90]).
@@ -100,9 +129,7 @@ CONCLUSION: SR5 at least 103.6
 1900 presumed most accurate for infant ages. 
 1900 fPUMS SR2 & SR5 102.5 -- worse than 1850.
 
-
 Note that using 1900 to infer 1890 -- 102.3 for 10-11 and 10-14
-
 
 BTW we can accept the consensus that 1850 is worst for undercounting infants (various allusions to 1850 Compendium saying 1 as smallest age-value reported: not seen in Jim's inspection of pp1-30; nor in his search at Google books -- might be able to look at <1 vs 1 in 1850 vs 1860; or look to see if district level is visble in 1850 full count)
 
@@ -128,12 +155,10 @@ Look at 1900 and 1910, when age-enumeration is supposedly improved ...Generally,
 
 <br> IPUMS datasets: #52 for 1920; 
 
-
 <p>via search Michigan DOB 1850, find in 1870 census: julian h Reid -- 1900 census says born Oct 1900. 1870 gives us parents Lydia and Hurlbert. 1870 https://www.familysearch.org/ark:/61903/1:1:MHH1-DYT   
 1900 United States Census, 1900 Michigan Oakland ED 109 Waterford township  i3
 
 1850 Michigan Hillsdale i10 last 4 people no ages given ...    Mary J Read 1900 Washtenaw
-
 
 
 </p><p>Jim had 1920 US census date (day) wrong. 1920 is Jan 1, so we simply need IMR 1915-1919.<br>

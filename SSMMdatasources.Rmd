@@ -19,7 +19,6 @@ UN [life tables](https://www.un.org/en/development/desa/population/publications/
 
 US Census offers biblio of recent [foreign Statistical Abstracts](https://www.census.gov/prod/2011pubs/12statab/app1c.pdf)
 
-Jesse might find in NYC? or we have now?  Corsini & Viazzo, [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)
 
 [Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf)
 
@@ -59,11 +58,16 @@ The World Bank. [Civil Registration and Vital Statistics for Monitoring the Sust
 Summary view of societies, time-periods for which we have good IMR/SR data.     
 Nordic countries: Denmark (1840-1970), Finland (1885-1970), Iceland (1845-1970), Norway (1890-1970) and Sweden (1751-1970)
 
+Corsini & Viazzo (1997), [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)  TO LOOK OVER?
+
+
 Nothing new for us in JSSL 1885 "Statistical Results of the last Census of France, Prussia, Austria, Italy, Switzerland, and Belgium," Journal of the Statistical Society of London, Vol. 48, No. 2 (Jun., 1885), pp. 288-297. No age data on Italy    
   Reporting on Toussaint Loua's paper published by Journal of the Paris Statistical Society ... LT5
   On France:  the falling off in the number of the population comprised in the age period 10-15, chiefly due in his opinion to the excessive  infantile mortality during the year 1871, and also by the abnormally large number of females returned as being between the ages of 20 and 25, which he attributes to the fact that many women, desirous  of being thought to be younger than they really are, return them-selves as under 25 
 
 many 19-c sources listed in Galloway, Patrick R., "The golden age of published demographic data in Europe 1850-1915: sources and research possibilities", 2008. [Download](http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf)  See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905. 
+
+Portugal Mitchell reports IMR 1970 58   1960 78     1950  94    1940     1930    1920 
 
 
 <a name="ITALY"></a>
@@ -1074,16 +1078,19 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 #### SR Population counts
 
-<p>Underenumeration of infants and children. We'll rely on Hacker (2003). Earlier work on fertility refers to infants, but the empircal work and estimates work with 5-yr groups (u5, 5-9, etc). See LIT? for Thompson & Whelpton (1933), Yasuba, Coale & Zelnick.
-</p>
-
 <p>our spreadsheets USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
 
-<br>
-census timing: 1930 onward April 1; 1920 Jan 1;    1910 April 15, 1840-1900 June 1* (1890 June 2)  
+<p>1910 PUMS SRs from usa_00043.csv; 
+<br>**discrepencies** between fPUMS and published volumes include <br>Mass SR5 f-101.5 c-102.0 ; <br>NY white SR5 f-101.4 c-102.1 (SR2 101.9 102.9) ... when time, Jim to randomly sample ...
+</p>
+<p>1920 PUMS
+</p><p>
+census date or census timing: 1930 onward April 1 (90/365); 1920 Jan 1;  1910 April 15, 1840-1900 June 1* (1890 June 2)  
 1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
 [1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Jan.1; [1910](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Apr 15; 1920 Jan 1;   
-
+</p>
+<p>Underenumeration of infants and children? Hacker (2003) relies on PUMS samples, which we doubt for SR data. Earlier work on fertility refers to infants, but the empircal work and estimates work with 5-yr groups (u5, 5-9, etc). See LIT? for Thompson & Whelpton (1933), Yasuba, Coale & Zelnick.
+</p>
 <br>
 1850 compendium DeBow p 104 mentions age heaping at 10 15 20 ....
 <p>US Census Office offers a partial listing of [**Pubs by decadal census**](https://www.census.gov/programs-surveys/decennial-census/decade.1950.html). But the 1890 page does not show Volume 4, which has vital statistics<br>

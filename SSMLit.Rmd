@@ -15,17 +15,26 @@ output: html_document
 <p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#InfMort)     </p>
 <p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 
+## general collections 
+
+Keyfitz & Flieger (1968 at Internet Archive);  [World Population:](https://archive.org/details/worldpopulationa0000keyf/page/448/mode/2up?view=theater)
+<br>p2 results of Tables 2-10 are based on the data of Table 1, and no other input was used     p8 No use is made in Tables 2 and 3 of births to calculate q0. An approximation to an alternative q0, obtained by dividing deaths of the given year by births of the same year, is shown as column 13 of the summmary Table. Summary tables p24-
+<br>
+K&F are used by Easterlin, for his story of e0 transition in England, France, Sweden ... 
+<br>Of note for me, compared to ONS, they seem to have more e0 rise 1871-1901 and less 1901-1911, and they have some gain in male q0 1871-1901 (178.5 to 173 -- maybe negligible?). p3 says "documentation ... turned out to be too bulky to print ... data comes from official national publications or through reliable secondary source constituted by the UN Demographic Yrbooks 1948-66" p670 for UK Mitchell 1962 Abstr of Brit Hist Stats; Reg-Gen annual reports; Annual Abstracts etc.
+</p>
+
+
+
+
+
 
 ### new stuff to review and then move (to the proper place in the page)
 
 Tavasolli et al    
 
-Tables 
-
-
 In this paper, we try to find the association between air pollution and infant mortality during
 late 19th century and the dawn of 20th century.     
-
 
     Like pollution, data on infant mortality and more importantly fetal death has been scarce.  ...      However, gender ratio has been shown to provide a quite robust proxy for fetal deaths. Male embryos are more susceptible to external stressors like pollution during prenatal development and more likely to suffer health problems during infancy as a respond to such stressors (Sanders and Stoecker (2011)). Therefore, during periods of large external shocks to utero, the reproductive system will be biased to produce more XX–chromosomes combination rather than XY–combination and as a consequence the probability of a live birth being girl increases. The latter probability is the dependent variable in this paper for analysis at household level while the female ratio to total number of children is the proxy used for county level regressions.   
     Using these proxies, we show that one thousandth of logarithm of employment in manufacturing is associated with 1–3% increase in the probability of a live birth being female. Wefindthat Mothers in counties with higher degrees of manufacturing industries were more likely to give birth to daughters, experience the fetal, prenatal, and infant death.
@@ -1103,6 +1112,10 @@ p319 recommend institutions be formed to educate and qualify females to be nurse
 </p>
 
 #### Current views of the onset of Infant-Mortality Transition in the USA? 
+
+Cutler & Miller (2005) & Goldin's correction thereof ...
+
+
 
 ### Massachusetts Mortality
 
