@@ -1083,7 +1083,7 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 <p>1910 PUMS SRs from usa_00043.csv; 
 <br>**discrepencies** between fPUMS and published volumes include <br>Mass SR5 f-101.5 c-102.0 ; <br>NY white SR5 f-101.4 c-102.1 (SR2 101.9 102.9) ... when time, Jim to randomly sample ...
 </p>
-<p>1920 PUMS
+<p>1920 PUMS SR5 OH & NY are 0.2 above the census-volume values. MI P&C are both 102.9.
 </p><p>
 census date or census timing: 1930 onward April 1 (90/365); 1920 Jan 1;  1910 April 15, 1840-1900 June 1* (1890 June 2)  
 1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 

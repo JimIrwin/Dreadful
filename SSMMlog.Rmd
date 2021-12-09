@@ -8,7 +8,13 @@ output: html_document
 <a name="TOC"></a>
 
 ###current log
-
+<p>2021.1209 corrected 1920 SR-IMR to reflect Jan 1 census date (so simple average of IMRs 1915-1919). SR5&SR2 and corresponding IME values are now in BRAstates1920-30.RDS
+</p>
+<p>2021.1208  1920 & 1930 SR5-IMR done for fPUMS. Beware of very small states? 
+<br>1930 IMR values range from 50 (WA; MN 54) to 77 (ME; WV 74, PA 72)
+<br>1920 IMR values range from 68 (MN) to 110 (PA). A quick look suggests that metro/urban/rural won't offer greater variance of IMR ... (NY 91, NYC1919 79) (PA 110, 1919 Phil 86 rural 101; 1918 PA 126, rural 128, Phil 124). 
+<br>Yesterday completed IMR data entry for white population states of US BRA in 1920 and 1930. Jim ignores "colored" data for now, because his later project is to challenge those data (because SR trends contradict IMR trends of Blacks).
+</p>
 <p>2021.1206 left off in Michigan, getting 1920 & 1930 ready for sr5 and sr2 regressions. Will need to think about weighting issues, when Delaware and NY each represent one observation ... 
 <br>CA ~1930 imr all/urban not much difference, suggesting limited gains to imputting those data.
 <br>CO IMR starts with 1928, so we can use it in the SR2 regressions (IMR 90ish). 
