@@ -8,6 +8,22 @@ output: html_document
 <a name="TOC"></a>
 
 ###current log
+
+<p>2021.1215  
+<br> RDS folder now has an IMR file with IMR2 and IMR5 which are estimates of IMR to pair with SR2 and and SR5 respectively. The strict or proper IMR estimates are based on counts of IMR as follows:  1920 nI2=2 1930 nI2=3  and 1920 nI5=6 and nI2=3 ; the nI variables give the counts of IMR in the IMR5 or IMR2 estimates so we can exclude the non-strict IMR estimates.
+<br> RDS folder also has my ongoing tally of census-based u2 u5 white counts (as opposed to the fullPUMS). This is ongoing (more states are being added). 
+<br>Working on  df with all available IMR data for BRA's 1920 and 1930 SR counts. Rhode Isle (St==5) is missing 1919 IMR data; 4-yr avg IMR is 114.7 ; could adjust to 113 (almost the same). Fearful that 1918 is unduly raising RI's IMR, we can assume 1919 was as low as the 1917 value (lowest of the 4 years); 
+<br> Calif 1919 for a 1-year IMR ?
+
+<p>2021.1211 1920 SR:IMR strict version requires IMRs for the 5 years 1915-1919, with n=10 and imr ranging (68 to 111) ; relaxed version would allow observations with fewer IMRs. Requiring 3 or more IMRs gives n=21 with imr ranging (65-115).
+
+<br> 4 years of IMR adds 2 (RI MD); 3 yrs IMR adds 9 (2 yr IMR is covered by SR2?)
+<br>
+<br>notice 1920 NY SR2 < SR5, consistent with 1918-flu upturn in IMR. But PA-PUMS SR2>SR5 (102.2 101.9)
+</p>
+<p>2021.1210 looking at ICPSR study 2896 (Haines) for published census data in machine-readable form. Needed to add the website to "allow javascript" or such in Chrome settings (cmich email with ICPSR techs).
+<br>corrected .RDS error, had written only the SR5 values (in saveRDS command) 
+
 <p>2021.1209 corrected 1920 SR-IMR to reflect Jan 1 census date (so simple average of IMRs 1915-1919). SR5&SR2 and corresponding IME values are now in BRAstates1920-30.RDS
 </p>
 <p>2021.1208  1920 & 1930 SR5-IMR done for fPUMS. Beware of very small states? 
