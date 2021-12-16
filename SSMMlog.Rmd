@@ -9,6 +9,7 @@ output: html_document
 
 ###current log
 
+<p>2021.1216 RDS folder now has RDS files for census and pums u2 u5 populations. Next step: Jim compare these with 2 goals. First: check for coding errors in census-volume data; second: evaluate robustness of SR measures to data source. 
 <p>2021.1215  
 <br> RDS folder now has an IMR file with IMR2 and IMR5 which are estimates of IMR to pair with SR2 and and SR5 respectively. The strict or proper IMR estimates are based on counts of IMR as follows:  1920 nI2=2 1930 nI2=3  and 1920 nI5=6 and nI2=3 ; the nI variables give the counts of IMR in the IMR5 or IMR2 estimates so we can exclude the non-strict IMR estimates.
 <br> RDS folder also has my ongoing tally of census-based u2 u5 white counts (as opposed to the fullPUMS). This is ongoing (more states are being added). 
