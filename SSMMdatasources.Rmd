@@ -1078,12 +1078,29 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 #### SR Population counts
 
-<p>our spreadsheets USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
+<p>our spreadsheet USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
 
-<p>1910 PUMS SRs from usa_00043.csv; 
-<br>**discrepencies** between fPUMS and published volumes include <br>Mass SR5 f-101.5 c-102.0 ; <br>NY white SR5 f-101.4 c-102.1 (SR2 101.9 102.9) ... when time, Jim to randomly sample ...
-</p>
-<p>1920 white SRs
+<H3>George Alter's concern: infant undercounts</H3>
+
+<p>If under-enumeration of infants 
+
+
+<p>We restrict attention to the US-born, and treat US-born children as a closed population in any 10-year period, assuming negligible out-migration. And we abstract from possible problems in the IPUMS coding of children as US- or foreign-born.</p>
+<p>The key issue for our findings on children's sex ratios over the period 1850-1920 is the possibility that improvements in the accuracy of enumeration of children's ages generate specious changes in observed sex ratios. We find child sex-ratios circa 1900 to be more tilted toward females, in comparison to the ratios observed in censuses from 1850 to 1880 (or 1890, but we dismiss the 1890 data as flawed). There is a Literature of US demographic research suggesting underenumeration of infants in the censuses of 1850 through 1880, with the 1900 census age question eliciting a much more accurate enumeration. The possible problem we need to consider is that the observed changes in child sex ratios could reflect changes in enumeration errors rather than changes in actual sex ratios. For example, suppose actual sex ratios were constant in the period 1850 to 1900. And suppose a relative under-enumeration of female vs male infants biased child sex-ratio values toward males in the 19th-century censuses, but improvements in enumeration resulted in more accurate sex-ratio values from 1900 on. If so, the  observed shift toward girls would be an artifact of changing measurement error and not a reflection of deteriorating maternal-infant health.</p>
+<p>
+
+
+
+</p><p>
+
+  
+</p><p>1930 white SRs -- Arizona alerts us to potential problem with category "white" in published census versus the PUMS.  VS (vital statistics) and census both seem to group "Mexican" in "colored". 
+<br>1930VS has 438K total, comprised of 266K white and 172K colored ;
+<br>census has 436K total, comprised of 264K white and 171K nonwhite (11 negro, 114 mexican, 44 indian)
+<br>The 1929VS estimated pop of 1929 is 372K and 56K colored;  1931 269 174;
+<br>
+
+</p><p>1920 white SRs
 <br>PUMS above Census
 MD SR5p 0.4 above census (102.6 102.2); SR2p same (103.7 103.7)
 MA SR5p 0.3 above census (102.1  101.8); SR2p 0.6 above census (101.7 101.1). Ji checked and it seems correct.   
@@ -1108,6 +1125,10 @@ NH SR5p 0.5 above census (102.7 102.2); SR2p 0.1 above (102.5 102.4) -- small st
 VT SR5p 0.3 above census (103.1  102.8); SR2p 0.2 above (104.0 103.8)  -- small state, u5 34.5k     
 DC SR5p 0.3 below census (101.6  101.9); SR2p 0.7 above (103.9 103.6) -- very small place, u5 23k
 
+<p>1910 PUMS SRs from usa_00043.csv; 
+<br>**discrepencies** between fPUMS and published volumes include <br>Mass SR5 f-101.5 c-102.0 ; <br>NY white SR5 f-101.4 c-102.1 (SR2 101.9 102.9) ... when time, Jim to randomly sample ...
+</p>
+
 
 </p><p>
 census date or census timing: 1930 onward April 1 (90/365); 1920 Jan 1;  1910 April 15, 1840-1900 June 1* (1890 June 2)  
@@ -1125,6 +1146,8 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 </p>
 
 #### USA IMR
+
+Our key source is [Vital Statistics for 1890-1938 ](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 
 HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf). Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics--Special Reports, vol. 45, No. 1, p7. {I find it at Google via Hathi. Odd that they don't cite Linder & Grove, as in the 1957 edition}. 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.
 <br>1915-1932 Registration area only.  1915 99.9  1916 101.0   1931-61.6 1932-57.6  1933-58.1
@@ -1161,7 +1184,7 @@ USimrBRA.RDS is simply the BRA part of USimr-BRA.xls (which covers 1915-1931); t
 
 u2u5forBRAimr.RDS 
 
-For 1920 and 1930, we get IMR by state/race from [Lindner & Grove (1943)](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm#:~:text=Lindner%20FE%2C%20Grove,the%20Census.%201943%3B) Vital statistics rates in the United States, 1900-1940. We use annual Birth Statistics pubs to get birth counts. Oddly, [Hetzel's](https://www.cdc.gov/nchs/products/other/miscpub/vsushist.htm) history of US vital statistics systems has SC starting in DRA 1916 and BRA 1919, yet SC not in Birth Stats 1926     
+For 1915 to 1930 (for census SRs of 1920 and 1930), we get IMR by state/race from [Lindner & Grove (1943)](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm#:~:text=Lindner%20FE%2C%20Grove,the%20Census.%201943%3B) Vital statistics rates in the United States, 1900-1940. We use annual Birth Statistics pubs to get birth counts. Oddly, [Hetzel's](https://www.cdc.gov/nchs/products/other/miscpub/vsushist.htm) history of US vital statistics systems has SC starting in DRA 1916 and BRA 1919, yet SC not in Birth Stats 1926     
 
 South: 1925-1930 DC (6 2.8) DE (3.6 0.7) FL (20 9) KT (53 3.5) MD (24 6) NC (53 24) VA (38 16) WV (38 2) 
 

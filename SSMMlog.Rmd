@@ -9,8 +9,25 @@ output: html_document
 
 ###current log
 
-<p>2021.1216 RDS folder now has RDS files for census and pums u2 u5 populations. Next step: Jim compare these with 2 goals. First: check for coding errors in census-volume data; second: evaluate robustness of SR measures to data source. 
-<p>2021.1215  
+<p>Js constructs plots for census year and for 10 yrs later (such as ages 2 and 12). All look fine in terms of 1900-1910 more fem-tilted. Next step: alternate perspectives on maternal-infant health circa year t ...  U5t and ages 9-14 10 years later ... 
+<br> Ages U2  OK: 1900 & 1910 look worst (also 1890)
+<br> Ages 2-3 OK: via +10, 1890-1910 look worst; via +0, 1900-1910 look worst
+</p>
+
+<p> 2022.0102
+For Alter issue -- key may be suggestion that 1890 is bullshit?
+</p><p>note that HSUS/raw has xls with US state-level data. Looking for 1930 mortality statistics, which are not in the annual sequence on the CDC site; but they are mentioned in the 1931 report?  The 1930 [volume is at Hathi Trust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033583868&view=page&seq=9&skin=2021); 
+</p><p> CEA paper conclusions include (p27) "Existing estimates have found that US infant mortality declined from the mid-19th century onward." Ji prefers "According to existing estimates, US infant mortality declined from the mid-19th century onward."  
+<br>p30   "maternal infant health"  -- add a hyphen, for maternal-infant health ?
+</p>
+<p>2021.1218 my RDS seems to lack u5 Arizona -- maybe only those with IMR data are included in my RDS?  
+<br>1930 Arizona PUMS problem is published census puts "mexican" in other -- maybe we can replicated in PUMS via dropping mexican-born from whites (RACE==1)
+</p>
+<p>2021.1217 my 1930 Arizona PUMS u5 seems off ...
+<br>total u5m u5f pops look ok PUMS 25,337	24,753 Census 25,316	24,771; but the published census race-breakdown seems anomalous -- 
+
+</p><p>2021.1216 RDS folder now has RDS files for census and pums u2 u5 populations. Next step: Jim compare these with 2 goals. First: check for coding errors in census-volume data; second: evaluate robustness of SR measures to data source. 
+</p><p>2021.1215  
 <br> RDS folder now has an IMR file with IMR2 and IMR5 which are estimates of IMR to pair with SR2 and and SR5 respectively. The strict or proper IMR estimates are based on counts of IMR as follows:  1920 nI2=2 1930 nI2=3  and 1920 nI5=6 and nI2=3 ; the nI variables give the counts of IMR in the IMR5 or IMR2 estimates so we can exclude the non-strict IMR estimates.
 <br> RDS folder also has my ongoing tally of census-based u2 u5 white counts (as opposed to the fullPUMS). This is ongoing (more states are being added). 
 <br>Working on  df with all available IMR data for BRA's 1920 and 1930 SR counts. Rhode Isle (St==5) is missing 1919 IMR data; 4-yr avg IMR is 114.7 ; could adjust to 113 (almost the same). Fearful that 1918 is unduly raising RI's IMR, we can assume 1919 was as low as the 1917 value (lowest of the 4 years); 
@@ -132,7 +149,7 @@ Demography -- generally read and authoritative; but not open_source.
 
 
 <p>2021.1112     
-Making the point that census enumeration of race and nativity is error-ridden because of coding errors when interpreting manuscript. For example, [17 people](https://www.dropbox.com/s/7b9huqofxvnwimu/BlackIrishKingsCo1860.jpeg?dl=0) error-enumerated as Blacks in Brooklyn in 1860. Wondering how to find examples of mistaken nativity coding?
+Making the point that indexing-enumeration of race and nativity is error-ridden because of coding errors when interpreting manuscript. For example, [17 people](https://www.dropbox.com/s/7b9huqofxvnwimu/BlackIrishKingsCo1860.jpeg?dl=0) error-enumerated as Blacks in Brooklyn in 1860. Wondering how to find examples of mistaken nativity coding?
 </p>
 <p>2021.1111 leads to pursue:
 Work the sequence Hacker (2003 Demog), Haines (1989 Demog), Coale & Zelnick, Thompson & Whelpton (1958) for (1) underenumeration of infants -- implications for our CEA findings and (2) the use of the Mass life tables for predicting birth rates in the US -- is it not the case that we'd say Mass IMR is high in 19thC US, and so won't Mass life tables overstate birth rates?

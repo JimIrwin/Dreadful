@@ -364,13 +364,44 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">06 December, 2021</h4>
+<h4 class="date">02 January, 2022</h4>
 
 </div>
 
 
 <p><a name="TOC"></a></p>
 <p>###current log</p>
+<p>
+2022.0102 note that HSUS/raw has xls with US state-level data. Looking for 1930 mortality statistics, which are not in the annual sequence on the CDC site; but they are mentioned in the 1931 report? The 1930 <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015033583868&amp;view=page&amp;seq=9&amp;skin=2021">volume is at Hathi Trust</a>;
+</p>
+<p>
+CEA paper conclusions include “Existing estimates have found that US infant mortality declined from the mid-19th century onward.” Ji prefers “According to existing estimates, US infant mortality declined from the mid-19th century onward.”
+</p>
+<p>
+2021.1218 my RDS seems to lack u5 Arizona – maybe only those with IMR data are included in my RDS?<br />
+<br>1930 Arizona PUMS problem is published census puts “mexican” in other – maybe we can replicated in PUMS via dropping mexican-born from whites (RACE==1)
+</p>
+<p>
+<p>2021.1217 my 1930 Arizona PUMS u5 seems off … <br>total u5m u5f pops look ok PUMS 25,337 24,753 Census 25,316 24,771; but the published census race-breakdown seems anomalous –</p>
+</p>
+<p>
+2021.1216 RDS folder now has RDS files for census and pums u2 u5 populations. Next step: Jim compare these with 2 goals. First: check for coding errors in census-volume data; second: evaluate robustness of SR measures to data source.
+</p>
+<p>
+<p>2021.1215<br />
+<br> RDS folder now has an IMR file with IMR2 and IMR5 which are estimates of IMR to pair with SR2 and and SR5 respectively. The strict or proper IMR estimates are based on counts of IMR as follows: 1920 nI2=2 1930 nI2=3 and 1920 nI5=6 and nI2=3 ; the nI variables give the counts of IMR in the IMR5 or IMR2 estimates so we can exclude the non-strict IMR estimates. <br> RDS folder also has my ongoing tally of census-based u2 u5 white counts (as opposed to the fullPUMS). This is ongoing (more states are being added). <br>Working on df with all available IMR data for BRA’s 1920 and 1930 SR counts. Rhode Isle (St==5) is missing 1919 IMR data; 4-yr avg IMR is 114.7 ; could adjust to 113 (almost the same). Fearful that 1918 is unduly raising RI’s IMR, we can assume 1919 was as low as the 1917 value (lowest of the 4 years); <br> Calif 1919 for a 1-year IMR ?</p>
+<p>
+<p>2021.1211 1920 SR:IMR strict version requires IMRs for the 5 years 1915-1919, with n=10 and imr ranging (68 to 111) ; relaxed version would allow observations with fewer IMRs. Requiring 3 or more IMRs gives n=21 with imr ranging (65-115).</p>
+<br> 4 years of IMR adds 2 (RI MD); 3 yrs IMR adds 9 (2 yr IMR is covered by SR2?) <br> <br>notice 1920 NY SR2 &lt; SR5, consistent with 1918-flu upturn in IMR. But PA-PUMS SR2&gt;SR5 (102.2 101.9)
+</p>
+<p>
+<p>2021.1210 looking at ICPSR study 2896 (Haines) for published census data in machine-readable form. Needed to add the website to “allow javascript” or such in Chrome settings (cmich email with ICPSR techs). <br>corrected .RDS error, had written only the SR5 values (in saveRDS command)</p>
+<p>
+2021.1209 corrected 1920 SR-IMR to reflect Jan 1 census date (so simple average of IMRs 1915-1919). SR5&amp;SR2 and corresponding IME values are now in BRAstates1920-30.RDS
+</p>
+<p>
+2021.1208 1920 &amp; 1930 SR5-IMR done for fPUMS. Beware of very small states? <br>1930 IMR values range from 50 (WA; MN 54) to 77 (ME; WV 74, PA 72) <br>1920 IMR values range from 68 (MN) to 110 (PA). A quick look suggests that metro/urban/rural won’t offer greater variance of IMR … (NY 91, NYC1919 79) (PA 110, 1919 Phil 86 rural 101; 1918 PA 126, rural 128, Phil 124). <br>Yesterday completed IMR data entry for white population states of US BRA in 1920 and 1930. Jim ignores “colored” data for now, because his later project is to challenge those data (because SR trends contradict IMR trends of Blacks).
+</p>
 <p>
 2021.1206 left off in Michigan, getting 1920 &amp; 1930 ready for sr5 and sr2 regressions. Will need to think about weighting issues, when Delaware and NY each represent one observation … <br>CA ~1930 imr all/urban not much difference, suggesting limited gains to imputting those data. <br>CO IMR starts with 1928, so we can use it in the SR2 regressions (IMR 90ish).
 </p>
@@ -436,7 +467,7 @@ Other papers to write: <br>A “note” to challenge and expunge the 19th C IMR 
 <p>Demography – generally read and authoritative; but not open_source. <br>Demographic Research – open_source <br>Pop Dev Review? Population Studies?</p>
 <p>
 2021.1112<br />
-Making the point that census enumeration of race and nativity is error-ridden because of coding errors when interpreting manuscript. For example, <a href="https://www.dropbox.com/s/7b9huqofxvnwimu/BlackIrishKingsCo1860.jpeg?dl=0">17 people</a> error-enumerated as Blacks in Brooklyn in 1860. Wondering how to find examples of mistaken nativity coding?
+Making the point that indexing-enumeration of race and nativity is error-ridden because of coding errors when interpreting manuscript. For example, <a href="https://www.dropbox.com/s/7b9huqofxvnwimu/BlackIrishKingsCo1860.jpeg?dl=0">17 people</a> error-enumerated as Blacks in Brooklyn in 1860. Wondering how to find examples of mistaken nativity coding?
 </p>
 <p>
 2021.1111 leads to pursue: Work the sequence Hacker (2003 Demog), Haines (1989 Demog), Coale &amp; Zelnick, Thompson &amp; Whelpton (1958) for (1) underenumeration of infants – implications for our CEA findings and (2) the use of the Mass life tables for predicting birth rates in the US – is it not the case that we’d say Mass IMR is high in 19thC US, and so won’t Mass life tables overstate birth rates? <br> Coale &amp; Rives (1973) for black sex ratios 1880 onward

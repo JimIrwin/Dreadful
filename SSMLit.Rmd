@@ -2386,7 +2386,10 @@ p246 Table 1 u5 mortality in London, 1730 to 1829  from Edmonds (1836) 1730-49 7
 Feller (1948 Pop Studies). Mis-cited as Peller by Masuy-Stroobant in Corsini & Viazzo 1997.    
 p. 408  Within the orbit of western civilization there are even to-day many countries without information on infant mortality and others with so incomplete a registration of births and deaths that the reported values must be considered very doubtful.
 
-Davis (1913) Statistical comparison of the mortality of breast-fed and bottle-fed infants. Am J Dis Child   -- BOSTON IMR 127 per1000 diarrhea 29% (says LeeK-S)
+DavisWH (1913) Statistical comparison of the mortality of breast-fed and bottle-fed infants. Am J Dis Child   -- BOSTON IMR 127 per 1000 diarrhea 29% (says LeeK-S)    
+    Berlin % of mothers nursing: 1885 55% and 1900 31.4% ;
+    Jaschke: Monatschr. f. Geburtsh. u. Gyn\l=a"\k.1908, p. 172.
+
 
 </p>
 
