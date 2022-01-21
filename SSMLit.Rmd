@@ -1023,14 +1023,66 @@ Ontario mortality below national average, signifcantly lower than rates in Quebe
 
 ### USA
 
-#### Nov 2021 additions
+#### USA undercounting in census
 
-<p>Results are in alter-view.xls in our dropbox folder.
+<p>Hogan (2019 Census Bureau) 
+
+    The fact that net undercoverage of young children has been relatively high in censuses compared with older children and adults is well documented (see Coale 1955, Siegel 1974, U.S. Census 2012a, Hogan et al. 2013, and U.S. Census Bureau 2014).
+
+Coale - does 1950; Siegel 1960 & 1970.
+</p>
+<p>Eriksson et al (2018 Demog) p2016 Figure 5
+        
+      p2009 Census counts suffer from underenumeration, which we adjust by the estimates of underenumeration contained in Land et al. (1984), Preston et al. (2003), and Hacker (2013).
+        
+        p2022 To resolve the bias from underenumeration [of births], when the census undercounts the number of children alive at the census date, we scale the count of children in the census by estimates of the extent of underenumeration (Hacker 2013; Land et al. 1984; Preston et al. 2003).
+<br>Hacker 2013 -- native white underenum 1850-1930; Land et al 1984  1940 & 1950;  Preston at al : Black pop       
+        
+        
+</p><p>2014 census bureau report. 
+Fig 2 1950-2000 undercounts from O’Hare, W.P. (2012) “The Undercount of Children in the 2010 Census and Its Implications,” Presentation at the Joint Statistical Meetings, San Diego, CA Aug. 2, 2012
+<BR>"There is a well-documented undercount of young children (defined here as ages 4 and under) in decennial censuses"   -- but cites unlikely of use for us: Robinson et al, 1993 -- prep for 2000; [O’Hare, 1999](https://files.eric.ed.gov/fulltext/ED437494.pdf) --re 1990; West & Robinson, 1999 -- cens Bureau WP; Edmonston, 2001 Oregon; Adlakha et al, 2003 -- re 2000 subnational; Daponte & Wolfson, 2003 re poor; Pitkin & Park, 2005 Calif ; Zeller, 2006 re 2000?; O’Hare, 2009 -- why missed?  ; Hernandez & Denton, no date -- re poverty?)                
+        
+</p><p>**Hacker (2013 SSH) **  Hacker's attempts to correct for undercount are too much of a production/construction ... layers of assumptions to try to uncover underenumeration. Much beyond scope of our research. Certainly we can dismiss the estimates based on the 1% PUMS samples (which we find highly erratic for sex-ratio values). Can we dismiss his 1900 estimates?
 <br>Hacker (2013) offers estimates of the census undercounts, via the PUMS samples, which are on 1% samples for 1850, 1860, 1870, 1910, 1920, 1940, and if he used defaults then 1880 10%, 1900 5%, 1930 5%  ... 
 <br>p72 This article estimates age- and sex-specific net census underenumera-tion of the native-born white population in the United States for the census years 1850–70 and revises existing estimates for the census years 1880–1930 (see Coale and Zelnik 1963). It relies on the 1850–70 IPUMS samples of the US census, published census data from the 1880–1940 censuses, new esti-mates of nineteenth-century mortality, and back-projection methods to esti-mate the “true” white population by age and sex at each census.
+<br>p81 The Census Bureau has produced demographic analysis estimates of census coverage since the 1960 census (Robinson et al. 1993). Kenneth C. Land, George C. Hough, and Marilyn M. McMillan (1984) have revised estimates of census coverage for the 1940 and 1950 censuses.
+    
+<br>
+
+          p82 This article relies on new sources and new estimates of nineteenth-century mortality to revise and extend Coale and Zelnik’s demographic analysis of census coverage in the United States. In addition to relying on published age distributions of native-born whites in the 1880–1940 censuses, it relies on age distributions generated from the 1850–70 IPUMS samples (Ruggles et al. 2010). The IPUMS has two major advantages over the published cen-sus tabulations used by Coale and Zelnik. First, native-born whites can be cross-tabulated by single years of age and sex in all IPUMS samples, includ-ing the 1850, 1860, and 1870 samples, allowing estimates of census coverage to be extended back to the 1850 census. Second, the IPUMS can be cross-tabulated by place of birth, allowing a proxy of regional census coverage to be constructed for the first time. 
+           With few exceptions, discussed below, the results are based on the method detailed by Coale and Zelnik (1963). 
+
+
+</p><p>p84 Figure 4 graphs net underenumeration by sex and census year, NOT BY AGE -- ignore ---  shows "census bureau, nonblack" male and female lines. Text refers to Robinson et al 1993 and Robinson et al 2002. The former does offer the undercount estimates for 1990
+</p><p>p85 Births were back-projected from the adjusted age distributions of native born white females aged 15–29 in the 1850–60 and 1880–1940 censuses and from native-born white males aged 5–54 in the 1850–60, 1880, 1900-1910, and 1930-40 censuses using my life tables through 1900 (Hacker 2010_ and DRA life tables for the white population for the 20th C (C&Z 1963 p184) n8. The exercise yields as many as eight estimates of births in a given year....  In the years in which they overlapped, estimates based on female age distributions exceeded estimates based on male distributions by 4.0 percent. Based on these results and Coale and Zelnik’s analysis of the 1950 postenumeration survey, which found a 1.4 percent net undercount of females aged 15–29, births back- <86> projected from the female age distributions were inflated by 1.4 percent and births back-projected from male distributions by 5.4 percent. n9 
+<br>n8 Inspection of the resulting series led Coale and Zelnik to reject the birth estimates derived from the 1890 and 1920 male distributions  ... and from 1870
+<br>n9 Coale and Zelnik’s (1963: 11) analysis of the 1880–1950 censuses found that estimates of the total number of births during the period 1851–1943 that were derived from the female distributions exceeded estimates based on the male distributions by 3.0 percent, and they adjusted their projected counts accordingly
+</p><p>p89 Figure 4 plots the average net undercount by sex and census year with Coale and Zelnik’s (1963) estimates for census years 1880–1940 and the Census Bureau’s estimates for census years 1950–2000 (Robinson et al. 1993; Robinson et al. 2002). 
+<br>
 <br>QUESTION: how would fullPUMS (1850-1870) change his story?
-<p>
-Yasuba (1962)  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
+
+</p><p>Robinson et al (2002 PopRPR) Demographic Analysis has served as a standard to assess coverage levels and changes in coverage in each census since 1960. In particular, DA provides an independent benchmark for assessing differences in coverage by age, sex, and race (see Siegel and Zelnik 1966; U.S. Bureau of the Census 1974, 1988; and Robinson et al. 1993 for the demographic evaluations of the 1960–1990 censuses).
+
+</p><p>Robinson et al (1993 JASA)  1990 undercount -- nonblack u5 fem undercount is more
+u = r * P and  r * P = P- C   so C = P - rP = (1-r)P and P = C / (1-r) 
+
+</p><p>LandKC et al (1984) for net undercounts in 1940 and 1950
+
+</p><p>Siegel (1974 Demography) offers various estimates of net undercount by age.
+<br>U5 white male/female
+<br>1970 2.6/2.2 2.4/2.0 2.6/2.2 2.3/2.0
+<br>1960 1.9/1.1 1.9/1.1
+<br>PREFERRED 1970 2.3/2.0  1960 1.9/1.1
+</p><p>Siegel & Zelnick 1966 on 1960 
+</p><p>**Coale and Zelnik** (1963)
+
+<br>Let's look at Coale & Zelnik values for 1900 ... pp 179-180 ... underenumeration rates of 7.6% male, 6.5% female -- for a 1.2%-point  SR-move toward male. 
+
+    The 1900 census ... the persons reported as age 15 were not the same cohort reported as age 5 in 1890. Rather, the 15 year olds in the 1900 census were born between June 1, 1884 and June 1, 1885, and were six months younger than those reported at age 5 in 1890.
+<br>So people counted in 1890 as age x were mean age x, but those in other census years were mean age x+0.5  -- so 1890s kids are actually 1/2 year younger ... and 1890age10 are 9.5 years older than 1880age0. And 1890 includes some kids not yet born in the 1880 count?
+</p><p>
+**Yasuba (1962)**  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
 </p>
 <p>Fertility     
 pp27-28 Yasuba uses Thompson & Whelton's approach: u5 counts + 5% + implied deaths (Mass Life Table) for 5yrs ending in census year. Then the 5yrs til the next 5yrs gives increase per 4 years, 1/4 of the increase added to shift to centred on census year.
@@ -1039,7 +1091,7 @@ pp27-28 Yasuba uses Thompson & Whelton's approach: u5 counts + 5% + implied deat
 <p>Index entries for underenumeration of children 19, 23, 26, 29-30, 34-35, 70, 97, 142, 180; NY births 123
 <br>      
 p19  In Chapter III, mortality records are examined to see whether differentials and trends in child mortality largely accounted for the differentials and trends in the birth ratios. It will be found that a part, but only a small part, of the differentials in the birth ratios may have been due to differentials in mortality. The child mortality rate in the United States may have increased in the few decades preceding the Civil War but not so rapidly as to explain to a considerable extent the fall in the refined birth ratio. Other factors which may have affected the birth ratios such as the extent of underenumeration of young children and the rate of increase of yearly births tended to mask the differentials and trends in the birth ratios.     
-p23  In 1850 and thereafter, the number of children under 1 was also reported but, owing partly to heavy underenumeration in this age class and partly to the desire for comparability of the ratios throughout the nineteenth century, most demographers have preferred to use the number of children under 5 or under 10. <NO CITES FOR UNDERENUM>      
+p23  In 1850 and thereafter, the number of children under 1 was also reported but, owing partly to heavy underenumeration in this age class and partly to the desire for comparability of the ratios throughout th/e nineteenth century, most demographers have preferred to use the number of children under 5 or under 10. <NO CITES FOR UNDERENUM>      
 p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>     
 Yasuba assumes same 5% underenumeration of u5 for 1850-1920     
 
@@ -1051,7 +1103,6 @@ p142 relatively large underenum in 1850
 p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.     
 p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ...        
 p193 IM 79, 81   seems to suggest 1850 census mortality shows relative ranking of states in terms of u10 mortality (and therefore infant mortality?)
-
 
 <p>Yasuba Ch 3 Mortality pp73-101; mostly a waste of time for our project. His concern is extent to which birth-ratio patterns are from mortality (patterns are downward time-trend and regional differentials).     
 p73 1. Relative levels of Mortality in Different States and Territories    
@@ -1066,7 +1117,13 @@ p80 white u10 death rates by state via census ... USA 20.5  Mass 38.5 RI 27.1  N
 p96 "it is likely that the death rate increased somewhat duirng the few decades preceding the Civil War." 
 </p>
 
-Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (19)
+<p>**Okun**  p24 refers to Lee's use of life-tables and reverse survival ratios to estimate undercounts of 0-4 year olds. If life table says 15% of kids die, but only 5% die, then the undercounts are much overstated ... via life table, every 85 in 10-14 age group in t+10 census requires 100 kids age 0-4 in the t census ...  For 1870, Lee says 11.6% of kids (0-4) were missed.  Say Lee had 88% survivor rate and we think 94% is correct; 
+he sees 100  94  and thinks there should be 106.8; 100/106.8 is 93.6% -- he'd say undercount is 6.4% .  But that is all spurious ... <BR>
+If he has survivor rate of 84% and mortality is 1/3 that then we'd say no underenum. And isn't 10 year age overstated? And age 4 understated, by age-heaping?
+</p>
+
+
+Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (1963)
 
 Grabill et al (1958) p. 409 Some enumerators began the age count with 1 year according to the Compendium of the Seventh Census, so the 1850 Census may have had more misstatements of age of infants than usual.
 Jim *cannot find that point in the 1850 Compendium* (also *not* found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      

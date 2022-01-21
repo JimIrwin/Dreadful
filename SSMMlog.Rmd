@@ -5,15 +5,109 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
   
-<a name="TOC"></a>
+<a name="TOP"></a>
+
+### ideas to check
+Eriksson et al (2018 Demog) revise 1915-1940 IMR estimates of HSUS downward; thus white IMR 1915 looks like 82 or so -- the revisions are only via adjusted birth-counts; what do the revisions imply for separation factors?
+
 
 ###current log
-
-<p>Js constructs plots for census year and for 10 yrs later (such as ages 2 and 12). All look fine in terms of 1900-1910 more fem-tilted. Next step: alternate perspectives on maternal-infant health circa year t ...  U5t and ages 9-14 10 years later ... 
-<br> Ages U2  OK: 1900 & 1910 look worst (also 1890)
-<br> Ages 2-3 OK: via +10, 1890-1910 look worst; via +0, 1900-1910 look worst
+<p>2022.0119 Trying to move past Hacker (2013 SSH). Accepting his 1900 undercounts, 1900 SR5 is 103.1, which is almost as male as we see in 1860-1880 ...  So Hacker's 1900 result offers a challenge to our claim that 1900 was worse. Note that I dismiss his 1850-80 estimates because of the use of the PUMS 1% samples (where the SRs are nuts to us).
+</p><p>But our 10-year forward evidence offers a strong corroboration of our sex-ratio time-path ...
+</p><p>A key issue is that he presents 1.036 as the 1900 SR5 for his reconstructed US-born white population (p90), but given his underenumeration rates, that implies a census SR5 value of 1.0316 or 1.032 -- but census has 1.026?  So where is he getting an extra 0.6?
+<br>Table 1 (p88) reports the "net undercount" of U5 native-born whites in 1900 as 6.8% males and 6.4% females.  Applying those rates to published census data (from 1900 of 1970) gives SR5 103.1 (a 0.45 %-point move toward males), a full 0.5% points below Hacker's reported value. The full-count PUMS white SR5 is less male, 102.5, and it only gets to 102.9 using Hacker's undercounts. 
+<br> For native-whites in 1900, Coale & Zelnick offer underenumeration rates of 7.6% male, 6.5% female -- for a 1.2%-point  SR-move toward male. Their male & female rates for 1880 the same (9.1%), so a C-Z correction would reverse our results.
+<br> For northern-born whites, U5 "net undercounts" are 5.5% males and 3.8% females; for southern-born 5.7% & 5.0%  -- how is it that the national undercount rates are so much above the sectional rates? It can happen because he uses the PUMS samples for all census years.
+</p><p>2022.0118 next: look for 1940? (seen today) which had 1900-1940 5yr age groups -- and see what Hacker's adjustment gives for a sex-ratio?
+<br>tackling Hacker (2013) -- key issue now is that his corrected 1900 native-white SR5 is 1.036 while the PUMS has 1.026
+ -- what do we make of that 1% point shift toward male? His corrected 1880 is 1.042 (so only a tiny bit healthier than 1900
+<br>What do we make of his 1900 adjustment? His Table 1 reports m 6.8% f 6.4%  -- applying that would move SR5 0.44 toward male, not 1% ???
+</p><p>2022.0117 hoped today to send email to GAlter.<br>
+1) include plots of SR2 and SR5, each with 10-year forward sex ratio counterparts; also 2-3 and 12-13 (as he suggested). Email comment that the 10-year forward comparison suggest no role for female undercounting in generating our results. ISSUE: if age-heaping at 5 yr-olds, do we want 5&under sex ratios also?
+2) undercounting more generally. what do we want to say here -- beyond the point that undercounting in general is not our concern, and that our work on IMR has implications for estimates of undercounts (and since we argue for lower IMR than conventional, we imply less undercounting than current estimates?)
+<br>poke around 1850 numbers ... 1860's 15-year-olds SR +1% female ?
 </p>
+<p>Looking at implications of undercounts for SR values 1930 forward. Effects of undercount corrections:
+<br> 1970 cen 104.6 moves to 104.9 or 105.0 (Sigel applied to cen960 or cenPE11)
+<br> 1960 cen 104.0 moves to 104.8 (siegel)
+<br> 1950 cen 104.4 moves male to 105.0 (Land et al or Coale & )
+<br> 1940 cen 103.8/7  moves male to  104.7/5 (Land et al; C-Z imply 104.2/4)
+<br> 1930 cen 103.5/P?  NatWhite, says Hacker, 104.5 ;   PUMS 103.5 adj 104.4
+</p><p>The 1930 white SR5 can range from 103.5 (cen940) to 104.5 (Hacker's nat white value) to 104.8 (via Hacker undercount %). Interesting to note the 1930 volume put Mexican into other races, but 1940 places them in white; and the 1940 way gives 1930's white SR5 about 0.5 less male.
+<br>The u5 data are in USAkidsForR.xls
+</p><p>2022.0116 Findings to send to GAlter.  US-born whites, comparing sex ratios in a given census to sex ratios for children 10 years older in the census 10 years later (the 10-year forward sex ratio). Plots of current ages 0-4 vs future ages 10-14 and 9-14 (10-years later); current ages 0-1 vs future 10-11 & 9-11; current 2-3 vs future 12-13. 
+<br>Checking for relative undercounting of girls in the 19th-century, biasing 19th-century sex-ratio values toward boys.
+<br>The 19th-century sex-ratio values look about the same whether we use the current-year census values or the corresponding 10-year-forward values. Perhaps the most interesting result here is that 1850 stands out with the most "male" sex ratios observed, with the sex ratios among older children in the 1860 census corroborating the results for the under-twos and under-five's in the 1850 census.
+<br>The 20th-century sex-ratio values are distinctly more female when the 10-year-forward values replace the current-year census values (for example ... replace ex
 
+NEXT: UNDER-COUNTING??
+(the differences across years are much more pronounced -- )
+
+
+<br>0-4 vs 10-14 (or 9-14) No sign of undercounting of girls in the 19th-century: forward ratios are more male (1850, 1870) or about the same (1860) as the current-year ratios. Note that the 20th-century forward ratios are consistently more female, so if we used the future-based values as indicators of sex ratios, it would strengthen our finding of healthier infants in the 19th C than at the turn of the 20th C.  
+<br> 0-2 10-12
+
+1900 & 1910 show up as more female than the 19th C (future-based ratio as)
+
+
+<br>Not seen for under-two (ages 0-1) or under-five sex ratios. 
+1) For the 19th century, the current-year sex-ratio values and their 10-year forward counterparts are very similar. The 1850 and 1870 current-year sex ratios are somewhat less male than their ten-year forward counterparts, which would suggest relative undercounting of boys. The 1860 current-year sex ratios are just a little more male than their forward counterparts, but all the 1860 sex-ratio values are much more male than those of the 1900 or 1910 (for example, the smallest gap is that between 1860's forward 10-14 sex ratio (3.1% more boys) and 1900's current 0-4 sex ratio (2.5% more boys). A STUPID COMPARISON, BECAUSE THE 1900 VALUES WE WHICH WE DEEM RELIABLE HAVE FORWARD values that are at least 1/2 %-point more female ... 
+
+DETAILS: the 10-year forward 10-11 and 9-11 sex-ratio values are very close. FN: the strongest hint of female-undercount is in 1860, when the future sex-ratio values (10-11 & 9-11) are 0.2% more female than than the current. More generally, looking at the plots, the 10-year forward sex ratios 
+
+Cases with apparent undercounting of boys: 12-13 vs 2-3, all 3 years; 10-11 vs 0-1, 1850 & 1870; 
+10-year forward ratios more male: 12-13 vs 2-3 
+10-year ratios about the same : 9-11 vs 0-1
+<br>
+The forward sex-ratio values for the 19th-century results corroborate our results. 
+<br>19th-C U5
+</p><p>blah blah ...
+<br>For 1850 and 1870, the 10-year-forward sex ratios among ages 10-14 are distinctly more male than their current-year counterparts (ages 0-4); for 1860 the values are almost the same. For the censuses of 1900 to 1930, the forward ratios among age 10-14 are consistently more female than their current year counterparts; for example. the 1900 forward ratio is 2.
+<br>1) Comparing the sex-ratio values of the current 0-4 year-olds and the future 10-14 year-olds corroborates our findings. The forward-sex ratio values exhibit a stonger pattern of 19th-century sex-ratios being more male than those of 1900 or 1910. FN Same result if we use forward 9-14 sex-ratio values; that worth noting because the 19th-century census data exhibit male-biased age-heaping at age 10. <br>
+2) Comparing current 2-3 & forward 12-13 sex-ratio values also corroborate our findings, much like the 0-4 & 10-14 values (which include the 2-3 and 12-13 data). Note the current-year age 2-3 sex ratios exhibit a weak version of the pattern we stress -- <br>
+3) Comparing the current 0-2 & the forward 12-13 sex-ratio values also corroborate our findings, much like the 0-4 & 10-14 values (which include the 2-3 and 12-13 data).<br>
+
+
+##### Detailed discussion #####
+
+Current 0-4 and 10-year forward 10-14.
+Compared to the current 0-4 sex-ratios, the forward values for 1850-1870 are more male than the current in 1850 and 1870, just 0.1% less male in 1860. The 20th-century forward (10-14) values are distinctly less male the current (0-4) values.
+
+<br> if we took 20th C as accurate, see that forward 10-15 sex ratio tilts a little less male than the current 0-4 sex ratio; for example, for 1900 we 2.5% more boys than girls among the 0-4 year-olds and 2% more boys than girls among 1910's 10-14 year-olds. More generally, the forward sex-ratio points lie consistently above the current points. For the 19th C, scholars suspect underenumeration among those 0-4 years old; if take the forward 10-14 sex ratios as correct, and apply the 20th C pattern, then we'd place the 19th-century 0-4 sex-ratio points below the forward values, about the same in 1860
+<br>Forward ratios for ages 9-14, are a little more supportive (1860 a little future more male). 
+
+</p><p>2022.0113
+<br> Let's consider using 1890 US census for cross-sectional comparisons, within the US.
+<br> thinking of u5 vs u2   
+<br>q at ages  0 1-2 2-3    1901 US whites life table (pp 64, 70) from [CDC life tables 1890-1910](https://www.cdc.gov/nchs/data/lifetables/life1890-1910.pdf)
+<br>maleT7   133.4 34.47   15.84  
+<br>femaT10  110.6 31.15   14.84   (p70f64)
+<p>2022.0112 for Alter response -- avoid getting into undercount weeds, because issue is relative undercount could bias sex-ratio values. For example, need to avoid Hacker's undercount revision efforts.
+<p>2022.0111 working on responding to George Alter (notes are on Ji's computer). Thinking 2 parts -- response to under-count concerns and sending of dempap.
+</p>
+<p>Ji looking at 10yr forward sex ratios (SR) of ages 9-11 and 9-14 in comparison to current SR for under-two and under-five. All 4 measures tell similar stories. To Jim's eye, the results are consistent with somewhat more noise in the 1850-1880 results compared to those for 1900-1930; but the noise is minor. Dwelling on results does not give Jim any insight except that the rough measures (national in a period of rapid geographic change and westward shift of population) tend to support our findings/argument; more importantly, they do not offer evidence against our findings/argument. The 1900 and 1910 SR values are distinctly more female than those for 1850-1880; interestingly, the 1900-census data suggests that the deterioration in maternal-infant was underway in 1890.
+<p>Switching from the current-census SR values to the future-based SR values would result in a greater relative female tilt in 1900 and 1910. The smallest observed effect is with fut9to14, with SR values of -3.23% in 1860 and -2.10% in 1900 -- a 1.13 %-point move toward female. Across those years, the SR5 value moved only 0.76 %-points toward female. And from 1870 to 1900 the SR moved only 0.54 %-points toward female while the fut9to14 value moved 1.31 %-points toward female.   
+</p>
+<p>Notably, where the future-based SR values deviate from their current counterparts, they tend to tilt toward male. This modest effect is most evident for 1870 SR measures: the fut9to14 SR value is 0.4 points more male than the SR5 and the fut9to11 SR value is 0.1 point more male.  
+<br>Generally, with an eye toward concerns that we might have spuriously healthy-looking SR values for the 19th C, the current SR5 values are the least healthy-looking (relatively female-tilted), and the future-based SR values point to better health (somewhat more male).
+</p><p>Perhaps the key anomalous results are the 1860 and 1870 SRs of fut9to14 -- 1860 is odd as the SR5 and fut9to14 SR values are about the same, while the fut9to14 values in 1850 and 1870 are more male than their SR5 counterparts; and 1870's fut9to14 value is odd for exhibiting a modest tilt toward male while the other 3 measures tilt female to varying degrees. 1870 exhibits the most female sex ratios, as only the fut9-14 is not at a most-female peak,
+<br>One general feature is that 1900 onward, both the future-based measures are somewhat more female than both of the current measures. This is not the case in the 1850-1880 period. Perhaps the female-tilt of the future measures reflects reliable enumeration, with some excess male mortality for ages over 5 years. In contrast, the 1850-1880 period sees the SR5 as the most female with the SR2 tending to be least female; the future measures lie between, with 9to14 more female then 9to11, as expected. Might we interpret that as reflecting under-enumeration of infant girls more than infant boYS? If so, the future 9to11 SR should be much more female than the SR2 -- and it is not. The future 9to11 is about the same as the SR2.
+<br>
+
+
+
+future-based measures just a little more female than the SR2 and less so than the SR5. Under-counting of infants is presumed to be the problem; our age-heaping analysis of NY state points to male-biased heaping toward one-year of age, but might suggest that u5 enumeration is solid. SR5 being more female than SR2 makes sense, as the yet-to-die male infants have more effect in SR2 than in SR5. 
+<br>1900 forward the SR2-SR5 gap is smaller. In periods of rapid decline of IMR, the SR5 reaches back more to include more higher-mortality children and thus dampen the SR2 SR5 gap.
+<br>1940 to 1950 sees SR5 improve a little and SR2 worsen a little.
+
+If we assume age enumeration is more accurate from 1900 onward, and that 1850-1880 SR5 is more accurate than SR2, the implication is that U2 under-enumeration was biased toward omitting girls (so SR2 values appear overly healthy),  
+
+
+This is reassuring, insomuch as female-biased 
+
+</p><p>2022.0109 Js constructs plots for census year and for 10 yrs later (such as ages 2 and 12). All look fine in terms of 1900-1910 more fem-tilted. Next step: alternate perspectives on maternal-infant health circa year t ...  U5t and ages 9-14 10 years later ... 
+<br> Ages U2  OK: 1900 & 1910 look worst (also 1890)
+<br> Ages 2-3 OK: via +10, 1890-1910 look worst; via +0, 1900-1910 look worst </p>
 <p> 2022.0102
 For Alter issue -- key may be suggestion that 1890 is bullshit?
 </p><p>note that HSUS/raw has xls with US state-level data. Looking for 1930 mortality statistics, which are not in the annual sequence on the CDC site; but they are mentioned in the 1931 report?  The 1930 [volume is at Hathi Trust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033583868&view=page&seq=9&skin=2021); 
@@ -2195,7 +2289,7 @@ Wisser, O. and J.W. Vaupel. 2014. The sex differential in mortality: A historica
 Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in individual frailty on the dynamics of mortality. Demography
 16(3): 439-454.
 
-[back to top](#TOC)
+[back to top](#TOP)
 
 <a name="DEMOG"></a>
 
@@ -2243,7 +2337,7 @@ Woods, Williams, Galley "Infant Mortality in England - 1550-1950 ... "
 Feller (1948 Pop Studies). Mis-cited as Peller by Masuy-Stroobant in Corsini & Viazzo 1997.    
 p. 408  Within the orbit of western civilization there are even to-day many countries without information on infant mortality and others with so incomplete a registration of births and deaths that the reported values must be considered very doubtful.
 
-[back to top](#TOC)
+[back to top](#TOP)
 
 <a name="LifeTable"></a>
 
@@ -2470,9 +2564,8 @@ Tapia & Gallego‐Martínez (2017 EEH, 2020 EHR) Use sex-ratios to look gender d
 
 
 ####other 
-[back to top](#TOC)
+[back to top](#TOP)
 
-[back to top](#TOC)
 
 #### Formerly posted as news 
 
