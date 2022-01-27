@@ -12,7 +12,13 @@ Eriksson et al (2018 Demog) revise 1915-1940 IMR estimates of HSUS downward; thu
 
 
 ###current log
-<p>2022.0119 Trying to move past Hacker (2013 SSH). Accepting his 1900 undercounts, 1900 SR5 is 103.1, which is almost as male as we see in 1860-1880 ...  So Hacker's 1900 result offers a challenge to our claim that 1900 was worse. Note that I dismiss his 1850-80 estimates because of the use of the PUMS 1% samples (where the SRs are nuts to us).
+
+<p>2022.0126 looking back from 1900's birthmonth info for ideas about heaping/undercounts -- key issue is probably age-heaping from 4 to 5?
+
+
+</p><p>2022.0125 sent Jesse a draft of my email to G Alter. Issue is: keep or drop undercount page & worksheet
+
+</p><p>2022.0119 Trying to move past Hacker (2013 SSH). Accepting his 1900 undercounts, 1900 SR5 is 103.1, which is almost as male as we see in 1860-1880 ...  So Hacker's 1900 result offers a challenge to our claim that 1900 was worse. Note that I dismiss his 1850-80 estimates because of the use of the PUMS 1% samples (where the SRs are nuts to us).
 </p><p>But our 10-year forward evidence offers a strong corroboration of our sex-ratio time-path ...
 </p><p>A key issue is that he presents 1.036 as the 1900 SR5 for his reconstructed US-born white population (p90), but given his underenumeration rates, that implies a census SR5 value of 1.0316 or 1.032 -- but census has 1.026?  So where is he getting an extra 0.6?
 <br>Table 1 (p88) reports the "net undercount" of U5 native-born whites in 1900 as 6.8% males and 6.4% females.  Applying those rates to published census data (from 1900 of 1970) gives SR5 103.1 (a 0.45 %-point move toward males), a full 0.5% points below Hacker's reported value. The full-count PUMS white SR5 is less male, 102.5, and it only gets to 102.9 using Hacker's undercounts. 

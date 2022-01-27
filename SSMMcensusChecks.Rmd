@@ -1,0 +1,155 @@
+---
+title: "UScenChecks"
+author: "jim"
+date: "26/01/2022"
+output: html_document
+---
+<a name="TOP"></a>
+
+
+<p>2022.0126 for fun, 30 people aged 20 in 1870 MA b/c PUMS & vol deviate...
+<br>searched for MASS DOB 1859 (oops)   
+
+<h5>1870's 4 yr olds</h5>
+
+birthyear late 1865 august-dec and 1866 jan-may    
+
+
+marion g Packard/Dow 5 is correct, 1900 wrong; ellen Dowd nee ellen Sweeney 1866Jan other source says 1865Nov so 1900 iffy; lucius Darling 1866Jan 1900 implies 1870:5 HEAP; fred wm Dow 1870:3 1880:13 OK; rebecca amanda Drake nee:Tompkins   OK born 1865.1114 1870:4 1880:14   1900:35 Nov 1865 OK for us; etta l Dawes/Holt 1900:34 1866Jan 1880:13 1870 not loc; cora a Clark 1870:4 1900:35 1865Oct (interesting agian we have date correct but age wrong); edward l Manley 1900 1865Feb 1870:NOTLOC; annie a Burrell (Mara) 1870:4 1900: has 1865Nov, so ok (but age 35!); g frank Mann 1870 NOT LOC;  lawrence Manning born 1865.1125 1900: 1866nomonth age 34, 1870:5 HEAP, 1880:14 ; PAGE2  john s Marble 1865Sept 35 1870:4 OK; henry j Myrick 1865aug NOT LOC 1870; Bart Maxim ? age iffy, but not rounded up; albert Matheson/Mathenson (duplicates) NOT LOC 1870; Katie ?/Noonan 1866Jan 1870NotLoc; Kattie L Nixon  1900:1865aug  1870:5 HEAP (assuming 1900 is correct); lidia Norton 1866July 34 1870:3 ok ; lillian f Norton neeCapen 1866aug 1870:3 OK ; lizzie Richmond 1865Sept  1870:4 OK Tobey;  PAGE 3   margaret o'reilly 1866April 1870:4 ok;  john Reilly 1866Jan NOTLOC; a l Ridgeway 1865sept 1880:15 anna -- 1900 is wrong, birth record 1864.09; walter Geer 1865 Nov  1870:5  1900-WRONG birth record 1864Dec ; walter e Nilmarth 1866may  NOT LOC; george p Johnson 1865july 1870:4; margaret a Clark 1865Dec ne McCourt  1870:4 ok; END P3 -- switch to 1865DOB  rebecca Drake  (Tompkins) 1870:4; Grey frank s 1865july not matched; mary Scully 1865Oct  mary Hill (thos & hannah) 1870:4 possible match; ru Holloway 1865.09 not Loc; issac b Howland 1865aug 1870:4 OK; PG 3 (past the duplicates of 65/66); mary ellen o'brien 1865DEC -- wrong, birth recor 1864dec; edw j Bryant is linked to ed f Bryant family tree dob 1862 -- can't tell, 1870NotLoc; Minnie Buffington nee Severance 186407 birth record, 1900 wrong; fred a Bumpus 1865.07  1870:4 OK (also fred w OK); wm t Nickerson 1865Sept notloc; esther Truey 1865aug not found;  William Valloran nov1865 NOTLOC; james o Ward Oct1865 1870:4; margurite Welch 1865Sept 1880 14 with parents Michael & Katie PAGE 4 (do one for fun ... ) wm t Lee NotMatched (too many); ella Homes NotMatched 1865Oct; Gomerly not match; Bates minnie 1865aug 1870:3 ; maude Bates ne Cole NOTLOC; thomas Lewis 1865Oct 1870:4; jennie Cooley ne Bicknell 1865Nov   NoMAtch (PA seems crap); amandus r cook 1865dec 1870:4; END PAGE 4
+     
+  
+Bicknell 1870PAPhil_i62 ? page's columns empty after sex; 
+
+marion grace Packard/Dow
+1870MAPlym_i144 parents AC & Eliza F
+1880MAPlymBro_i17 15
+1887 marriage age 22 to howard m Dow
+1900 census May 1866
+birth record May 1865 austin & e frances
+<h5> 1860 1-yr-olds </h5>
+
+Sweeney/Dowd various births with john w Dowd & ellen f Sweeney as pa&ma   birth Nov1865 died 1942
+
+lucius Darling  1870:5    1900 1866 January
+
+Dawes/Hall-divorce!  1880MAPlymBro_i29  etta l 13   chas f 38  aurelia 38
+
+Manley in 1865 census with charles and honora
+
+Manning [births](https://www.familysearch.org/ark:/61903/3:1:S3HY-6LCZ-BN?i=888&cc=1463156)
+lawrence Manning born 1865.1125 parents dennis & margaret; 1900: 1866nomonth age 34, 1870:5  1880:14  birth record    
+
+Bart Maxim ? family tree has dob 1865  but 1870:3 (young ma, age 21 -- not wanting to be reported as a 16 year old giving birth?) some sources say 1865 june, some 1867 -- not rounded up
+
+katie L Nixon   1870 kate l Norris 5   / William E Norris		Male	28	England; Mary Norris		Female	26	Massachusetts; Kate L Norris		Female	5	Massachusetts; William E Norris		Male	3	Massachusetts; Jennie L Norris		Female	0	Massachusetts   Marriage record connects -- she marries edgar l Nixon
+
+
+
+anna Ridgeway  1870MAPlym_i96 5 f  many siblings; eben 39 delia 38 Maine  /  birth record eben & adaline 1864.0901
+
+walter Geer  1870 w m 5  geo 48 henrietta 45 
+
+Ending DOB: 1865July-Dec search of MASS --- seems 3 heaps, 5 1900 wrong, 18 1870s are OK ... 
+
+
+<h5>1860 births? </h5>
+
+MassNorfolk1860i67 1860.0807  L15,16 calvin, lucinda Hunt NH  L21 phebe 2 f m  MA   L22 alden 3/12 m m  MA     L23,23 george & emeline MA    L26 Croud arthur e croud 3 m m  " (MASS)  L27 Croud sarah e croud 1 f m 
+   
+MassNorfolk1870i38  1870.0729 L31 Croud arthur e 14 m m      L32 Croud sarah e 12 f m       L33 Croud mary m 8 f m        MassNorfolk1880i9       
+L20 Crowd arthur e 23 m I for Indian  
+no sarah     L21 Crows mary m f 17 I   
+MassNorfolk1900i60  L1 Croud arthur e 41 m I dob Jan 1859   
+
+MassNorfolk1910i3 L31 Croud arthur e m m 54    
+
+MA dob 1879  george e Mccrath
+1880MAPlym-i25L03 w m 1             (son of edwd & mary)    1880.0611  -- rounded up to 1?
+1900MAPlym-i32L47 w m 20  June 1879 (son of edward & mary)  1900.0612
+1910MAPlym-i17L33 w m 31 (son of edw & mary) 1910.0422
+
+MA dob 1879 wm R Kramer (no sim records)
+1900MAPly_i26 Kramer wm r student Oct1879  MA Germ Germ
+Delayed births 1841-1920 vol 44 Chelsea-Dennis i543  birth oct 6 1879   parents Frank age38   Clara age35 both germany born
+1880WoClinton_i22 Kramer wm ro 8/12 
+
+MA dob 1879 wm Korb
+1880MASuBo_i8L21 wm h w m 5/12 Dec Bav PEI  L20 Ellen f w f 1 MA Ger PEI
+1900MASuff_i3L37 wm h w m 20 Dec 1879 MA Ger PEI
+
+what about kids aged 4 -- maybe rounded up?  1876dob -- none of i3 (Korb); 
+
+chester l Jones
+1880PlymAbin_i21 w m 3  (winslow l 42 & elizab d 29) MA
+1900Plym_i19 w m 23 July1876
+
+jennie r johnson 1900 1876march 1880 age 4  -- yup (VALID)
+edward f Lincoln 1900 1876Feb 1880 age 4 -- yup
+fred e Lincoln 1900 1876apr  1880 age 4 -- yup
+lydia h Stetson 1900 1876may 1880 age 4 -- yup
+MORE 1900 gives 1876before June 1880 age ....
+emily c Glines 4; weston Manley 4; lena g Mansfield neeSmith 4; everett r Reed 4; O'Reilly 5 NOT 4! susie Sexton 4; eleanor Johnson not found; ralph l Clay 5 NOT 4; george L Clark 5 NOT 4; helen Smith 4    ; george t Smith NOT LOC ; arthur loring Smith 3 -- should be 4 ; wm h Hogan NOT LOC; jane a Alden STUDENT in 1880 MA CT MA NOT LOC (1880 dau of Phebe but parents MA MA); melvin Bumpus lodger, not loc.
+
+thomas f O'Reilly 
+1880PlymBroc_i31  w m 5 (hugh & cath)
+ 
+
+ralph l Clay
+1880MANorfCant_i18 ralph l w m 5 (charles & charity) MA.Canton parents born Maine
+1900Plym_i20 w m 24 Jan1876 (boarder) pa;Maine ma:Mass
+
+george Clarke
+1880PlymAbi_i27 w m 5 (thomas 43 mary a 42 both Ireland born)
+1900Plym_i9 w m 23 Jan 1876 
+
+OK helen Smith 
+1880MAMdsxCamb_i44 helen w f 4 (geo b 43 Bost/Nort/Nort & julia e 33 Irex3) bradf w m 2  1880june10
+1900MAMdsx_i7  helen l   w f 23 (geoMA juliaIRE) Oct 1876   
+
+george t Smith
+1900MAPlym_i16L2 apr1876 f dau? -- not found 1880 - sister alice? 
+
+arthur loring Smith 1900 aug1876 
+1880MANorfWym_i16  age 3 WRONG but included in 0-4
+
+same 1880 page  oscar f Smith 5   olive n/v smith 4  (francis & sarah j MA)
+1900 oscar f aug 1874 OK --
+
+1880 page after Clarke  frank h Slack 5 parents NS born -- weirdly, RECORDS DELETED?
+dr francis hervey Slack 7Jan1875 OK
+NOT 1880 Slack frank h -- w m 6 parents jos & jane England born
+
+Smith george t
+
+TRYING LATE 1875 births :  
+john francis Linehan 1880 4; edward alden Eastabrook 9 OOPS?; eugene Reerdon 75dec  4;  harry Wrightington 5 HEAP? ; carltn lorenzo Reed 75sept 4; katie rose OReilly 4;  michael Garvey oct75 4; gracie snell/thorpe HEAPED to 5; mary f stoddard-smith 75july birth record 74july HEAPED to 6; cmille Graveline NOTLOC; clarar Graveline NOTLOC; harriet Grindle/TasherSpear 4; joseph Sears 3 DOWN ;  anita Taylor/Griffin HEAPED 5; page3 of results: elmer l Holliw 75aug NOTLOC; helen f Obrien 4; mary e Nelson 4; addilin Robbins NotLoc; climina Robertson 4; john Robertson possible match 4;    arthur Thayer 4; edith s Thomas/Scudder 4; kaherine Duffy NOTLOC; emma Weldon/Boyle HEAP to 5; bridg Fitz?;  PG5 nellie Lee oct75 notLoc; ernest Crocker 4; ora d McKergan/Carpenter nov75  -- vital records Nov77 -- 1900 wrong 1880 2 is correct; nellie m  Holmes 4; catherine o holmes NOT LOC  ; wm Barteaux NOTLOC. FIN -- did 5 pages
+
+? obed Hussey https://www.familysearch.org/ark:/61903/1:1:M9Y4-RVF
+
+Estabrook
+1880PlymDux_i18 w m 9 (wm w & eliza,  bro lewis w m 3)  MASS
+
+Wrightington oct1875 
+1880MAPlymBro_i68  henry h w m 5  (sis ada w 8; henry 39) MASS; birthrecord son of henry & cTynthia w
+confirm via 1870MAPlym_i11 henry & cynthia ell 4 angie 2 eva 7/12     
+
+Thorpe grace a (married Snell)
+1880MAMdsxCam_i41 w f 5  joshua & may b  bro william e 17 ME MA ME  (grace:  MA MA ME 
+marriage to wilmot e Snell  son's birth w everett Snell
+1900MAPlym_i11  aug 1875
+
+joseph Sears 
+1880MABrisNB_i63 w m 3; amos & cecelia 36,31 CANADA; peter 8, helen 5, jos 3, louisa 4/12; 
+1900MAPlym_i11 1875dec  with Amos CANADA
+
+Taylor/Griffin
+1880MEWaldoSea_i24L18 anita p 5  ma: prudence n
+ dau lucille prudence born oct 1900
+1900 oct1875 
+
+emma Boyle
+1880PAPhil_i16   dau of irish john & mary; sis of mary 14, annie 10 etc
+1900MAPlym_i14
+
+Holmes nellie m   1880MAPlymBro_i26 4   OK
+
