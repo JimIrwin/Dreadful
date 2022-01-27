@@ -14,8 +14,14 @@ output: html_document
 
 birthyear late 1865 august-dec and 1866 jan-may    
 
-
-marion g Packard/Dow 5 is correct, 1900 wrong; ellen Dowd nee ellen Sweeney 1866Jan other source says 1865Nov so 1900 iffy; lucius Darling 1866Jan 1900 implies 1870:5 HEAP; fred wm Dow 1870:3 1880:13 OK; rebecca amanda Drake nee:Tompkins   OK born 1865.1114 1870:4 1880:14   1900:35 Nov 1865 OK for us; etta l Dawes/Holt 1900:34 1866Jan 1880:13 1870 not loc; cora a Clark 1870:4 1900:35 1865Oct (interesting agian we have date correct but age wrong); edward l Manley 1900 1865Feb 1870:NOTLOC; annie a Burrell (Mara) 1870:4 1900: has 1865Nov, so ok (but age 35!); g frank Mann 1870 NOT LOC;  lawrence Manning born 1865.1125 1900: 1866nomonth age 34, 1870:5 HEAP, 1880:14 ; PAGE2  john s Marble 1865Sept 35 1870:4 OK; henry j Myrick 1865aug NOT LOC 1870; Bart Maxim ? age iffy, but not rounded up; albert Matheson/Mathenson (duplicates) NOT LOC 1870; Katie ?/Noonan 1866Jan 1870NotLoc; Kattie L Nixon  1900:1865aug  1870:5 HEAP (assuming 1900 is correct); lidia Norton 1866July 34 1870:3 ok ; lillian f Norton neeCapen 1866aug 1870:3 OK ; lizzie Richmond 1865Sept  1870:4 OK Tobey;  PAGE 3   margaret o'reilly 1866April 1870:4 ok;  john Reilly 1866Jan NOTLOC; a l Ridgeway 1865sept 1880:15 anna -- 1900 is wrong, birth record 1864.09; walter Geer 1865 Nov  1870:5  1900-WRONG birth record 1864Dec ; walter e Nilmarth 1866may  NOT LOC; george p Johnson 1865july 1870:4; margaret a Clark 1865Dec ne McCourt  1870:4 ok; END P3 -- switch to 1865DOB  rebecca Drake  (Tompkins) 1870:4; Grey frank s 1865july not matched; mary Scully 1865Oct  mary Hill (thos & hannah) 1870:4 possible match; ru Holloway 1865.09 not Loc; issac b Howland 1865aug 1870:4 OK; PG 3 (past the duplicates of 65/66); mary ellen o'brien 1865DEC -- wrong, birth recor 1864dec; edw j Bryant is linked to ed f Bryant family tree dob 1862 -- can't tell, 1870NotLoc; Minnie Buffington nee Severance 186407 birth record, 1900 wrong; fred a Bumpus 1865.07  1870:4 OK (also fred w OK); wm t Nickerson 1865Sept notloc; esther Truey 1865aug not found;  William Valloran nov1865 NOTLOC; james o Ward Oct1865 1870:4; margurite Welch 1865Sept 1880 14 with parents Michael & Katie PAGE 4 (do one for fun ... ) wm t Lee NotMatched (too many); ella Homes NotMatched 1865Oct; Gomerly not match; Bates minnie 1865aug 1870:3 ; maude Bates ne Cole NOTLOC; thomas Lewis 1865Oct 1870:4; jennie Cooley ne Bicknell 1865Nov   NoMAtch (PA seems crap); amandus r cook 1865dec 1870:4; END PAGE 4
+1900
+marion g Packard/Dow 5 is correct, 1900 wrong; Dowd ellen - not matched;
+lucius Darling 1866Jan 1900 implies 1870:5 HEAP; 
+fred wm Dow 1870:3 1880:13 OK; 
+rebecca amanda Drake nee:Tompkins   OK born 1865.1114 1870:4 1880:14   1900:35 Nov 1865 OK for us;    
+etta l Dawes/Holt 1900:34 1866Jan 1880:13 1870 not loc; cora a Clark 1870:4 1900:35 1865Oct (interesting agian we have date correct but age wrong); edward l Manley 1900 1865Feb 1870:NOTLOC; annie a Burrell (Mara) 1870:4 1900: has 1865Nov, so ok (but age 35!); g frank Mann 1870 NOT LOC;  lawrence Manning born 1865.1125 1900: 1866nomonth age 34, 1870:5 HEAP, 1880:14 ; 
+here ... (censusChecks.wk4)
+HERE PAGE2  john s Marble 1865Sept 35 1870:4 OK; henry j Myrick 1865aug NOT LOC 1870; Bart Maxim ? age iffy, but not rounded up; albert Matheson/Mathenson (duplicates) NOT LOC 1870; Katie ?/Noonan 1866Jan 1870NotLoc; Kattie L Nixon  1900:1865aug  1870:5 HEAP (assuming 1900 is correct); lidia Norton 1866July 34 1870:3 ok ; lillian f Norton neeCapen 1866aug 1870:3 OK ; lizzie Richmond 1865Sept  1870:4 OK Tobey;  PAGE 3   margaret o'reilly 1866April 1870:4 ok;  john Reilly 1866Jan NOTLOC; a l Ridgeway 1865sept 1880:15 anna -- 1900 is wrong, birth record 1864.09; walter Geer 1865 Nov  1870:5  1900-WRONG birth record 1864Dec ; walter e Nilmarth 1866may  NOT LOC; george p Johnson 1865july 1870:4; margaret a Clark 1865Dec ne McCourt  1870:4 ok; END P3 -- switch to 1865DOB  rebecca Drake  (Tompkins) 1870:4; Grey frank s 1865july not matched; mary Scully 1865Oct  mary Hill (thos & hannah) 1870:4 possible match; ru Holloway 1865.09 not Loc; issac b Howland 1865aug 1870:4 OK; PG 3 (past the duplicates of 65/66); mary ellen o'brien 1865DEC -- wrong, birth recor 1864dec; edw j Bryant is linked to ed f Bryant family tree dob 1862 -- can't tell, 1870NotLoc; Minnie Buffington nee Severance 186407 birth record, 1900 wrong; fred a Bumpus 1865.07  1870:4 OK (also fred w OK); wm t Nickerson 1865Sept notloc; esther Truey 1865aug not found;  William Valloran nov1865 NOTLOC; james o Ward Oct1865 1870:4; margurite Welch 1865Sept 1880 14 with parents Michael & Katie PAGE 4 (do one for fun ... ) wm t Lee NotMatched (too many); ella Homes NotMatched 1865Oct; Gomerly not match; Bates minnie 1865aug 1870:3 ; maude Bates ne Cole NOTLOC; thomas Lewis 1865Oct 1870:4; jennie Cooley ne Bicknell 1865Nov   NoMAtch (PA seems crap); amandus r cook 1865dec 1870:4; END PAGE 4
      
   
 Bicknell 1870PAPhil_i62 ? page's columns empty after sex; 
@@ -29,8 +35,21 @@ birth record May 1865 austin & e frances
 <h5> 1860 1-yr-olds </h5>
 
 Sweeney/Dowd various births with john w Dowd & ellen f Sweeney as pa&ma   birth Nov1865 died 1942
+1880MANorfRand_i11     ellen f Sweeney w f 14 MA MA Ire  niece of mary Dargin, sister rachael w f 11 
+1870 ellen dau of geo MASS & julia IRE sister Rachel 1, bro George 3   Norfolk randolph 
+1887 marriage record has parents as john & ellen
+1891 birth of son john, to ellen f Sweeney & john w Dowd; 2 other birth records
+1870 ellen dau of wm & ellen -- not match
+1870MANorfRand_i70L16  ellen 5 dau of geo MASS & julia IRE sister Rachel 1, bro George 3   Norfolk randolph 
+marriage record: rachel dau of geo Sweeney & julia French,  m to john Sullivan; rachel birth 18680829
+ellen f Sweeney 1880 sis of Rachel -- Not matched.    
+1900 Dowd ellen     h: john w 35 ME ME ME kids everett, margaret, ralph l, alice Too common
+nee ellen Sweeney 1866Jan other source says 1865Nov so 1900 iffy; 
+
 
 lucius Darling  1870:5    1900 1866 January
+1870MAMdsx_i24
+
 
 Dawes/Hall-divorce!  1880MAPlymBro_i29  etta l 13   chas f 38  aurelia 38
 
@@ -41,7 +60,8 @@ lawrence Manning born 1865.1125 parents dennis & margaret; 1900: 1866nomonth age
 
 Bart Maxim ? family tree has dob 1865  but 1870:3 (young ma, age 21 -- not wanting to be reported as a 16 year old giving birth?) some sources say 1865 june, some 1867 -- not rounded up
 
-katie L Nixon   1870 kate l Norris 5   / William E Norris		Male	28	England; Mary Norris		Female	26	Massachusetts; Kate L Norris		Female	5	Massachusetts; William E Norris		Male	3	Massachusetts; Jennie L Norris		Female	0	Massachusetts   Marriage record connects -- she marries edgar l Nixon
+katie L Nixon 1900 1865aug  
+1870 kate l Norris 5   / William E Norris		Male	28	England; Mary Norris		Female	26	Massachusetts; Kate L Norris		Female	5	Massachusetts; William E Norris		Male	3	Massachusetts; Jennie L Norris		Female	0	Massachusetts   Marriage record connects -- she marries edgar l Nixon
 
 
 

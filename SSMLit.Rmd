@@ -1580,8 +1580,14 @@ p389
 <a name="BOYS"></a>
 
 #### Missing Boys?
-Jim: goofball article that largely misses the point that bad material conditions of life generate a low sex-ratio! It uses SR4 -- too much noise? We'd say look for difference of SRs?  **Table 5** uses black SR1 for SBR (data lacking) -- but key is they show the Blacks' sex ratios in 1980/84 (1980 census, presumably)
-rising with age -- SR1 99.4 SR04 101.0 for 1980  and SR1 98.7  SR04 101.4 for 1985/90 (either the 1985 census, or 1991).   
+
+Jim on 2021 paper: , 
+    
+     the twentieth-century under-five sex ratio for black children was so skewed towards girls, a ratio much lower, for example, than the sex ratios of pre-industrial European countries, remains unanswered. We suggest several possible explanations. The most likely explanation, we argue, was a preference for girls.
+
+
+
+Jim on WP: goofball article that largely misses the point that bad material conditions of life generate a low sex-ratio! It uses SR4 -- too much noise? We'd say look for difference of SRs?  **Table 5** uses black SR1 for SBR (data lacking) -- but key is they show the Blacks' sex ratios in 1980/84 (1980 census, presumably) rising with age -- SR1 99.4 SR04 101.0 for 1980  and SR1 98.7  SR04 101.4 for 1985/90 (either the 1985 census, or 1991).   
 Francisco J. Marco-Gracia and Johan Fourie, Nov 2019 [Missing boys: Explaining South Africa’s unbalanced sex ratio, 1894-2011](https://www.researchgate.net/profile/Francisco_Marco-Gracia/publication/337657133_Missing_boys_Explaining_South_Africa's_unbalanced_sex_ratio_1894-2011/links/5de3a7f892851c8364583870/Missing-boys-Explaining-South-Africas-unbalanced-sex-ratio-1894-2011.pdf)
 p1     When the first articles on African sex ratios were published, the (p2) Statistical Offices found very low sex ratios for the under-five populations in various countries around the continent, ... 
     They expected to find that sex ratios under five years were over 100 (more boys than girls) ... We are not the first to document this. In the Preliminary Report of the 1963 Census of Northern Rhodesia (Northern Rhodesia Government 1964: 5-6), one observer wrote: 

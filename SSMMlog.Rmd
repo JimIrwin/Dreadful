@@ -13,7 +13,12 @@ Eriksson et al (2018 Demog) revise 1915-1940 IMR estimates of HSUS downward; thu
 
 ###current log
 
-<p>2022.0126 looking back from 1900's birthmonth info for ideas about heaping/undercounts -- key issue is probably age-heaping from 4 to 5?
+<p>2022.0127  [dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf)  Want to check how revised IMR for 1930s affect the implied separation factor (compared to prior estimates)
+
+</p>
+<p>2022.0126 Found 5 or more examples of age-heaping from 4 into 5, and probably 25 not heaped; and likely 30 not matched to 1870 ... also, 3 or more where the 1900 date was wrong ...     
+looking back from 1900's birthmonth info for ideas about heaping/undercounts -- key issue is probably age-heaping from 4 to 5?  Finding lots of examples where Mass 1900 gives DOB in later 1865 and the 1870 census shows them as 5 year olds ...   looking at age reported for those with birthdates after June 1865 (into early 1866), for age-heaping into age 5. Roughly, having worked on about 50 people, 
+
 
 
 </p><p>2022.0125 sent Jesse a draft of my email to G Alter. Issue is: keep or drop undercount page & worksheet
