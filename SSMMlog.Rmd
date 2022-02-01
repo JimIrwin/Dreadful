@@ -7,13 +7,61 @@ output: html_document
   
 <a name="TOP"></a>
 
-### ideas to check
-Eriksson et al (2018 Demog) revise 1915-1940 IMR estimates of HSUS downward; thus white IMR 1915 looks like 82 or so -- the revisions are only via adjusted birth-counts; what do the revisions imply for separation factors?
+[dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
 
 
-###current log
 
-<p>2022.0127  [dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf)  Want to check how revised IMR for 1930s affect the implied separation factor (compared to prior estimates)
+### current log ###
+
+
+2022.0131
+
+south africa history *Starving on a Full Stomach*    ... No one computed the national rates of infant and adult mortality, fertility, nuptiality, or causes of death for black South Africans; nor are there statistics for height indicating whether the black population has been stunted.
+
+ For 1911, a little concerned for sex-biased age-heaping in S Afr, with SR01 8.3%, SR04 7.4%, SR59 -1.2%, SR1014 -8%, SR1519 -0.2%
+Consider these Bantu SR values: u2 8.3% u5 7.4% 5-9 -1.2% ; but, sr4 4.8% (i.e. age 4 is least female of the u5 ages) and age-heaping into 5 would make age 4 the most female. So maybe age 5 not the problem. But the fluctuations across age-groups concern me ... 
+
+Jesse offers 
+     
+    FN   Marco-Gracia and Fourie (2021) argue that the female-skewed sex ratios of black South Africans reflect preference for girls. However, as shown in Figure 5, female-skewed sex ratios are not, in it of themselves, evidence of and gender preference. Such ratios are, instead, evidence of high infant mortality and poor maternal health. We take the female-skewed sex ratios to be indicative of the misery of black South Africans during the colonial period.
+
+Jim revises to:
+
+         ... our model predicts... per 1000. More generally, the extreme tilt toward girls in the/that Bantu child sex ratio points to an extreme case of maternal and infant misery. FN Marco-Gracia and Fourie (2021) argue that the female-skewed sex ratios of black South Africans reflect gender discrimination against young boys; however, we view miserable living conditions as a much more plausible explanation.
+
+
+2022.0129 Dempap needs revision in South African discussion --     
+(1) replace indigenous with Black     
+(2) feature our lead ...
+As an illustration of the potential of sex ratios to reveal population health, consider the blacks in South Africa under the British Empire, for whom we have no direct evidence on infant mortality. In 1911 South Africa, there were 7% more girls than boys under the age of five recorded in the “Bantu” population. With some 12% more girls than expected in a healthy population, our model predicts an infant mortality rate in excess of 350 deaths per 1000 births.16 Mention SRB issue? More generally, the extreme tilt toward girls in that Bantu child sex ratio points to an extreme case of maternal and infant misery.FN  X and FOURIE (2021 EcHDev) argue that Black South African sex ratios reflect gender discrimination against young boys; however, we view miserable living conditions as a much more plausible explantion,
+
+en allowing for a two-point difference in the sex ratio at birth between white and black populations,16 our model predicts an infant mortality of 350–400 deaths per 1000 births.17 At the same time, the white population of South Africa enjoyed one of the lowest infant mortality rates in the world, around 90, and, accordingly, a sex ratio of 3% more boys than girls
+
+missing boys -- is their a simple table to point out their folly?
+
+south africa     
+from Dempap: As an illustration of the potential of sex ratios to reveal population health, consider the indigenous population of South Africa under the British Empire, for whom we have no direct evidence on infant mortality. In 1911 South Africa, there were 7% more girls than boys under the age of five recorded 7 in the “Bantu” population.15 Even allowing for a two-point difference in the sex ratio at birth between white and black populations,16 our model predicts an infant mortality of 350–400 deaths per 1000 births.17 At the same time, the white population of South Africa enjoyed one of the lowest infant mortality rates in the world, around 90, and, accordingly, a sex ratio of 3% more boys than girls      
+    Hmmm -- [indigenous](#SAindig)South Africans? 
+    More generally, that passage -- at least in isolation -- seems to bury our lead; our lead being that the extreme female-tilt of the SR5 of the "Bantu" is evidence of a horrific level of infant mortality (and also the finer point, that +7% girls is outside the domain of our IMR:SR regressions)
+    
+<a name="SAindig"></a>
+Maybe [IPACC](https://www.ipacc.org.za/southern-africa/) has current terminology, "indigenous" referring to the San and Khoekhoe, as distinct from Black south africans (who would include Bantu-speaking, among who are the [Zulu](https://minorityrights.org/minorities/zulus/) -- described as an "ethnic group" (among SA Blacks, I suppose)).  
+    
+[FINSA memo](https://www.ohchr.org/Documents/Issues/IPeoples/SR/Urban-areas_Submissions/Indigenous_Organisations_Civil_Society/first-indigenous-nation-of-southern-africa.pdf) -- indicates that "Coloureds" are the indigenous of SA. UNHCR refword [article](https://www.refworld.org/docid/49749cac37.html) seems to corroboate ...
+
+
+Eriksson et al (2018 Demog) -- ENT -- revise 1915-1940 IMR estimates of HSUS downward; from their figures, revised white IMR 1915 looks like 82 or so, down from about 100. They say the revisions are only via adjusted birth-counts, but I suspect they imply huge revisions in the u1 population. As I see the role of separation-factor values, they can't make a huge difference to the U1 death rate ....     
+
+re:ENT revising 20th C US IMR, I wonder if infant death rate and IMR were way out of whack? That might explain how ENT can make such as big change to IMR (I'm thinking simply of the mechanics)     
+Wsapp to Js: with 1/q = 1/m + (1-a), and with US-DRA-white 1920 m = 10%, the possible range of q is (9.1% to 10%). ENT (2018 Demog) suggest an adjusted IMR for 1920 that is maybe 4/5 of the HSUS value. To me that suggests that their work implies an upward revision in the u1 population of the DRA; offhand, I guess that U1 population will get scaled up in proportion to their scaling up of births. hmmm ... again the undercount literature is influential ...
+
+2022.0128 matching true 4 yr olds of birth records (born July 1865 and later) to census. Chelsea, Suffolk County, is bad 9/13 are rounded up. But Abingdon Plymouth looks good, just 1/7 as 5 in 1870; similarly Plymouth 1/5 as 5 in 1870. 
+
+<p>2022.0127   Want to check how revised IMR for 1930s affect the implied separation factor (compared to prior estimates).    
+
+    an additional factor related to this pattern called the separation factor, which is the average fraction of a year not lived by those who die within the year. ( [bell & miller methods](https://www.ssa.gov/oact/NOTES/as116/as116_IV.html) )
+
+Shrock & Siegel  q~x~ = 2m~x~ /(2+m~x~)   -- when deaths occur on average 1/2 way through interval x to x+1 (e.g. rectangular/uniform)  
 
 </p>
 <p>2022.0126 Found 5 or more examples of age-heaping from 4 into 5, and probably 25 not heaped; and likely 30 not matched to 1870 ... also, 3 or more where the 1900 date was wrong ...     

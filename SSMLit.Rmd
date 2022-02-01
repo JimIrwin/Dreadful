@@ -1583,9 +1583,12 @@ p389
 
 Jim on 2021 paper: , 
     
+    
+    
+    
      the twentieth-century under-five sex ratio for black children was so skewed towards girls, a ratio much lower, for example, than the sex ratios of pre-industrial European countries, remains unanswered. We suggest several possible explanations. The most likely explanation, we argue, was a preference for girls.
 
-
+     p16 Although excess male mortality in the first months of life is found in all societies and historical contexts where infants of both sexes received the same quality of nurture and care, the values for the South African case are extreme. The high incidence of boys’ mortality in comparison with other world areas is most likely the consequence of, we argue, better care and nutrition received by girls during the first years of life.
 
 Jim on WP: goofball article that largely misses the point that bad material conditions of life generate a low sex-ratio! It uses SR4 -- too much noise? We'd say look for difference of SRs?  **Table 5** uses black SR1 for SBR (data lacking) -- but key is they show the Blacks' sex ratios in 1980/84 (1980 census, presumably) rising with age -- SR1 99.4 SR04 101.0 for 1980  and SR1 98.7  SR04 101.4 for 1985/90 (either the 1985 census, or 1991).   
 Francisco J. Marco-Gracia and Johan Fourie, Nov 2019 [Missing boys: Explaining South Africa’s unbalanced sex ratio, 1894-2011](https://www.researchgate.net/profile/Francisco_Marco-Gracia/publication/337657133_Missing_boys_Explaining_South_Africa's_unbalanced_sex_ratio_1894-2011/links/5de3a7f892851c8364583870/Missing-boys-Explaining-South-Africas-unbalanced-sex-ratio-1894-2011.pdf)
@@ -1839,6 +1842,11 @@ Sex Ratio leads via PubMed Nov 2020
 
 ## SBR/BIO Lit
 
+2012 Dyson in annual reviews in Sociology  -- cited in "missing boys" but seems unimportant to us
+cites: "Excess male mortality is virtually universal (Lopez & Ruzicka 1983). ...    Excess female mortality is chiefly the result of discriminatory behavior toward girls and women. Excess male mortality reflects behavior as well, but there is much evidence that higher male mortality also reflects sex-based differences in biology (Wizemann & Pardue 2001 : post-2018 cites don't seem to mention infants
+
+ [LopezAD & Ruzicka 1983](https://hdl.handle.net/2027/mdp.39015013000990) includes a Waldron chapter "The Role of Genetic and Biological Factors in Sex Differences in Mortality"
+
 ### Male Fraility
 
 Calle et al. (NewEngJMed 1999) -- don't see this as useful for SSMM.
@@ -1880,7 +1888,6 @@ Ayeni [1975 Annals of Human Biology](https://www.dropbox.com/s/o28ir3y05i5r33d/A
 Romaniuk 1968 in Brass, CoaleAJ, et al. "The Demography of the Democratic Republic of the Congo" Ch 6 of Brass, CoaleAJ, et al. *Demography of Tropical Africa*  p278 SRB 97.8 58K births  0.978 implies 95 % confidence limits 0.96 to 1.005   ...    no evidence for the Congo that female children are preferred to male children    ... the low SRB is consistent with a low SR in the age groups 0 to 1, 1 to 4, and 5 to 9 years, reported in all districts.    ... To a small extent, the deviation of the observed sex ratio from the expected one (1.03 fo 1.06) can be explained by the undercount of the children who have died shortly after their birth.  ... reported death rate under age 1 is only 104 per thousand live births, while the estimated infant death rate amounts to 164.  It is very likely that most (perhaps 80 or even 90 percent) of those omitted deaths are children born during the last year, <br>
 
 Simpkiss 1968 BrJPrvSocMed African population of Uganda <br> 
-
 
 
 <br>
@@ -1926,7 +1933,7 @@ Lewis, J., & Lewis, C. (1906). The Variations in Masculinity under different con
 
 
 Heape 1909 "The proportion of the sexes produced by whites and coloured peoples in cuba"   Very low for illegit Blacks: 97.91 (n=27k); legit blacks 107.7 (n=14k); white 109.0 (110k) & 105.95 (26k)
- 
+
 
 
 #### social science research on SRB & stress etc
