@@ -651,19 +651,14 @@ ReidA (2002 PopSt), " Infant feeding and post neonatal mortality in Derbyshire, 
 <br>p163ry. None of the findings in the paper  were unexpected; for the most part they have  already been demonstrated ... <br>Environmental influences loom large in this data  set, particularly in relation to the risk of death from  respiratory diseases. Infants living in densely popu-lated districts, districts at high altitude, and mining  districts were in an especially precarious position.  The all-pervasive influence of coal dust ... The quality of the  environment has frequently been implicated in the  risk of diarrhoeal disease, and other analyses have  demonstrated a relationship between population  density and diarrhoeal mortality (Woods and  Shelton 1997, pp. 55-57). It is therefore surprising  that the risk of diarrhoeal death is not responsive to  density or other environmental indices in this data  set. The reason may be that the data were collected  at a time when diarrhoea had already decreased  substantially  <br>p164 Within this nexus, breastfeeding occu-pied a dual role in both offering a buffer against exposure and boosting resistance to a variety of  afflictions. 
 <br>p165 Both this paper and the earlier paper on neonatal mortality (Reid  2001) have demonstrated that, in the early twentieth  century, most class differences in infant mortality could be explained by the type of housing and  environment people could afford to live in, leaving little role for nutrition and medical services
 
-
-
 WoodsR (2000 CUP) <br>
 p252 FIG 7-2  early child mortality (1-4) series is volatile, but decline is evident starting in the 1860s; Infant mortality stays high into the 20C
 p263n18 The decline in the SRB from 1052 in 1841–45 to 1039 in 1906–10 was considered in chapter 2 as a means of detecting biased birth registration. See figure 2.10 and table 2.2
 p52 Figure 2.10 uses the SRBs reported in Office of Population Censuses and Surveys, Birth
 Statistics: Historical Series of Statistics from Registrations of Births in England and Wales,
 1837–1983, Series FM1 No. 13 (London: HMSO, 1987), table 1.1, p. 19.
-See HealthDept  PDFp7 Eng&Wales  Fig 1 SRB declines from 104.5ish to 103.5 1886/1900
+See HealthDept  PDFp7 Eng&Wales  Fig 1 SRB declines from 104.5ish to 103.5 1886/1900     
 
-
-
-<br>
 2019 Davenport, Satchell, Shaw-Taylor (2019)  [History of the Family](https://www.tandfonline.com/doi/full/10.1080/1081602X.2018.1525755)
 ABS The malign contribution of northern industrial cities to the stagnation of national life expectancy over the period 1820–1870 forms part of one of the most long-running debates in English economic history, regarding the impact of early industrialisation on living standards.   ...   We conclude (1) that any worsening of water quality in urban areas c.1800–1850 was not confined to new or rapidly growing industrial or manufacturing towns; and (2) infants probably rarely drank untreated water, so high infant or diarrhoeal mortality rates should not be read as indicators of poor water quality, in the English context.
   ATTACK SZRETER  
@@ -731,6 +726,7 @@ Szreter 1988 -- attacking McKeown (I say, via Haines & Preston (1991 HRT) "McKeo
 McKeown 1976 1979 (cited by Engerman 1994)
  1850s and later
 
+Ackroyd & Kevany (1973 Ecology of food and nutrition) Ireland 1870-1900 IMR < Scotland < EnglandWales
 
 
 
@@ -1982,6 +1978,8 @@ Orzack, Stubblefield, et al. (2015 Proc NAS). The human sex ratio from conceptio
 
 2015 Wainstock et al Effects of exposure to rocket-attack alarms. <br> SRB Exposed 0.987 (1846)  Unexposed 1.066 (2967) (but 95% CI overlap). Found this via they cite 
 
+2015 Pongou Demography
+
 2015 Early Human Development. [Special Issue: Male to Female Ratio at Birth;](https://www.sciencedirect.com/journal/early-human-development/vol/91/issue/12)  Guest Edited by Victor E Grech;
 The male to female ratio at birth, Victor Grech;     
 Proximate causes of the variation of the human sex ratio at birth, William H. James    
@@ -2012,6 +2010,12 @@ p7 low pre-preg BMI lower SRB (0.51 vs 0.52 for avg & high)   <br>
 p10 "The percentages of male births in this study ranged from 48–55% across the range of gestational weight gains  ...  This appears to be a relatively narrow range, however other studies in mammals indicating the presence of sex allocation show similar ranges (Ungulates: [43, 44], Primates: [45, 46]). In addition, the range I show here is an order of magnitude greater than those shown in many human sex ratio studies (e.g. [13, 47, 48], but see [14, 24])"  13 (Cagnacci et al. 2004 HuRepro)  47 Nonaka et al (1999 HuBio)  48 Navarra (2009 BioLet)     14 Cameron&Dalerum (2009 PLoS ONE) 24 MatthewsF, Johnson, Neil (2008 PRSL B) 
 
 Alberts et al 2014 [The Male-Female Health-Survival Paradox: A Comparative Perspective on Sex Differences in Aging and Mortality](https://www.ncbi.nlm.nih.gov/books/NBK242444/)  ... MINOR INTerest  The sex differential in mortality   p349 Also worth noting in Figure 15-2c is the high level of the difference between male and female infant mortality for Sweden in 1900-1909. To put this difference into perspective, the gap arises because the male infant mortality rate was 10.2 percent compared with a female infant mortality rate of 8.3 percent
+
+Pngou 2015 Demography     
+ Until recently, excess male mortality was thought to be caused by
+biological and genetic differences between the sexes, with boys being biologically weaker and therefore more susceptible to premature death      ...
+some of the preconception and prenatal environmental factors that have been shown to determine the offspring sex ratio also explain the male–female difference in early-age mortality
+      
 
 [Pongou (2013 Demography)](https://www.researchgate.net/profile/Roland_Pongou/publication/233418624_Why_Is_Infant_Mortality_Higher_in_Boys_Than_in_Girls_A_New_Hypothesis_Based_on_Preconception_Environment_and_Evidence_From_a_Large_Sample_of_Twins/links/5d56d32692851cb74c7149a2/Why-Is-Infant-Mortality-Higher-in-Boys-Than-in-Girls-A-New-Hypothesis-Based-on-Preconception-Environment-and-Evidence-From-a-Large-Sample-of-Twins.pdf) Oddball piece seems to say maternal stress culling males is not BIO-based male mortality? But maybe useful for idea of reduction of female advantage after infancy? 
 
@@ -2353,6 +2357,19 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 <a name="InfMort"></a>
 
+### older IMR by sex ###
+
+
+1786 Price on Clarke ("THe observations ... prove, that the mortality of males exceeds that of females in almost all the stages of life, and particularly in the earliet stages; and that this excess prevails most in great towns, and all the less natural situations of human life." ... 
+
+1923 Holmes & Goff 1923 "It is a well known fact that more males than females die in the first year of life."     
+    
+1933 Wylie  The phenomenon of the inferior vitality of the male sex is apparent before birth, in the first day after live-birth, through every week of the first month  and in each quarter of the first year of life    ... J Wylie (1933:184 Can Journal of Public Health)
+
+
+ search human biology
+
+
 #### IMR vs u5MR ####
 
 Guillot M, Gerland P, Pelletier F, Saabneh A (2012) Child Mortality Estimation: A Global Overview of Infant and Child Mortality Age Patterns in Light of New Empirical Data. [PLoS Med 9(8): e1001299.](https://doi.org/10.1371/journal.pmed.10)   Interesting for variation in 1q0 relative to 4q1 with implications for IMR vs u5MR
@@ -2627,10 +2644,10 @@ Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female 
 2021 Echavarri (2021 Cliometrica) OUCH -- weird piece, increased SRB with war attributed to 
 
 "Neonatal discrimination and excess female mortality in childhood in Spain in the frst half of the twentieth century" <br>
-p2 The idea that infanticide and fatal neglect around birth or in infancy had occurred in Western Europe as a form of birth control during the demographic transition was initially rejected (Lynch 2011; Harris 2008), although abnormal infant and child sex ratios (Beltrán Tapia and Gallego-Martınez 2017, 2020) and excess female mortality among older children (McNay et  al 2005) were documented. Recent research based on local historical records point to the existence of infanticides in Spain in the nineteenth century (Beltrán Tapia and Marco-Gracia 2020) WORKING PAPER, not published -- EHR 2020 ARGUES NOT INFANTICIDE
+p2 The idea that infanticide and fatal neglect around birth or in infancy had occurred in Western Europe as a form of birth control during the demographic transition was initially rejected (Lynch 2011; Harris 2008), although abnormal infant and child sex ratios (Beltrán Tapia and Gallego-Martınez 2017, 2020) and excess female mortality among older children (McNay et  al 2005) were documented. Recent research based on local historical records point to the existence of infanticides in Spain in the nineteenth century (Beltrán Tapia and Marco-Gracia 2020) WORKING PAPER, not published -- EHR 2020 ARGUES NOT INFANTICIDE    
+
 Lynch, K.A., 2011. Why weren’t (many) European women “missing”? Hist. Fam. 16, 250–266.
-p2 Before the widespread of modern technologies, neonatal discrimination in the form of infanticides and fatal neglect was used as a form of birth control (Goodkind 1996)^[Goodkind D (1996) On substituting son preference strategies in East Asia: Does prenatal sex selection
-reduce postnatal discrimination? Popul Dev Rev 22(1):111–125]<br>
+p2 Before the widespread of modern technologies, neonatal discrimination in the form of infanticides and fatal neglect was used as a form of birth control (Goodkind 1996)^[Goodkind D (1996) On substituting son preference strategies in East Asia: Does prenatal sex selection reduce postnatal discrimination? Popul Dev Rev 22(1):111–125]<br>
 p3 Specifcally, the average SRB increased with the year the confict was intensifed in the provinces from 1.054 to 1.064 male births for each female birth   ...  AND feudal-stem vs monarchical-nuclear's  "positive association between discrimination around birth and in childhood" (stem women more bargaining power, less girl-discrim) That association is higher SRB and higher mortality <br>p10 between 1920 and 1950 ... average SRB of 1.069 male births for each female birth ... The 95% confdence interval for the SRB was [1.068, 1.070], which is
 evidence of a sex-biased SRB in Spain in the frst half of the twentieth century, since
 the interval exceeds the biologically expected value of 1.059.2
@@ -2668,8 +2685,7 @@ HarrisB (2008 Res Econ Hi)<br>
 p159 These findings have led many authors to conclude that the main causes of excess female mortality in childhood are less likely to be found in the differential provision of foodstuffs than in access to health care. 
 p161  there is much less direct evidence of discrimination against female children in the British past than there is of discrimination against female adults, or against female children in many parts of the developing world today (see Harris, 1998, pp. 414–417)<br>
 Harris article is 413-448, in Komlos & Baten<br>
-p161  In many parts of the developing world, there is clear evidence of excess female
-mortality at very young ages. In Britain in the nineteenth century, excess female mortality was much more strongly represented among older children and adults (Harris, 1998, p. 432; Johansson, 1977, p. 166, 1996, p. 55; McNay et al., 1998, pp. 3–4). 
+p161  In many parts of the developing world, there is clear evidence of excess female mortality at very young ages. In Britain in the nineteenth century, excess female mortality was much more strongly represented among older children and adults (Harris, 1998, p. 432; Johansson, 1977, p. 166, 1996, p. 55; McNay et al., 1998, pp. 3–4). 
 Johansson, S. R. (1977). Sex and death in Victorian England: An examination of age- and sexspecific death rates, 1840–1910. In: M. Vicinus (Ed.), A widening sphere: Changing roles
 of Victorian women (pp. 163–181). London: Methuen.
 

@@ -13,9 +13,35 @@ output: html_document
 
 ### current log ###
 
+2022.0201 late-night wrap up. Ignore research note vs paper issue until we've written our piece. Then if it is short enough, it's a research note.  In any case, Demog's structure makes it sensible to leave the introduction until after we've written the bulk of it.
+So:  Intro (tba); THe Demography of Sex Ratios and Infant Mortality; Estimating the Sex Ratio Infant Mortality Relationship; NAME OF DISCUSSION SECTION; Conclusion.    ... ttfn
+
+
+
+
+
+[Demography](https://read.dukeupress.edu/demography) -- article (<= 8000 words) or research note (<= 2500 words). As of Jan31, the manuscript is somewhat over 3700 words.  Volume 58 (2021) had 3 research notes among 95 items. (1-6: 0/14, 0/16, 0/16, 0/17, 1/16, 2/16); 
+
+[preapring manuscripts](https://www.populationassociation.org/demography/for-authors/preparing-manuscripts)
+Footnotes are numbered and are used only when necessary to explain or amplify text. Do not use footnotes to cite other sources. Do not use endnotes.    
+
+Abstract now 115 words. 85 more could state our mechanism and the confounding role of mortal misogyny (one-sided?)
+
+Intro: Para1 IMR important but too often unknown.    
+a driving force in demographic dynamics (Coale 1989).  -- really, or do parents replace decedent kids?
+smallish: "level remains virtually unknown" vs the most basic facts of IM remain to be determined for huge swaths of population, even in rough  ... Maybe: In the 21st C broad patterns of IM for most of the world are known, but that's recent ...
+
+para2 -- start with Scottish census and excess male-infant mortality?    
+1861 quote. An excess males at birth has long been well-known to demographers. More recently, the fact of excess males has figured importantly in efforts to count missing women. Excess male-infant mortality also figures in estimating missing women, and the Scottish census 1861 was surely not first recognition of hte fact. But the potential importance of excess male mortality has largely been overlooked. It turns out to provide a basis for estimating infant mortality in the absence of vital statistics.
+
+1) Plot of 1900-1970 and lowness from original project  MISSING GRILS / LOW IMR / SWEET SPOT: high IMR and female-tilt 
+2) our historic Euro data ...
+
+The phenomenon of the inferior vitality of the male sex is apparent before birth, in the first day after live-birth, through every week of the first month  and in each quarter of the first year of life    ... J Wylie (1933:184 Can Journal of Public Health)
+
+Holmes & Goff 1923 "It is a well known fact that more males than females die in the first year of life." 
 
 2022.0131
-
 south africa history *Starving on a Full Stomach*    ... No one computed the national rates of infant and adult mortality, fertility, nuptiality, or causes of death for black South Africans; nor are there statistics for height indicating whether the black population has been stunted.
 
  For 1911, a little concerned for sex-biased age-heaping in S Afr, with SR01 8.3%, SR04 7.4%, SR59 -1.2%, SR1014 -8%, SR1519 -0.2%
