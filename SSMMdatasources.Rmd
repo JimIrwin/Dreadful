@@ -397,6 +397,8 @@ XXXI Viehzählung  (cattle count); XXXII Klimatologie; XXXiii Druck , Temperatur
 
 **AUT AUSTRIA**   
 
+[IGME](https://childmortality.org/data/Austria) 1950.5 IMR 73 (1949.5 83.37) ... 1914-21 176.0 in Holmes & Mentzer
+
 u5     
 1869, 1910  from IHS    
 1880 from Handbuch 1886, p3; 1890 from [Handbuch 1893](https://babel.hathitrust.org/cgi/pt?id=hvd.hl0lnt&view=1up&seq=5&skin=2021), p. 6; 1900 from 1903, p. 7.
@@ -409,7 +411,6 @@ A [wiki](Statistisches_Jahrbuch_der_Österreichischen_Monarchie) that may provid
 In the IHS listing of sources, the only reference to 1869 is Statistisches Jahrbuch der Österreichischen Monarchie (1861–1881). Those are linked in [this wiki](https://de.wikisource.org/wiki/Statistisches_Jahrbuch_der_%C3%96sterreichischen_Monarchie#1863%E2%80%931881:_Statistisches_Jahrbuch). Looking for age/sex: not 1868-1871;   (new format starts in 1872)  1872-1880 (has 1880 census); end looking.
 
 u5 for SR have 1880 1890 1900 from 19C AUT sources; use IHS for 1869 and 1910; 2010 YrBk and IHS have 1923 and 1931 Republic of Austria    
-
 
 IMR 1876-1907 u1 deaths from StHb1909; 1875-1907 births from YrBks 1886, 1893, StHb1907, 1909.
 IHS "From 1914 the statistics apply to the present Republic, except that Burgenland is not included until 1922 -- so how big is Burgenland? 1923 286K in pop of 6535K  or 4% -- I deem NEGLIGIBLE for us
@@ -2118,6 +2119,12 @@ Canada census https://www12.statcan.gc.ca/english/census01/products/standard/the
 
 
 https://population.un.org/wpp/Download/Standard/Interpolated/  UN World Population Prospects
+
+
+#### Egypt
+
+Mitchell IHS A2  1917, 1927, 1937, 1947, 1960, 1976  pops
+1960 IMR (worldBank) 212    
 
 
 ### South Africa 

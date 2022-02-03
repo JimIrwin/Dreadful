@@ -2363,6 +2363,9 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 1786 Price on Clarke ("THe observations ... prove, that the mortality of males exceeds that of females in almost all the stages of life, and particularly in the earliet stages; and that this excess prevails most in great towns, and all the less natural situations of human life." ... 
 
 1923 Holmes & Goff 1923 "It is a well known fact that more males than females die in the first year of life."     
+Table 1 has SRB, IMR, SR of u1 death, SR at death by month ... various Euro, AUstral, Egypt, Japan, US, Uruguay, New Zealand,    
+IMRs AUT 1914-21 Egypt 143.9 176   -- wonder about the sources?
+
     
 1933 Wylie  The phenomenon of the inferior vitality of the male sex is apparent before birth, in the first day after live-birth, through every week of the first month  and in each quarter of the first year of life    ... J Wylie (1933:184 Can Journal of Public Health)
 
@@ -2632,7 +2635,7 @@ Sen 1990,1992; 1991 Coale; 1994 Klasen; 2002,2003 Klasen & Wink; 2003 Sen
 
 2003 Sen shift in source of missing women, from mortality to selective abortion. Interesting for us is the use of SR05 as indicator of missing women. Also India division: N&W missing girls, S&E not.  
 
-Klasen & Wink (2003 Feminist Econ) about same info as 2002? Maybe tone differs: harsher on China; more generally, notion excess fem mort stabilized at a high level
+Klasen & Wink (2003 Feminist Econ) about same info as 2002? Maybe tone differs: harsher on China; more generally, notion excess fem mort stabilized at a high level    
 Klasen & Wink (2002 PopDevR).  As in Klasen (1994 World Dev): Coale's (1991) constant SBR overstates expected sex ratios in poor countries (and therefore understates missing women). Some improvement since 1990s. "After significant improvements in Bangladesh and Pakistan, India now has the highest share of missing females among countries for which we have reliable demographic data."  increasing use of sex-selective induced abortion
 
 Klasen (1994 World Dev)  For SBR rising with income/SES and for West Life Table understates male IMR disadvantage   p1064 "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs. The higher fragaility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987)." Waldron sex-differences in mortality. Probably Waldron 1993 for Euro men higher mortality via drink/drive/violence
@@ -2642,20 +2645,10 @@ Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female 
 #### "Missing women" articles
 
 2021 Echavarri (2021 Cliometrica) OUCH -- weird piece, increased SRB with war attributed to 
-
+     
 "Neonatal discrimination and excess female mortality in childhood in Spain in the frst half of the twentieth century" <br>
-p2 The idea that infanticide and fatal neglect around birth or in infancy had occurred in Western Europe as a form of birth control during the demographic transition was initially rejected (Lynch 2011; Harris 2008), although abnormal infant and child sex ratios (Beltrán Tapia and Gallego-Martınez 2017, 2020) and excess female mortality among older children (McNay et  al 2005) were documented. Recent research based on local historical records point to the existence of infanticides in Spain in the nineteenth century (Beltrán Tapia and Marco-Gracia 2020) WORKING PAPER, not published -- EHR 2020 ARGUES NOT INFANTICIDE    
+p2 The idea that infanticide and fatal neglect around birth or in infancy had occurred in Western Europe as a form of birth control during the demographic transition was initially rejected (Lynch 2011 [see below]; Harris 2008), although abnormal infant and child sex ratios (Beltrán Tapia and Gallego-Martınez 2017, 2020) and excess female mortality among older children (McNay et  al 2005) were documented. Recent research based on local historical records point to the existence of infanticides in Spain in the nineteenth century (Beltrán Tapia and Marco-Gracia 2020) WORKING PAPER, not published -- EHR 2020 ARGUES NOT INFANTICIDE    
 
-Lynch, K.A., 2011. Why weren’t (many) European women “missing”? Hist. Fam. 16, 250–266.
-p2 Before the widespread of modern technologies, neonatal discrimination in the form of infanticides and fatal neglect was used as a form of birth control (Goodkind 1996)^[Goodkind D (1996) On substituting son preference strategies in East Asia: Does prenatal sex selection reduce postnatal discrimination? Popul Dev Rev 22(1):111–125]<br>
-p3 Specifcally, the average SRB increased with the year the confict was intensifed in the provinces from 1.054 to 1.064 male births for each female birth   ...  AND feudal-stem vs monarchical-nuclear's  "positive association between discrimination around birth and in childhood" (stem women more bargaining power, less girl-discrim) That association is higher SRB and higher mortality <br>p10 between 1920 and 1950 ... average SRB of 1.069 male births for each female birth ... The 95% confdence interval for the SRB was [1.068, 1.070], which is
-evidence of a sex-biased SRB in Spain in the frst half of the twentieth century, since
-the interval exceeds the biologically expected value of 1.059.2
-
-
-
-2019 PNAS article (corrected for big error)
-Chao et al., Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels  SRB reference levels... 
 
 2018 Alesina, Giuliano, Nathan Nunn (PLoSOne 2018) [Traditional agricultural practices and the sex ratio today](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770021/#pone.0190510.ref024)    
 As usual, focus on high SR as evidence of infanticide or 
@@ -2665,12 +2658,27 @@ As usual, focus on high SR as evidence of infanticide or
 Another remarkably wretched piece of work involving Nathan Nunn! 
 p1 A non-trivial fraction of our sample (53 countries out of 153) has a sex ratio higher than 105 
 
+Jayachandran (2017 AEJ: App Econ) quality piece showing role of declining fertility increasing SR05 in India (likely sex-selective abortion with ultrasound). Interests us for Figure 1, SR06 values: 1961 102+  1981 104- 2001 107+  2011 110+
+This paper quantifies the relationship between desired fertility and the sex ratio in India by eliciting sex composition preferences at specified fertility levels. I find that the desired sex ratio increases sharply as fertility falls and that fertility decline explains one third to one half of India’s recent sex ratio increase.     
+This paper’s contribution is to directly estimate the causal relationship between family size and the desired sex ratio and to quantify an important cause of rising sex ratios.    
+p128 To summarize, as family size grows, the desired percent sons falls sharply. To first approximation, families want one son, and if that preference is satisfied, they want close to an equal number of sons and daughters. These patterns point to the desire for an eldest son as the central feature of son preference     
+p131 The projected sex ratio matches the trend more closely for the second half of the period, which is consistent with the diffusion of ultrasound being the main driver of the rising sex ratio in the 1980s and early 1990s, and then fertility decline playing a major role in the last decade, once access to ultrasound was widespread.    
+
+
 
 2017 Population [Mortality Inequalities and Trends in Low- and Middle-Income Countries, 1990-2015](https://www.cairn-int.info/journal-population-2017-2-page-221.htm?contenu=article)
+
+2015 Diamond-Smith & Bishai (2015 Demography 2015) "Evidence of Self-correction of Child Sex Ratios in India: A District-Level Analysis of Child Sex Ratios From 1981 to 2011." 
 
 2014 Lancet Global Health [National, regional, and global sex ratios of infant, child, and under-5 mortality ... countries  with  outlying ratios: a systematic assessment](https://www.sciencedirect.com/science/article/pii/S2214109X14702803)
 
 2012 PLoS Medicine : [Child Mortality Estimation: Estimating Sex Differences in Childhood Mortality since the 1970s](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001287) Cheryl Chriss Sawyer
+
+Lynch, K.A., 2011. Why weren’t (many) European women “missing”? Hist. Fam. 16, 250–266.     
+p2 Before the widespread of modern technologies, neonatal discrimination in the form of infanticides and fatal neglect was used as a form of birth control (Goodkind 1996)^[Goodkind D (1996) On substituting son preference strategies in East Asia: Does prenatal sex selection reduce postnatal discrimination? Popul Dev Rev 22(1):111–125]    
+p3 Specifcally, the average SRB increased with the year the confict was intensifed in the provinces from 1.054 to 1.064 male births for each female birth   ...  AND feudal-stem vs monarchical-nuclear's  "positive association between discrimination around birth and in childhood" (stem women more bargaining power, less girl-discrim) That association is higher SRB and higher mortality    
+p10 between 1920 and 1950 ... average SRB of 1.069 male births for each female birth ... The 95% confdence interval for the SRB was [1.068, 1.070], which is evidence of a sex-biased SRB in Spain in the frst half of the twentieth century, since the interval exceeds the biologically expected value of 1.059.2
+ **big stink** over SRB of 1.069 versus 1.059 -- 1% difference ...
 
 2010 Anderson & Ray (2010 REStud) ["Missing women: Age and disease"](https://economics.ubc.ca/files/2013/05/pdf_paper_siwan-anderson-missing-women-age-disease.pdf)    
 The paper is utter garbage. They use subsaharan Africa's relatively high death rates of women of child-bearing age to argue for missing women. And US 1900 women are dying in childbirth, creating the appearance of "missing women" there.  GARBAGE  twisting of fact that economic development has hugely reduced maternal death (and that male behavior-based deaths in rich nations is most of male deaths until old-age) ... Consider their calculation of subsaharan missing women age 20-24: their counterfactual (CF) female mortality is via the female/male rate of developed world. Devoloped has death rate (ages 20-24, throughout what follows) for males 2.94 times the female (1.1/0.4); subsahAfr male mortality is 5.7, so CF female mort is 5.7/2.94 or under 2 ... actual female mort is 9.4, so the female mortality among subsaharan women is be 9.4/(5.7/2.94) or  4.85 times actual mort.  And they use UN/WHO death rates for U1 and 1-4 to argue for missing girls in subsaharan Africa. But I bet if we looked at sex-ratios by age we would NOT see evidence of missing girls ... I bet the death rates approach and a sex-ratio approach will give opposite reulsts for subsah africa ...

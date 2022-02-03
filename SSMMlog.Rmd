@@ -13,11 +13,13 @@ output: html_document
 
 ### current log ###
 
+2022.0202 be sure to allude to shift to sex-selective abortion as mechanism male-biased sex-ratio -- probably should qualify that we look to period before ultrasound opens up sex-selective abortion -- so we are looking at infanticide or fatal? neglect 
+
+jottings: blight vs blemish; just as we got the ability to measure it, infant mortality largely faded ...      
+Possible applications for dempap: US in 1840-1860  white black;  sweden -- early IMR estimates OK? ;
+
 2022.0201 late-night wrap up. Ignore research note vs paper issue until we've written our piece. Then if it is short enough, it's a research note.  In any case, Demog's structure makes it sensible to leave the introduction until after we've written the bulk of it.
 So:  Intro (tba); THe Demography of Sex Ratios and Infant Mortality; Estimating the Sex Ratio Infant Mortality Relationship; NAME OF DISCUSSION SECTION; Conclusion.    ... ttfn
-
-
-
 
 
 [Demography](https://read.dukeupress.edu/demography) -- article (<= 8000 words) or research note (<= 2500 words). As of Jan31, the manuscript is somewhat over 3700 words.  Volume 58 (2021) had 3 research notes among 95 items. (1-6: 0/14, 0/16, 0/16, 0/17, 1/16, 2/16); 
