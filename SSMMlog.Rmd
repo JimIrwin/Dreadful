@@ -9,9 +9,59 @@ output: html_document
 
 [dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
 
+**R question** changing NA to 0 throws error with if_else but works with ifelse ...     
+mutate(ser="fPUMS",boys=ifelse(is.na(boys),0,boys),girls=ifelse(is.na(girls),0,girls)) -- OK    
+mutate(ser="fPUMS",boys=if_else(is.na(boys),0,boys),girls=if_else(is.na(girls),0,girls)) --    Error: `false` must be a double vector, not an integer vector
+
 
 
 ### current log ###
+
+
+2022.0206Ji  Punjab -- as well as below, see our [Sources & Lit page](https://jimirwin.github.io/Dreadful/SSMLit.html) and search "Missing" (I think ... )
+
+-- British census reports from 1865 to before 1911 generally downplay infanticide, and pay a lot of attention to possibility of underenumeration of girls (connected to "low esteem" of females), and to possible male-biased SRB from natural causes (e.g. wide age gap of spouses), while alluding to differential care and girls less valued.
+
+1911 census report on Punjab by a Sikh ((Pandit -- his title) Hari Kishan Kaul) has best statement for us, perhaps: "But if female infanticide does not prevail to any noticeable extent, the neglect of female infants has been the general rule" .  Our drafts folder has his 2-page discussion of nature of neglect of little girls ...
+
+
+
+Plowden's report on 1881 Census "Whether or no female infanticide prevails in the Punjáb to any considerable extent, and I believe it does not, there can be no doubt whatever that the female is less welcome and less cared for than the male infant."  Note that Plowden gives a lot of credence to possibility of underenumeration of female girls and youth, even as he remarks on the low regard in which they were held; he certainly downplays infanticide.
+
+vol III Appendix D, p. lxi
+That infanticide is practised at all generally I do not believe ... But there is not the slightest doubt that the life of a girl is less valued and worse cared for than that of a boy, chiefly indeed among the anoterogainous clans who cannot find husbands for them, and the higher castes of the eastern Punjáb who will not sell their daughters, and among the Hindoos who spend much money on their marriage and account it is shameful to leave them unmarried; but also in a less degree and as a relic of the old fighting days, and perhaps from the contagion of Hindoo ideas, among all other classes of the Punjáb people without distinction of race, religion, or locality.
+
+
+
+
+2022.0204      
+
+1870 Massachussetts -- PUMS age 0 SR 1.7% less male than cenvol. 
+
+
+
+US-white SR5 pubCen vs PUMS:  1850 PUMS 0.4% more male (3.7), 1910 PUMS 0.4% less male -- all others are within 0.1%.     
+The "white" SR is of dubious meaning, because for the South, the lower 40% of the SES is excluded. I'm inclined to use 4 cells, North/South/White/NonWhite ... but 1850 & 1860 North's nonwhite is too small for our method. Probably look at All and at white ...
+
+In PUMS -- regions of 1850-70 are NorE  NE MA 11 12; MW 21 22
+South: 31 32 33    West 41 42  NorE 11 12   22 21  NOT 91
+
+
+
+Looking for PUMS-published census contrasts for HSUS paper. I wonder if rural counties in the US North have only a few enumerator-districts? Not in NY 1870, 1880 -- many very small EDs. 
+
+Bangladesh 1960 pop pyramid 4276674 4168295 102.6 IMR ~ 200 hmmm
+
+#### Nordic?
+Might want to address Nordic IMR across the 19th C, via Sweden IMR:SR which runs from 1751 (also ask, are those credible?)     
+IHS offers IMR & SR5 as follows.  Denmark 1835 1870 (0-9 1801);  Finland 1866 1850 (0-9 1751);  Norway 1836 1855 (0-9 1801)
+
+Maybe fill in Norway's IMR from 1800 to 1880, via SR? 1800-1840s blank; 1841-1876 questionable IMR (Norway's "good" IMR series starts with 1876, when IMR was about 101 (1876-80 avg); Sweden then 126). Finland  
+
+Swed 1850s 149  and Sweden 1820s-30s 160-170  1800s 204; 
+
+2022.0203 potential applications for dempap: white/black USA 1860    
+HMD Norway credible IMR runs from 1876 < feb4 correction of: both IMR & SR run from 1846, so maybe no option to extrap Sweden's IMR:SR. But do we think the HMD IMR is credible? >
 
 2022.0202 be sure to allude to shift to sex-selective abortion as mechanism male-biased sex-ratio -- probably should qualify that we look to period before ultrasound opens up sex-selective abortion -- so we are looking at infanticide or fatal? neglect 
 

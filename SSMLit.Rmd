@@ -1164,6 +1164,16 @@ p319 recommend institutions be formed to educate and qualify females to be nurse
 
 </p>
 
+#### Alter's undercounrt issue
+
+<H3>George Alter's concern: infant undercounts</H3>
+
+<p>If under-enumeration of infants ...
+
+<p>We restrict attention to the US-born, and treat US-born children as a closed population in any 10-year period, assuming negligible out-migration. And we abstract from possible problems in the IPUMS coding of children as US- or foreign-born.</p>
+<p>The key issue for our findings on children's sex ratios over the period 1850-1920 is the possibility that improvements in the accuracy of enumeration of children's ages generate specious changes in observed sex ratios. We find child sex-ratios circa 1900 to be more tilted toward females, in comparison to the ratios observed in censuses from 1850 to 1880 (or 1890, but we dismiss the 1890 data as flawed). There is a Literature of US demographic research suggesting underenumeration of infants in the censuses of 1850 through 1880, with the 1900 census age question eliciting a much more accurate enumeration. The possible problem we need to consider is that the observed changes in child sex ratios could reflect changes in enumeration errors rather than changes in actual sex ratios. For example, suppose actual sex ratios were constant in the period 1850 to 1900. And suppose a relative under-enumeration of female vs male infants biased child sex-ratio values toward males in the 19th-century censuses, but improvements in enumeration resulted in more accurate sex-ratio values from 1900 on. If so, the  observed shift toward girls would be an artifact of changing measurement error and not a reflection of deteriorating maternal-infant health.</p>
+
+
 #### Current views of the onset of Infant-Mortality Transition in the USA? 
 
 Cutler & Miller (2005) & Goldin's correction thereof ...
@@ -1796,24 +1806,134 @@ Citation: Census of Scotland -- 1861, Population Tables and Report (Number of th
 
 ### India
 
+Visaria in 1961 census
+
+p24 undercount of females not  a plausible main explanation for the excess of males
+
+p37 SRB
+
+ pdf61  cites pp215-18 of 1911 census: vol 1, India, Part 1, *Report*
+
+
+p53 pdf93 Female Infanticide and Neglect of Females
+
+
+    The facot that the institution of female infantiqide was known to exist in certain areaS of NOl th India was noted catHer in the discussion of the sex ratios at birth acoording to registration data.1 The custom has probably died out, . but the possibility of some rare cases occurring even now cannot be ruled out altpgether.    ...     We do not know the precise fOlm of neglect of female children or how exactly it leads to lower ohances of their survival. But it is alleged that, COinpared to boys, girls get less nourishment. Of course, the mother of an infant does not ordinarily discriminate between & boy or a girl and the univeually-observedbiological fragility of males continues to hold till the baby is weaned and is exposed to the various infections through other food.
+
+
+p66 conclusions   Not underenum and not male-biased SRB. 
+     
+     The excess female mortality seems to be the main explanation for the imbalance of the sexes in India. 
+
+    p67 An omnibus but non-tangible factor relevant to the females disadvantage in chances of survival seems to be the often overt but occasionally subtle discrimination against female children and the neglect of females even at adult ages
+
+
 1871 Madras Presidency - Supplementary Reports -- 5-year ages
 1872 Bombay Presidency - [Detailed Returns of](https://www.jstor.org/stable/saoa.crl.25057642?seq=1#metadata_info_tab_contents)   VolIII 37-72 p22- detailed geog age/sex 0 1-5 etc by religion   LT1 data found, see WK4
 Central Provinces HIS DISCUSSION -- consistent with misogynistic mortality there. 
 24p21 Section IV Distribution of the population according to sex and age  ... s41 children (12 and under) Central Provinces 52% male which is low -- Bengal 54.5%  NW 54.5% Oudh 54.3%  Berar 53.1%    Argues for liklihood that boys are not undercounted in the LT1 age, that 12-year-old girls likely reported as older (so they can be married off?), but not enough to explain low SR in the 12-20 group  s42 quotes 1865 NW Prov Report "the opinions of the Hindus in regard to females exercise and unfavourable influence on female mortality in the earlier years of life, but this influence is quite insufficent to account for the vast difference which is to be found in the proportion of the sexes in this country compared with others."  TENTATIVE SUM-UP is his p22 claim  "to the superior vitality of males is the preponderance of the male sex due."   
 
+#### 1911 census
+
+Vol 1, p215 Formerly female infants were frequently killed as soon as they were born, and even now they are very commonly neglected to a greater or less extent. The advantage which nature gives to girls is thus neutralized by the treatment accorded to them by their parents.
+p215 cites Letourneau (1904:75) for "It is the social actions of men which produce the most profound disturbances in the proportion of the sexes."  re: violent death of adult men (tend to polygamy), female infanticide (tend to polyandry)
+
+p218 "Pandit Hari Kishan Kaul says that the amount of actual infanticide is now insignificant, but that the neglect of female infants is the general rule: ... "  -- SO USE PUNJAB REPORT -- by a Sikh (leader?)
+
+PARI searchable [1911 Vol 1](https://ruralindiaonline.org/en/library/resource/census-of-india-1911-volume-i-part-i---report/)
+
+
+
+[Punjab Report](https://www.jstor.org/stable/saoa.crl.25393787) is by Hari Kishan Kaul (see above)
+p230 pdf263
+ [315] ... NOT UNDERCOUNT OF FEMS
+
+319. ... That female infanticide which evidently prevailed to a considerable extent at the time of the annexation of this Province [1849, I think], has dwindled down to insignificance; ... its extent is not sufficient to influence the proportion of sexes in any particular caste or locality as a whole, much less, that of any caste or religion in the whole Province.     
+    320. But if female infanticide does not prevail to any noticeable extent, the neglect of female infants has been the general rule, except in tracts and communities where a bride-price is charged. Even there, the force of custom prevents the equal treatment of boys and girls; ...     
+    p231 ... The motive for neglecting female infants, is the same as that explained in the note on female infanticide appended to this Chapter. The birth of a female ... condolence rather than a cause for celebration.   ... midwife biased ... bathing slipshop ... delayed nursing  ... early weaning ... "This neglect of female infants naturally results in a large number of infant female deaths, within a few days after birth or within the first few years of life" ... parents    not dis-satisfied  popular saying "mothers look after the boys and God looks after the girls" ... "The neglect of female infants which has probably been the most important cause of the disparity of sexes is, however, diminishing rapidly" spread of education / changes in custom.     
+    
+pdf276 p243 Note on Female Infanticide
+
+
+
+#### India 1881 Census 
+
+downplays female infanticide, consistent with differential care; big on underenumeration
+
 People's Archive of Rural India has [Plowden](https://ruralindiaonline.org/library/rooms/census/1881/)
 
-52 cites Hiaeker & Benrouille SBR 105-106 but less so in cities
+[Searchable online](https://ruralindiaonline.org/en/library/resource/report-on-the-census-of-british-india-taken-on-the-17th-of-february-1881-vols-i-iii/)
 
+pdf63 p52 Plowden notes that about 1865 SR he argued for an extreme male SRB in India via large age-gap in spouses' ages; notes but dismisses sex-disrim. ... "In the proportions of the sexes in this country, strangely altered as they are, I think we see the operation of the law* recognized by European physiologists and statisticians. That law operates, it is true, to produce effects differing from those observed in Europe." 
+
+    p52 80. In 1865 the North-West Provinces returns showed ... out of 1,000 of both sexes, according to the Census returns 536 were males, and 461 only were females, thus entirely reversing the proportion generally noticed in Europe. In speaking of this state of things I wrote as follows   ....  whatever may be the influence of climate upon the proportion of the sexes ... the great and abnormal excess of males over females in this country is attributable to the social habits of the people, which, inducing very early marriages, the difference in age between husbands and wives being always relatively greater than in Europe, tend to permit a wider play to the physiological laws which are traced in the influence of the ages of the parents on the sexes of their progeny ... <para>It is, I fear, not to be doubted that the opinions of the Hindus in regard to females, especially among the higher castes, exercise an unfavourable influence on female mortality in the earlier years of life. But this influence is quite insufficient to account for the vast difference which is found in the proportions of the sexes in this country compared with others; ...  Mr. Hume's careful inquiries go to show how small is the influence which infanticide, or mere carelessness of their female children in the earlier years of life, could exercise even in the Hindu population in reference to the proportion of the sexes. There is evidently some other cause at work to produce results which are quite exceptional as far as our present knowledge goes. That cause, I believe, is to be found in the influences to which I have called attention. In the proportions of the sexes in this country, strangely altered as they are, I think we see the operation of the law* recognized by European physiologists and statisticians.
+
+       p52 footnote  * The law referred to is that noticed by Hofaeker and Bernouille, and has been described as follows by M. Legoyt:—" L'une des lois du mouvement de la population la mieux constateés, c'est celle du rapport des deux sexes dans les naissances. Excepté en Angleterre, ou l’on compt 109 garcons pour 100 filles, ce rapport varie, dans tous les autres Etats, entre 105 et 106, pour les naissances legitimes; pour les naissances naturelles, il n'est en moyenne que de 104. Pour les mort-nes legitimes, il atteint le chiffre considérable de 138; ce chiffre descend a 118 pour les mort-nés naturels. La supériorité numérique des naissances masculines n'est pas ausse forte dans les villes que dans l'ensemble de la population. Par example, elle est de 105 pour la France entière et seulement de 103 pour les villes; toutefois cette difference, qu'il est tres difficile d'expliquer, ne se retrouve pas dans les naissances naturelles. Le fait principal (l'excedant des naissances masculines) est ègalement un de ces secrets que la nature ne parait pas dispossee a livrer aux investigations de la science. L'explication propossée par Ch. Bernouilli est la plus spécieuse. Dans l'opinion de ce savant, le rapport des garcons aux filles serait déterminé pas l'âge relatif des parents. Si le père est plus jeune ou du mâme âge que la mère, ce rapport sera plus petit que l'unité; il s'elevera avec l'age du père. Si les deux époux sont jeuties, il sera plus grand que s'ils sont d'un âge moyen, mais beaucoup plus faible que s'ils sont d'un age relativement avancé. L'exactitude de cette theorie ne peut être démontrée que pas des recherches faites sur une vast échelle." As Mr. Baines has remarked (p. 62 of Vol. 1. Bombay Report for 1881), "I am inclined to surmise, though with extreme diffidence as to the value of the supposition, that the influence of age as a factor in the determination of the sex of the child, amounts to a tendency only, varying in intensity with the difference between the ages of the parents.    ... <footnote ends on p53 with diminution of m/f SRB from 1856-60 104.6 to 1876-80 103.8
+
+         p53 81. At the next Census of 1872 there was still a very marked excess of males in the North-West Provinces. The excess, however, was not quite so large as at the preceding enumeration. ... At the Census of 1872 the figures for other pro- vinces, especially Bengal, ... pointed to the conclusion that our enumeration, so far as the females of the province were concerned, had been decidedly defective. The subject was discussed at considerable length in the Report for 1872 ...
+         
+82. suggesting SR overstated by concealment of girls         
+         
+     p54  82.    ...  I felt myself driven to one of two conclusions. Either the disparity between the sexes noted at each successive enumeration in the North-West Provinces was a fact, and if so, was mainly attributable to female infanticide, and to the general disregard of female life; or that disparity was not either wholly, or even in part, the fact, but was due to a persistent concealment of females, and to defective enumeration of this sex. There were unquestionably facts disclosed in the special infanticide reports which seemed to bear out the conclusion that a portion of this disparity had been occasioned by female infanticide; but this was a cause which could only have effected a very small part of the defect noticeable when the two sexes were compared, and an examination of the age returns of the Census of 1872 showed that there had been a uniform concealment of females, especially between the ages of 10 and 13. It seemed indeed that a portion of the females between 10 and 15, or perhaps between 8 and 15, had altogether escaped the enumerators, and that the actual disproportion between the sexes, though it might exist to some extent, and to what extent it was impossible then to say, was not anything like so great as had hitherto been portrayed by the census statistics         
+
+83. Plowden quotes Cornish in Madras report, "but the nearer we approach to accuracy in the Census of a general population, the more clearly does the fact appear that there is nothing peculiar in this country in theproportion of the sexes; that if there are from 104 to 106 females to every hundred males in Europe, this proportion also obtains in India, that is in all parts of thecountry where female infanticide is unknown.  ... enumerators / obtuse ... the low estimation in which females are held in this country ... The birth or death of a female child is considered such an insignificant matter, .. that a great number escape registration ...  But in districts where the Census work was well done it will be found that the female population is invariably in excess of the male; in fact, the general accuracy of the results of any district may be judged of by the way in which the proportions of the sexes have been recorded
+     
 From 1881 census (Plowden p. 54)   
     the actual disproportion between the sexes, though it might exist to some extent, and to what extent it was impossible then to say, was not anything like so great as had hitherto been portrayed by the census statistics.
  ... the nearer we approach to accuracy in the Census of a general population, the more clearly does the fact appear that there is nothing peculiar in this country in the proportion of the sexes; that if there are from 104 to 106 females to every hundred males in Europe, this proportion also obtains in India, that is in all parts of the country where female infanticide is unknown. The truth is that the great bulk of enumerators have been singularly obtuse in comprehending the fact that the counting of females was a matter of any importance in census work. To understand how this is, we must take into account **the low estimation in which females are held in this country,** and also the reticence of the people on all matters connected with their female relatives. In the registration of births and deaths the same error obtains. **The birth or death of a female child is considered such an insignificant matter,** especially among the lower classes of the population, that a great number escape registration in certain districts; and, from the causes adverted, to the numbering of the female population in 1871 was undoubtedly erroneous in so far that many were omitted in the Census schedules. But in districts where the Census work was well done it will be found that the female population is invariably in excess of the male; in fact, the general accuracy of the results of any district may be judged of by the way in which the proportions of the sexes have been recorded."
 
-p56 regarding the Madras census 1881 arguing for big improvement in enumeratio
+p56 regarding the Madras census 1881 arguing for big improvement in enumeration
 
 p57 girls less-effected by the famine
 
+p59 estimates of female concealment    
+
+p60  ... 87. In addition to the numbers of females who are short counted in the enumeration, we also have to consider the defect in the number of the sex occasioned by the practice of female infanticide. Though that practice, we may assume, has not had any very serious effect upon the proportions of the sexes throughout, yet it is unquestionable that it has had an effect which is perceptible.
+
+p62  91.  ... quote Mr. Drysdale on Central Provinces :  p63  "It is a matter of congratulation that there is nothing in the statistics to suggest any apprehension of infanticide"
+
+p63  93. For the Punjab, where the disproportion of the sexes is more marked than in any other part of India, and where it assumes dimensions which are peculiar even in the north, the Report, so far as it has reached me for that province, does not contain any remarks on this subject, and I am unable, therefore, to state whether the local officers have come to any such conclusions as these to which the figures have led the reviewers in the Madras and North-Western Provinces; but an examination of the figures for the Punjab certainly bears out the line of argument which has been adopted by Mr. McIver and by Mr. White, following in the steps of Dr. Cornish in the same direction.
+
+<McIver is Madras reporter; White for NW province>
+
+p109  147.  ... The practice of infanticide does not exist, nor has it ever obtained a footing in the country. Children of both sexes are treated alike, but Coorgs, like other Hindoo races, have a weakness for male issue, which may probably be attributed to the great expense attending the marriages of their daughters ... 
+
+
 p178  It is obvious that a wave of infecundity has during the last few years swept over at least Northern India, and that the five years between 1876 and 1881 have seen a far smaller number of births than took place between 1871 and 1875.
+
+**vol 3 1881 **
+
+pdf155 pxxx   APPENDIX D      
+EXTRACTS FROM THE BENGAL AND PUNJAB CENSUS REPORTS ON THE AGE STATISTICS OF THOSE PROVINCES       
+
+
+pdf157 p xxxii   THE PROPORTIONS OF THE SEXES.    
+*Sex Statistics in the Punjáb*.—Figures showing the sex statistics for each religion and all religions in each district and State, separately for urban, rural, and total population will be found in Table IV. of Appendices A. and B.* The proportion of the sexes has always been a burning question in India, partly because the great excess of males has puzzled statisticians: but still more because of the greater or less prevalence of the custom of female infanticide against which Government had set its face. The general result is that in the Punjáb taken as a whole, there are 5,425 males and 4.575 females among every 10,000 of the population, figures which became 5,421 and 4,579 if immigrants be excluded. It is this large excess of males, in face of the fact that in Europe the females are slightly in excess, that has to be accounted for. So far as the excess is real, and not due to defective enumeration, it may be due to any or all of three causes, excess of male births, female infanticide, or greater female mortality. These points will be discussed presently. [2 minor contributors: male in-migration to Punjab and under-enumeration of fems]
+
+table of f/m by region and religion -- Sikhs stand out! 0-5 83.9  OUCH -- Punjab province 94.5
+
+
+p xxxiv
+ I have already pointed out that the excess of males in the Punjab must be due to any or all of three causes, a smaller proportion of female births, female infanticide, and excessive female mortality. Now the Inspector-General of Police in the North-West Provinces, whose special attention has been paid to the subject of infanticide, writes to me: "It is generally held that infanticide is not practised after the age of one year, that is that death is not actively accomplished; but female children are allowed to perish of inanition and inattention up to the age of three years."
+     Now in European countries at least the mortality in the earlier years of infancy is tar greater for males than for females ... We should, therefore, expect to find the proportion of females steadily rise during the first few years of life, if the same rule obtains in the Punjáb; and as a fact taking the Province as a whole, we find that it is so, the proportion for the first three years being 950, 954, and 966, though I shall presently show that, other causes may affect the figures. Thus if only natural causes have been at work our proportion of females derived from the figures for infants of under one year of age is probably larger than the proportion of female births or the mortality within the year has reduced the number of males more largely than the number of females.     
+      ...  If a lower degree of fecundity is accompanied by a higher proportion of male births, then the excess of male births in the Punjáb is explained, in part at least, for we have already seen that the number of births per 100 wives of child-bearing age is far smaller in the Punjáb than in England. ...    
+If then the condition which impairs fecundity also reduce the proportion of female births, we should expect to find that proportion far lower in the Punjáb than in England   ...      
+
+     It must, however, be borne: in mind that there is another possible explanation for the small proportion of female infants in years of distress. Whether or no female infanticide prevails in the Punjáb to any considerable extent, and I believe it does not, there can be no doubt whatever that the female is less welcome and less cared for than the male infant. Now this, perhaps, almost unconscious depreciation of female child life would tell most severely against the female children in years when even the male children must suffer; and it is probable that this depreciation has not been without its effect on the figures. How far the small proportion of female infants in years of want is due to this cause, and how far to an actual decrease of female as compared with male births, I am wholly without the means of judging.                
+     The figures for religion do not call for detailed examination. Two points, however, stand out most prominently, and are exceedingly difficult of explanation. I mean the small proportion of females among Sikhs and the large proportion among Buddhists. In discussing the figures for Sikh females <p xxxv> ... It will hardly be suggested that a male baby in arms will be returned as Sikh while a female infant will be returned as Hindoo. Nor do I see any other explanation, unless it be that Sikhs either practise or have in former generations been wont to practise infanticide to an extent which has never even been dreamed of. To reduce their proportion of females from 948, the average of all religions, to 864, they must kill 9 per cent, of their female children, a supposition which it hardly seems possible should be true. It does not appear that there is any great inaccuracy in the figures, for a reference to Abstract No. 120, will show that the proportion remains fairly constant throughout all the age periods. 
+     
+The second striking fact is the extraordinarily large proportion of females among Buddhists. 
+ 
+          p xxxvii <bottom> Is Infanticide practised in the Punjáb?—We come then to the question whether, and if at all to what degree females infanticide is practised in the Punjáb.  Now I have shown that in the North-West <p xxxviii> Provinces infanticide proper is believed not to be practised except immediately after birth, while death by intentional inattention is not caused after the third year of age. Thus the effects o£ infanticide should appear in the first three years of age, and especially in the first.    ... I believe that female infanticide is, taking the population of the Punjáb as a whole, practically unknown.
+
+      <p xxxxix quoting "Mr. Frizelle ... writing from Shahpur">  No doubt female children are little prized and more neglected than male, but hardly more so than married women or female adults, who are very valuable; and there is nothing in the social condition or traditions of the people to cause them by wilful neglect to try to get rid of their female offspring.
+      
+      
+    xli   ...  an intelligent Hindoo, B. A.: 'Infanticide has vanished, but female children are not so much loved as boys, because boys are the props of a family, girls are its weakness, causing expense and returning no income       "As I have remarked above, there is, I think, some indication given in the statistics of the existence of a certain popular depreciation of female child life."     
+    
+    Conclusion as to the Prevalence of Infanticide.—This last sentence appears to me exactly to express the existing state of affairs. That infanticide is practised at all generally I do not believe; that it is habitual with any class I doubt; and if with any, it is I think only with some exceedingly limited sections of the community, such as Gurdaspore, and even there takes the form of intentional neglect rather than actual murder. But there is not the slightest doubt that the life of a girl is less valued and worse cared for than that of a boy, chiefly indeed among the anoterogainous clans who cannot find husbands for them, and the higher castes of the eastern Punjáb who will not sell their daughters, and among the Hindoos who spend much money on their marriage and account it is shameful to leave them unmarried; but also in a less degree and as a relic of the old fighting days, and perhaps from the contagion of Hindoo ideas, among all other classes of the Punjáb people without distinction of race, religion, or locality.
+
+
 
 1901 Memorandum on the age tables and rates of mortality of the Indian ... Hardy, George Francis, Sir, 1855-1914.
 p7 interesting on errors in counts

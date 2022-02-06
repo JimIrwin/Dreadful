@@ -364,15 +364,38 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">03 February, 2022</h4>
+<h4 class="date">06 February, 2022</h4>
 
 </div>
 
 
 <p><a name="TOP"></a></p>
 <p><a href="https://jrmcirwin.github.io/sr1/DemPap_1.pdf">dempap link</a></p>
+<p><strong>R question</strong> changing NA to 0 throws error with if_else but works with ifelse …<br />
+mutate(ser=“fPUMS”,boys=ifelse(is.na(boys),0,boys),girls=ifelse(is.na(girls),0,girls)) – OK<br />
+mutate(ser=“fPUMS”,boys=if_else(is.na(boys),0,boys),girls=if_else(is.na(girls),0,girls)) – Error: <code>false</code> must be a double vector, not an integer vector</p>
 <div id="current-log" class="section level3">
 <h3>current log</h3>
+<p>2022.0206Ji Punjab – as well as below, see our <a href="https://jimirwin.github.io/Dreadful/SSMLit.html">Sources &amp; Lit page</a> and search “Missing” (I think … )</p>
+<p>– British census reports from 1865 to before 1911 generally downplay infanticide, and pay a lot of attention to possibility of underenumeration of girls (connected to “low esteem” of females), and to possible male-biased SRB from natural causes (e.g. wide age gap of spouses), while alluding to differential care and girls less valued.</p>
+<p>1911 census report on Punjab by a Sikh ((Pandit – his title) Hari Kishan Kaul) has best statement for us, perhaps: “But if female infanticide does not prevail to any noticeable extent, the neglect of female infants has been the general rule” . Our drafts folder has his 2-page discussion of nature of neglect of little girls …</p>
+<p>Plowden’s report on 1881 Census “Whether or no female infanticide prevails in the Punjáb to any considerable extent, and I believe it does not, there can be no doubt whatever that the female is less welcome and less cared for than the male infant.” Note that Plowden gives a lot of credence to possibility of underenumeration of female girls and youth, even as he remarks on the low regard in which they were held; he certainly downplays infanticide.</p>
+<p>vol III Appendix D, p. lxi That infanticide is practised at all generally I do not believe … But there is not the slightest doubt that the life of a girl is less valued and worse cared for than that of a boy, chiefly indeed among the anoterogainous clans who cannot find husbands for them, and the higher castes of the eastern Punjáb who will not sell their daughters, and among the Hindoos who spend much money on their marriage and account it is shameful to leave them unmarried; but also in a less degree and as a relic of the old fighting days, and perhaps from the contagion of Hindoo ideas, among all other classes of the Punjáb people without distinction of race, religion, or locality.</p>
+<p>2022.0204</p>
+<p>1870 Massachussetts – PUMS age 0 SR 1.7% less male than cenvol.</p>
+<p>US-white SR5 pubCen vs PUMS: 1850 PUMS 0.4% more male (3.7), 1910 PUMS 0.4% less male – all others are within 0.1%.<br />
+The “white” SR is of dubious meaning, because for the South, the lower 40% of the SES is excluded. I’m inclined to use 4 cells, North/South/White/NonWhite … but 1850 &amp; 1860 North’s nonwhite is too small for our method. Probably look at All and at white …</p>
+<p>In PUMS – regions of 1850-70 are NorE NE MA 11 12; MW 21 22 South: 31 32 33 West 41 42 NorE 11 12 22 21 NOT 91</p>
+<p>Looking for PUMS-published census contrasts for HSUS paper. I wonder if rural counties in the US North have only a few enumerator-districts? Not in NY 1870, 1880 – many very small EDs.</p>
+<p>Bangladesh 1960 pop pyramid 4276674 4168295 102.6 IMR ~ 200 hmmm</p>
+<div id="nordic" class="section level4">
+<h4>Nordic?</h4>
+<p>Might want to address Nordic IMR across the 19th C, via Sweden IMR:SR which runs from 1751 (also ask, are those credible?)<br />
+IHS offers IMR &amp; SR5 as follows. Denmark 1835 1870 (0-9 1801); Finland 1866 1850 (0-9 1751); Norway 1836 1855 (0-9 1801)</p>
+<p>Maybe fill in Norway’s IMR from 1800 to 1880, via SR? 1800-1840s blank; 1841-1876 questionable IMR (Norway’s “good” IMR series starts with 1876, when IMR was about 101 (1876-80 avg); Sweden then 126). Finland</p>
+<p>Swed 1850s 149 and Sweden 1820s-30s 160-170 1800s 204;</p>
+<p>2022.0203 potential applications for dempap: white/black USA 1860<br />
+HMD Norway credible IMR runs from 1876 &lt; feb4 correction of: both IMR &amp; SR run from 1846, so maybe no option to extrap Sweden’s IMR:SR. But do we think the HMD IMR is credible? &gt;</p>
 <p>2022.0202 be sure to allude to shift to sex-selective abortion as mechanism male-biased sex-ratio – probably should qualify that we look to period before ultrasound opens up sex-selective abortion – so we are looking at infanticide or fatal? neglect</p>
 <p>jottings: blight vs blemish; just as we got the ability to measure it, infant mortality largely faded …<br />
 Possible applications for dempap: US in 1840-1860 white black; sweden – early IMR estimates OK? ;</p>
@@ -652,6 +675,7 @@ US 1925-1930 BRA embraces a sizable southern population USBRA (all) 66.7 -3.35 N
 <p>2021.1020 likely Italian story is that the major northern regions fit our story, with the southern regions a bizarre jumble of very male-biased sex ratios that seem unrelated to infant mortality (maybe we want to break Italy in two?). No sign of excess female mortality after 4 … Some more data to be entered to pin down patterns; and some reflection/discussion in order (for footnotes at least).</p>
 <p>2021.1019 long slog into Italian regions. Not finding a sensible North vs wacky South in terms of regional SR:IMR. 1901 looks like crap … 1901 Marche and Umbria have ln(f/m) -5.6% with IMR of 160</p>
 <p>2021.1018 Jim finding Italian regional data. FOllowing up on Sardninia paper lead (and WoodsR) suggesting registration problems South vs North – so maybe North IMR:SR looks sensible and South’s looks silly. WOuld that be a basis for dumping Italy’s data from our mix? We are trying to include data that is deemed (and we deem) to be reliable …</p>
+</div>
 </div>
 <div id="loose-ends-movetidy-when-noted" class="section level4">
 <h4>loose ends (move/tidy when noted)</h4>
