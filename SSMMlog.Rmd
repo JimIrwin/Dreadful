@@ -9,16 +9,53 @@ output: html_document
 
 [dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
 
+
+
+### current log ###
+
+2022.0208 made comments on PDF of draft two. Big step toward the submission, but (1) some substantive issues to address and (2) needs some streamlining of the presentation/argument.     
+
+1. substantive: reverse regression? acknowledge SRB. More generally: are we offering a prediction algorithm? Or are we saying: dude, because of female infant mortality advantage -- frail baby males --  IM pushes SR towards girls; the higher the IM the more female the SR. Or at least that is what happens in the absence of mortal misogyny -- in the absence of sex-disrimination that erases the biological survival advantage of little girls; in other words, when we are not studying a population with "missing" girls and women. When it's not a missing girls population, we expect a simply strong pattern with female-bias of SR correlated with the IMR. And when we have SR:IMR data we FIND that simple strong relationship. And that WILL BE a basis for making inferences about IMRs. Here, in a RN, we simply document the relationship, and illustrate how it could be used to infer. Illustrate with Black and white in South Africa in 1911. Vital Stats for whites, not blacks. WHite 1911 90. Via SRBs and SRs --  strong and plausible result that 1911 South Africa IMRS of whites and blacks 90 and 330. Strong evidence of maternal-infant misery for B not W -- but not the place to make claims of precise magnitudes of IMR --- just > 30% .... 
+
+
+
+BTW OUr result casts doubt on SouAfr stats for 1991  coloured IMR of 40? ln(f/m) ~0 
+
+
+
+
+
+SRB? ... underlying model of deterministic factors: ln(M/F) = ln(SRB) + ln(f(IMR)) where     
+ ln(SRB) = ln(106) - ln(g(maternal misery))   and IMR=h(maternal-infant misery)   .... 
+ 
+ And regress IMR on ln(SRB)  constant term contains SRB info????
+
+
+early rough thought: finding paper structure unsatisfying -- can't we simply rip through our argument, using footnotes to equivocate and elaborate as needed --- that mean's no intro beyond saying that for knowledge of historical population health and welfare, IMR is important and too little known. But we introduce a way to substantially expand our konwledge ....
+     
+**HSUS** plugging along with PUMS/pubCen comparisons for HSUS. Want some feedback on plan to estimate NorthernIMR (full population) and SouthernWhiteIMR and SOuthernBlackIMR
+
+
 **R question** changing NA to 0 throws error with if_else but works with ifelse ...     
 mutate(ser="fPUMS",boys=ifelse(is.na(boys),0,boys),girls=ifelse(is.na(girls),0,girls)) -- OK    
 mutate(ser="fPUMS",boys=if_else(is.na(boys),0,boys),girls=if_else(is.na(girls),0,girls)) --    Error: `false` must be a double vector, not an integer vector
 
 
 
-### current log ###
+2022.0207 
+re:Dempap Punjab -- found pages from 1891 and 1901 that say fems get less care (in drafts)
+-- maybe use 1911 Punjab SR results, to go with Kaul's comments/discussion of excess female mortality. 
+References has Gupta, Monica Das  -- should be Das Gupta, Monica
+
+re 1870 fPUMS so far pretty general PUMS less male (for MA NY NJ PA)
+
+2022.0206Ji 
+
+I look at county level SR in Mass --1 large county PUMS count seems fine (no evidence of PUMS undercounting male)
 
 
-2022.0206Ji  Punjab -- as well as below, see our [Sources & Lit page](https://jimirwin.github.io/Dreadful/SSMLit.html) and search "Missing" (I think ... )
+
+Punjab -- as well as below, see our [Sources & Lit page](https://jimirwin.github.io/Dreadful/SSMLit.html) and search "Missing" (I think ... )
 
 -- British census reports from 1865 to before 1911 generally downplay infanticide, and pay a lot of attention to possibility of underenumeration of girls (connected to "low esteem" of females), and to possible male-biased SRB from natural causes (e.g. wide age gap of spouses), while alluding to differential care and girls less valued.
 
@@ -37,7 +74,6 @@ That infanticide is practised at all generally I do not believe ... But there is
 2022.0204      
 
 1870 Massachussetts -- PUMS age 0 SR 1.7% less male than cenvol. 
-
 
 
 US-white SR5 pubCen vs PUMS:  1850 PUMS 0.4% more male (3.7), 1910 PUMS 0.4% less male -- all others are within 0.1%.     

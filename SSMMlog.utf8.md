@@ -1,11 +1,519 @@
 ---
 title: "SSMM-Log : Captains' Log for the SSMM/SR1 Project "
 author: "jri & jrm"
-date: "11 October, 2021"
+date: "09 February, 2022"
 output: html_document
 ---
   
-<a name="TOC"></a>
+<a name="TOP"></a>
+
+[dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
+
+
+
+### current log ###
+
+2022.0208 made comments on PDF of draft two. Big step toward the submission, but (1) some substantive issues to address and (2) needs some streamlining of the presentation/argument.     
+
+1. substantive: reverse regression? acknowledge SRB. More generally: are we offering a prediction algorithm? Or are we saying: dude, because of female infant mortality advantage -- frail baby males --  IM pushes SR towards girls; the higher the IM the more female the SR. Or at least that is what happens in the absence of mortal misogyny -- in the absence of sex-disrimination that erases the biological survival advantage of little girls; in other words, when we are not studying a population with "missing" girls and women. When it's not a missing girls population, we expect a simply strong pattern with female-bias of SR correlated with the IMR. And when we have SR:IMR data we FIND that simple strong relationship. And that WILL BE a basis for making inferences about IMRs. Here, in a RN, we simply document the relationship, and illustrate how it could be used to infer. Illustrate with Black and white in South Africa in 1911. Vital Stats for whites, not blacks. WHite 1911 90. Via SRBs and SRs --  strong and plausible result that 1911 South Africa IMRS of whites and blacks 90 and 330. Strong evidence of maternal-infant misery for B not W -- but not the place to make claims of precise magnitudes of IMR --- just > 30% .... 
+
+
+
+BTW OUr result casts doubt on SouAfr stats for 1991  coloured IMR of 40? ln(f/m) ~0 
+
+
+
+
+
+SRB? ... underlying model of deterministic factors: ln(M/F) = ln(SRB) + ln(f(IMR)) where     
+ ln(SRB) = ln(106) - ln(g(maternal misery))   and IMR=h(maternal-infant misery)   .... 
+ 
+ And regress IMR on ln(SRB)  constant term contains SRB info????
+
+
+early rough thought: finding paper structure unsatisfying -- can't we simply rip through our argument, using footnotes to equivocate and elaborate as needed --- that mean's no intro beyond saying that for knowledge of historical population health and welfare, IMR is important and too little known. But we introduce a way to substantially expand our konwledge ....
+     
+**HSUS** plugging along with PUMS/pubCen comparisons for HSUS. Want some feedback on plan to estimate NorthernIMR (full population) and SouthernWhiteIMR and SOuthernBlackIMR
+
+
+**R question** changing NA to 0 throws error with if_else but works with ifelse ...     
+mutate(ser="fPUMS",boys=ifelse(is.na(boys),0,boys),girls=ifelse(is.na(girls),0,girls)) -- OK    
+mutate(ser="fPUMS",boys=if_else(is.na(boys),0,boys),girls=if_else(is.na(girls),0,girls)) --    Error: `false` must be a double vector, not an integer vector
+
+
+
+2022.0207 
+re:Dempap Punjab -- found pages from 1891 and 1901 that say fems get less care (in drafts)
+-- maybe use 1911 Punjab SR results, to go with Kaul's comments/discussion of excess female mortality. 
+References has Gupta, Monica Das  -- should be Das Gupta, Monica
+
+re 1870 fPUMS so far pretty general PUMS less male (for MA NY NJ PA)
+
+2022.0206Ji 
+
+I look at county level SR in Mass --1 large county PUMS count seems fine (no evidence of PUMS undercounting male)
+
+
+
+Punjab -- as well as below, see our [Sources & Lit page](https://jimirwin.github.io/Dreadful/SSMLit.html) and search "Missing" (I think ... )
+
+-- British census reports from 1865 to before 1911 generally downplay infanticide, and pay a lot of attention to possibility of underenumeration of girls (connected to "low esteem" of females), and to possible male-biased SRB from natural causes (e.g. wide age gap of spouses), while alluding to differential care and girls less valued.
+
+1911 census report on Punjab by a Sikh ((Pandit -- his title) Hari Kishan Kaul) has best statement for us, perhaps: "But if female infanticide does not prevail to any noticeable extent, the neglect of female infants has been the general rule" .  Our drafts folder has his 2-page discussion of nature of neglect of little girls ...
+
+
+
+Plowden's report on 1881 Census "Whether or no female infanticide prevails in the Punjáb to any considerable extent, and I believe it does not, there can be no doubt whatever that the female is less welcome and less cared for than the male infant."  Note that Plowden gives a lot of credence to possibility of underenumeration of female girls and youth, even as he remarks on the low regard in which they were held; he certainly downplays infanticide.
+
+vol III Appendix D, p. lxi
+That infanticide is practised at all generally I do not believe ... But there is not the slightest doubt that the life of a girl is less valued and worse cared for than that of a boy, chiefly indeed among the anoterogainous clans who cannot find husbands for them, and the higher castes of the eastern Punjáb who will not sell their daughters, and among the Hindoos who spend much money on their marriage and account it is shameful to leave them unmarried; but also in a less degree and as a relic of the old fighting days, and perhaps from the contagion of Hindoo ideas, among all other classes of the Punjáb people without distinction of race, religion, or locality.
+
+
+
+
+2022.0204      
+
+1870 Massachussetts -- PUMS age 0 SR 1.7% less male than cenvol. 
+
+
+US-white SR5 pubCen vs PUMS:  1850 PUMS 0.4% more male (3.7), 1910 PUMS 0.4% less male -- all others are within 0.1%.     
+The "white" SR is of dubious meaning, because for the South, the lower 40% of the SES is excluded. I'm inclined to use 4 cells, North/South/White/NonWhite ... but 1850 & 1860 North's nonwhite is too small for our method. Probably look at All and at white ...
+
+In PUMS -- regions of 1850-70 are NorE  NE MA 11 12; MW 21 22
+South: 31 32 33    West 41 42  NorE 11 12   22 21  NOT 91
+
+
+
+Looking for PUMS-published census contrasts for HSUS paper. I wonder if rural counties in the US North have only a few enumerator-districts? Not in NY 1870, 1880 -- many very small EDs. 
+
+Bangladesh 1960 pop pyramid 4276674 4168295 102.6 IMR ~ 200 hmmm
+
+#### Nordic?
+Might want to address Nordic IMR across the 19th C, via Sweden IMR:SR which runs from 1751 (also ask, are those credible?)     
+IHS offers IMR & SR5 as follows.  Denmark 1835 1870 (0-9 1801);  Finland 1866 1850 (0-9 1751);  Norway 1836 1855 (0-9 1801)
+
+Maybe fill in Norway's IMR from 1800 to 1880, via SR? 1800-1840s blank; 1841-1876 questionable IMR (Norway's "good" IMR series starts with 1876, when IMR was about 101 (1876-80 avg); Sweden then 126). Finland  
+
+Swed 1850s 149  and Sweden 1820s-30s 160-170  1800s 204; 
+
+2022.0203 potential applications for dempap: white/black USA 1860    
+HMD Norway credible IMR runs from 1876 < feb4 correction of: both IMR & SR run from 1846, so maybe no option to extrap Sweden's IMR:SR. But do we think the HMD IMR is credible? >
+
+2022.0202 be sure to allude to shift to sex-selective abortion as mechanism male-biased sex-ratio -- probably should qualify that we look to period before ultrasound opens up sex-selective abortion -- so we are looking at infanticide or fatal? neglect 
+
+jottings: blight vs blemish; just as we got the ability to measure it, infant mortality largely faded ...      
+Possible applications for dempap: US in 1840-1860  white black;  sweden -- early IMR estimates OK? ;
+
+2022.0201 late-night wrap up. Ignore research note vs paper issue until we've written our piece. Then if it is short enough, it's a research note.  In any case, Demog's structure makes it sensible to leave the introduction until after we've written the bulk of it.
+So:  Intro (tba); THe Demography of Sex Ratios and Infant Mortality; Estimating the Sex Ratio Infant Mortality Relationship; NAME OF DISCUSSION SECTION; Conclusion.    ... ttfn
+
+
+[Demography](https://read.dukeupress.edu/demography) -- article (<= 8000 words) or research note (<= 2500 words). As of Jan31, the manuscript is somewhat over 3700 words.  Volume 58 (2021) had 3 research notes among 95 items. (1-6: 0/14, 0/16, 0/16, 0/17, 1/16, 2/16); 
+
+[preapring manuscripts](https://www.populationassociation.org/demography/for-authors/preparing-manuscripts)
+Footnotes are numbered and are used only when necessary to explain or amplify text. Do not use footnotes to cite other sources. Do not use endnotes.    
+
+Abstract now 115 words. 85 more could state our mechanism and the confounding role of mortal misogyny (one-sided?)
+
+Intro: Para1 IMR important but too often unknown.    
+a driving force in demographic dynamics (Coale 1989).  -- really, or do parents replace decedent kids?
+smallish: "level remains virtually unknown" vs the most basic facts of IM remain to be determined for huge swaths of population, even in rough  ... Maybe: In the 21st C broad patterns of IM for most of the world are known, but that's recent ...
+
+para2 -- start with Scottish census and excess male-infant mortality?    
+1861 quote. An excess males at birth has long been well-known to demographers. More recently, the fact of excess males has figured importantly in efforts to count missing women. Excess male-infant mortality also figures in estimating missing women, and the Scottish census 1861 was surely not first recognition of hte fact. But the potential importance of excess male mortality has largely been overlooked. It turns out to provide a basis for estimating infant mortality in the absence of vital statistics.
+
+1) Plot of 1900-1970 and lowness from original project  MISSING GRILS / LOW IMR / SWEET SPOT: high IMR and female-tilt 
+2) our historic Euro data ...
+
+The phenomenon of the inferior vitality of the male sex is apparent before birth, in the first day after live-birth, through every week of the first month  and in each quarter of the first year of life    ... J Wylie (1933:184 Can Journal of Public Health)
+
+Holmes & Goff 1923 "It is a well known fact that more males than females die in the first year of life." 
+
+2022.0131
+south africa history *Starving on a Full Stomach*    ... No one computed the national rates of infant and adult mortality, fertility, nuptiality, or causes of death for black South Africans; nor are there statistics for height indicating whether the black population has been stunted.
+
+ For 1911, a little concerned for sex-biased age-heaping in S Afr, with SR01 8.3%, SR04 7.4%, SR59 -1.2%, SR1014 -8%, SR1519 -0.2%
+Consider these Bantu SR values: u2 8.3% u5 7.4% 5-9 -1.2% ; but, sr4 4.8% (i.e. age 4 is least female of the u5 ages) and age-heaping into 5 would make age 4 the most female. So maybe age 5 not the problem. But the fluctuations across age-groups concern me ... 
+
+Jesse offers 
+     
+    FN   Marco-Gracia and Fourie (2021) argue that the female-skewed sex ratios of black South Africans reflect preference for girls. However, as shown in Figure 5, female-skewed sex ratios are not, in it of themselves, evidence of and gender preference. Such ratios are, instead, evidence of high infant mortality and poor maternal health. We take the female-skewed sex ratios to be indicative of the misery of black South Africans during the colonial period.
+
+Jim revises to:
+
+         ... our model predicts... per 1000. More generally, the extreme tilt toward girls in the/that Bantu child sex ratio points to an extreme case of maternal and infant misery. FN Marco-Gracia and Fourie (2021) argue that the female-skewed sex ratios of black South Africans reflect gender discrimination against young boys; however, we view miserable living conditions as a much more plausible explanation.
+
+
+2022.0129 Dempap needs revision in South African discussion --     
+(1) replace indigenous with Black     
+(2) feature our lead ...
+As an illustration of the potential of sex ratios to reveal population health, consider the blacks in South Africa under the British Empire, for whom we have no direct evidence on infant mortality. In 1911 South Africa, there were 7% more girls than boys under the age of five recorded in the “Bantu” population. With some 12% more girls than expected in a healthy population, our model predicts an infant mortality rate in excess of 350 deaths per 1000 births.16 Mention SRB issue? More generally, the extreme tilt toward girls in that Bantu child sex ratio points to an extreme case of maternal and infant misery.FN  X and FOURIE (2021 EcHDev) argue that Black South African sex ratios reflect gender discrimination against young boys; however, we view miserable living conditions as a much more plausible explantion,
+
+en allowing for a two-point difference in the sex ratio at birth between white and black populations,16 our model predicts an infant mortality of 350–400 deaths per 1000 births.17 At the same time, the white population of South Africa enjoyed one of the lowest infant mortality rates in the world, around 90, and, accordingly, a sex ratio of 3% more boys than girls
+
+missing boys -- is their a simple table to point out their folly?
+
+south africa     
+from Dempap: As an illustration of the potential of sex ratios to reveal population health, consider the indigenous population of South Africa under the British Empire, for whom we have no direct evidence on infant mortality. In 1911 South Africa, there were 7% more girls than boys under the age of five recorded 7 in the “Bantu” population.15 Even allowing for a two-point difference in the sex ratio at birth between white and black populations,16 our model predicts an infant mortality of 350–400 deaths per 1000 births.17 At the same time, the white population of South Africa enjoyed one of the lowest infant mortality rates in the world, around 90, and, accordingly, a sex ratio of 3% more boys than girls      
+    Hmmm -- [indigenous](#SAindig)South Africans? 
+    More generally, that passage -- at least in isolation -- seems to bury our lead; our lead being that the extreme female-tilt of the SR5 of the "Bantu" is evidence of a horrific level of infant mortality (and also the finer point, that +7% girls is outside the domain of our IMR:SR regressions)
+    
+<a name="SAindig"></a>
+Maybe [IPACC](https://www.ipacc.org.za/southern-africa/) has current terminology, "indigenous" referring to the San and Khoekhoe, as distinct from Black south africans (who would include Bantu-speaking, among who are the [Zulu](https://minorityrights.org/minorities/zulus/) -- described as an "ethnic group" (among SA Blacks, I suppose)).  
+    
+[FINSA memo](https://www.ohchr.org/Documents/Issues/IPeoples/SR/Urban-areas_Submissions/Indigenous_Organisations_Civil_Society/first-indigenous-nation-of-southern-africa.pdf) -- indicates that "Coloureds" are the indigenous of SA. UNHCR refword [article](https://www.refworld.org/docid/49749cac37.html) seems to corroboate ...
+
+
+Eriksson et al (2018 Demog) -- ENT -- revise 1915-1940 IMR estimates of HSUS downward; from their figures, revised white IMR 1915 looks like 82 or so, down from about 100. They say the revisions are only via adjusted birth-counts, but I suspect they imply huge revisions in the u1 population. As I see the role of separation-factor values, they can't make a huge difference to the U1 death rate ....     
+
+re:ENT revising 20th C US IMR, I wonder if infant death rate and IMR were way out of whack? That might explain how ENT can make such as big change to IMR (I'm thinking simply of the mechanics)     
+Wsapp to Js: with 1/q = 1/m + (1-a), and with US-DRA-white 1920 m = 10%, the possible range of q is (9.1% to 10%). ENT (2018 Demog) suggest an adjusted IMR for 1920 that is maybe 4/5 of the HSUS value. To me that suggests that their work implies an upward revision in the u1 population of the DRA; offhand, I guess that U1 population will get scaled up in proportion to their scaling up of births. hmmm ... again the undercount literature is influential ...
+
+2022.0128 matching true 4 yr olds of birth records (born July 1865 and later) to census. Chelsea, Suffolk County, is bad 9/13 are rounded up. But Abingdon Plymouth looks good, just 1/7 as 5 in 1870; similarly Plymouth 1/5 as 5 in 1870. 
+
+<p>2022.0127   Want to check how revised IMR for 1930s affect the implied separation factor (compared to prior estimates).    
+
+    an additional factor related to this pattern called the separation factor, which is the average fraction of a year not lived by those who die within the year. ( [bell & miller methods](https://www.ssa.gov/oact/NOTES/as116/as116_IV.html) )
+
+Shrock & Siegel  q~x~ = 2m~x~ /(2+m~x~)   -- when deaths occur on average 1/2 way through interval x to x+1 (e.g. rectangular/uniform)  
+
+</p>
+<p>2022.0126 Found 5 or more examples of age-heaping from 4 into 5, and probably 25 not heaped; and likely 30 not matched to 1870 ... also, 3 or more where the 1900 date was wrong ...     
+looking back from 1900's birthmonth info for ideas about heaping/undercounts -- key issue is probably age-heaping from 4 to 5?  Finding lots of examples where Mass 1900 gives DOB in later 1865 and the 1870 census shows them as 5 year olds ...   looking at age reported for those with birthdates after June 1865 (into early 1866), for age-heaping into age 5. Roughly, having worked on about 50 people, 
+
+
+
+</p><p>2022.0125 sent Jesse a draft of my email to G Alter. Issue is: keep or drop undercount page & worksheet
+
+</p><p>2022.0119 Trying to move past Hacker (2013 SSH). Accepting his 1900 undercounts, 1900 SR5 is 103.1, which is almost as male as we see in 1860-1880 ...  So Hacker's 1900 result offers a challenge to our claim that 1900 was worse. Note that I dismiss his 1850-80 estimates because of the use of the PUMS 1% samples (where the SRs are nuts to us).
+</p><p>But our 10-year forward evidence offers a strong corroboration of our sex-ratio time-path ...
+</p><p>A key issue is that he presents 1.036 as the 1900 SR5 for his reconstructed US-born white population (p90), but given his underenumeration rates, that implies a census SR5 value of 1.0316 or 1.032 -- but census has 1.026?  So where is he getting an extra 0.6?
+<br>Table 1 (p88) reports the "net undercount" of U5 native-born whites in 1900 as 6.8% males and 6.4% females.  Applying those rates to published census data (from 1900 of 1970) gives SR5 103.1 (a 0.45 %-point move toward males), a full 0.5% points below Hacker's reported value. The full-count PUMS white SR5 is less male, 102.5, and it only gets to 102.9 using Hacker's undercounts. 
+<br> For native-whites in 1900, Coale & Zelnick offer underenumeration rates of 7.6% male, 6.5% female -- for a 1.2%-point  SR-move toward male. Their male & female rates for 1880 the same (9.1%), so a C-Z correction would reverse our results.
+<br> For northern-born whites, U5 "net undercounts" are 5.5% males and 3.8% females; for southern-born 5.7% & 5.0%  -- how is it that the national undercount rates are so much above the sectional rates? It can happen because he uses the PUMS samples for all census years.
+</p><p>2022.0118 next: look for 1940? (seen today) which had 1900-1940 5yr age groups -- and see what Hacker's adjustment gives for a sex-ratio?
+<br>tackling Hacker (2013) -- key issue now is that his corrected 1900 native-white SR5 is 1.036 while the PUMS has 1.026
+ -- what do we make of that 1% point shift toward male? His corrected 1880 is 1.042 (so only a tiny bit healthier than 1900
+<br>What do we make of his 1900 adjustment? His Table 1 reports m 6.8% f 6.4%  -- applying that would move SR5 0.44 toward male, not 1% ???
+</p><p>2022.0117 hoped today to send email to GAlter.<br>
+1) include plots of SR2 and SR5, each with 10-year forward sex ratio counterparts; also 2-3 and 12-13 (as he suggested). Email comment that the 10-year forward comparison suggest no role for female undercounting in generating our results. ISSUE: if age-heaping at 5 yr-olds, do we want 5&under sex ratios also?
+2) undercounting more generally. what do we want to say here -- beyond the point that undercounting in general is not our concern, and that our work on IMR has implications for estimates of undercounts (and since we argue for lower IMR than conventional, we imply less undercounting than current estimates?)
+<br>poke around 1850 numbers ... 1860's 15-year-olds SR +1% female ?
+</p>
+<p>Looking at implications of undercounts for SR values 1930 forward. Effects of undercount corrections:
+<br> 1970 cen 104.6 moves to 104.9 or 105.0 (Sigel applied to cen960 or cenPE11)
+<br> 1960 cen 104.0 moves to 104.8 (siegel)
+<br> 1950 cen 104.4 moves male to 105.0 (Land et al or Coale & )
+<br> 1940 cen 103.8/7  moves male to  104.7/5 (Land et al; C-Z imply 104.2/4)
+<br> 1930 cen 103.5/P?  NatWhite, says Hacker, 104.5 ;   PUMS 103.5 adj 104.4
+</p><p>The 1930 white SR5 can range from 103.5 (cen940) to 104.5 (Hacker's nat white value) to 104.8 (via Hacker undercount %). Interesting to note the 1930 volume put Mexican into other races, but 1940 places them in white; and the 1940 way gives 1930's white SR5 about 0.5 less male.
+<br>The u5 data are in USAkidsForR.xls
+</p><p>2022.0116 Findings to send to GAlter.  US-born whites, comparing sex ratios in a given census to sex ratios for children 10 years older in the census 10 years later (the 10-year forward sex ratio). Plots of current ages 0-4 vs future ages 10-14 and 9-14 (10-years later); current ages 0-1 vs future 10-11 & 9-11; current 2-3 vs future 12-13. 
+<br>Checking for relative undercounting of girls in the 19th-century, biasing 19th-century sex-ratio values toward boys.
+<br>The 19th-century sex-ratio values look about the same whether we use the current-year census values or the corresponding 10-year-forward values. Perhaps the most interesting result here is that 1850 stands out with the most "male" sex ratios observed, with the sex ratios among older children in the 1860 census corroborating the results for the under-twos and under-five's in the 1850 census.
+<br>The 20th-century sex-ratio values are distinctly more female when the 10-year-forward values replace the current-year census values (for example ... replace ex
+
+NEXT: UNDER-COUNTING??
+(the differences across years are much more pronounced -- )
+
+
+<br>0-4 vs 10-14 (or 9-14) No sign of undercounting of girls in the 19th-century: forward ratios are more male (1850, 1870) or about the same (1860) as the current-year ratios. Note that the 20th-century forward ratios are consistently more female, so if we used the future-based values as indicators of sex ratios, it would strengthen our finding of healthier infants in the 19th C than at the turn of the 20th C.  
+<br> 0-2 10-12
+
+1900 & 1910 show up as more female than the 19th C (future-based ratio as)
+
+
+<br>Not seen for under-two (ages 0-1) or under-five sex ratios. 
+1) For the 19th century, the current-year sex-ratio values and their 10-year forward counterparts are very similar. The 1850 and 1870 current-year sex ratios are somewhat less male than their ten-year forward counterparts, which would suggest relative undercounting of boys. The 1860 current-year sex ratios are just a little more male than their forward counterparts, but all the 1860 sex-ratio values are much more male than those of the 1900 or 1910 (for example, the smallest gap is that between 1860's forward 10-14 sex ratio (3.1% more boys) and 1900's current 0-4 sex ratio (2.5% more boys). A STUPID COMPARISON, BECAUSE THE 1900 VALUES WE WHICH WE DEEM RELIABLE HAVE FORWARD values that are at least 1/2 %-point more female ... 
+
+DETAILS: the 10-year forward 10-11 and 9-11 sex-ratio values are very close. FN: the strongest hint of female-undercount is in 1860, when the future sex-ratio values (10-11 & 9-11) are 0.2% more female than than the current. More generally, looking at the plots, the 10-year forward sex ratios 
+
+Cases with apparent undercounting of boys: 12-13 vs 2-3, all 3 years; 10-11 vs 0-1, 1850 & 1870; 
+10-year forward ratios more male: 12-13 vs 2-3 
+10-year ratios about the same : 9-11 vs 0-1
+<br>
+The forward sex-ratio values for the 19th-century results corroborate our results. 
+<br>19th-C U5
+</p><p>blah blah ...
+<br>For 1850 and 1870, the 10-year-forward sex ratios among ages 10-14 are distinctly more male than their current-year counterparts (ages 0-4); for 1860 the values are almost the same. For the censuses of 1900 to 1930, the forward ratios among age 10-14 are consistently more female than their current year counterparts; for example. the 1900 forward ratio is 2.
+<br>1) Comparing the sex-ratio values of the current 0-4 year-olds and the future 10-14 year-olds corroborates our findings. The forward-sex ratio values exhibit a stonger pattern of 19th-century sex-ratios being more male than those of 1900 or 1910. FN Same result if we use forward 9-14 sex-ratio values; that worth noting because the 19th-century census data exhibit male-biased age-heaping at age 10. <br>
+2) Comparing current 2-3 & forward 12-13 sex-ratio values also corroborate our findings, much like the 0-4 & 10-14 values (which include the 2-3 and 12-13 data). Note the current-year age 2-3 sex ratios exhibit a weak version of the pattern we stress -- <br>
+3) Comparing the current 0-2 & the forward 12-13 sex-ratio values also corroborate our findings, much like the 0-4 & 10-14 values (which include the 2-3 and 12-13 data).<br>
+
+
+##### Detailed discussion #####
+
+Current 0-4 and 10-year forward 10-14.
+Compared to the current 0-4 sex-ratios, the forward values for 1850-1870 are more male than the current in 1850 and 1870, just 0.1% less male in 1860. The 20th-century forward (10-14) values are distinctly less male the current (0-4) values.
+
+<br> if we took 20th C as accurate, see that forward 10-15 sex ratio tilts a little less male than the current 0-4 sex ratio; for example, for 1900 we 2.5% more boys than girls among the 0-4 year-olds and 2% more boys than girls among 1910's 10-14 year-olds. More generally, the forward sex-ratio points lie consistently above the current points. For the 19th C, scholars suspect underenumeration among those 0-4 years old; if take the forward 10-14 sex ratios as correct, and apply the 20th C pattern, then we'd place the 19th-century 0-4 sex-ratio points below the forward values, about the same in 1860
+<br>Forward ratios for ages 9-14, are a little more supportive (1860 a little future more male). 
+
+</p><p>2022.0113
+<br> Let's consider using 1890 US census for cross-sectional comparisons, within the US.
+<br> thinking of u5 vs u2   
+<br>q at ages  0 1-2 2-3    1901 US whites life table (pp 64, 70) from [CDC life tables 1890-1910](https://www.cdc.gov/nchs/data/lifetables/life1890-1910.pdf)
+<br>maleT7   133.4 34.47   15.84  
+<br>femaT10  110.6 31.15   14.84   (p70f64)
+<p>2022.0112 for Alter response -- avoid getting into undercount weeds, because issue is relative undercount could bias sex-ratio values. For example, need to avoid Hacker's undercount revision efforts.
+<p>2022.0111 working on responding to George Alter (notes are on Ji's computer). Thinking 2 parts -- response to under-count concerns and sending of dempap.
+</p>
+<p>Ji looking at 10yr forward sex ratios (SR) of ages 9-11 and 9-14 in comparison to current SR for under-two and under-five. All 4 measures tell similar stories. To Jim's eye, the results are consistent with somewhat more noise in the 1850-1880 results compared to those for 1900-1930; but the noise is minor. Dwelling on results does not give Jim any insight except that the rough measures (national in a period of rapid geographic change and westward shift of population) tend to support our findings/argument; more importantly, they do not offer evidence against our findings/argument. The 1900 and 1910 SR values are distinctly more female than those for 1850-1880; interestingly, the 1900-census data suggests that the deterioration in maternal-infant was underway in 1890.
+<p>Switching from the current-census SR values to the future-based SR values would result in a greater relative female tilt in 1900 and 1910. The smallest observed effect is with fut9to14, with SR values of -3.23% in 1860 and -2.10% in 1900 -- a 1.13 %-point move toward female. Across those years, the SR5 value moved only 0.76 %-points toward female. And from 1870 to 1900 the SR moved only 0.54 %-points toward female while the fut9to14 value moved 1.31 %-points toward female.   
+</p>
+<p>Notably, where the future-based SR values deviate from their current counterparts, they tend to tilt toward male. This modest effect is most evident for 1870 SR measures: the fut9to14 SR value is 0.4 points more male than the SR5 and the fut9to11 SR value is 0.1 point more male.  
+<br>Generally, with an eye toward concerns that we might have spuriously healthy-looking SR values for the 19th C, the current SR5 values are the least healthy-looking (relatively female-tilted), and the future-based SR values point to better health (somewhat more male).
+</p><p>Perhaps the key anomalous results are the 1860 and 1870 SRs of fut9to14 -- 1860 is odd as the SR5 and fut9to14 SR values are about the same, while the fut9to14 values in 1850 and 1870 are more male than their SR5 counterparts; and 1870's fut9to14 value is odd for exhibiting a modest tilt toward male while the other 3 measures tilt female to varying degrees. 1870 exhibits the most female sex ratios, as only the fut9-14 is not at a most-female peak,
+<br>One general feature is that 1900 onward, both the future-based measures are somewhat more female than both of the current measures. This is not the case in the 1850-1880 period. Perhaps the female-tilt of the future measures reflects reliable enumeration, with some excess male mortality for ages over 5 years. In contrast, the 1850-1880 period sees the SR5 as the most female with the SR2 tending to be least female; the future measures lie between, with 9to14 more female then 9to11, as expected. Might we interpret that as reflecting under-enumeration of infant girls more than infant boYS? If so, the future 9to11 SR should be much more female than the SR2 -- and it is not. The future 9to11 is about the same as the SR2.
+<br>
+
+
+
+future-based measures just a little more female than the SR2 and less so than the SR5. Under-counting of infants is presumed to be the problem; our age-heaping analysis of NY state points to male-biased heaping toward one-year of age, but might suggest that u5 enumeration is solid. SR5 being more female than SR2 makes sense, as the yet-to-die male infants have more effect in SR2 than in SR5. 
+<br>1900 forward the SR2-SR5 gap is smaller. In periods of rapid decline of IMR, the SR5 reaches back more to include more higher-mortality children and thus dampen the SR2 SR5 gap.
+<br>1940 to 1950 sees SR5 improve a little and SR2 worsen a little.
+
+If we assume age enumeration is more accurate from 1900 onward, and that 1850-1880 SR5 is more accurate than SR2, the implication is that U2 under-enumeration was biased toward omitting girls (so SR2 values appear overly healthy),  
+
+
+This is reassuring, insomuch as female-biased 
+
+</p><p>2022.0109 Js constructs plots for census year and for 10 yrs later (such as ages 2 and 12). All look fine in terms of 1900-1910 more fem-tilted. Next step: alternate perspectives on maternal-infant health circa year t ...  U5t and ages 9-14 10 years later ... 
+<br> Ages U2  OK: 1900 & 1910 look worst (also 1890)
+<br> Ages 2-3 OK: via +10, 1890-1910 look worst; via +0, 1900-1910 look worst </p>
+<p> 2022.0102
+For Alter issue -- key may be suggestion that 1890 is bullshit?
+</p><p>note that HSUS/raw has xls with US state-level data. Looking for 1930 mortality statistics, which are not in the annual sequence on the CDC site; but they are mentioned in the 1931 report?  The 1930 [volume is at Hathi Trust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015033583868&view=page&seq=9&skin=2021); 
+</p><p> CEA paper conclusions include (p27) "Existing estimates have found that US infant mortality declined from the mid-19th century onward." Ji prefers "According to existing estimates, US infant mortality declined from the mid-19th century onward."  
+<br>p30   "maternal infant health"  -- add a hyphen, for maternal-infant health ?
+</p>
+<p>2021.1218 my RDS seems to lack u5 Arizona -- maybe only those with IMR data are included in my RDS?  
+<br>1930 Arizona PUMS problem is published census puts "mexican" in other -- maybe we can replicated in PUMS via dropping mexican-born from whites (RACE==1)
+</p>
+<p>2021.1217 my 1930 Arizona PUMS u5 seems off ...
+<br>total u5m u5f pops look ok PUMS 25,337	24,753 Census 25,316	24,771; but the published census race-breakdown seems anomalous -- 
+
+</p><p>2021.1216 RDS folder now has RDS files for census and pums u2 u5 populations. Next step: Jim compare these with 2 goals. First: check for coding errors in census-volume data; second: evaluate robustness of SR measures to data source. 
+</p><p>2021.1215  
+<br> RDS folder now has an IMR file with IMR2 and IMR5 which are estimates of IMR to pair with SR2 and and SR5 respectively. The strict or proper IMR estimates are based on counts of IMR as follows:  1920 nI2=2 1930 nI2=3  and 1920 nI5=6 and nI2=3 ; the nI variables give the counts of IMR in the IMR5 or IMR2 estimates so we can exclude the non-strict IMR estimates.
+<br> RDS folder also has my ongoing tally of census-based u2 u5 white counts (as opposed to the fullPUMS). This is ongoing (more states are being added). 
+<br>Working on  df with all available IMR data for BRA's 1920 and 1930 SR counts. Rhode Isle (St==5) is missing 1919 IMR data; 4-yr avg IMR is 114.7 ; could adjust to 113 (almost the same). Fearful that 1918 is unduly raising RI's IMR, we can assume 1919 was as low as the 1917 value (lowest of the 4 years); 
+<br> Calif 1919 for a 1-year IMR ?
+
+<p>2021.1211 1920 SR:IMR strict version requires IMRs for the 5 years 1915-1919, with n=10 and imr ranging (68 to 111) ; relaxed version would allow observations with fewer IMRs. Requiring 3 or more IMRs gives n=21 with imr ranging (65-115).
+
+<br> 4 years of IMR adds 2 (RI MD); 3 yrs IMR adds 9 (2 yr IMR is covered by SR2?)
+<br>
+<br>notice 1920 NY SR2 < SR5, consistent with 1918-flu upturn in IMR. But PA-PUMS SR2>SR5 (102.2 101.9)
+</p>
+<p>2021.1210 looking at ICPSR study 2896 (Haines) for published census data in machine-readable form. Needed to add the website to "allow javascript" or such in Chrome settings (cmich email with ICPSR techs).
+<br>corrected .RDS error, had written only the SR5 values (in saveRDS command) 
+
+<p>2021.1209 corrected 1920 SR-IMR to reflect Jan 1 census date (so simple average of IMRs 1915-1919). SR5&SR2 and corresponding IME values are now in BRAstates1920-30.RDS
+</p>
+<p>2021.1208  1920 & 1930 SR5-IMR done for fPUMS. Beware of very small states? 
+<br>1930 IMR values range from 50 (WA; MN 54) to 77 (ME; WV 74, PA 72)
+<br>1920 IMR values range from 68 (MN) to 110 (PA). A quick look suggests that metro/urban/rural won't offer greater variance of IMR ... (NY 91, NYC1919 79) (PA 110, 1919 Phil 86 rural 101; 1918 PA 126, rural 128, Phil 124). 
+<br>Yesterday completed IMR data entry for white population states of US BRA in 1920 and 1930. Jim ignores "colored" data for now, because his later project is to challenge those data (because SR trends contradict IMR trends of Blacks).
+</p>
+<p>2021.1206 left off in Michigan, getting 1920 & 1930 ready for sr5 and sr2 regressions. Will need to think about weighting issues, when Delaware and NY each represent one observation ... 
+<br>CA ~1930 imr all/urban not much difference, suggesting limited gains to imputting those data.
+<br>CO IMR starts with 1928, so we can use it in the SR2 regressions (IMR 90ish). 
+</p>
+<p>Noted that fPUMS and Census SR values for 1910 differ by 0.5 (Mass) & 0.7 (NY white). At 1910 search, white born 1909-1910, fname John. First entry is John Kri (i14 ED241 Aurora, St Louis MN). That page has 6 families with young children, in those 0 under-ones and 5 one-year-olds. Next page, i15p174: 4 u1, 0 1yr. i16 1 u1, 1 1yr.  -- dead end, b/c I dunno whether the index is the same fPUMS.  
+i13 22 April, i14 (no day) April, i15 25 April,  
+<br>
+</p>
+
+<p>2021.1205 1910 might be ready: USA-1910DRA has u2 populations and 1909-10 IMR ... but Jim should confirm they are valid ....
+</p>
+<p>2021.1130 1906-1908 perhaps not useful, with no births data available ... go ahead with IMR estimate via 1909 & 1910 u1deaths, and 1910 u1 population. And relate that to SR2 and SR5 of 1910, recognizing it will be fairly crude
+</p>
+<p>2021.1129 entering DRA u1 deaths for 1910 census SRs.
+<br>1910 counts are formally for April 15, 1910 -- so the "one-year-olds" are supposed to have been born between April 16, 1908 and April 15 1909. So SR 1910 reflects IMR 1909,8,7,6,5 and 
+<br>JanFebMar 31+28+31+15=105/365 for 1910 and 260/365 for 1905
+<br>1906 CA CO MD PA join DRA ... could use them for Sr2? Wash Wisc 1908 OH join 1909 MN MT UT 1910 
+<br>For 1900 have CT DC IN ME MA MI NH NJ NY RI VT
+</p><p>2021.1127 
+Dempap BRA draws on usa1910-40.RDS, which is built from fPUMS. But I want census-volume based populations as well.  Started to compile 1910-40 pop data in wrangling/raw
+
+</p>
+<p>2021.1126 
+<br>Roughly using France's 1890s and later, for q0,4q1 25%,15% and q0 10%,3% the implied effect on births: with better survival, just 73% of the births required for the same population at exact age 5 (diffLn -31%).    
+
+Recall (1124) we looked at implications of IMR differences for fertility ... roughly consider IMRs of 25% vs 10% and thus exact-age-1 survivals of 75% vs 90% of births. With the same post-infancy mortality, the implication for birth rates is that the same stable population would need only 75/90 as many births, -18% as many (ln[75/90]).
+If we use GRR for our fertility measure, Wrigley reports values for France vs England as 2.00 and 2.93 (-38%) in 1800-09 and 1.70 and 2.34 or 32% for 1850-59 ... 
+<br>US-BRA.RDS is total for 1920 & 1930 ... 
+<br>Found Corsini&Viazzo on LibGen. Alice Reid there, on geog/class IMR ENg & Wales. Quick look at Portugal, after seeing anomolous IMR m/f 1960 for Portugal (120/60) in Viazzo&Corsini 1997. They cite Keyfitz & FLieger. There, p8, "Not-stated ages were distributed in proportion to the stated ages of each sex." But that will fem-bias the SR2 because older ages are much more female?
+<br>Testing the move to SSSMM -- it worked.  </p>
+
+<p>2021.1125 
+<br>TO DO: look at Sweden SR5 with reference to Sandberg & Steckel (1997)
+<br> Sánchez-Barricarte has 2 papers in *Demographic Research* that discuss fertility?  Push for looking at fertility measure weighted by 0q25 -- for a notion of how many surviving kids families (women) will have. 
+</p>
+<p>2021.1124 implications of IMR differences for fertility ... roughly consider IMRs of 25% vs 10% and thus exact-age-1 survivals of 75% vs 90% of births. With the same post-infancy mortality, the implication for birth rates is that the same stable population would need only 75/90 as many births, -18% as many (ln[75/90]).
+If we use GRR for our fertility measure, Wrigley reports values for France vs England as 2.00 and 2.93 (-38%) in 1800-09 and 1.70 and 2.34 or 32% for 1850-59 
+
+
+</p>
+<p>2021.1120 Results from AlterG-issue are in alter-view.xls in our dbx folder.
+<br>Fussing with Hacker (2013 SSH) for his estimates of underenumeration. For 1850-1870, these rely on the PUMS samples, which are just 1% and show much different SR values than the full-count PUMS or the published census. I would think we ignore the PUMS-sample-based enumeration estimates. But for 1880 forward, he uses published census data, along with DRA-based life-tables, so maybe those estimates are worth paying attention to -- that is, the 1880 forward values (although the 1890 age-glitch might derail?). </p>
+<p>Using his underenumeration estimates, 1900's full-PUMS SR5 moves up from 102,5 ti 102.9 ; and the published census SR5 of 103.2 moves up to 103.6 -- so in both cases, a 0.4 move toward male. So the adjustment suggests a somewhat healthier population. And adjusted 1900 (102.9) looks about the same as 1870?
+<br>But do we dismiss the Hacker estimates because they rely on life-tables? ANd what do we make of the discrepancies between fullPUMS and published census?
+</p><p>More important: perhaps our regional results are robust to these sorts of adjustments? JIM WILL CHECK!!
+</p>
+Hacker (2013 SSH) estimate of census undercounts by age-group. E.g. for 1850, he has u5 males as 15.2% undercount -- so census/true=0.848 and he has u5 fems as 15.4% undercount. Oddly, his reconstructed SR5 for 1850 (Table 2, p90) is 1.027 and via his undercounts that implies the census SR5 would 102.9 -- and that is the PUMS sample value. Our value of 103.8 is from the fullPUMS; the published census volume data yields SR5 103.3 for whites, which includes foreign-born. The corresponding fullPUMS value (all whites) is 103.7 -- so the fullPUMS is about 0.4 above the published value.  
+
+<p>2021.1117
+<br>while finishing alter-look, I'm thinking of 1920 & 1930 state-level and within state (urb/rur)
+<br>pums60 1930-40; pums59 1920-30; pums58 1880-1910; pums57 1860-80  (need W only for 1860 to 1870); pums56 1850-60 all;  pums55 1920&1930 BW  ; pums54 1910&1920 BW; pums53 1910&1920 0-16 BW only; 
+
+
+<p>2021.1116
+<br>for Alter issues, we need to stick with native-born white for 1860 to 1870 (like demog  work, b/c of emancipation ...). And we need to clarify: what are the populations we discuss in CEA? USA or North?
+<br>  pums57 1860-80 all (need W only for 1860 to 1870); pums56 1850-60 all;  pums55 1920&1930 BW  ; pums54 1910&1920 BW; pums53 1910&1920 0-16 BW only; 
+
+
+1976 HSUS cites VS Special Report Vol 45 No 1 for IMR. That source also has 1-4 mortality, by sex, 1900-1950. There we see (p22) the impact of the 1918 flu -- CMR 15.7 1916 to 1920 11.1 10.7 15.7 9.3 9.9  -- so a 50% jump. In contrast, the IMR bumps <10% ...  1916 to 1920 has 101 94 101 87 86. Maternal mortality also spikes (HSUS B145 1917-66 1918-92 )
+
+Probably useful to use fPUMS to sketch out extent to which 0-yr-olds are enumerated in 1850, 1860, 1870, 1880, vs 1900 (best year, age-wise). This with an eye toward SR2-5 as a preferred indicator of IMR?
+
+Linder & Grove (VSUS 1940 p576) offer IMR 1915-1940 for the Registration States of 1915 (excluding RI -- I figure because of early 1920s NAs). 
+<br>1915-18 ~100,  1919-20 ~89, 1921-23 ~79, 1924-25 ~73, 1927-30 ~63, 1933-34 ~53, 1935-36 ~49, 1938-40 ~42 
+<br>Notice the USA IMR 1935-36 ~56, 1938-40 ~49    In other words, as of late 1930s, the original DRA has somewhat lower IMR (about 7 points, or >14% with IMR in the 40-50 range). But the 1915 group and full RA are about the same in 1925.
+<br>Notice we now include 1925-1932, with IMR falling from ~72 to ~58. At that time Mass. IMR 73 53   NY 68  53.
+</p><p>2021.1115 
+<p>looking from 1850 2-5 to 1860 12-15 -- 96% as many, consistent with no undercount in 1850.
+<br>Hacker (2003) undercount estimates by sex and age-group.
+<br>Request 56 for 1850-60; pums55 1920&1930; pums54 1910&1920; pums53 1910&1920 0-16; 
+
+<br>Js sends [nice graphic](https://ourworldindata.org/its-not-just-about-child-mortality-life-expectancy-improved-at-all-ages) about England's e0 and e at other ages. But does it show, incorrectly, declining infant mortality before 1900? Maybe not -- the gap bewteen the e0 and e1 lines perhaps only narrows after 1900? With ECM declining and IMR constant, the e0 and e1 lines should be parrallel. 
+<br>Js asks for [the link](https://jimirwin.github.io/Dreadful/) for this page.
+<br>
+pums55 1920&1930; pums54 1910&1920; pums53 1910&1920 0-16; 
+
+</p><p>2021.1114 maybe worthwhile to document more age-heaping at 1-year? easy in full-count PUMS ...
+<br>my pums data 55 is 1920 and 1930; 
+<br>Conclusion: scoping out degrees of underenumeration is a deep and tangled rabbit warren. We need to focus on implications of 10-year cross-census comparisons for our SR-based IMR claims. And we should look for corroborative evidence from state censuses and other sources ...<p>
+2021.1113
+CEA revisions ... Ji takes the lead (we hope) and Js responds.     
+<br>1. Alter critique -- Jim<
+<br>2. Update IMR estimates via Dempap; via BRA; via alternate ages
+<br>3. For our conclusion -- implications for USA fertility story 
+<br>4. Remove section on proof of concept? Goal: <1 page of text plus a modelled SR from West life-table?
+<br>5. Narrow down the CEA paper -- Northern US & Canada? NE North America?
+<p>
+Other papers to write:
+<br>A "note" to challenge and expunge the 19th C IMR estimates presented in HSUS. 
+<br>Via  Reid & Jaadish -- issue of ECM in relation to IMR.
+GOAL: be able to say, "oh yeah, from 1860 to 1900, England E0 rose by 5? years from improvemnet in ECM while IMR stayed high; and it was only with the collapse of IMR that Englign jumped up past 35? years"  ...
+<br>
+fPUMS siblings data ... changes in sex-discrimination? Missing girls are evident from stopping behavior? With possibility of mortal sex-discrimination -- see Monica DasGupta's work? Looking for patterns that cannot be biological ... 
+</p>
+Demography -- generally read and authoritative; but not open_source. 
+<br>Demographic Research -- open_source
+<br>Pop Dev Review? Population Studies? 
+
+
+<p>2021.1112     
+Making the point that indexing-enumeration of race and nativity is error-ridden because of coding errors when interpreting manuscript. For example, [17 people](https://www.dropbox.com/s/7b9huqofxvnwimu/BlackIrishKingsCo1860.jpeg?dl=0) error-enumerated as Blacks in Brooklyn in 1860. Wondering how to find examples of mistaken nativity coding?
+</p>
+<p>2021.1111 leads to pursue:
+Work the sequence Hacker (2003 Demog), Haines (1989 Demog), Coale & Zelnick, Thompson & Whelpton (1958) for (1) underenumeration of infants -- implications for our CEA findings and (2) the use of the Mass life tables for predicting birth rates in the US -- is it not the case that we'd say Mass IMR is high in 19thC US, and so won't Mass life tables overstate birth rates?
+<br>
+Coale & Rives (1973) for black sex ratios 1880 onward
+</p>
+<p>2021.1110 Ji to write up Alter-issue results. Key result is that 1900's 11-14 ages points to 1890 as high IMR!
+</p><p>Done working with Yasuba and his sources; two issues here -- the Alter challenge, being claims that under-counting of infants invalidates our method; and geographic and temporal variation in the US, in order to conjecture bounds to IMR at census benchmarks 1850-1930.</p>
+<p>Via Yasuba look at Whipple 1917 for attention to Boston and towns circa 1830-1845. Whipple's estimates have u5 mortality increasing over time, and an urban penalty (presumably closely connected). SSMLit has details. A small Boston u5 population has an unhealthy-looking SR5. So too does 1860's Suffolk Co (mostly Boston) and New York city. Various pop figures are in my .wk4 file. Also, U5 mortality in Boston 1845 about triple that of towns of average health circa 1830. Possible we can connect these to urban/rural IMR:SR relationships from early 20th C?
+</p>
+<p>2021.1106 (and from 1105) summary on Alter issues:
+1850 fPUMS SR2 104.7  SR5 103.8   1860 ages 10-14 104.4 and 11-14 103.6 (age 10 107.0, with age-heaping suspected ). Census values for SR5 among total white (not just native-born):    
+103.3 (2.8965 m) in published census and
+103.7 (2.9028 m) in fPUMS -- 0.22% greater count of kids
+CONCLUSION: SR5 at least 103.6    
+  
+1900 presumed most accurate for infant ages. 
+1900 fPUMS SR2 & SR5 102.5 -- worse than 1850.
+
+Note that using 1900 to infer 1890 -- 102.3 for 10-11 and 10-14
+
+BTW we can accept the consensus that 1850 is worst for undercounting infants (various allusions to 1850 Compendium saying 1 as smallest age-value reported: not seen in Jim's inspection of pp1-30; nor in his search at Google books -- might be able to look at <1 vs 1 in 1850 vs 1860; or look to see if district level is visble in 1850 full count)
+
+
+</p><p>2021.1103 
+continuing on G Alter's concerns ... yes, 10-yr-old populations are greater than infants of the previous decennial census. But the 10-14 cohort SR values corroborate our picture .... 
+
+1850 vs 1860. We see most plausible undercount of infants here, with 1860's 10yr-olds 122% of infants (but 11yr-olds just 92%). But the 1860 SR values point to healthy kids (10-14 104.5; 12-13 103.8; worst is 13-14 103.2);  (10 107)
+
+1860 vs 1870  1870s 11-12 102.6  13-14 102.3  10-14 103.2  10-12 103.6  (10 105.8)
+
+1870 vs 1880 -- use 1880 and get SRs of 3+  (10 105.2)
+
+1900 vs 1910; via 1910, the SR is a little less male (0.5); 10yrs later, we see about 96% as many kids, with a slight tendency to see more girls. You could argue for less undercounting of infant-boys, or figure it is higher male mortality. In any case, nothing to suggest the 1900 was healthier than we claim. Using 1910, 1900SR seems 102
+
+Recall, 1900 enumerated DOB and age, so it is most precise. 
+<br>
+1860's 10-yr-old pop is 122% of 1850's 0-yr-old count. Consistent with Alter's suggestions of undercounting of infants and of age-heaping at age 10. Interestingly, the effect is stronger for boys than girls (124% vs 120%), which does not give evidence of boy-biased SR0 in 1850 ...<br>
+Look at 1900 and 1910, when age-enumeration is supposedly improved ...Generally, looks "better" than 1850 to 1860 ... Fine point to consider: June 1, 1900 vs April 15, 1910 ... <br>
+1900 census day June 1; bday recorded, and age at last bday;     
+1910 census April 15; bday **not** recorded, just age at last bday; instruction on MS to omit children born after April 15. <br> The 1910 census thus is 6 weeks short of 10 years after the 1900 census (6 weeks or 6/52=11.5%). So kids born April 15-May 31 1900, age 0 in 1900 and age 9 in 1910. Thus we have some 1900 infants showing up in 1910 as 9 year olds; similarly, some of the 15-year-olds in 1910 would have been 15-9.9 years or 5.1 years in 1900. So what does that imply for what we'll see when we compare a 1900 cohort to 10-yr-older cohort in 1910? With 1910 10yrolds missing the youngest of the 1900-infants, it is missing kids who in 1900 were relatively more male (before mortality had taken them), so the 1910 cohort is expected to be somewhat female-biased?
+</p>
+
+<br> IPUMS datasets: #52 for 1920; 
+
+<p>via search Michigan DOB 1850, find in 1870 census: julian h Reid -- 1900 census says born Oct 1900. 1870 gives us parents Lydia and Hurlbert. 1870 https://www.familysearch.org/ark:/61903/1:1:MHH1-DYT   
+1900 United States Census, 1900 Michigan Oakland ED 109 Waterford township  i3
+
+1850 Michigan Hillsdale i10 last 4 people no ages given ...    Mary J Read 1900 Washtenaw
+
+
+</p><p>Jim had 1920 US census date (day) wrong. 1920 is Jan 1, so we simply need IMR 1915-1919.<br>
+Revised we get 1920 IMR:SR 98.0 -2.26 whereas before we had 97.5 -2.26 ... a trivial difference.
+<br>And code gives 1930 65.64 -3.35   ... Note: IMR dropped from 66.7 on 10/31, via adding more births data; It is the same as 1101 value (65.63696 )
+</p><p>
+Note that looking at BRA 1920 we see fairly narrow range of IMR, 69-110 (69 MN, 88 VT, 90 MI, 93 NY,  ~100 CT ME MA DC, ~110 NH PA). Could we break it out urban/rural? PA no difference; NY (86-95)
+</p>
+
+<p>2021.1102 <br>
+<p>working on G Alter's concerns.    
+*A priori* we expect 1900 to be especially precise with the age-count, as the enumerator was required to record the birthdate and the age at last birthday. Not so 1910. OH OH  -- 1920 is Jan 1!!
+<br>
+1860's 10-yr-old pop is 122% of 1850's 0-yr-old count. Consistent with Alter's suggestions of undercounting of infants and of age-heaping at age 10. Interestingly, the effect is stronger for boys than girls (124% vs 120%), which does not give evidence of boy-biased SR0 in 1850 ...<br>
+Look at 1900 and 1910, when age-enumeration is supposedly improved ...Generally, looks "better" than 1850 to 1860 ... Fine point to consider: June 1, 1900 vs April 15, 1910 ... <br>
+1900 census day June 1; bday recorded, and age at last bday;     
+1910 census April 15; bday **not** recorded, just age at last bday; instruction on MS to omit children born after April 15. <br> The 1910 census thus is 6 weeks short of 10 years after the 1900 census (6 weeks or 6/52=11.5%). So kids born April 15-May 31 1900, age 0 in 1900 and age 9 in 1910. Thus we have some 1900 infants showing up in 1910 as 9 year olds; similarly, some of the 15-year-olds in 1910 would have been 15-9.9 years or 5.1 years in 1900. So what does that imply for what we'll see when we compare a 1900 cohort to 10-yr-older cohort in 1910? With 1910 10yrolds missing the youngest of the 1900-infants, it is missing kids who in 1900 were relatively more male (before mortality had taken them), so the 1910 cohort is expected to be somewhat female-biased?
+
+</p>
+
+<p>2021.1031 Once BRA fixed, data sources might be ready for circulation ... but Ji wants to refine our IMRs to reflect census dates. <br>
+US 1915-1920 BRA northern except it includes DC, tiny black population (~8k kids). <br> 
+BRA IMR 97.5 SR -2.26% <br>
+North 97.5 -2.285 <br>
+Difference is just DC.  
+US 1925-1930 BRA embraces a sizable southern population
+USBRA (all) 66.7 -3.35
+North (all) 64.2 -3.51
+South-white 67.5 -3.62
+South-back 110.1  0.79
+</p>
+<p>2021.1027 Ji correcting 1920 & 1930 BRA data (april 15 so we want 6 yrs of IMR, weighted 3/4 1 1 1 1 1/4)      
+2021.1026 Looking for Mass and BRA sources, and for RDS-making code in process 
+</p>
+<p>2021.1025 AUS & NZ revised to bring to 1971. AUS.RDS to be added to end of combined.RDS  Jim's u5.rds & imr.rds now have revised NewZea and not AUS (separate .RDS now). AUS writing needs attention to describe weighed IMR (April 1 :  1/4year etc). NZ needs attention to census dates (year end or not) and that could lead to attention to IMR weights.
+
+</p>2021.1023 figured out Italian regions across the 20th C, with reference to the IMR data and the u5 pop-data. Still some questions on why Italian pop values exceed the sum of the regions in some years ... tba ... tomorrow ITA data and N/S dichotomy to be written up.<br>
+2021.1022 Regional data seems in reasonable shape -- but 1911's "compartemti" u5 data don't total up to the national -- and the 1921 summary volume indicates that the compartmenti are within older boundaries than the 1921 data ... something to look into?<br>
+
+2021.1021 two avenues to pursue for ITA. First, identify if and when Southern regions start to look sensible in terms of SR:IMR. Second, interrogate ITA births/deaths data with reference to population and immigration (the wild card?)
+
+2021.1020 likely Italian story is that the major northern regions fit our story, with the southern regions a bizarre jumble of very male-biased sex ratios that seem unrelated to infant mortality (maybe we want to break Italy in two?). No sign of excess female mortality after 4 ... Some more data to be entered to pin down patterns; and some reflection/discussion in order (for footnotes at least).
+
+2021.1019 long slog into Italian regions. Not finding a sensible North vs wacky South in terms of regional SR:IMR. 1901 looks like crap ...
+1901 Marche and Umbria have ln(f/m) -5.6% with IMR of 160
+
+2021.1018 Jim finding Italian regional data. FOllowing up on Sardninia paper lead (and WoodsR) suggesting registration problems South vs North -- so maybe North IMR:SR looks sensible and South's looks silly. WOuld that be a basis for dumping Italy's data from our mix?  We are trying to include data that is deemed (and we deem) to be reliable ...
+
 
 
 #### loose ends (move/tidy when noted)
@@ -18,8 +526,9 @@ http://repositori.uji.es/xmlui/handle/10234/146871  LISBON heights paper -- SR i
 
 Missing Women web page needs better cites, eg Klasen
 
-### current log
+### week or more ago 
 
+2021.1012 wondering if we want to look at igme with SR?  Nigeria 2006 census 104.9 --- hmmm missing girls?
 
 2021.1011 Ji write-up German sources; NOTE: presumably Prussia is not part of DemPap (it is included in the data for Germany)
 2021.1010 updates RDS files with NOR 1886 onward and with DEU more precise (but still need to input 1925 1933)
@@ -1953,7 +2462,7 @@ Wisser, O. and J.W. Vaupel. 2014. The sex differential in mortality: A historica
 Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in individual frailty on the dynamics of mortality. Demography
 16(3): 439-454.
 
-[back to top](#TOC)
+[back to top](#TOP)
 
 <a name="DEMOG"></a>
 
@@ -2001,7 +2510,7 @@ Woods, Williams, Galley "Infant Mortality in England - 1550-1950 ... "
 Feller (1948 Pop Studies). Mis-cited as Peller by Masuy-Stroobant in Corsini & Viazzo 1997.    
 p. 408  Within the orbit of western civilization there are even to-day many countries without information on infant mortality and others with so incomplete a registration of births and deaths that the reported values must be considered very doubtful.
 
-[back to top](#TOC)
+[back to top](#TOP)
 
 <a name="LifeTable"></a>
 
@@ -2228,9 +2737,8 @@ Tapia & Gallego‐Martínez (2017 EEH, 2020 EHR) Use sex-ratios to look gender d
 
 
 ####other 
-[back to top](#TOC)
+[back to top](#TOP)
 
-[back to top](#TOC)
 
 #### Formerly posted as news 
 
