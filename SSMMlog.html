@@ -364,19 +364,41 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">06 February, 2022</h4>
+<h4 class="date">11 February, 2022</h4>
 
 </div>
 
 
 <p><a name="TOP"></a></p>
 <p><a href="https://jrmcirwin.github.io/sr1/DemPap_1.pdf">dempap link</a></p>
+<div id="current-log" class="section level3">
+<h3>current log</h3>
+<p>2022.0210 Arduous journey to discover that Graunt doesn’t have infant or child mortality (infers births from christenings). Instead Clarke 1786 is earliest Ji has found. Lit page is a mess, so search for Clarke to find relevant section …</p>
+<p>In our SSMLit Ji tended to combine SRB and SR-IM (sex ratio of IM), so care needed. Thus Arbuthnot has SRB male skewed, but not IMR male skewed; and Grech historical overview is about SRB.</p>
+<p>Do we need to cite Pongou for interaction of environ with SRB and excess male IM?</p>
+<p>WHO 1976 perinatal 28wks gestation to 1st week of life</p>
+<p>Ji wondering about our leave-one-out method. From Barber et al. :</p>
+<pre><code>Several papers from this period include leave-one-out methods for assessing or calibrating predictive accuracy, similar to the predictive interval constructed in (1.2) above, for example, Stone [24], Geisser [10], Butler and Rothman [4], generally using the term “cross-validation” to refer to this approach. (In this work, we will instead use the term “jackknife” to refer to the leave-one-out style of prediction methods, as is common in the modern literature.) Efron and Gong [9] provides an overview of the early literature on these types of methods      </code></pre>
+<p>Lei et al mention Butler &amp; Rothman</p>
+<p>2022.0209 Ji rewrote abstract</p>
+<p>2022.0208 made comments on PDF of draft two. Big step toward the submission, but (1) some substantive issues to address and (2) needs some streamlining of the presentation/argument.</p>
+<ol style="list-style-type: decimal">
+<li>substantive: reverse regression? acknowledge SRB. More generally: are we offering a prediction algorithm? Or are we saying: dude, because of female infant mortality advantage – frail baby males – IM pushes SR towards girls; the higher the IM the more female the SR. Or at least that is what happens in the absence of mortal misogyny – in the absence of sex-disrimination that erases the biological survival advantage of little girls; in other words, when we are not studying a population with “missing” girls and women. When it’s not a missing girls population, we expect a simply strong pattern with female-bias of SR correlated with the IMR. And when we have SR:IMR data we FIND that simple strong relationship. And that WILL BE a basis for making inferences about IMRs. Here, in a RN, we simply document the relationship, and illustrate how it could be used to infer. Illustrate with Black and white in South Africa in 1911. Vital Stats for whites, not blacks. WHite 1911 90. Via SRBs and SRs – strong and plausible result that 1911 South Africa IMRS of whites and blacks 90 and 330. Strong evidence of maternal-infant misery for B not W – but not the place to make claims of precise magnitudes of IMR — just &gt; 30% ….</li>
+</ol>
+<p>BTW OUr result casts doubt on SouAfr stats for 1991 coloured IMR of 40? ln(f/m) ~0</p>
+<p>SRB? … underlying model of deterministic factors: ln(M/F) = ln(SRB) + ln(f(IMR)) where<br />
+ln(SRB) = ln(106) - ln(g(maternal misery)) and IMR=h(maternal-infant misery) ….</p>
+<p>And regress IMR on ln(SRB) constant term contains SRB info????</p>
+<p>early rough thought: finding paper structure unsatisfying – can’t we simply rip through our argument, using footnotes to equivocate and elaborate as needed — that mean’s no intro beyond saying that for knowledge of historical population health and welfare, IMR is important and too little known. But we introduce a way to substantially expand our konwledge ….</p>
+<p><strong>HSUS</strong> plugging along with PUMS/pubCen comparisons for HSUS. Want some feedback on plan to estimate NorthernIMR (full population) and SouthernWhiteIMR and SOuthernBlackIMR</p>
 <p><strong>R question</strong> changing NA to 0 throws error with if_else but works with ifelse …<br />
 mutate(ser=“fPUMS”,boys=ifelse(is.na(boys),0,boys),girls=ifelse(is.na(girls),0,girls)) – OK<br />
 mutate(ser=“fPUMS”,boys=if_else(is.na(boys),0,boys),girls=if_else(is.na(girls),0,girls)) – Error: <code>false</code> must be a double vector, not an integer vector</p>
-<div id="current-log" class="section level3">
-<h3>current log</h3>
-<p>2022.0206Ji Punjab – as well as below, see our <a href="https://jimirwin.github.io/Dreadful/SSMLit.html">Sources &amp; Lit page</a> and search “Missing” (I think … )</p>
+<p>2022.0207 re:Dempap Punjab – found pages from 1891 and 1901 that say fems get less care (in drafts) – maybe use 1911 Punjab SR results, to go with Kaul’s comments/discussion of excess female mortality. References has Gupta, Monica Das – should be Das Gupta, Monica</p>
+<p>re 1870 fPUMS so far pretty general PUMS less male (for MA NY NJ PA)</p>
+<p>2022.0206Ji</p>
+<p>I look at county level SR in Mass –1 large county PUMS count seems fine (no evidence of PUMS undercounting male)</p>
+<p>Punjab – as well as below, see our <a href="https://jimirwin.github.io/Dreadful/SSMLit.html">Sources &amp; Lit page</a> and search “Missing” (I think … )</p>
 <p>– British census reports from 1865 to before 1911 generally downplay infanticide, and pay a lot of attention to possibility of underenumeration of girls (connected to “low esteem” of females), and to possible male-biased SRB from natural causes (e.g. wide age gap of spouses), while alluding to differential care and girls less valued.</p>
 <p>1911 census report on Punjab by a Sikh ((Pandit – his title) Hari Kishan Kaul) has best statement for us, perhaps: “But if female infanticide does not prevail to any noticeable extent, the neglect of female infants has been the general rule” . Our drafts folder has his 2-page discussion of nature of neglect of little girls …</p>
 <p>Plowden’s report on 1881 Census “Whether or no female infanticide prevails in the Punjáb to any considerable extent, and I believe it does not, there can be no doubt whatever that the female is less welcome and less cared for than the male infant.” Note that Plowden gives a lot of credence to possibility of underenumeration of female girls and youth, even as he remarks on the low regard in which they were held; he certainly downplays infanticide.</p>

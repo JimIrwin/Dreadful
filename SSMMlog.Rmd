@@ -13,6 +13,26 @@ output: html_document
 
 ### current log ###
 
+
+2022.0210 Arduous journey to discover that Graunt doesn't have infant or child mortality (infers births from christenings). Instead Clarke 1786 is earliest Ji has found. Lit page is a mess, so search for Clarke to find relevant section ... 
+
+
+In our SSMLit Ji tended to combine SRB and SR-IM (sex ratio of IM), so care needed. Thus Arbuthnot has SRB male skewed, but not IMR male skewed; and Grech historical overview is about SRB.  
+  
+Do we need to cite Pongou for interaction of environ with SRB and excess male IM?
+
+WHO 1976 perinatal 28wks gestation to 1st week of life      
+      
+Ji wondering about our leave-one-out method. From Barber et al. :  
+   
+    Several papers from this period include leave-one-out methods for assessing or calibrating predictive accuracy, similar to the predictive interval constructed in (1.2) above, for example, Stone [24], Geisser [10], Butler and Rothman [4], generally using the term “cross-validation” to refer to this approach. (In this work, we will instead use the term “jackknife” to refer to the leave-one-out style of prediction methods, as is common in the modern literature.) Efron and Gong [9] provides an overview of the early literature on these types of methods      
+
+Lei et al mention Butler & Rothman
+
+
+2022.0209 Ji rewrote abstract
+
+
 2022.0208 made comments on PDF of draft two. Big step toward the submission, but (1) some substantive issues to address and (2) needs some streamlining of the presentation/argument.     
 
 1. substantive: reverse regression? acknowledge SRB. More generally: are we offering a prediction algorithm? Or are we saying: dude, because of female infant mortality advantage -- frail baby males --  IM pushes SR towards girls; the higher the IM the more female the SR. Or at least that is what happens in the absence of mortal misogyny -- in the absence of sex-disrimination that erases the biological survival advantage of little girls; in other words, when we are not studying a population with "missing" girls and women. When it's not a missing girls population, we expect a simply strong pattern with female-bias of SR correlated with the IMR. And when we have SR:IMR data we FIND that simple strong relationship. And that WILL BE a basis for making inferences about IMRs. Here, in a RN, we simply document the relationship, and illustrate how it could be used to infer. Illustrate with Black and white in South Africa in 1911. Vital Stats for whites, not blacks. WHite 1911 90. Via SRBs and SRs --  strong and plausible result that 1911 South Africa IMRS of whites and blacks 90 and 330. Strong evidence of maternal-infant misery for B not W -- but not the place to make claims of precise magnitudes of IMR --- just > 30% .... 

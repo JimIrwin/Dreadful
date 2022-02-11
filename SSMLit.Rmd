@@ -1965,6 +1965,19 @@ cites: "Excess male mortality is virtually universal (Lopez & Ruzicka 1983). ...
 
 ### Male Fraility
 
+Amanda L. Thompson (2021 Annals of Human Biology)](https://www.tandfonline.com/doi/full/10.1080/03014460.2021.1998622), "Greater male vulnerability to stunting? Evaluating sex differences ... "      
+
+These contrasting observations – boys are more biologically vulnerable and girls more socially vulnerable – suggest that rather than viewing one sex or the other at greater risk for stunting, understanding how the biological mechanisms contributing to vulnerability interact with social and cultural factors contributing to differential nutritional or environmental exposures is critical for identifying which children are most at risk for growth faltering.
+
+
+Janaina Calu Costa [2021 Paediatr Perinat Epid](https://onlinelibrary.wiley.com/doi/10.1111/ppe.12763)
+
+The study of gender bias in child health is affected by the greater biological vulnerability of boys compared to girls; in societies where there is no evidence of discrimination, boys show higher mortality rates than girls [4,5]. 
+Under circumstances where boys and girls are equally valued and health care is evenly available to both sexes, boys have higher mortality rates than girls due to biological differences.1, 2, 5 The expected sex ratio in under-five mortality rates (U5MR), however, varies geographically according to the causes and overall levels of mortality.6, 7
+The survival advantage of girls becomes more evident as overall mortality falls because perinatal causes and malformations, which represent the leading causes of death when mortality is low, predominate among male infants.7-9 Nonetheless, in some countries and regions, girls are dying more often than expected and present similar or even higher mortality rates as their male counterparts, thus lowering the observed sex ratios.7 Where sex ratios in mortality deviate from the expected due to higher female mortality, gender bias must be considered as an underlying cause.
+
+
+
 Calle et al. (NewEngJMed 1999) -- don't see this as useful for SSMM.
 
 TO ORGANIZE/CHECK  HarrisB, ‘Anthropometric history, gender and the measurement of well-being’, in B. Harris, L. Gálvez, and H. Machado, eds., [Gender and well-being in Europe: historical and contemporary perspectives](https://www.dropbox.com/s/9fjn8i05ggwu20x/HarrisB%2CGalvez%26Machado2009GenderWell-BeingEurope.pdf?dl=0)] (Farnham, 2009), pp. 59–84.  HAS Tanner quote re: girls less easily thrown off growth curves
@@ -2384,22 +2397,55 @@ p53 Summary 1. Nutrition is one of the most important factors in determining sex
 p53 EVIDENCE from Yung:beef, fish, frogs; others: bees, wasp, aphids, caterpillars, crustaceans, sheep-breeding, "hints of the same results in the human species", plants.
 
 
-#### chronological listing of key BIO-literature items
+#### chronological listing of old BIO-literature items
 
-Graunt 1662 is generally referred to, for earliest noting of males infant survival disadvantage. 
+WE WROTE (well before 2022.0210): Graunt 1662 is generally referred to, for earliest noting of males infant survival disadvantage. BUT GRAUNT DOES NOT TALK OF MALE vs FEMALE INFANT MORTALITY? HE IS WAR & COLONIES?
+Ciocco 1940a 
+p60  "The higher mortality of the males has been recognized and quantitatively demon-strated ever since statistical observations  on population phenomena have first been  made"  [BUT NOT SO FOR INFANT MORTAL:ITYT ]   ... discussing Graunt (1676), Moheau 1778 (C: "hazardous and laborious life"), Maitland 1739," ... "these authors as  well as the numerous students of the sub-ject who have followed them see in the higher mortality of the males a conse-quence of the masculine pattern of living"   Quetelet 1835 "was apparently aware" of the IM sex differential ... 
 
-Graunt 1662; Arbuthnot 1710; S  Clarke 1786;   
+UofM [text version](https://quod.lib.umich.edu/e/eebo/A41827.0001.001/1:8.7?rgn=div2;view=toc)
+NIH searchable [Graunt 1662](https://collections.nlm.nih.gov/bookviewer?PID=nlm:nlmuid-2356017R-bk)
 
-Census of Scotland 1861 (p xxii);   CHECK British Census of India in 19thC     
+p48 [3.1 continued] ... We have hitherto said there are more Males, then Females; we say next, That the one exceed the other by about a thirteenth part; so that although more men die violent deaths then women, that is, more are slain in Wars, killed by mischance, drowned p49 at Sea, and die by the Hand of Justice. Moreover, more men go to Colonies, and travel into foreign parts, then women. And lastly, more remain un∣married, then of women, as Fellows of Colleges, and Apprentises, above eighteen, &c. yet the said thir∣teenth part difference bringeth the business but to such a pass, that every woman may have an Hus∣band, without the allowance of Polygamy.
 
-Registrar General (1921)  Lenz (1923)  Greenwood & Newbold (1925 Biometrika)
-Bawkin (1929 Social Science & Medicine);  Winston (1931 Am J Sociology);    
+
+
+
+[Arbuthnot 1710](https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1710.0011); focus on SRB and mentions males more accidental death   
+
+       we must observe that the external Accidents to which Males are subject (who must seek their Food with danger) do make a great havock of them, and that this loss exceeds far that of the other Sex, occasioned by Diseases incident to it, as Experience convinces us. To repair that Loss, provident Nature, by the Disposal of its wise Creator, brings forth more Males than Females; and that in almost a constant proportion. [82 Years of Births in London -- seems > 8% more male?]
+
+
+Census of Scotland 1861 (p xxii);  nice quote about SRB and IMR
+
+1919 DeJastrzebski 1919 Eugenics Review  SRB -- nothing on IM   p7 IN adding yet another to the innumerable contributions that have been made to the study of the inequality of the sex ratio at birth ... 
+
+Bakwin 1929 re: SRofIMR increases as IMR decreases:    
+Allen, H. B., et al. Australia, Report on Infantile Mortality, 1917; -- Ji has not located this
+Statistical Review, Registrar General, England and Wales, 1921 -- we have. No pithy quotes; simply reporting IMR by sex (and discussing SR rising as IMR fell)     
+Lenz (1923)        
+
+
+Greenwood & Newbold (1925 Biometrika) -- discuss Lenz's idea that non-selective factors to raise IM would tend to reduce "the *relative* excess of male morality"  So: 1925 excess male IM discussed NOT KEY
+
+Holmes & Goff (1923 publication of 1921 conference paper)
+
+p233 It is a well known fact that more males than females die in the first year of life. Although several explanations of this circumstance have been offered, many facts indicate that the male is less hardy and vigorous than the female and more easily succumbs to the hardships and diseases of infancy.     
+p251 [whooping cough mortality F/M infants 108 1yr 140 -- not excess male mort]  the male death rate is relatively higher in the first year than it is later, due in part possibly to the fact that the two sexes differ less in their laryngeal structures at this time, but more, apparently, to the general weakness of the male sex which renders him a relatively easy prey to the various agencies that destroy life.
+
+
+
+Bakwin (1929 Social Science & Medicine); discusses Clarke (1796) re: excess male IM
+
+Winston (1931 Am J Sociology);    
+
+Wylie 1933 
 
 Ciocco (1938, 1940a, 1940b)     
 
 Herdan (1952 Acta Genetica et Statistica Medica)       
 
-Hawley, amos h (1959) "16. Population Composition"   p363   "As a rule, the sex ratio at birth exceeds 100 and varies inversely with the frequency of prenatal losses. Where prenatal losses are low, as in the high level-of-living areas of the West, the sex ratios at birth are usually around 105 to 106. On the other hand, in low level-of-living areas where the frequencies of prenatal losses are relatively high, sex ratios vary around 102." (SR falls with age, unless maternal mortality high enough to offset)    
+SRB Hawley, amos h (1959) "16. Population Composition"   p363   "As a rule, the sex ratio at birth exceeds 100 and varies inversely with the frequency of prenatal losses. Where prenatal losses are low, as in the high level-of-living areas of the West, the sex ratios at birth are usually around 105 to 106. On the other hand, in low level-of-living areas where the frequencies of prenatal losses are relatively high, sex ratios vary around 102." (SR falls with age, unless maternal mortality high enough to offset)    
 Found this via quoted in Visaria (1967).     
 Preface of book, p v,  describes it as "This investigation of the status of demography as a science, initiated in the fall of 1954, was undertakem with the financial support of the" NSF. 
     Book PDF is 1959 reprint, U Chicago; doesn't say original pub date
@@ -2410,8 +2456,6 @@ Waldron (1983, 1985, other?);
 
 Andersson & Bergström 1998         
 Catalano & Bruckner (2006);  Almond&Edlund (2007)  
-
-
 
 
 ### SBR as an Indicator
@@ -2477,7 +2521,39 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 <a name="InfMort"></a>
 
-### older IMR by sex ###
+### IMR by sex Excess Male IM ###
+
+#### key cites for male-biased IM 
+
+Wells [(2000 JThBio)](https://doi.org/10.1006/jtbi.1999.1044)
+
+Waldron (1983)
+
+Naeye et al (1971)  -- US newborns autopsied ...
+
+
+Earliest mention of male-biased IM we've found is [Clarke 1786](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545249/) . Bakwin mentions that piece; Ciocco does not; but Ciocco is very useful for showing us that Graunt and subsequent did not identify the male IM disadvantage. 
+
+Next earliest found is Quetelet (1835)
+Graunt does not have IM sex-differences. Nor does Moheau in 1778 (France). 
+
+
+#### fuller listing of frail male babies excess male mortality SRIM 
+
+well before 2022.0210, we wrote "Graunt 1662 is generally referred to, for earliest noting of males infant survival disadvantage."  BUT GRAUNT DOES NOT TALK OF MALE vs FEMALE INFANT MORTALITY? HE IS WAR & COLONIES?   
+Looked through Graunt, and found comments on war and colonies and such reducing excess from male SRB     
+
+Via Ciocco 1940a,b I find [Quetelet 1835](https://gallica.bnf.fr/ark:/12148/bpt6k81570d) which is searchable.  p156 [table shows m/f deaths]  II paraît donc hors de doute qu'il existe une cause particulière de mortalité qui frappe de préférence les enfans mâles avant et immédiatement après leurnaissance
+
+
+
+Ciocco 1940a 
+p60  "The higher mortality of the males has been recognized and quantitatively demon-strated ever since statistical observations  on population phenomena have first been  made"  [BUT NOT SO FOR INFANT MORTAL:ITYT ]   ... discussing Graunt (1676), Moheau 1778 (C: "hazardous and laborious life"), Maitland 1739," ... "these authors as  well as the numerous students of the sub-ject who have followed them see in the higher mortality of the males a conse-quence of the masculine pattern of living"   Quetelet 1835 "was apparently aware" of the IM sex differential ... 
+
+UofM [text version](https://quod.lib.umich.edu/e/eebo/A41827.0001.001/1:8.7?rgn=div2;view=toc)
+NIH searchable [Graunt 1662](https://collections.nlm.nih.gov/bookviewer?PID=nlm:nlmuid-2356017R-bk)
+
+p48 [3.1 continued] ... We have hitherto said there are more Males, then Females; we say next, That the one exceed the other by about a thirteenth part; so that although more men die violent deaths then women, that is, more are slain in Wars, killed by mischance, drowned p49 at Sea, and die by the Hand of Justice. Moreover, more men go to Colonies, and travel into foreign parts, then women. And lastly, more remain un∣married, then of women, as Fellows of Colleges, and Apprentises, above eighteen, &c. yet the said thir∣teenth part difference bringeth the business but to such a pass, that every woman may have an Hus∣band, without the allowance of Polygamy.
 
 
 1786 Price on Clarke ("THe observations ... prove, that the mortality of males exceeds that of females in almost all the stages of life, and particularly in the earliet stages; and that this excess prevails most in great towns, and all the less natural situations of human life." ... 
@@ -2486,11 +2562,24 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 Table 1 has SRB, IMR, SR of u1 death, SR at death by month ... various Euro, AUstral, Egypt, Japan, US, Uruguay, New Zealand,    
 IMRs AUT 1914-21 Egypt 143.9 176   -- wonder about the sources?
 
+Bakwin 1929 Hu Bio p. 90 “The higher mortality of male infants has been a subject of interest for a great many years. In a paper read before the Royal Society of London in 1786, Dr. Joseph Clarke, a Dublin physician, pointed out (91) that the mortality of males exceeds that of females in almost all stages of life and especially in the earliest”    
+    
     
 1933 Wylie  The phenomenon of the inferior vitality of the male sex is apparent before birth, in the first day after live-birth, through every week of the first month  and in each quarter of the first year of life    ... J Wylie (1933:184 Can Journal of Public Health)
 
 
  search human biology
+
+
+Hammound 1965 -- not much useful
+
+Naeye et al  -- 2735 newborn autopsies, 815 stillborn, 1920 liveborn (die within 72 hours)
+inherent biologic disadvantage of being male, a disadvantage not related to specific disease processes. 
+
+Nathanson 1984
+
+Choi & HwangJ [(2020 Demography)](https://doi.org/10.1007/s13524-020-00863-x)  Research indicates that because of differences in genetic makeup, boys are biologically weaker and more susceptible to diseases and premature death (Naeye et al. 1971; Waldron 1983).
+
 
 
 #### IMR vs u5MR ####

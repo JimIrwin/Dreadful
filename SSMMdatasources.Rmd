@@ -55,6 +55,7 @@ The World Bank. [Civil Registration and Vital Statistics for Monitoring the Sust
 
 ### Europe ### 
 
+
 Summary view of societies, time-periods for which we have good IMR/SR data.     
 Nordic countries: Denmark (1840-1970), Finland (1885-1970), Iceland (1845-1970), Norway (1890-1970) and Sweden (1751-1970)
 
