@@ -14,6 +14,27 @@ output: html_document
 ### current log ###
 
 
+2022.0212   Ji check Italy source statement -- more info needed?
+
+2022.0211 
+Ji: Does one of our cites claim Graunt has excess male IM? (if so, an error)
+Ji: check Preston 1976 and Vallin/bigDemogBook on IM-SR
+
+Issue of leave-one-out approach -- see [Predictive inference with the jackknife+](https://www.stat.cmu.edu/~ryantibs/papers/jackknife.pdf)
+p487 1.1. Background. The idea of resampling or subsampling from the available data, in order to assess the accuracy of our parameter estimates or predictions, has a rich history in
+the statistics literature. Early works developing the jackknife and bootstrap methods include
+Quenouille [18], Quenouille [19], Tukey [26], Miller [15], Efron [8], Stine [23]. Several papers from this period include leave-one-out methods for assessing or calibrating predictive
+accuracy, similar to the predictive interval constructed in (1.2) above, for example, Stone
+[24], Geisser [10], Butler and Rothman [4], generally using the term “cross-validation” to
+refer to this approach. (In this work, we will instead use the term “jackknife” to refer to the
+leave-one-out style of prediction methods, as is common in the modern literature.) Efron and
+Gong [9] provides an overview of the early literature on these types of method
+
+Ji working on fn on when sex-differences in IM first recognized -- seems to be Clarke (1786), but Théré & Rohrbasser (2006 Hi Fam) give credit to Stuyck and    [Struyck p187](Stuyck1740p187.png) is about stillbirths, I think -- Jesse to confirm.
+
+Also - T&R claim Moheau recognized IM-SR -- Jesse please check [p207](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu56263562&view=page&seq=229&skin=2021) and following 3-4 pages.  [p216](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu56263562&view=page&seq=238&skin=2021) might show m f IMRs of 1/4 and 1/5?
+
+
 2022.0210 Arduous journey to discover that Graunt doesn't have infant or child mortality (infers births from christenings). Instead Clarke 1786 is earliest Ji has found. Lit page is a mess, so search for Clarke to find relevant section ... 
 
 

@@ -2175,13 +2175,9 @@ Cramer & Lumey [2010 Human Biology](https://www.dropbox.com/s/5sbai3zvbu4t6tc/Cr
 [Garenne (2008 Human Biology) "Poisson variations of the sex ratio at birth in African demographic surveys."](https://bioone.org/journals/human-biology/volume-80/issue-5/1534-6617-80.5.473/Poisson-Variations-of-the-Sex-Ratio-at-Birth-in-African/10.3378/1534-6617-80.5.473.short). Finds that Ethiopia and Nigeria have high SBR. p
 
 
+[Almond & Edlund (2007 PrRSBio)](<https://doi.org/10.1098/rspb.2007.0524>) "Trivers–Willard at birth and one year: evidence from US natality data 1983–2001."  SRB mostly.
 
-Drevenstedt et al [2008 Proc NAS](https://www.pnas.org/content/105/13/5016.short) on excess male infant mortality, claiming it was only 10% in 1751, rising to >30% by 1970ish, then falling. Seems a mess for missing importance of level of IMR for relevance of sex-differential in IMR
-
-    Our analysis of 15 developed countries shows that, as infant mortality declined over two centuries, the excess male mortality increased from 10% in 1751 to >30% by approximately 1970. Remarkably, since 1970, the male disadvantage in most countries fell back to lower levels. The worsening male disadvantage from 1751 until 1970 may be due to differential changes in cause-specific infant mortality by sex.
-
-[Almond & Edlund (2007 PrRSBio)](<https://doi.org/10.1098/rspb.2007.0524>)
-"Trivers–Willard at birth and one year: evidence from US natality data 1983–2001." ABSTRACT: "Our findings highlight the potential role of offspring sex ratio as an indicator of maternal status, and the role of infant mortality in shaping a TW pattern in the breeding population." p2495 "One way to assess magnitudes is to consider the implied mortality. A married mother who had some college education was approximately **0.80%** more likely to bear a son (or have a son survive to age 1) than an unmarried mother who did not complete high school."<br>
+ABSTRACT: "Our findings highlight the potential role of offspring sex ratio as an indicator of maternal status, and the role of infant mortality in shaping a TW pattern in the breeding population." p2495 "One way to assess magnitudes is to consider the implied mortality. A married mother who had some college education was approximately **0.80%** more likely to bear a son (or have a son survive to age 1) than an unmarried mother who did not complete high school."<br>
 SAY 51.15% vs 50.35%  m/f 104.7 down to 101.4 where 51.15 is 2001 white women probability of boy baby ... So a drop of 3.3 between married&college versus unwed-dropout ... marriage alone 0.1% effect implies a drop of 0.4 ... **smallish effects** ?<br>
 "Obviously, the closer to conception, the lower the replacement cost of terminated offspring. Mortality in utero would for this reason be more advantageous than mortality after birth and most studies have focused on the sex ratio at birth.3  However, barring pre-natal sex determination and elected abortions, the effects are small (see James 1987)."<br>
 So they cite James 1987 for small effects on SRB (of maternal conditions?)
@@ -2249,42 +2245,6 @@ p268 "coital frequency is the proximate variable more clearly related to the sex
 
 Møller (1996 Lancet) "Change in male:female ratio among newborn infants in Denmark"  Speculative on causes of Denmark SRB wiggles: 1850 105.0, 1955 106.4 (variability!),  1995 105.4
 
-1994 Klasen (1994 World Dev)  Strong statement of SBR rising with income/SES and implicitly, with economic development.    
-Klasen (1994) gives us 1980 Matzdorff 1971 Teitelbaum & Mantel; and via Google, Winston 1931 AmJSoc: p12 "prenatal mortality is heavier for the male"  pp20-21 "The sex-ratio of man at  (21) birth is a resultant of the sex-ratio at conception, such sex-ratio constantly being reduced by a prenatal mortality which bears more heavily upon the male than upon the female fetus. This mortality is importantly affected by social factors which operate indirectly through affecting the mother’s ability to provide the necessary optimum conditions for survival.    
-Klasen also useful for West Life Table understates male IMR disadvantage   p1064 "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs. The higher fragaility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987)." Waldron sex-differences in mortality. Probably Waldron 1993 for Euro men higher mortality via drink/drive/violence     
-Klasen 1994 Emphasis on SBR increase with SES. "The biomedical literature suggests that the reduction in stillbirths and late fetal mortality alone could account for these increases." For a discussion, see McKeown and Lowe (1951) and Klasen (1994b).   ...  See Teitelbaum and Mantel (1971) and Matzdorff (1980)
-
-After considering excess female mortality in ages 1-9, Klasen (p1064) says    
-      
-      A second and much larger question relates to the size of the male-female mortality differential in infancy. There is little doubt that in infancy boys have a clear survival disadvantage vis-d-vis girls (Preston, 1976; Lancaster, 1990; Waldron, 1987). 
-
-Copper, R.L., R.L. Goldenberg, R.K. Creasy et al. 1993. [A multicenter study of preterm birth  weight and gestational age- specific neonatal mortality.](https://doi.org/10.1016/S0002-9378(12)90889-3) Am. J. Obstet. Gynecol. 168:78-84.   
-p81 In this analysis preterm male infants had twice the mortality rates of female infants before 29 weeks.   20-36 weeks gestation  See also [Lee, M.S. et al.](https://www.komci.org/GSResult.php?RID=0044KJP/2010.21.4.370&DT=1) on Korea, which seems to NOT find the sex result (I say, based only on the abstract: 1,400 premature infants, "The survival rate showed no difference by gender, plurality and years.").
-
-
-Panis & Lillard [(1993 Rand)](https://www.rand.org/content/dam/rand/pubs/drafts/2005/DRU191.pdf), "Health Inputs and Child Mortality: Malaysia" (Rand, Labor and Population Program, WP series 93-03) p20 Our results confirm the findings of many others that boys are subject to higher mortality risks than girls.   Shows big deline of infant mortality in Malaysia, 1945 to 1985 (retrospective survey?)  NOT NEEDED, this is an unpublished draft makin the point of male-bio-frag  ...
-
-
-Williams & Gloster (1992 Social Biology), "Human sex ratio as it relates to caloric availability." Cross-country correlations of per capita calories and SRB. Seems BS (bad science) even if findings are consistent with our work.
-
-M E Zaldivar, R Lizarralde, S Beckerman (Human Ecology 1991). Unbiased sex ratios among the Bari: an evolutionary interpretation -- seems too small a sample for us? CHECK IT SOMETIME <br>
-
-Lancaster (1990)   	Expectations of Life: A Study in the Demography, Statistics, and History of World Mortality  VIA Klasen 1994 male-infant survival advantage)  p24 Chapter 3 "Measurement of Mortality"  Historical overview mentions Graunt, including excess male births  p29 table with dates of "The beginning of a persistant decline in the death rates" for age 0 we see France 1896  UK 1901 Norway 1896  Sweden 1841    p30 1948, 1985 age-specific death rates for various countries. Age 0    
-Males Eng&W 384 106   Ire 515 104  US 384 120  France 615 99    
-Femls    296 83           387         296             466
-p299 Ch 32 Perinatal and Infant Mortality pdf311  infanticide   "extreme neglect" p300 Corsini (1984)  concludes that the practice of abandoning children became increasingly widespread in Europe up to the nineteenth century     ... Molin (1984) notes that children were abandoned in springtime, and girls were more likely to be abandoned than boys in the cities.   p306 Australia 1881-1980 decades IMR m/f% 124 to 129 in 1911-1980 IMRs 1910s 67.5 1970s 14.3  1880s to 1900s 114% 117 119 
-p371 36.8 Sex Differential in Mortality  p372 Considering the rates by cause, we see from Table 35.1.2 that the female death rates are usually lower at ages 1-4 years with the exception of pertussis, for which see §9.4. [p112-13 The reasons for this low masculinity are not understood.]      In the developing world recently, and perhaps more importantly in the past, the females carried out much of the work in the fields and had their general well-being disturbed by high fertility rates. Under such conditions the sex differentials might well be low (i.e., in favor of the males); differential rates of infanticide would act in the same manner. 
-
-Makhija, K., and G. V. Murthy. "Sociobiologic factors influencing low birth weight at a rural project hospital." Journal of the Indian Medical Association 88, no. 8 (1990): 215-217. INDIA -- can't find text of article to check for SRB 
-
-Abernathy & Yip (1990 HuBio) Tennessee -- claim pro-TrivWill results. TN 1976-1983 403,462 births (white, singleton) 5.5% birthweight under 2500g 
-ABSTRACT However, stratification of a sample  by socioeconomic indicators shows that white infant male and female  postneonatal mortality rates converge as the mothers' or parents'  education rises and as the mothers age.
-p285 ...  Present findings can be seen as congruent with a theory of sex-biased parental investment.
-p286  ... boys fare relatively best among the most advantaged families. Where girls have a mortality advantage in general, as in the United States, improved survival for boys means that the disparity between the sexes virtually disappears when the top echelon of society is reached ...
-p288  A plausible challenge to the sociobiological interpretation of the present findings is that the convergence of infant boys' and girls' mortality in the high social status sector occurs because of the female physiological advantage and because child rearing at this pinnacle is so good. That is, the marginal gains still possible for girls are nearly zero, whereas boys, who are more vulnerable (Abramowicz and Barnett 1970; Khoury et al.  1985; Naeye et al. 1971; Yip et al. 1985; McMillen 1979), can still derive  significant incremental benefit from the best care
-
-
-Waldron (1987, 1985, 1983)  VIA Klasen 1994 male-infant survival advantage
 
 Matzdorff (1980) VIA Klasen 1994.  SRB in two samples from Germany in the late 1950s rises with socioeconomic status also by about six percentage points. ... historical rise of SRB in Euro 1-3 %points   
 
@@ -2521,7 +2481,9 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 <a name="InfMort"></a>
 
-### IMR by sex Excess Male IM ###
+## Infant Mortality
+
+### IMR by sex / Excess Male IM / IM-SR ###
 
 #### key cites for male-biased IM 
 
@@ -2532,20 +2494,33 @@ Waldron (1983)
 Naeye et al (1971)  -- US newborns autopsied ...
 
 
-Earliest mention of male-biased IM we've found is [Clarke 1786](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545249/) . Bakwin mentions that piece; Ciocco does not; but Ciocco is very useful for showing us that Graunt and subsequent did not identify the male IM disadvantage. 
+Quetelet (1835) 
 
-Next earliest found is Quetelet (1835)
-Graunt does not have IM sex-differences. Nor does Moheau in 1778 (France). 
+Graunt does not have IM sex-differences. Not sure about Moheau in 1778 (France) -- Théré & Rohrbasser suggest he does ... 
 
+An early statement of male-biased IM we've found is [Clarke 1786](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5545249/) . Bakwin mentions that piece; Ciocco does not; but Ciocco is very useful for showing us that Graunt and subsequent did not identify the male IM disadvantage. 
 
-#### fuller listing of frail male babies excess male mortality SRIM 
+Maybe 1755 Wargentin has the IM-male point? His results are found in [Dupaquier (1977 Annales de Dem)](https://www.persee.fr/doc/adh_0066-2062_1977_num_1977_1_1362)
 
-well before 2022.0210, we wrote "Graunt 1662 is generally referred to, for earliest noting of males infant survival disadvantage."  BUT GRAUNT DOES NOT TALK OF MALE vs FEMALE INFANT MORTALITY? HE IS WAR & COLONIES?   
-Looked through Graunt, and found comments on war and colonies and such reducing excess from male SRB     
+ [Struyck at Google books](https://books.google.ca/books?id=TfI6AQAAIAAJ)
+1740   p186 for SRB -- more males, like in London (Graunt). ... Les filles vivent plus longtemps que les garcons. p187 is about stillbir
+
+  [Moheau](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu56263562&view=page&seq=238&skin=2021)  is this 1/4 1/5 m f IMR?   [Moheau via Hathi](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu56263562&view=page&seq=7&skin=2021)
+
+##### tracking down earliest attention to IM-SR
+
+Théré & Rohrbasser (2006 Hi of the Fam) "Facing death in the early days of life: Inequality between the sexes in enlightenment demographic thought."    
+p200  ...  But Graunt is not specifically concerned about infant mortality.   ...  It is important to recall these first calculations: indeed, though they did not focus on the difference between male and female infant mortality, they gave relevant indications on the difference in life expectancies. [re: Petty, Leibniz, Halley, Maitland, Arbuthnot]   ... Almost simultaneously around 1740, two Dutch authors2 constructed the first mortality or rather, survival tables, separately for each sex.3 [Kersseboom 1742 women live longer]      
+p201 Thus, Kersseboom appears as the first author who clearly brought to light the existence of a difference in duration of life between individuals of the two sexes. But curiously, he then seemed rather to neglect this discovery ... Struyck ... 1740 existing at birth had vanished.
+  
+p203 Muret and Moheau, among others, highlighted the high male mortality before the age of one (for example Moheau, [1778] 1994, I, XI, Question V, p. 166). By the end of the first year, the surplus of males had disappeared. Wargentin's observations confirmed this clearly: at birth itself 1292 girls survived for 1000 boys, 1,099 at the age of 1, 1022 at 2 and 3, 1,043 at 4 and 5, 1,074 between 5 and 10, and 1,080 between 10 and 15 (Wargentin, 1766, Tab. p. 18). Struyck observed that the higher male mortality began at a very early stage, because it also affected the foetus. In taking the average of children born at Breslau, Dresden and Leipzig, he noted that the ratio of stillborn boys to stillborn girls was 13 to 9 (Struyck, 1740, pp. 186–187).   
+
+#### SR-IM 
+fuller listing of frail male babies excess male mortality SRIM 
+
+well before 2022.0210, we wrote "Graunt 1662 is generally referred to, for earliest noting of males infant survival disadvantage."  BUT GRAUNT DOES NOT TALK OF MALE vs FEMALE INFANT MORTALITY? HE IS WAR & COLONIES? Looked through Graunt, and found comments on war and colonies and such reducing excess from male SRB     
 
 Via Ciocco 1940a,b I find [Quetelet 1835](https://gallica.bnf.fr/ark:/12148/bpt6k81570d) which is searchable.  p156 [table shows m/f deaths]  II paraît donc hors de doute qu'il existe une cause particulière de mortalité qui frappe de préférence les enfans mâles avant et immédiatement après leurnaissance
-
-
 
 Ciocco 1940a 
 p60  "The higher mortality of the males has been recognized and quantitatively demon-strated ever since statistical observations  on population phenomena have first been  made"  [BUT NOT SO FOR INFANT MORTAL:ITYT ]   ... discussing Graunt (1676), Moheau 1778 (C: "hazardous and laborious life"), Maitland 1739," ... "these authors as  well as the numerous students of the sub-ject who have followed them see in the higher mortality of the males a conse-quence of the masculine pattern of living"   Quetelet 1835 "was apparently aware" of the IM sex differential ... 
@@ -2580,7 +2555,66 @@ Nathanson 1984
 
 Choi & HwangJ [(2020 Demography)](https://doi.org/10.1007/s13524-020-00863-x)  Research indicates that because of differences in genetic makeup, boys are biologically weaker and more susceptible to diseases and premature death (Naeye et al. 1971; Waldron 1983).
 
+Wizemann&Pardue2001ExploringBioHumH_SexMatter.pdf   p22 example of how 2 x-chromosones saves girls
 
+
+#### IMR  
+
+
+Drevenstedt et al [2008 Proc NAS](https://www.pnas.org/content/105/13/5016.short) on excess male infant mortality, claiming it was only 10% in 1751, rising to >30% by 1970ish, then falling. Seems a mess for missing importance of level of IMR for relevance of sex-differential in IMR To us, exagerates importance of the early Sweden "data"
+
+    Our analysis of 15 developed countries shows that, as infant mortality declined over two centuries, the excess male mortality increased from 10% in 1751 to >30% by approximately 1970. Remarkably, since 1970, the male disadvantage in most countries fell back to lower levels. The worsening male disadvantage from 1751 until 1970 may be due to differential changes in cause-specific infant mortality by sex.
+
+
+
+1994 Klasen (1994 World Dev)    
+  
+p1063-64 West tables childhood mortality rates overstate female mort b/c historical data reflects excess female mortality from discrimination. After considering excess female mortality in ages 1-9, 
+  
+    p1064 A second and much larger question relates to the size of the male-female mortality differential in infancy. There is little doubt that in infancy boys have a clear survival disadvantage vis-d-vis girls (Preston, 1976; Lancaster, 1990; Waldron, 1987). The crucial issue is how large this disadvantage is and how it changes as mortality rates fall and life expectancy rises. "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs.     ...  The higher fragility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987).   
+      
+pp 1064-65 SBR rising with income/SES and implicitly, with economic development. p1066 SRB predicted by life-expectancy
+
+Klasen (1994) gives us SRB cites Matzdorff (1980) Teitelbaum & Mantel (1971). Klasen also useful for West Life Table understates male IMR disadvantage.    
+Emphasis on SBR increase with SES. "The biomedical literature suggests that the reduction in stillbirths and late fetal mortality alone could account for these increases." For a discussion, see McKeown and Lowe (1951) and Klasen (1994b).   ...  See Teitelbaum and Mantel (1971) and Matzdorff (1980)
+
+      
+Copper, R.L., R.L. Goldenberg, R.K. Creasy et al. 1993. [A multicenter study of preterm birth  weight and gestational age- specific neonatal mortality.](https://doi.org/10.1016/S0002-9378(12)90889-3) Am. J. Obstet. Gynecol. 168:78-84.   
+p81 In this analysis preterm male infants had twice the mortality rates of female infants before 29 weeks.   20-36 weeks gestation  See also [Lee, M.S. et al.](https://www.komci.org/GSResult.php?RID=0044KJP/2010.21.4.370&DT=1) on Korea, which seems to NOT find the sex result (I say, based only on the abstract: 1,400 premature infants, "The survival rate showed no difference by gender, plurality and years.").
+
+
+Panis & Lillard [(1993 Rand)](https://www.rand.org/content/dam/rand/pubs/drafts/2005/DRU191.pdf), "Health Inputs and Child Mortality: Malaysia" (Rand, Labor and Population Program, WP series 93-03) p20 Our results confirm the findings of many others that boys are subject to higher mortality risks than girls.   Shows big deline of infant mortality in Malaysia, 1945 to 1985 (retrospective survey?)  NOT NEEDED, this is an unpublished draft makin the point of male-bio-frag  ...
+
+
+Williams & Gloster (1992 Social Biology), "Human sex ratio as it relates to caloric availability." Cross-country correlations of per capita calories and SRB. Seems BS (bad science) even if findings are consistent with our work.
+
+M E Zaldivar, R Lizarralde, S Beckerman (Human Ecology 1991). Unbiased sex ratios among the Bari: an evolutionary interpretation -- seems too small a sample for us? CHECK IT SOMETIME <br>
+
+Lancaster (1990)   	Expectations of Life: A Study in the Demography, Statistics, and History of World Mortality (via Klasen 1994 on male-infant survival advantage)     
+p24 Chapter 3 "Measurement of Mortality"  Historical overview mentions Graunt, including excess male births.
+ 
+     In general, Graunt (1662) demonstrated the regularity of certain vital phenomena, such as births, deaths, and marriages, the excess of male over female births and the approximately equal numbers of the sexes in the adult population, the high rate of mortality in the earliest years of life, and an urban death rate that exceeded the rural death rate. 
+     
+     p25 According to Dorn (1959), Pehr Wargentin (1717-1783), using the deaths registered in Sweden for 1755 to 1757 and the population registered in 1757, was the first to construct a life table for an entire nation from statistics of death and population classified by age and sex.       ...  list of notable works on mortality is given by Dorn (1959). 
+   Dorn 1959 in Hauser & Duncan
+    
+p29 table with dates of "The beginning of a persistant decline in the death rates" for age 0 we see France 1896  UK 1901 Norway 1896  Sweden 1841    
+p30 age-specific death rates for various countries in 1948 and 1985, e.g. Age 0    
+Males Eng&W 384 106   Ire 515 104  US 384 120  France 615 99    
+Femls EW   296 83           387         296             466
+p299 Ch 32 Perinatal and Infant Mortality pdf311  infanticide   "extreme neglect" p300 Corsini (1984)  concludes that the practice of abandoning children became increasingly widespread in Europe up to the nineteenth century     ... Molin (1984) notes that children were abandoned in springtime, and girls were more likely to be abandoned than boys in the cities.   p306 Australia 1881-1980 decades IMR m/f% 124 to 129 in 1911-1980 IMRs 1910s 67.5 1970s 14.3  1880s to 1900s 114% 117 119 
+p371 36.8 Sex Differential in Mortality  p372 Considering the rates by cause, we see from Table 35.1.2 that the female death rates are usually lower at ages 1-4 years with the exception of pertussis, for which see §9.4. [p112-13 The reasons for this low masculinity are not understood.]      In the developing world recently, and perhaps more importantly in the past, the females carried out much of the work in the fields and had their general well-being disturbed by high fertility rates. Under such conditions the sex differentials might well be low (i.e., in favor of the males); differential rates of infanticide would act in the same manner. 
+
+Makhija, K., and G. V. Murthy. "Sociobiologic factors influencing low birth weight at a rural project hospital." Journal of the Indian Medical Association 88, no. 8 (1990): 215-217. INDIA -- can't find text of article to check for SRB 
+
+Abernathy & Yip (1990 HuBio) Tennessee -- claim pro-TrivWill results. TN 1976-1983 403,462 births (white, singleton) 5.5% birthweight under 2500g 
+ABSTRACT However, stratification of a sample  by socioeconomic indicators shows that white infant male and female  postneonatal mortality rates converge as the mothers' or parents'  education rises and as the mothers age.
+p285 ...  Present findings can be seen as congruent with a theory of sex-biased parental investment.
+p286  ... boys fare relatively best among the most advantaged families. Where girls have a mortality advantage in general, as in the United States, improved survival for boys means that the disparity between the sexes virtually disappears when the top echelon of society is reached ...
+p288  A plausible challenge to the sociobiological interpretation of the present findings is that the convergence of infant boys' and girls' mortality in the high social status sector occurs because of the female physiological advantage and because child rearing at this pinnacle is so good. That is, the marginal gains still possible for girls are nearly zero, whereas boys, who are more vulnerable (Abramowicz and Barnett 1970; Khoury et al.  1985; Naeye et al. 1971; Yip et al. 1985; McMillen 1979), can still derive  significant incremental benefit from the best care
+
+
+Waldron (1987, 1985, 1983)  VIA Klasen 1994 male-infant survival advantage
 
 #### IMR vs u5MR ####
 
@@ -2600,13 +2634,9 @@ Wise (2003 ) ["THE ANATOMY OF A DISPARITY IN INFANT MORTALITY"](https://www.annu
  Interesting point about "tension between technical and social interpretations" of IMR (technical: Chadwick and Nightingale advocating for sanitary engineering improvements for water quality; social: Engels "saw disparities in infant mortality as empirical evidence of unjust social relations")   
   Fig 1 plots US IMR by race 1975 forward -- has Black IMR about 27 in 1975 and White about 14 ...
 
-? maybe look to World Bank or IMF or UNicef for simple statement on IMR as indicator; then back it up with references.
-? Sen
-
 Below, maybe it is Reid who attacks IMR as crude (but different context?)
 
 UN IGME, [Levels & Trends in Child Mortality: Report 2020 ...,](https://www.unicef.org/media/79371/file/UN-IGME-child-mortality-report-2020.pdf.pdf) for recent international data and some IMR u5MR info ... (neonatal prob death 17%, 1month-1yr 11%, 1-5 years 10%).
-
 
 
 The UN's [The 2030 Agenda for Sustainable Development](https://sdgs.un.org/sites/default/files/publications/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf)   includes, under Goal 3. Ensure healthy lives and promote well-being for all at all ages
