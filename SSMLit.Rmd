@@ -7,6 +7,10 @@ output: html_document
   
 <a name="TOC"></a>
 
+## to look at: ##
+
+[Crew (1948)](https://clio.columbia.edu/catalog/3951320) seems like Columbia might let Jesse borrow it (pickup)?
+
 ## Overview -- Data now has [its own page](https://jimirwin.github.io/Dreadful/SSMMdatasources.html)
 
 <p>Our "cases": [Europe](#EUROPE) [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
@@ -2372,7 +2376,8 @@ low SES in US reduces SBR 6 %points; from Klasen 1994
   
 Teitelbaum, Mantel, Stark (1971 AmJHuGen), ^["Limited dependence of the human sex ratio on birth order and parental ages."] MINOR RE-affirm negative birth-order effect [but we see that as SES via family-size]. Paper is re-analysis of Novitski & Kimball  who 'found' negative effects on US SBR of birth order, parental age, and interaction. 
 
-Teitelbaum (1970 JBiosocSci). Gives long list of factors checked for SRB effects ... "socio-economic status and conditions" are among a long list (32 or more). <br>
+**Teitelbaum (1970 JBiosocSci)** [Factors affecting the sex ratio in large populations](https://doi.org/10.1017/S0021932000023476). Useful for recap of previous research. 
+Gives long list of factors checked for SRB effects ... "socio-economic status and conditions" are among a long list (32 or more). <br>
 p66 finds birth-order effect and race effect  BUT "An important question still remained, however. It was whether either the birth-order effect or the race effect itself could derive from a socio-economic effect for which control could not be provided in the vital data being used. [next is section called <br>
 **Socio-economic effects on sex ratio** <br>
 Winston (1931), Crew (1948), Russell (1936) (FIND 1921 Reg-Gen DATA), Lawrence (1941). <br>
@@ -3012,13 +3017,12 @@ Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female 
 
 #### "Missing women" articles
 
-2021 Echavarri (2021 Cliometrica) OUCH -- weird piece, increased SRB with war attributed to 
-     
+Echavarri (2021 Cliometrica) OUCH -- weird piece, increased SRB with war attributed to sex-discrim.  
 "Neonatal discrimination and excess female mortality in childhood in Spain in the frst half of the twentieth century" <br>
 p2 The idea that infanticide and fatal neglect around birth or in infancy had occurred in Western Europe as a form of birth control during the demographic transition was initially rejected (Lynch 2011 [see below]; Harris 2008), although abnormal infant and child sex ratios (Beltrán Tapia and Gallego-Martınez 2017, 2020) and excess female mortality among older children (McNay et  al 2005) were documented. Recent research based on local historical records point to the existence of infanticides in Spain in the nineteenth century (Beltrán Tapia and Marco-Gracia 2020) WORKING PAPER, not published -- EHR 2020 ARGUES NOT INFANTICIDE    
 
 
-2018 Alesina, Giuliano, Nathan Nunn (PLoSOne 2018) [Traditional agricultural practices and the sex ratio today](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770021/#pone.0190510.ref024)    
+2018 **CRAP** Alesina, Giuliano, Nathan Nunn (PLoSOne 2018) [Traditional agricultural practices and the sex ratio today](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770021/#pone.0190510.ref024)    
 As usual, focus on high SR as evidence of infanticide or 
    
        [ABSTRACT ... plough:men specialized in agric] We hypothesize that this difference caused plough-using societies to value boys more than girls. Today, this belief is reflected in male-biased sex ratios, which arise due to sex-selective abortion or infanticide, or gender-differences in access to family resources, which results in higher mortality rates for girls.   
@@ -3037,6 +3041,9 @@ p131 The projected sex ratio matches the trend more closely for the second half 
 2017 Population [Mortality Inequalities and Trends in Low- and Middle-Income Countries, 1990-2015](https://www.cairn-int.info/journal-population-2017-2-page-221.htm?contenu=article)
 
 2015 Diamond-Smith & Bishai (2015 Demography 2015) "Evidence of Self-correction of Child Sex Ratios in India: A District-Level Analysis of Child Sex Ratios From 1981 to 2011." 
+
+2014 [Barcellos, Carvalho, Lleras-Muney; AEJ:AppEcon c363](https://www.aeaweb.org/articles?id=10.1257/app.6.1.157) Maybe useful for more recent approach to why/how of missing women?
+
 
 2014 Lancet Global Health [National, regional, and global sex ratios of infant, child, and under-5 mortality ... countries  with  outlying ratios: a systematic assessment](https://www.sciencedirect.com/science/article/pii/S2214109X14702803)
 
@@ -3071,9 +3078,14 @@ Looked at, dismissed: 2007 Bhaskar, V., Gupta, B., 2007. India’s missing girls
 
 Bengtsson, Campbell, LeeJZ (2004)   referring to Lee & Campbell 1997 for "Liaodong community .. excess female infant and child mortality accounted for as much as 20 pct of female births ... parents clearly selectively killed or ignored daughters to achieve goals for the number and sex composition of their children (Lee, Wang, and Campbell 1994; G. W. Skinner 1993; Smith 1977)." Skinner 1993 "Conjugal Power in Tokugawa Japanese Families" in MillerD ed. *Sex and Gender Hierarchies*; Smith 1977 Nakahara:  ... Japanese Village. pp 68-82 weird regression analysis claiming to show response of IMR and ChildMR to food prices
 
+Cai, Yong, and William Lavely. "China's missing girls: Numerical estimates and effects on population growth." China Review (2003): 13-29.
+
+Pande [(2003 Demography)](https://link.springer.com/content/pdf/10.1353/dem.2003.0029.pdf) stunting and immunization.
+
+
 Lee, James Z., and Cameron Campbell. 1997. Fate and Fortune in Rural China: Social Orga-
 nization and Population Behavior in Liaoning, 1774–1873. Cambridge: Cambridge Univer-
-sity Press.
+sity Press.  Infer infanticide/care via econometrics and life tables ?
 
 Lee, James, Wang Feng, and Cameron Campbell. 1994. ‘‘Infant and Child Mortality among the Qing Nobility: Implications for Two Types of Positive Check.’’ Population Studies 48.3:395–41
 
