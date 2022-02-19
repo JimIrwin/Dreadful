@@ -12,6 +12,17 @@ output: html_document
 
 
 ### current log ###
+  
+
+2022.0218  finished up with suggested revision to intro. 
+
+
+
+page 5
+a powerful indicator of infant mortality and maternal distress. 
+n15 Our results suggest extremes of racial inequality in South  
+a strong sign of high IM ...   / a powerful indicator of 
+maps onto comparative well-being ...  maps onto?  / expands knowledge of / provides new insight on / offers new insights on-in
 
 
 2022.0212   Ji check Italy source statement -- more info needed?
@@ -19,6 +30,7 @@ output: html_document
 2022.0211 
 Ji: Does one of our cites claim Graunt has excess male IM? (if so, an error)
 Ji: check Preston 1976 and Vallin/bigDemogBook on IM-SR
+
 
 Issue of leave-one-out approach -- see [Predictive inference with the jackknife+](https://www.stat.cmu.edu/~ryantibs/papers/jackknife.pdf)
 p487 1.1. Background. The idea of resampling or subsampling from the available data, in order to assess the accuracy of our parameter estimates or predictions, has a rich history in

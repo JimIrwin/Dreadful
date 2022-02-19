@@ -915,7 +915,6 @@ So we want SR data 1921 1931?  1941?      6th census 1936  vol II ages  vol IX B
 Columbia Clio shows     
 microform [South Africa--Census, 1865, 1904, 1911, 1918, 1921, 1916, 1931, 1936, 1941]()
 
-
 [1921](https://clio.columbia.edu/catalog/10770950) via Gale, 19th C COllections Online
 
 1936 is more than vol 1 available? SHould be, since it is on microfilm
@@ -939,7 +938,9 @@ UG50-'38, Sixth Census of the Union of South Africa 1936, Supplement to Volume I
 
 International population census publications, region, Africa. Country, South Africa. [Census year(s), 1946, 1951, 1960](https://clio.columbia.edu/catalog/SCSB-8778348) Seems to have 1946 no. 0-6   Seems to be at NYPL ... OFFSITE - Request in Advance for use at Schwarzman Bldg - Microforms Rm 315  
 
-[Info on Sou Afr censuses](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0018-229X2011000200001)  1911  1918 whites only  1921 full pop   1926 whites only 1931 whites only  1936 full pop  1946 full pop   1951 full pop  1960 full 
+[Christopher 2011 *Historia*](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0018-229X2011000200001) article with info on the Sou Afr censuses.    
+ Cape of Good Hope: 1865 1875 1891; Orange Free State 1880 1890; 1904 all 4 provinces, separately.
+1911  1918 whites only  1921 full pop   1926 whites only 1931 whites only  1936 full pop  1946 full pop   1951 full pop  1960 full 
 
 [UPenn online Sou Afr stats](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=South%20Africa%2E%20Office%20of%20Census%20and%20Statistics)
 
@@ -976,6 +977,37 @@ Censuses listed in the [OpenEdition book](https://books.openedition.org/irdediti
 
 Aug30 looked to add 1926 and 1931, but copyright nonsense makes it impractical. IHS has IMR data -- so no need for a trip to NYPL for IMR data. 
 
+
+Columbia has various entries for [1911 Census](https://clio.columbia.edu/catalog?commit=search&q=%22South+Africa+Census%2C+1911.%22&search_field=subject)
+
+I downloaded [the 1911 census](https://www.dropbox.com/s/rd2ghde839fq7in/Census_1911.pdf?dl=0) from google books. pdf 243 Annexures to General Report Pretoria 1912
+
+
+Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
+241-334 Part 1 Population and Dwellings pdf 241
+242 Census Tables, 1911 ... show tables of pp 7-93  
+335 Census 1911 Annexures to General Report, Part 2   337:Ages of the People
+341p99 Afrik-language TOC   343p101 Part II  Comparative Summmary under/over 15
+346p104 Table IV Numbers re Age 21 (under/over)  348p106 proportions under/over 21, 15
+352p110 Table VII Union and each Province, Proportions re Age 21
+354p112 Table VIII Whites 0-4 5-9 etc  1911 1904
+360p118 Table XII Orange F S, Ages 1911 1904 0-5 
+**single year 1 to 5** 
+362-367 Table XIII Ages Union, and by Provinee, Urban+Rural  pdf362-367 **single year 1-5** 
+
+368 Table XIV Proportions 374p132 Table XV proportions, by race    
+380p138 Table XVI Urban, **single year 1-5** 144 Table XVII Proportions 392p150 TableXVIII proportions 396p154 Table XIX Numbers, single year, centres 2000 and more  402p160 Table XIX continued  408p166 TableXX RURAL    414p172 Table XXI rural proportions  420p178 Table XXII Proportions  424p182 Table XXIII Ages: Union, Provinces, Census Districts  440p198 Table XXIII continued         477- Census Tables Part III Education
+
+
+Census of the Union of South Africa, [1911 search-only Hathi](https://catalog.hathitrust.org/Record/100615661)
+
+Census of the European or white races of the Union of South Africa, [1918](https://catalog.hathitrust.org/Record/009676009)
+
+1921 Third census of the population of the Union of South Africa  -- HATHI search-only  f548p18 asiatics by age;
+
+[1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa.    Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics    163Part3 341p1 372p32 occs & birthplaces
+
+
 ** Yearbooks **
 
 Maybe SR5 data for census years will be found in this set of the ["Official year book" at Hathi](https://catalog.hathitrust.org/Record/007119366), which has various years from 1924 to 1960. Or in [this set](https://catalog.hathitrust.org/Record/009064515) with various in the years 1917 to 1953.
@@ -993,34 +1025,6 @@ IMR from [YearBooks](https://clio.columbia.edu/quicksearch?q=Official+year+book+
 [1922 Yearbook Vol 5](https://books.google.ca/books?id=hNIzAQAAMAAJ) has rich data for 1910-1921. PDF p17 indicates that 1922 repeats and adds to the stats data in vols 1-4 (No. 1, 1917, has 1910-16; No. 5, 1921, has 1910-21).     
 p157-59   Ages of the people, lots of u5 data for 1904, 1911, 1918.    
 p158 urban/rural 1911 1918
-
-Columbia has various entries for [1911 Census](https://clio.columbia.edu/catalog?commit=search&q=%22South+Africa+Census%2C+1911.%22&search_field=subject)
-
-I downloaded [the 1911 census](https://www.dropbox.com/s/rd2ghde839fq7in/Census_1911.pdf?dl=0) from google books.
-Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
-241-334 Part 1 Population and Dwellings pdf 241
-242 Census Tables, 1911 ... show tables of pp 7-93  
-335 Census 1911 Annexures to General Report, Part 2   337:Ages of the People
-341p99 Afrik-language TOC   343p101 Part II  Comparative Summmary under/over 15
-346p104 Table IV Numbers re Age 21 (under/over)  348p106 proportions under/over 21, 15
-352p110 Table VII Union and each Province, Proportions re Age 21
-354p112 Table VIII Whites 0-4 5-9 etc  1911 1904
-360p118 Table XII Orange F S, Ages 1911 1904 0-5 
-**single year 1 to 5** 
-362-367 Table XIII Ages Union, and by Provinee, Urban+Rural  pdf362-367 **single year 1-5** 
-
-368 Table XIV Proportions 374p132 Table XV proportions, by race    
-380p138 Table XVI Urban, **single year 1-5** 144 Table XVII Proportions 392p150 TableXVIII proportions 396p154 Table XIX Numbers, single year, centres 2000 and more  402p160 Table XIX continued  408p166 TableXX RURAL    414p172 Table XXI rural proportions  420p178 Table XXII Proportions  424p182 Table XXIII Ages: Union, Provinces, Census Districts  440p198 Table XXIII continued         477- Census Tables Part III Education
-
-
-1921 Third census of the population of the Union of South Africa  -- HATHI search-only  f548p18 asiatics by age;
-
-[1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa.    Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics    163Part3 341p1 372p32 occs & birthplaces
-
-
-Census of the Union of South Africa, [1911 search-only Hathi](https://catalog.hathitrust.org/Record/100615661)
-
-Census of the European or white races of the Union of South Africa, [1918](https://catalog.hathitrust.org/Record/009676009)
 
 [maybe](https://catalog.hathitrust.org/Record/008616578)    Simkins & van Heyningen article seems to have leads
 
@@ -1045,6 +1049,64 @@ Page 47 lists births, as M F for Total/Euro/Not and Urban/Rural; also Totals 190
 
 IHS cites South Africa Statistical Year Book (1912–13, 1915–16); Official Yearbook of South Africa (1917–60); South African Statistics (1964 ongoing). And IHS gives white IMR 1910-1990; 1910 value in IHS is 89 but 1922 YrBk has 91.24  and 1980/1 has 88.5
 A7 Africa: Deaths of Infants under One Year Old per 1,000 Live Births  IHS 1750-2010: Africa, Asia and Oceania  
+
+
+At Hathi  1968-1995    Suid-Afrikaanse statistieke : opgestel deur die Buro vir Statistiek, Pretoria = South African statistics : compiled by the Buro of Statistics, Pretoria.  From 1992 or so, got age04 59 data
+
+At Hathi 1970 South Africa Census (subject), No "full view"  -- maybe Columbia has temporary access? 
+
+1891 Cape Good Hope, 1891 Natal:  age by sex for ages 1,2,3,4, and quints thereafter  -- SR1various.wk4 in econhist has the start of tabulating the SR by age   **1891 South Africa** has the heaping at age 0 relative to 1 
+
+
+#### South Africa Census 1911
+
+Place       |time |ratio|Nonwhite|White|Black|     |    | | 
+------------|-----|------|-----|-----|---- |-------|----|-|
+South Africa|1911 | SR1  |92.3 |104.9|91.5|       |    | | 
+South Africa|1911 | SR02 |93.0 |105.4|92.0|       |    | | 
+South Africa|1911 | SR05 |93.7 |103.2|92.9|       |    | | 
+
+
+Place       |time |ratio|Black|White|Other|       |    | | 
+------------|-----|------|-----|-----|---- |-------|----|-|
+South Africa|1911 | SR1  |91.5 |104.9|98.0 |       |    | | 
+South Africa|1911 | SR02 |x1.5 |105.4|x8.0 |       |    | | 
+South Africa|1911 | SR05 |92.9 |103.2|98.7 |       |    | | 
+
+
+
+**Source**: South Africa Census 1911, pp. 120-21 (populations by age and sex).
+
+Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
+241-334 Part 1 Population and Dwellings pdf 241
+242 Census Tables, 1911 ... show tables of pp 7-93  
+335 Census 1911 Annexures to General Report, Part 2   337:Ages of the People
+341p99 Afrik-language TOC   343p101 Part II  Comparative Summmary under/over 15
+346p104 Table IV Numbers re Age 21 (under/over)  348p106 proportions under/over 21, 15
+352p110 Table VII Union and each Province, Proportions re Age 21
+354p112 Table VIII Whites 0-4 5-9 etc  1911 1904
+360p118 Table XII Orange F S, Ages 1911 1904 0-5 
+**single year 1 to 5** 
+362-367 Table XIII Ages Union, and by Provinee, Urban+Rural  pdf362-367 **single year 1-5** 
+
+368 Table XIV Proportions 374p132 Table XV proportions, by race    
+380p138 Table XVI Urban, **single year 1-5** 144 Table XVII Proportions 392p150 TableXVIII proportions 396p154 Table XIX Numbers, single year, centres 2000 and more  402p160 Table XIX continued  408p166 TableXX RURAL    414p172 Table XXI rural proportions  420p178 Table XXII Proportions  424p182 Table XXIII Ages: Union, Provinces, Census Districts  440p198 Table XXIII continued         477- Census Tables Part III Education
+
+[1926 census](https://catalog.hathitrust.org/Record/101697766), Third census of the population of the Union of South Africa, ... South Africa. 
+Part II Ages (Europeans)  Part VIII a Natives b Coloured & Mixed  c Asiatics
+ 163Part3 341p1 372p32 occs & birthplaces
+
+Implied by SR1 of Blacks in 1980, M-G & Fourie
+
+ prelim |year|Black|Total |NonBlack |     |                                      |    | | 
+--------|----|-----|-----|-----|---- |--------------------------------------|----|-|
+ S Afr       |1980|99.4|102.4 |113 |     |                                      |    | | 
+  S Afr     |1991|98.7|102.5 |112 |     |                                      |    | | 
+sources: Black: South African census, as reported by Marco-Gracia and Fourie (2019); Total, UN [World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)   Maybe M-G & F use the 1985 census, rather than 1991?
+
+Nonblack calculated via 1991 census population composition reported by [Treiman, Mckeever, Fodor (1996 Demography)](https://link.springer.com/article/10.2307/2061717) Racial differences in occupational status and income in South Africa, 1980 and 1991; *Demography* volume 33, pages 111–132.
+
+
 
 <a name="AFRICA"></a>
 
