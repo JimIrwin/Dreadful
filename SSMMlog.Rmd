@@ -14,7 +14,8 @@ output: html_document
 ### current log ###
   
 
-2022.0219 Ji makes 1 more pass through text and notes, with various suggestions (which Js can use or not). Ji to review Sources and References; and presumably one more proofing-pass at text/notes. But as of 15:00 est, it's packing time (for Eff-Calif road-trip)
+2022.0219 Ji quits for the day, with the passage about breastfeeding and prediction error NOT working yet ... Will have some time to work on it during the drive to Effingham tomorrow ...
+Ji makes 1 more pass through text and notes, with various suggestions (which Js can use or not). Ji to review Sources and References; and presumably one more proofing-pass at text/notes. But as of 15:00 est, it's packing time (for Eff-Calif road-trip)
 
 2022.0218  finished up with suggested revision to intro. 
 
