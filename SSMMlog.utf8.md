@@ -1,7 +1,7 @@
 ---
 title: "SSMM-Log : Captains' Log for the SSMM/SR1 Project "
 author: "jri & jrm"
-date: "09 February, 2022"
+date: "28 February, 2022"
 output: html_document
 ---
   
@@ -12,6 +12,79 @@ output: html_document
 
 
 ### current log ###
+
+2022.0227 3 issues: where is Norway population data? Not in HMD_pop. Why are we not using NZ 1867 & 1874? Should we tweak UK dates, advance them 1 year in 20thC to avoid 1-year overlap (IMR of 1921 used for CSRs 1921 & 1925)
+<br>Ji still has Netherlands, Norway, Scotland, Spain, Sweden, USA-HMD, and References to complete the appendix. Ji has values from Js RDS to check against HMD. 
+<br>Ji doing data appendix as per HMD directives (user agreement). When "raw input" is in our HMD RDS then we need to cite the original sources (via HMD).
+<br>**NZ** Jim to figure out why we are not using 1874 and 1867?
+2022.0226 Ji working on data appendix ... not sure about cites/refs in Appendix. Forsstrom appendix has neither cites nor references. This Feb 2022 Res Note [Appendix](https://dup.silverchair-cdn.com/dup/Content_public/Journal/demography/59/1/10.1215_00703370-9710353/4/villarreal_esm.pdf?Expires=1648894258&Signature=ppdLrEo72P1vfuyBA7twx-kenmwCvygThbaSn0Tl1tBonXVBW9hRmMRMGbkRY1rFab9PGNC1z-gwRPBIUfzm--0LmHvd6nsX5q1QX1ysgqwgWFLTm1NIbdww~VuAHeQQMxvbkYFG1OKNnQxKlPVie2x~xA0MUlio8wK8SGyDlghydMNMiEEYVRRdEbU9OlMOdXRWXUN6pi5ZcE~OmVtY-2t8zTaONORja5ZQAWiNkrWszEhc0CFxuex8UrYzfvtxFWIpq6yNJZdcePhfA25FqPT6PqPeuQvHhFyM7guEUOARUP7LkzSJoqmG~DS6w6VvffoeeHYCVE0MUG0ZE0-Z1A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) has references and footnotes. URLs in square brackets [  ]
+
+Ji suggest we use Istat for Italy -- new data entered for Js
+  
+2022.0224  
+Re LT cite --Preston & VandeWalle?
+missing references  Waldron 1998, Klasen & Wink 2003, Butler & Rothman, South Africa Census 1911, Morse & Luke, 
+references w/o cites: Hacker (2010) -- but we should include for remark that "Estimating infant mortality and life expectancy at birth from life expectancy at age 20, however, is problematic. 
+
+Ji wants us to coin a term: mortal misogyny or fatal misogyny
+Ji thinking Hacker
+Ji wondering if 15-17% are in the range of "typical" excess male IM -- maybe key is whether we believe early 18thC France imr data ?
+Ji wrapping up appendix (having realized that ln(qm/qf) ~ (qm-qf)/q   Needs to check his big Demography tome to see if Taylor-series approximations are familiar to demographers ...
+
+2022.0219 Ji quits for the day, with the passage about breastfeeding and prediction error NOT working yet ... Will have some time to work on it during the drive to Effingham tomorrow ...
+Ji makes 1 more pass through text and notes, with various suggestions (which Js can use or not). Ji to review Sources and References; and presumably one more proofing-pass at text/notes. But as of 15:00 est, it's packing time (for Eff-Calif road-trip)
+
+2022.0218  finished up with suggested revision to intro. 
+
+
+
+page 5
+a powerful indicator of infant mortality and maternal distress. 
+n15 Our results suggest extremes of racial inequality in South  
+a strong sign of high IM ...   / a powerful indicator of 
+maps onto comparative well-being ...  maps onto?  / expands knowledge of / provides new insight on / offers new insights on-in
+
+
+2022.0212   Ji check Italy source statement -- more info needed?
+
+2022.0211 
+Ji: Does one of our cites claim Graunt has excess male IM? (if so, an error)
+Ji: check Preston 1976 and Vallin/bigDemogBook on IM-SR
+
+
+Issue of leave-one-out approach -- see [Predictive inference with the jackknife+](https://www.stat.cmu.edu/~ryantibs/papers/jackknife.pdf)
+p487 1.1. Background. The idea of resampling or subsampling from the available data, in order to assess the accuracy of our parameter estimates or predictions, has a rich history in
+the statistics literature. Early works developing the jackknife and bootstrap methods include
+Quenouille [18], Quenouille [19], Tukey [26], Miller [15], Efron [8], Stine [23]. Several papers from this period include leave-one-out methods for assessing or calibrating predictive
+accuracy, similar to the predictive interval constructed in (1.2) above, for example, Stone
+[24], Geisser [10], Butler and Rothman [4], generally using the term “cross-validation” to
+refer to this approach. (In this work, we will instead use the term “jackknife” to refer to the
+leave-one-out style of prediction methods, as is common in the modern literature.) Efron and
+Gong [9] provides an overview of the early literature on these types of method
+
+Ji working on fn on when sex-differences in IM first recognized -- seems to be Clarke (1786), but Théré & Rohrbasser (2006 Hi Fam) give credit to Stuyck and    [Struyck p187](Stuyck1740p187.png) is about stillbirths, I think -- Jesse to confirm.
+
+Also - T&R claim Moheau recognized IM-SR -- Jesse please check [p207](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu56263562&view=page&seq=229&skin=2021) and following 3-4 pages.  [p216](https://babel.hathitrust.org/cgi/pt?id=nnc1.cu56263562&view=page&seq=238&skin=2021) might show m f IMRs of 1/4 and 1/5?
+
+
+2022.0210 Arduous journey to discover that Graunt doesn't have infant or child mortality (infers births from christenings). Instead Clarke 1786 is earliest Ji has found. Lit page is a mess, so search for Clarke to find relevant section ... 
+
+
+In our SSMLit Ji tended to combine SRB and SR-IM (sex ratio of IM), so care needed. Thus Arbuthnot has SRB male skewed, but not IMR male skewed; and Grech historical overview is about SRB.  
+  
+Do we need to cite Pongou for interaction of environ with SRB and excess male IM?
+
+WHO 1976 perinatal 28wks gestation to 1st week of life      
+      
+Ji wondering about our leave-one-out method. From Barber et al. :  
+   
+    Several papers from this period include leave-one-out methods for assessing or calibrating predictive accuracy, similar to the predictive interval constructed in (1.2) above, for example, Stone [24], Geisser [10], Butler and Rothman [4], generally using the term “cross-validation” to refer to this approach. (In this work, we will instead use the term “jackknife” to refer to the leave-one-out style of prediction methods, as is common in the modern literature.) Efron and Gong [9] provides an overview of the early literature on these types of methods      
+
+Lei et al mention Butler & Rothman
+
+
+2022.0209 Ji rewrote abstract
+
 
 2022.0208 made comments on PDF of draft two. Big step toward the submission, but (1) some substantive issues to address and (2) needs some streamlining of the presentation/argument.     
 

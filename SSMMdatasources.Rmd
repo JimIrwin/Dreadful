@@ -422,8 +422,7 @@ Yearbook 1886 p3. has 1880 u5 pops 1449168 1465661, matches IHS/Mitchell (2013:p
 Page 5 has infants deaths, m & f, <1month, 1-12mos. HMD says “In general, the degree of completeness is high enough to classify Austrian birth statistics as being of high quality”.
 HMD’s birth count for 1880s are only about ⅕ of Austria’s YrBk for 1886. From MItchell/IHS it seems YrBk does not include Salzburg.
 
-Modern/small Austria's [u5 pops at censuses from 1869](file:///home/jim/Downloads/population_stat.yearbook.pdf)
-found at http://www.statistik.at/web_en/nomenu/searchresults/index.html [Population (Stat.Yearbook](http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&RevisionSelectionMethod=LatestReleased&dDocName=042776)  But that is a very small version of Austria
+Modern/small Austria's [u5 pops at censuses from 1869](http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&RevisionSelectionMethod=LatestReleased&dDocName=042776) in the 2010 Statistisches Jahrbuch. Ji found it in a search at [Statistics Austria](http://www.statistik.at/web_en/nomenu/searchresults/index.html). That Jahrbuch is available at [Open Data Portal Metropole Ruhr](https://opendata.ruhr/dataset/statistische-jahrbucher/resource/dd7ed193-885e-467f-a3a1-f3440761fd86) [Population (Stat.Yearbook](http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&RevisionSelectionMethod=LatestReleased&dDocName=042776)  But that is a very small version of Austria
 
 [1868](https://www.google.com/books/edition/Statistisches_Jahrbuch_f%C3%BCr_das_Jahr/lz5YAAAAYAAJ) p20 for infant deaths     
 [1873](https://www.google.com/books/edition/_/h0NYAAAAYAAJ?gbpv=1)  p44 infant deaths? 
