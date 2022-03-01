@@ -9,9 +9,37 @@ output: html_document
 
 [dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
 
-
+## To do for submission
+Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869; 
 
 ### current log ###
+
+
+
+
+2022.0228  
+USA u5 pops decennially 1940-1970 from 1980 census. HMD data is weird to describe/cite -- no need!
+-- even the "input" data is highly manipulated ... We just need 1940, 1950, 1960, 1970 ... 1980 is good.
+
+Spain -- use HMD DATA not HMD raw -- that stuff is crap.  And use HMD-data for IMR, start IMR 1930 because of false-stillbirth issue (corrections made 1930 onward). Or drop Spain for missing girls?
+
+
+
+https://jrmcirwin.github.io/sr1/US-BW.pdf  has typo      (HSUS Series Ab923,921; CDC-NCHS, Health, US, 2003, Table 19, p. 21) PAGE 121 not p21
+       
+       
+looking at Spain -- data a mess, insomuch as HMD values are much different from census
+HMD's 1920    251479.74       269065.69       520545.43
+input 1920    218090          224156  RefCode 29 1920 census 
+INE data has m0 Jul1 1981 296547  Jan1 293066 https://www.ine.es/jaxiT3/Datos.htm?t=31304
+HMD-Js   has m0 1981 302091 ref code 23   
+code 23 is 23  Source  Instituto Nacional de Estadística (INE). (1985). Censo de la Población de 1981: Resultados nacionales, Characteristicas de la Poblacion. Tomo I, Volumen I. Madrid: INE. Comments
+(Census) Census counts 1981. De jure population as of 1 Mar 1991
+      
+Scotland 1921 u5 ref code 14  single years code 12
+Ji's u5.rds & imr.rds updated. IMR unchanged.  NZ Ji adds u5pops 1867 1874 1926 (their USE flags were blank)        set USE=0 for 1948 non-Maori (overlap with 1951), but it was below the row-range of makeRDS.R;
+NLD 1869 or 1870?  -- 1870 is *a priori* more reliable via NLDcom.pdf
+Official population estimates date back to the beginning of the 1870s. During the period 1870-1930, these data were published together with the outcomes of the censuses or in the publications of the Dutch life tables (Tabeau, van Poppel, & Willekens, 1994)
 
 2022.0227 3 issues: where is Norway population data? Not in HMD_pop. Why are we not using NZ 1867 & 1874? Should we tweak UK dates, advance them 1 year in 20thC to avoid 1-year overlap (IMR of 1921 used for CSRs 1921 & 1925)
 <br>Ji still has Netherlands, Norway, Scotland, Spain, Sweden, USA-HMD, and References to complete the appendix. Ji has values from Js RDS to check against HMD. 

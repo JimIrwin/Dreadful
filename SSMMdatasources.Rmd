@@ -59,6 +59,7 @@ The World Bank. [Civil Registration and Vital Statistics for Monitoring the Sust
 Summary view of societies, time-periods for which we have good IMR/SR data.     
 Nordic countries: Denmark (1840-1970), Finland (1885-1970), Iceland (1845-1970), Norway (1890-1970) and Sweden (1751-1970)
 
+
 Corsini & Viazzo (1997), [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)  TO LOOK OVER?
 
 
@@ -69,6 +70,9 @@ Nothing new for us in JSSL 1885 "Statistical Results of the last Census of Franc
 many 19-c sources listed in Galloway, Patrick R., "The golden age of published demographic data in Europe 1850-1915: sources and research possibilities", 2008. [Download](http://www.patrickrgalloway.com/galloway_2008_golden_age.pdf)  See his Table 1. Principal Official Publications of Census and Registration Data for Major European Countries to around 1905. 
 
 Portugal Mitchell reports IMR 1970 58   1960 78     1950  94    1940     1930    1920 
+
+#### Netherlands NLD
+via HMD maybe we ought to look at [nidi](https://nidi.nl/en/) for their database?
 
 
 <a name="ITALY"></a>
@@ -509,6 +513,9 @@ The data are found in HMD Norway (where years refer to year-beginning). Our year
 
 1930 census, not volume 1; 
 
+pasted here, from Appendix, just in case it is useful: Statistics Norway (1910), *Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901*. Norges Officielle Statistik V. 113. Kristiania (Oslo), H. Aschehoug & Co.
+
+
 Details     
 1845 (Jan 1 1846) HMD, which has same values as in Norges folkemængde; corroborated with reference to census u7 values found in Hist-Stat 1948.     
 [1855 census](https://www.ssb.no/a/histstat/nos/st_16r_1846-55.pdf) ; p viii (pdf 9) for 5yr age groups. Also p30 (table No. 4 seems to have geographic detail) <br>
@@ -526,7 +533,7 @@ Historisk statistikk 1978 (pp. 34-35)  has u5 pops 1900, 1930, 1960, 1975. So do
 
 The U5 ages also on pdf3478 of Mitchell (2013) -- they are rounded but otherwise seem to match censuses.
 
-[Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901 (Population de droit](https://www.ssb.no/a/histstat/nos/nos_v_113.pdf). Norges hjemmehørende : resident population (de droit)          
+Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901 (Population de droit](https://www.ssb.no/a/histstat/nos/nos_v_113.pdf). Norges hjemmehørende : resident population (de droit)          
 Tableau no 1. Population de droit de la Norvège répartie par années d'âge au commencement de chacune des années de 1846 à 1901; pp32-37 (pdf47)  Tab 2 5yr age-groups by year.      
 Translation from Norwegian: The figures relating to the population on January 1, 1846, 1856, 1866, 1876, 1891 and 1901, rely on censuses, while those for all intermediate year is calculated.       
 See below for more on this source.      
@@ -679,6 +686,7 @@ Brazil's [IBGE](https://loja.ibge.gov.br/) has historical statistics for [downlo
 
 u5 populations by sex. 
 
+We use 1867, 1874, 1881, ...
 1864, 1867, 1871, 1874, 1878, 1881: [Results of a census of the colony of New Zealand, taken for the night of the 3rd of April, 1881](https://www3.stats.govt.nz/historic_publications/1881-census/1881-results-census.html#idchapter_1_92910), 
 Chapter 28, Table 1 ("Showing the Increases of Persons ... at different Ages ... the various censuses ... 1864 ... 1881).      
 
@@ -1174,12 +1182,18 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+For Dempap, 1940-1970, decennial census values of u5 -- 
+ raw 1940 raw f0  995356 RefC 45  HMD data  998165.28      1034937.60 
+ raw 1950 raw f0 1544340
+ 
+ 1940 1980cen 103.2; also that in pe11, hmdinput; HMDdata 103.1;    -- 1940census 103.6 
+ 1950 1980cen 103.9; also that in pe11, hmdinput, HMDdata, 1950cen 
+ 1960 1980cen 103.4; also that in pe11, hmdinput, HMDdata, 1960cen
+ 1970 1980cen 104.0; also that in pe11,  hmdinput, 1970cen (HMDdata 103.9) 
 #### SR Population counts
 
 <p> 1850 
 </p>
-
-
 <p>our spreadsheet USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
 <p>PUMS data extracts (on Jim's computer or drive)   </p>
 <p>National **white** SR5 discrepencies over 0.1% --  1870 PUMS is 0.3 less male **important** insomuch as it is against our findings;   
@@ -1267,8 +1281,12 @@ And same values in Linder & Grove.
 
 <br>[NVSS HIST293](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98) 
 
+<br>THis [page](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) about VS history attributes to  
+[Hetzel AM](https://www.cdc.gov/nchs/data/misc/usvss.pdf) U.S. Vital Statistics System Major Activities and Developments, 1950-95. 72 pp. (PHS) 97-1003 pdf icon[PDF – 724 KB]
+
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
-<br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
+
+ 
 </p>
 
 
@@ -1444,7 +1462,7 @@ Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 
 
 <br> 20th C sources   
 [1992 Vital Stats](https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf) for HSUS IMR 1915 on. pdf p507 </p>
-
+US Infant mortality data
 
 <p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
 </p>
@@ -1493,6 +1511,9 @@ p xiv The registration record was accepted as sufficiently complete and satisfac
 1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
 [1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Jan.1; [1910](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Apr 15; 1920 Jan 1;   
 </p>
+ 
+<br>[1900-1970 intercensal pops](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
+
 
 <p>Age by Race & Sex 1900 to 1970 in Table 53 of [US Summary](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_us1-07.pdf) from 1970 Census of Pop: Characteristics ... June 1973, Report Number Volume 1. Web page link is "chapter 7" but the text says "Chapter B".
 <br>1940 census v4 has 1920,1930,1940 single year ages for white/nonwhite; also 1910 for total population.
@@ -1565,7 +1586,9 @@ Chapter 2 (with ages) for PA seems to be missing (looked on Hathi too). Poked ar
 <p>Illinois at [Hathi](https://catalog.hathitrust.org/Record/102583049)
 <br>[PA ages Tables 18-20](https://www.dropbox.com/s/jzhux09h39clhfz/1980PATabs18-20.pdf?dl=0) extracted from  [Penn Volume](https://www.dropbox.com/s/3nectos2e359yql/PA_1980_Vol1B.pdf?dl=0) downloaded from GoogleBooks.Ca
 </p>
-**1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) <br> Generally Ch 4 on that webpage (URLs differ)<br>
+**1970** census  [Characteristics of the Population](https://www.census.gov/library/publications/1973/dec/population-volume-1.html) 
+<br> Maybe chapter numbered 7 on webpage is US total age data 
+<br> Generally Ch 4 on that webpage (URLs differ)<br>
 Table 19 Single Year of Age by Race and Sex p87 negro and negro&other   Table 24 p102 SSMA's Table 17 p85 race by sex -- no ages.
 <br>1970 Pop Vol 1 Unites States Summary
 <br> Section 1, [Ch 7](https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_us1-07.pdf) Table 50 single years by race & sex; pdf12 1-265 
