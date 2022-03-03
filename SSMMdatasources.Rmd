@@ -71,6 +71,26 @@ many 19-c sources listed in Galloway, Patrick R., "The golden age of published d
 
 Portugal Mitchell reports IMR 1970 58   1960 78     1950  94    1940     1930    1920 
 
+#### Belgium
+
+Dempap under-5 populations by sex (decennially 1846-1866 and 1880-1930; and 1947, 1961, 1970)
+
+[1893](https://babel.hathitrust.org/cgi/pt?id=coo.31924093364366&view=1up&seq=82&skin=2021) has 1846, 1856, 1866, 1880, 1890. p64 (hathi pg 82)
+[1908](https://hdl.handle.net/2027/mdp.39015033680532) has ages 1856 1866 1880 1890 1900 pp64-65 (1907-08 PDF 684-85)  catalog record at [Hathi](https://catalog.hathitrust.org/Record/000502577) 
+
+
+  1866 22  1846 1856 1880-1910 21  1920 22  1930 20    1947 10     1961 11   1970 12
+
+1866 and 1920: Ministère de L'Interieur et de L'Instruction Publique. Repartition des
+habitants sous le rapport de l'âge d'après les recensements généraux. In: Annuaire
+Statistique de La Belgique. Bruxelles: Imprimerie & Lithographie Ad. Mertens. 
+
+Not 1921 or 1922 [(Hathi full view)](https://catalog.hathitrust.org/Record/000502577)
+<br>[1923-24, 24-25](https://hdl.handle.net/2027/uc1.c070878640) 1923-24 yes 1910 & 1920
+ages NOT in Aperçus statistiques sur la Belgique établis d'après les tableaux de l'"Annuaire statistiquat Hathi
+
+Can't find 1940 Ann Stat for 1930  -- but IHS corroborates (2013:3442)
+
 #### Netherlands NLD
 via HMD maybe we ought to look at [nidi](https://nidi.nl/en/) for their database?
 
@@ -267,6 +287,9 @@ IMR from HSSO matches Mitchell/IHS 2013. Calc via 4yrs of data 1867-70 210.3, 4y
 [u5 ages](https://hsso.ch/en/1996/b/8) for censuses 1860 onward from HSSS
 
 [deaths by age](https://hsso.ch/en/2012/c/38)   Historical Statistics of Switzerland HSSO, 2012. Tab. C.38. hsso.ch/2012/c/38  Total Deaths by Age Group 1841–1870 (Estimate of I. and H. Ritzmann)
+
+https://hsso.ch/en?q=deaths+by+age&tp=eyJzdCI6bnVsbCwidHAiOm51bGwsImkiOltudWxsLG51bGxdfQ%3D%3D
+
 
 c39 Male Deaths (Excluding Stillborn Births) by Age Group 1867–1995    
 c40 Female Deaths by Age Group c40      Total Deaths by Age Group c41
@@ -508,7 +531,7 @@ The data are found in HMD Norway (where years refer to year-beginning). Our year
 1946 [Folketellingen i Norge 3. Desember 1946, Tredje hefte](https://www.ssb.no/a/histstat/nos/nos_xi_041.pdf), p. 2 (Recensement de la population le 3 décembre 1946, III). 
 1950 [Folketellingen 1, Desember 1950 Annet hefte, Folkemengden etter kjønn, alder og ekteskapelig stilling](https://www.ssb.no/a/histstat/nos/nos_xi_146.pdf), p. 2 (Population Census December 1, 1950, Second Volume, p. 2). 
 1960  [Population Census Volume II](https://www.ssb.no/a/histstat/nos/nos_xii_117.pdf), p 8. Also Historisk statistikk 1978, p35.
-1970  [1970 census](https://www.ssb.no/a/histstat/nos/nos_a448.pdf) (Folkemengden etter alder og ekteskapelig status 31 Desember 1971) also Statistics Norway, Historiskonline table 3-3, ["3.3 Resident population, by sex, marital status and age"](https://www.ssb.no/a/histstat/tabeller/3-3-en.html); 31 Dec 1970.
+1970  [1970 census](https://www.ssb.no/a/histstat/nos/nos_a448.pdf) (Folkemengden etter alder og ekteskapelig status 31 Desember 1971) pp24-25  also Statistics Norway, Historiskonline table 3-3, ["3.3 Resident population, by sex, marital status and age"](https://www.ssb.no/a/histstat/tabeller/3-3-en.html); 31 Dec 1970.
 
 
 1930 census, not volume 1; 
@@ -817,7 +840,7 @@ Australia under-5 populations by sex: census values, populations "as recorded" 1
 
 Slightly different values are in ABD 3105.0.65.001 Table 2.1: "Population, age and sex, Australia, 30 June, 1901 onwards" (Released at 11.30am (Canberra time) 18 April 2019); downloaded 27 June 2021  from 3105.0.65.001 Australian Historical Population Statistics, 2019.   
 
-[Census volumes at ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyCatalogue&Action=Expand&Num=2.2)
+<h3>[Census volumes at ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/ViewContent?readform&view=ProductsbyCatalogue&Action=Expand&Num=2.2)</h3>
 
 [Dates](https://www.abs.gov.au/methodologies/historical-population-methodology/2016) of censuses      
 1871 Apr 2 (QuLd Sep)  1881 Apr 3, 1891 Apr 5, 1901 31 Mar; April 1-3 for 1911, 1921. 1936 forward June 30.  
@@ -1753,7 +1776,8 @@ To think about: if 11mo olds are rounded up, how does that distort the SR1? It w
 <br>
 
 **1890** census
-<p> Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states, Ages by U1 months and single years (we have it in 2 parts). Table 3 sex by age groups;  Table 4 ages by periods of years of native white; Table 8 Ages by periods of years ... for cities having 25,000 inhab or more </p>
+AGES in [Eleventh Census - Volume 1. (Part I & Part II) Report on Population of the United States](https://www.census.gov/library/publications/1895/dec/volume-1.html)
+<p> Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states: ages by U1 months and single years (we have it in 2 parts). Table 3 states' sex by 5-year age groups;  Table 4 ages by periods of years of native white; Table 8 Ages by periods of years ... for cities having 25,000 inhab or more </p>
 <p>At [older link](https://www.census.gov/prod/www/decennial.html), 
 Volume 4: Report on Vital and Social Statistics in the United States<br>
 Part 1: Analysis and Tables <br>
@@ -1780,7 +1804,7 @@ Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications
 
 **1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
 
-[**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages.    Vol 1? tables large age group"ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5
+[**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages in 1870, 1860, 1850. .    Vol 1 tables have large age group -- "ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5
    City-level data for SRs not found. V1 Tab XXV has school age counts.
 
 

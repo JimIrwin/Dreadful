@@ -16,6 +16,13 @@ Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;
 
 
 
+2022.0302 
+For final version: add US 1940-1970 and drop Mass 1860 (Haines says 1860 is start of good IMR)
+
+
+
+REFS: spacing between items.
+REFS: If no author is identified for a source, begin the first entry with the title of the work. Alphabetize by the first word in the title other than “A(n)” or “The.”
 
 2022.0228  
 USA u5 pops decennially 1940-1970 from 1980 census. HMD data is weird to describe/cite -- no need!
