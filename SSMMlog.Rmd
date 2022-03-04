@@ -14,7 +14,7 @@ Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;
 
 ### current log ###
 
-
+2022,0303  Discover England's quinquennial 1901-1971 is solid data (ONS), but HMD uses other stuff for 1916, 1936,1941,1946 (wartime mortality interests them). Appendix now reflects my preferred appraoch ... .
 
 2022.0302 
 For final version: add US 1940-1970 and drop Mass 1860 (Haines says 1860 is start of good IMR)

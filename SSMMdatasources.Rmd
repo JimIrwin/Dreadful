@@ -71,7 +71,7 @@ many 19-c sources listed in Galloway, Patrick R., "The golden age of published d
 
 Portugal Mitchell reports IMR 1970 58   1960 78     1950  94    1940     1930    1920 
 
-#### Belgium
+#### Belgium  BEL
 
 Dempap under-5 populations by sex (decennially 1846-1866 and 1880-1930; and 1947, 1961, 1970)
 
@@ -88,11 +88,19 @@ Statistique de La Belgique. Bruxelles: Imprimerie & Lithographie Ad. Mertens.
 Not 1921 or 1922 [(Hathi full view)](https://catalog.hathitrust.org/Record/000502577)
 <br>[1923-24, 24-25](https://hdl.handle.net/2027/uc1.c070878640) 1923-24 yes 1910 & 1920
 ages NOT in Aperçus statistiques sur la Belgique établis d'après les tableaux de l'"Annuaire statistiquat Hathi
-
+  
 Can't find 1940 Ann Stat for 1930  -- but IHS corroborates (2013:3442)
+
+### France (added 2022.0303) 
+HMD says Vallin, J. and F. Meslé. (2001). Tables de mortalité françaises pour les XIXe et XXe siècles et projections pour le XXIe siècle. Paris: Instit national d’études démographiques [as cited in the HMD]
+CAN"T FIN
+
+
 
 #### Netherlands NLD
 via HMD maybe we ought to look at [nidi](https://nidi.nl/en/) for their database?
+
+Tabeau, E., van Poppel, F., Willekens, F. (1994). Mortality in the Netherlands: the Data base. NIDI, The Hague, Netherlands. [as cited in HMD]
 
 
 <a name="ITALY"></a>
@@ -323,6 +331,8 @@ Prussia 1875  ~220 101.1
 u5 populations
 1871 IHS-A7-3580; 1880: Statistisches Jahrbuch 1883, p. 10; 1890: Statistisches Jahrbuch 1896, p. 5;   1900: Statistisches Jahrbuch 1903, p.6;  1910: Statistisches Jahrbuch 1919, pp. 6-7;  1925:  Statistisches Jahrbuch 1919, p. 14; 1933: Statistisches Jahrbuch 1939, p. 14.
 
+East Germany  HMD says Statistisches Bundesamt, ed. (1996). Bevoelkerungsstatistische Uebersichten 1946 bis 1989 (Teil II). Wiesbaden: Arbeitsunterlage. (Sonderreihe mit Beitraegen für das Gebiet der ehemaligen DDR, Heft 28) [as cited in the HMD].   -- 
+
 
 [Statistical Yearbooks](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303) 1880-1941/42 are online from German site.      
 [1903](http://www.digizeitschriften.de/dms/toc/?PID=PPN514401303_1902) has age/sex [p6](http://www.digizeitschriften.de/download/PPN514401303_1903/PPN514401303_1903___log7.pdf) has age/sex     
@@ -521,7 +531,8 @@ Official sources cast doubt on Norway IMR before 1876 (IHS has 1836 on). Thinkin
 
 Listing of Statistics Norway historical publications by subject [1828-1876 & 1977-96](https://www.ssb.no/a/english/histstat/publications/)
 
-<H4>Norway U5 Populations</H4>     
+<H4>Norway U5 Populations</H4>
+
 The data are found in HMD Norway (where years refer to year-beginning). Our years are year-end, to line up with IMR.     
 1845-1900 values are in [Norges folkemængde fordelt paa de enkelte aldersaar 1846-1901 (Population de droit](https://www.ssb.no/a/histstat/nos/nos_v_113.pdf), pp. 32, 34 (pdf 47, 49). Same values are in HMD.
 
@@ -585,6 +596,13 @@ Tab 3 30yr age-groups; Tab 4 1yr ages for 5yr periods; Tab 5 5yr age-groups by s
 Hist Stats 1978 has u7 sex/age at 10-year intervals 1845-1875, 1890-1900, and 5-year intervals 1900-1975.
 
 YrBk 1975 has u5 for 1972;  1971 has u7 values;
+
+  
+<!-- Data for 1946 are from the census of 1946^[Statistics Norway (1951), Folketellingen 1946, Hefte 3. [*Folkemengden etter kjønn, alder og ekteskapelig stilling, ...*](https://www.ssb.no/a/histstat/nos/nos_xi_041.pdf), Tabeller p. 2.] And the data for 1950 are from the census of that year.^[Statistics Norway (1953), Folketellingen 1950, Hefte 2. [*Folkemengden etter kjønn, alder og ekteskapelig stilling ...*](https://www.ssb.no/a/histstat/nos/nos_xi_146.pdf) (Population census December 1, 1950, Second volume, Population by sex, age, and marital status ...), Tabeller p. 2.] Data for 1960 from Folketellingen 1960, Hefte 2. [Folkemengden etter kjønn, alder og ekteskapelig status](https://www.ssb.no/a/histstat/nos/nos_xii_117.pdf). Data for 1970 from Statistics Norway (1971), [*Folkemengden etter alder og ekteskapelig status 31. desember 1970*](https://www.ssb.no/a/histstat/nos/nos_a448.pdf) (Population by age and marital status 31 December 1970), pp. 24-25. -->
+
+HMD cites Borgan, J-K. (1983). Kohort-dodeligheten i Norge 1846-1980. Central Bureau of Statistics of Norway. [as cited in the HMD; date of data given as 16-Mar-2011.
+
+
 
 **IMR stats**  Use IHS 1876-1970.
 
@@ -1434,6 +1452,11 @@ Some in 1955, Table 16, p 108
 [1855 MASS census](https://archives.lib.state.ma.us/handle/2452/122030) Table 2 (64-97 -119) gives totals in age-groups, but not by sex.  p222 discusses sex. Jim cannot find any sex/age data here. 
 
 [1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
+
+[1885 Mass](https://archives.lib.state.ma.us/bitstream/handle/2452/122033/ocm10085339-1885-v.1-pt.1.pdf?sequence=1&isAllowed=y) pdf532 p434 
+
+[1895 Mass v2](https://archives.lib.state.ma.us/bitstream/handle/2452/122034/ocm09219786-1895-v.2.pdf?sequence=2&isAllowed=y)   pdfs 7, 11, 442  ages recap 5ry p422
+
 </p>
 
 ##### Mass IMR 
@@ -1766,9 +1789,14 @@ Table 33 has USA, u5 m/f 1880 1890 1900 1910   Table 41 age periods, states <br>
 1910 Vol 2 NOT AGES  has state detail, section for each state, Table 1 has state and county
 <br>Looked for, and did not find, u5 by sex for previous years.
 
+
 **1900** Much like 1890, single-year for states (Table 2); age-groups for cities    
 vol 1 tables 1-4 NO age data; 
-[vol 2](https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf) <br>
+[vol 2](https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf)   Table 3 is states 5yr by sex
+
+
+
+<br>
 1900 bulletins 1-60, 61-106
 <br>Bulletin 13, "A Discusssion of Age Statistics"
 [discussion of age statistics](http://www2.census.gov/prod2/decennial/documents/03322287no13.zip) p18 indicates 1890 ages were "age at nearest birthday" and therefore confusion in 0 1 2 age groups  <br>
@@ -1804,8 +1832,12 @@ Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications
 
 **1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
 
-[**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages in 1870, 1860, 1850. .    Vol 1 tables have large age group -- "ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5
-   City-level data for SRs not found. V1 Tab XXV has school age counts.
+[**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages in 1870, 1860, 1850. .    
+
+Vol 1 tables have large age group -- "ages" is school age, 18+ ;  XXV some large age groups, some cities, but no way to get u5. Ninth census, volume 1, the statistics of the population of the United States embracing the tables of race, nationality, sex, selected ages, and occupations ...  Washington: GPO 1872   
+
+
+City-level data for SRs not found. V1 Tab XXV has school age counts.
 
 
 
@@ -2069,7 +2101,18 @@ age-heap 2001
 
 Also, [HistPop](http://www.histpop.org) has census data fairly conveniently (although it is often busy); might want to look at it compared to the "official" stats?
 
+
 Note that the 1931 census gives SR1 102.8 while RG69 gives 103.2 (1930 102)
+
+1911 [Hathi 1911](https://catalog.hathitrust.org/Record/000533841)
+
+1921 [U Calif](https://catalog.hathitrust.org/Record/100895311?type%5B%5D=subject&lookfor%5B%5D=%22%20Great%20Britain%20Census%2C%201921.%22&filter%5B%5D=topicStr%3AGreat%20Britain%20Census%2C%201921&ft=)  61 volumes listed
+
+
+hathi trust [UMinn lib](https://catalog.hathitrust.org/Record/100029687?type%5B%5D=all&lookfor%5B%5D=census%20of%20england%20and%20wales%201921&ft=ft)
+
+
+
 
 #### Britain before 1902####
 Three main "sources" (the first Brit & Ireland only): [Histpop-The Online Historical Population Reports Website](http://www.histpop.org); Hathitrust; GoogleBooks.    
