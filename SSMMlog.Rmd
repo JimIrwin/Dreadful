@@ -9,10 +9,13 @@ output: html_document
 
 [dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
 
-## To do for submission
-Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869; 
+<!-- ## To do for submission Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;  -->
 
 ### current log ###
+
+2022.0305 Ji confirms the appendix accurately describes the years of the SR5 data (and that the IMR years are in the subheadings, such as  Australia (1876–1971))
+
+2022.0304 drop HMD data for Eng&Wales in favor of Mitchell & ONS (same numbers in pop, but )
 
 2022,0303  Discover England's quinquennial 1901-1971 is solid data (ONS), but HMD uses other stuff for 1916, 1936,1941,1946 (wartime mortality interests them). Appendix now reflects my preferred appraoch ... .
 
