@@ -364,18 +364,32 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">03 March, 2022</h4>
+<h4 class="date">20 March, 2022</h4>
 
 </div>
 
 
 <p><a name="TOP"></a></p>
 <p><a href="https://jrmcirwin.github.io/sr1/DemPap_1.pdf">dempap link</a></p>
-<div id="to-do-for-submission" class="section level2">
-<h2>To do for submission</h2>
-<p>Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;</p>
+<!-- ## To do for submission Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;  -->
 <div id="current-log" class="section level3">
 <h3>current log</h3>
+<p>2020.0320 Consider using deaths per U5 pop instead of the IMR – if we think births data are wrong …</p>
+<p>Blanks to fill in for births: AL 1925, 1926</p>
+<p>2020.0319 for white urb/rur IMR by state, BSBRA T1 1917 1919 but what about 1920? Tab II has urb/rur all</p>
+<p>2022.0318 rural white births by state is BSBRA, maybe MS has u1 deaths rural? – nope, not 1916 2022.0316 RI ? added 1930 LA Al wondering if we can get DRA info not in BRA data? GET LA cities at least 1918 … etc And can extend BRA using DRA if missing just a year or two Fill in LA 1926 via deaths – best guess 1926 births same as 1927, so avgIMR 60.4 (w/o 1926 60.7) LA u1 deaths 1926 from MS – if births = min for 1927-30 eIMR 61.8 if avg 61.4 if max (1927 value), 60.4; 105% seems large annual swing, so look at that 1927*1.05 eIMR 59.8 1927/1.05 61.05 AL 59.8 to 60.9 via 5% births swing … use 1927 get 60.3 (w/o 1926 60.9) ALl about same</p>
+<p>2022.0314 for 1906-1910 IMR (infant deaths), 1906-09 offers only cities &gt; 100K, which I have entered (or just mostly?)</p>
+<p>2022.0314 thinking to get avg InfDeath for large pops of DRA, such as Chicago … 1910 deaths are 3.8% above the 1906-10 mean; MS1909 does not give totals for urb/rur in DRA states. It gives 1906-1909 u1 white deaths by sex, and 1906 is 104% of 1909; assuming 2% pop growth, the 1906 IMR would be 113% of 1909 – still similar in context of our precision. So we can focus on geographic dimensions?</p>
+<p>2022.0311 right now SRcenDRA has URB10500 and URB500P – the latter includes places like Cleveland and Pittsburgh … probably want those to be added to URB10500 … maybe just make the cutoff via CITYPOP .. Chi 21852 NYC 47668 Phil 15490 – cutoff at 15000</p>
+<p>separates urban(over 500K) from urban(10k to 500k)</p>
+<p>metros are Brooklyn 180K, NYCexBrk 320K, Philly 147K, Chicago 223K … then we drop down to Boston 63K, Clevel 62K, StLouis 58K, Pittsburgh 56K, Baltimore 46K</p>
+<p>1910 geography – NYC pop breaks into Brooklyn (KingsCo 470) NYCo (Manh&amp;Bronx 610) Queens (tiny 810) StatenIls (tiny 850 Richmond Co); infant-deaths (IDth) are available by borough. Ji splits NYC into Brooklyn (CITYj=4611) and rest-of-NYC (CITYj=4614) CITY=4610</p>
+<p>categories rur10 rural (pop&lt;10k) urb105 (pops 10k-500k) urb500p (cities over 1/2 )</p>
+<p>Cleveland deaths not avail by race – hope that the smaller metros are non-informative (relative to Reg cities generally), so we can simply dump Cleveland into OHIO registration cities. Otherwise, do rural-white urb10-50 all Cleve alll …..</p>
+<p>2022.0310 Ji assembling 1910 data: e.g Mass into 3 parts: rural, Boston, NonBostonUrban MS1910 says rural has cities &lt;10,000 But census1910 adopts 2,500 or more … so I would need to pull data for places of 2.5-10K Distribution by broad age periods of the population in places having from 10,000 to 25,000 inhabitants: 1910 . . . . • . . . . . . . 489 Could use 1910 MS data with PUMS —</p>
+<p>2022.0305 Ji confirms the appendix accurately describes the years of the SR5 data (and that the IMR years are in the subheadings, such as Australia (1876–1971))</p>
+<p>2022.0304 drop HMD data for Eng&amp;Wales in favor of Mitchell &amp; ONS (same numbers in pop, but )</p>
+<p>2022,0303 Discover England’s quinquennial 1901-1971 is solid data (ONS), but HMD uses other stuff for 1916, 1936,1941,1946 (wartime mortality interests them). Appendix now reflects my preferred appraoch … .</p>
 <p>2022.0302 For final version: add US 1940-1970 and drop Mass 1860 (Haines says 1860 is start of good IMR)</p>
 <p>REFS: spacing between items. REFS: If no author is identified for a source, begin the first entry with the title of the work. Alphabetize by the first word in the title other than “A(n)” or “The.”</p>
 <p>2022.0228<br />
@@ -1256,7 +1270,6 @@ SR2 drops 1.2 total, 0.5 in the 1880s and 0.7 in the 1890s <br> SR5 drops 1.0 to
 <p>
 <p><strong>Chicago</strong> <br> Postwar issue of SSMA versus urban area versus Chicago proper … E.g. 1960<br> 6.79m (1950 5.59m) 789k U5 “Chicago-NW Indiana Std Consolidated Area” <br> 6.22m (1950 5.18m) 712k U5 “Chicago SSMA”; but 1950 says: 5.495m 1940 4.825<br />
 3.55m (1950 3.62m) 381k U5 “Chicago” – 1950 says pop 3.62 – good fit! We use city of Chicago?</p>
-</div>
 </div>
 <div id="to-do" class="section level2">
 <h2>To do</h2>

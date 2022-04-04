@@ -13,6 +13,142 @@ output: html_document
 
 ### current log ###
 
+2022.0403 finished entering the 1890 mortality data -- ended with 18 mostly large (100k) observations; but realize that the 1890 is standalone because of age-question anomoly. Thinking we should disaggregate, maybe have building blocks of (say) 10k to 30k and then think of how to assemble,  But we do want an *a priori* take on what size of population is enough to keep errors-in-variables manageable size ... ...
+
+2022.0402 hope 1890 volumes give us rur/urb pop splits ...
+
+2022.0401
+  Jim to clarify -- from data on heights & weights --- to get a predictor of height from weight -- reg or reverse?
+ modelled Weight = -100 + 5*Height + randomErrro
+
+
+
+stumbled onto 1880 volume 11, 12 which have deaths data. v11 states 15-29; cities 499-56; v12 441-473 has cities & race     
+v11 499-56 has groups of cities -- check if they are deemed reliable data; if so, use!    
+
+
+
+
+2022.0331  
+new paper re: Cutler & Miller for us 1900-40 urban mortality  Anderson, D. Mark, Kerwin Kofi Charles, and Daniel I. Rees. 2022. "Reexamining the Contribution of Public Health Efforts to the Decline in Urban Mortality." American Economic Journal: Applied Economics, 14 (2): 126-57.
+DOI: 10.1257/app.20190034  with comment & reply
+
+Hist & Org of US VSS table 1.01 shows Iowa deaths reporting starts 
+via US life tables : should be able to have 1901, 1910 for Boston NY  Chic   Phila   -  8 obs
+
+
+
+looking at England, for life tables of 19th C (high IMR) to compare to 1921 or so (lower IMR) -- to show that it's been there for anyone who thought to look p23 excess male IMR 1841-1920
+  75th annual report should have LT7  ... look for #8 1910-12 and #9 which is in Registrar-General's Decennial Supplement, England & Wales, 1921. Part 1. Life Tables.
+     https://www.jstor.org/stable/41136791   says #7 is based on 1901-1911, so I want #6    
+     “English Life Table No.6.” Journal of the Institute of Actuaries 43, no. 3 (1909): 351–62. doi:10.1017/S0020268100025002. refers to RegGen 65
+ 75th supp has LT 7 1901-1910
+ Need part 1, not [Part II](http://www.histpop.org/ohpr/servlet/TOC?path=Browse/Registrar%20General%20(by%20date)/1891-1900&active=yes&mno=553&tocstate=expandnew&display=sections&display=tables&display=pagetitles) of Decenn suppl to reg-gen's 65th annual report
+  
+Ji suggests we consider an aggressive response to Demography – send out DemPap to 10 high-profile demographers, asking for their input in relation to Hayward’s suggestion that we need to explain why no one else came up with our idea of using CSRs as an indicator of maternal-infant misery and a proxy for IMR.
+
+
+
+
+1921 reggen pdf755 has 1921 imr Aus Can NZ SouAfr
+
+
+
+2022.0330 progress on 1915-19 
+
+1915-19 should have 15 good-sized observations with full imr data ... 
+Cities + larger places: 15
+Metrops + larger places:  15
+# NEXT n=15 : NYCxB Brkln Phila MassUrb CTurb othNEurb othNYurb othPAurb MIurb MNurb PArur NYrur MIrur MNrur NewEngRur  
+
+
+12 (4 cities, 4 state-urban, 4 state-rural) + otherNewEngRur + othNewEngUrb + midWestUrban(ex-Detroit)
+ not sure about Boston (too small?) and Pittsburgh (too small -- maybe break out other western PA cities? maybe group with Buffalo?)
+
+have for sure 12 large places: NYCexBrkl, Brooklyn, Phila, Detroit, urbanMass(ex-Boston), urbanNY(ex-NYC), urbanPA(exPhil,Pittsb), urbanCT, ruralPA, rurNY, rurMI, rurMN.  (Rural PA could split up to add up to 3 obs)
+Maybe Boston big enough, with u5white pop of 69K ; or fold it into MassUrban?
+Certainly pool non-Mass NewEngland rural and nonMass,nonCT NewEngland urbam
+Probably pool MnnStP with MnnUrb and MIurbanNonDetroit (13.7K+3.9K+16.8K)   
+   Not sure what to do with DC (small).
+
+
+
+CA is not a big part of our story, so useful to use for thinking about pooling to reduce binomial varation in CSR that will create attentuation bias in estimating the effect of q on CSR ... CA has 84k births in 1930, 49K are urban, 
+
+NY  brooklyn 1930 214k
+
+so with u5=100k, 1 std dev is 0.158% or less than 0.16%  ... our modelling says effect of q on lnCSR is mu*q where mu is excess male morality (relative to female). If we have mu=0.20 (small), then 0.16% change is caused by an IMR change of 0.8%-point or 8 per thousand (such as 100 to 92).  In our US panel, we are playing with IMRs in the range of 50 to 120, but most of the data are in the 50 to 90 range? 
+
+Can we go with 60k as the threshold -- 1 std is then 0.204% (like an 11-point IMR change?). Maybe we can try it with different minimum sizes?
+
+
+2022.0329 look at random variation in SR5 (as binomial) in relation to the sort of variation that life-tables predict -- say we have IMRs of 60  90  120   then what are the predicted values of SR5?   The we pick a minimum SR5 value so that teh random variation in SR is (say) only 10% as large as the systematic variation ...   with n=100k 1 std dev is .158%  which would push the SR5 0.67 towards female?
+
+
+wondering how to decide whether to combine LA & SanFran -- *a priori* if both small, then combine. 1930's u5 populations LA 79K  SanFr 32K   -- maybe the answer is to set a higher limit, like pop of 1 mill?
+
+
+
+2022.0328  for 1915-19 clean set of eIMR (5yr avg) for 25 places (rur/urb/metrop by state)  -- may want to collapse (aggregate) the smallest two ... thousand Births are 5.8 11.1 20.1 23.4 24.2 27.0 31.8  ... (5 yrs of that should give 4.5x those) ... probably
+
+noon: Finished data entry for US states (urb, rural, some big cities) for 1925-30 and 1915-20 and 1905-10. Turning now to R scripts to create various RDS files with IMR u1d 
+
+2022.0327 noting that black SB seem high -- maybe also SRB fem-tilted?
+  looking for Brooklyn 1925-28  -- have u1deaths but not births; so can break out Brooklyn for u1d/SR5 but not for IMR
+
+2022.0326  regress SR on IMR and on infDeath/u5pop -- which one wins?
+
+2022.0324 compiling rural/urban by state 1915-1920 and 1925-30; Next will do 1905-1910  and 1896-1900
+
+2022.0321  127-      
+2020.0320  Consider using deaths per U5 pop instead of the IMR -- if we think births data are wrong ...     
+CA 1930 can infer white/nonwhite -- but maybe treat it like AZ and go with "all" not with "white"?      
+Blanks to fill in for births:  AL 1925, 1926     
+
+2020.0319 for white urb/rur IMR by state, BSBRA T1 1917 1919   but what about 1920?  Tab II has urb/rur all
+    
+2022.0318  rural white births by state is BSBRA, maybe MS has u1 deaths rural?  -- nope, not 1916
+2022.0316 
+ RI ?
+added 1930 LA Al
+wondering if we can get DRA info not in BRA data?    GET LA cities at least 1918 ... etc  And can extend BRA using DRA if missing just a year or two 
+Fill in LA 1926 via deaths -- best guess 1926 births same as 1927, so avgIMR 60.4 (w/o 1926 60.7)
+LA u1 deaths 1926 from MS -- if births = min for 1927-30 eIMR 61.8 if avg 61.4  if max (1927 value), 60.4;  105% seems large annual swing, so look at that 1927*1.05 eIMR 59.8   1927/1.05  61.05 
+AL  59.8 to 60.9 via 5% births swing ... use 1927 get 60.3  (w/o 1926 60.9)  ALl about same
+
+
+
+
+
+2022.0314 for 1906-1910 IMR (infant deaths), 1906-09 offers only cities > 100K, which I have entered (or just mostly?)
+
+2022.0314 thinking to get avg InfDeath for large pops of DRA, such as Chicago ... 1910 deaths are 3.8% above the 1906-10 mean;
+MS1909 does not give totals for urb/rur in DRA states. It gives 1906-1909 u1 white deaths by sex, and 1906 is 104% of 1909; assuming 2% pop growth, the 1906 IMR would be 113% of 1909 -- still similar in context of our precision. So we can focus on geographic dimensions?
+
+2022.0311
+ right now SRcenDRA has URB10500 and URB500P -- the latter includes places like Cleveland and Pittsburgh ... probably want those to be added to URB10500 ... maybe just make the cutoff 
+  via CITYPOP .. Chi 21852 NYC 47668 Phil 15490    -- cutoff at 15000
+ 
+ separates urban(over 500K) from urban(10k to 500k)  
+
+metros are Brooklyn 180K,  NYCexBrk 320K, Philly 147K, Chicago 223K ... then we drop down to Boston 63K, Clevel 62K, StLouis 58K, Pittsburgh 56K,   Baltimore 46K
+
+
+1910 geography -- NYC pop breaks into Brooklyn (KingsCo 470) NYCo (Manh&Bronx 610) Queens (tiny 810)  StatenIls (tiny 850 Richmond Co); infant-deaths (IDth) are available by borough.  Ji splits NYC into Brooklyn (CITYj=4611) and rest-of-NYC (CITYj=4614) CITY=4610
+ 
+categories rur10 rural (pop<10k) urb105 (pops 10k-500k) urb500p (cities over 1/2 )
+ 
+Cleveland deaths not avail by race -- hope that the smaller metros are non-informative (relative to Reg cities generally), so we can simply dump Cleveland into OHIO registration cities. Otherwise, do rural-white urb10-50 all Cleve alll ..... 
+ 
+ 
+2022.0310 Ji assembling 1910 data:  e.g  Mass into 3 parts: rural, Boston, NonBostonUrban
+ MS1910 says rural has cities <10,000     But census1910 adopts 2,500 or more   ... so I would need to pull data for places of 2.5-10K   Distribution by broad age periods of the population in places having from 10,000 to 25,000 inhabitants: 1910 . . . . • . . . . . . . 489
+   Could use 1910 MS data with PUMS --- 
+  
+
+
+
+
 2022.0305 Ji confirms the appendix accurately describes the years of the SR5 data (and that the IMR years are in the subheadings, such as  Australia (1876–1971))
 
 2022.0304 drop HMD data for Eng&Wales in favor of Mitchell & ONS (same numbers in pop, but )

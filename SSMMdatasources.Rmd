@@ -8,7 +8,7 @@ output: html_document
 <a name="TOC"></a>
 
 ## Overview ##
-<p>[US data](#USA), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
+<p>[US data](#USA) ([state of MASS](#MASS))), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
 [Australasia](#AUSNZ)   [South Africa](#SouAfr) [Africa](#AFRICA)   [Italy](#ITALY)
 
@@ -1223,6 +1223,13 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+
+<p>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
+Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
+   Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
+[State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)</p>
+
+
 For Dempap, 1940-1970, decennial census values of u5 -- 
  raw 1940 raw f0  995356 RefC 45  HMD data  998165.28      1034937.60 
  raw 1950 raw f0 1544340
@@ -1233,6 +1240,9 @@ For Dempap, 1940-1970, decennial census values of u5 --
  1970 1980cen 104.0; also that in pe11,  hmdinput, 1970cen (HMDdata 103.9) 
 #### SR Population counts
 
+Grove & Lindner (VS1900-40) have states' u1 u5 pops by sex starting pdf p827 (Supplement Population Tables USA)
+  
+   1900-04 t vii by months
 <p> 1850 
 </p>
 <p>our spreadsheet USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
@@ -1308,36 +1318,63 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 
 Our key source is [Vital Statistics for 1890-1938 ](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 
-HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf). Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics--Special Reports, vol. 45, No. 1, p7. {I find it at Google via Hathi. Odd that they don't cite Linder & Grove, as in the 1957 edition}. 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.
-<br>1915-1932 Registration area only.  1915 99.9  1916 101.0   1931-61.6 1932-57.6  1933-58.1
-And same values in Linder & Grove.     
+HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf). Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics--Special Reports, vol. 45, No. 1, p7. ({I find it at Google via Hathi. Odd that they don't cite Linder & Grove, as in the 1957 edition}). 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.    
+
+1915-1932 Birth Registration Area only.  1915 99.9  1916 101.0   1931-61.6 1932-57.6  1933-58.1   -- same values in Linder & Grove.     
 <br>p44 B 1-220. General note.  
 <br>A two-part compendium updating and expanding the second edition, Historical Statistics of the United States, Colonial Times to 1957. 
 <br> US Bureau of the Census, *Historical Statistics of the United States, Colonial Times to 1970,Bicentennial Edition, Part 1*, Washington, D.C., 1975.
 
 <p>June 1959 [Historical Statistics of the United States, 1789 - 1957](https://www.census.gov/library/publications/1949/compendia/hist_stats_1789-1945.html)9-
 <br>Cites Linder & Grove for IMR. 
-    </p>
-
+</p>
 
 <br>[NVSS HIST293](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98) 
 
-<br>THis [page](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) about VS history attributes to  
+<br>This [page](https://www.cdc.gov/nchs/nvss/mortality/hist293.htm) about VS history attributes to  
 [Hetzel AM](https://www.cdc.gov/nchs/data/misc/usvss.pdf) U.S. Vital Statistics System Major Activities and Developments, 1950-95. 72 pp. (PHS) 97-1003 pdf icon[PDF – 724 KB]
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
+</p>
 
- 
+<p>CDC weekly [Achievements in Public Health, 1900-1999: Healthier Mothers and Babies](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm)
 </p>
 
 
 #### BRA/DRA data
 
-2021Nov02 1850-1900 June 1 (1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
-[1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) June 1; [1910](https://www.census.gov/history/www/through_the_decades/overview/1900.html) Apr 15; 1920 Jan 1;   
-DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor
- 1910 u5 boys 3145145.0      eIMR 107.45935 (m&f)
+Our data    
 
+1915-1920  urb/rur 
+
+
+ALabama 1925 on deaths; IMR 1927 on.   AZ 1925 on deaths; IMR 1926-30.   DE  
+FL
+GA 1928 onward, BRA (not in DRA before that). Atlanta in DRA earlier ...
+
+IL DRA 1918-1920  Chicago 1915-1920  BRA-IMR 1922on
+IN DRA 1915-
+
+MD BRA             1916+    DRA     1915+ 
+MA BRA  1915+
+MN 1915-1920 can do white urb/rur  or do folk=all and Minneapolis-StPaul as 1 place and it is a metro (>600K)  for metro/urb106/rur10
+ ... 1930 is next ...
+
+MO 1925+ white urb/rur (StL < 500K)
+
+NJ 1925-1930  Newark ~400K so we could split it off
+NC Not 1915-1920 -- anomalous geog coverage ...
+
+2022.0309 Considering state-level IMR:SR   -- NY is in the DRA from 1890
+
+2021Nov02 CENSUS DAY CENSUS DATES 1850-1900 June 1 (1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
+
+[1900](https://www.census.gov/history/www/through_the_decades/overview/1900.html) June 1; 
+
+1910 [SOURCE NEEDED]   Apr 15; 1920 Jan 1;    
+
+DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor
+  1910 u5 boys 3145145.0      eIMR 107.45935 (m&f)     
 1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
 USimrDRA1910.RDS   Note we have only 1 yr of IMR data to connect to SR (so use SR2?)
 
@@ -1355,14 +1392,15 @@ South: 1925-1930 DC (6 2.8) DE (3.6 0.7) FL (20 9) KT (53 3.5) MD (24 6) NC (53 
 Va 1917      
 Ala Ark La Tn are 1927 onward, so could relate them to SR2 ...   GA 1928 
 
-1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
 
-
-#### USA data on/for Infant Mortality 1890, 1900-1904, 1900-1905
+#### USA data on/for Infant Mortality to 1940  (1890, 1900-04, 1900-05, 1900-40)
 
 <p>CDC NCHS [Vital Statistics](https://www.cdc.gov/nchs/products/vsus.htm) e.g. [1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
 <br>[1900-1970](www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html)  
 </p>
+
+<p>[1900-1940 Vital Statistics Data](https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf) Probably Linder & Grove? IMR Tables 26 to 35. Table 26 IMR by state  But these don't have birth counts? (for GLS weighting)
+p572. I'm looking for SRB data -- not Table 53, which gives total births (and IMR data) at various geographic levels. Not Table 50, crude birth rates by month;    </p>
 
 Children's Bureau
 Montclair NJ, Baltimore MD, Waterbury CT, Johnstown PA, Manchester NH, Brockton MA, NewBedford MA  
@@ -1370,25 +1408,6 @@ Also Pittsburgh 1920, Memphis
 
 Duncan BS, Duke E. 1917. Infant mortality: Results of a field study in Manchester, N.H. based in births in one year. Washington, DC: U.S. Government Printing Office, 134 pp. (Children's Bureau publication; no. 20; Infant mortality series; no. 6)
 
-
-<p>Mortality Statistics
-
-1906 onward has infant deaths for large cities 
-
-1909 Table2 pdf468-   T2 doesn't have rural totals?
-1910 Table 3 pp204    pdf195-242   1910 has urb/rur breakdown
-
-
-
-1900-1904 1900 Table 8   pdf  308-349    1902 Tab 2 death/age  532-549      Tab 8 deaths/age by cause CITIES
-
-1910-1920 Table IV pp428-   (pdf426-) 1910 and 1920 death rate per 100K enumerated population by age groups u1 1-4 u5 5-9 etc  MAYBE can back out IMR estimates from these?  pdf 426-27, 454-55, 484-85,     
-PAGES  512-13, 540-41, 568-69 (pdf566) Pittsb RI SC, TN UT VT VA WA WI    
- (pdf is 2 less)
-
-1920 Table 8 deaths by age (u1, 1, 2 ..., 5-9); Table 9 cities; 
-
-</p>
 
 <p> **Birth Statistics for the BRA**    
 
@@ -1403,18 +1422,231 @@ PAGES  512-13, 540-41, 568-69 (pdf566) Pittsb RI SC, TN UT VT VA WA WI
 
 1919  Table 1 "rural" excludes municipalities 10K+ in 1910;   66p61 Table III  -76p71 Table IV    
 
+1925 T22 for cities? 195-233 
+1926 pdf10 TOC  Table I pdf 16-20?   Table 1 Births by month (no Brooklyn; nor race)
 
-1926 Table 1 pdf -20
-1927 Table 1 pdf349-354   (pdf has 2 vols, 1926 & 1927)
-[1928](https://babel.hathitrust.org/cgi/pt?id=uiug.30112002972575&view=1up&seq=7) Tab 1 pdf 55-
-[1929](https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t3521c56x&view=1up&seq=27&size=150) Downloaded. Table 1 pdf 53-59
+
+1927 Table 1 pdf349-354   (pdf has 2 vols, 1926 & 1927)  cities f354-364 10-30k
+
+[1928](https://babel.hathitrust.org/cgi/pt?id=uiug.30112002972575&view=1up&seq=7) Tab 1 pdf 55-  Looking for Brooklyn     maybe Brooklyn 247-297
+
+      
+
+[1929](https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t3521c56x&view=1up&seq=27&size=150) Downloaded. Table 1 pdf 53-59   Reg. cities 52-67  f59-74  f53- 
+
+
+
+1930 BRA      T1    pdf -145  f280 T10 stillbirths,   T21 day/month U1 deaths
 
 [1931](https://www.cdc.gov/nchs/data/vsushistorical/birthstat_1931.pdf) IMRs pdf 51-102
 
-1935 not sure why I'm looking through it ...
 
-<p>[1900-1940 Vital Statistics Data](https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf)  IMR Tables 26 to 35. Table 26 IMR by state  But these don't have birth counts? (for GLS weighting)
-p572. I'm looking for SRB data -- not Table 53, which gives total births (and IMR data) at various geographic levels. Not Table 50, crude birth rates by month;    </p>
+<p> For 1930, Birth, Stillbirth, and Infant Mortality Statistics for the Birth Registration Area, [1930](https://www.google.ca/books/edition/Birth_Stillbirth_and_Infant_Mortality_St/yM3cOoJMf2UC?hl=en&gbpv=0) (difficult to find, I downloaded from GoogleBooks). For 1931 we have both the B-SB-IM-BRA and Mortality Statistics, and they give same u1 death count for Illinois (which serves to confirm same data, for me)    
+     -17 Stillbirths; Tables 18-20 cover whole BRA;   
+  Table 21 give State-level deaths by causes, and by ages (u1day, 1, 2, 3-6 days, 1wk etc)     
+Table 22 gives States' total/cities/incorps/rural with >10K and >2.5k as cutoffs.  And deaths are by sex. 
+
+Table 23 has that same 3-way breakdown, for deaths by days/weeks/months
+
+
+
+
+<p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza. 
+<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95),   
+
+[Mort Stats 1929](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118).    
+Tab4 States, u1 1to4 m/f    
+Tab5 deaths by cause (not age)  pp134-
+Tab6 causes: state, urb/rur  pp  176
+Tab7A causes: by race
+Tab8 causes: by age, for states
+Tab9 causes: by age, for major cities
+Tab10A causes: by month for cities
+Tab11 by cause, by infant-age, in Houston?
+</p>
+       
+1920 BRA  Michigan cities have new cities versus 1919 -- Hamtramck 1851 births, Highland Park 845, Owosso 277, Wyandotte 492 but  loses Manistee 135 births, Menonimee 240 births,   -- Net change ~ 3100
+
+NC 1920 vs 1919 -- 28% increase in births in the 1919 places?  1920 1/3 of births are in towns not in 1919 list ... 
+ looked at urban white ... 
+  so 1920 added Gastonia 13k Goldsboro 11k HighPoint 14k  NewBern 12k  RockyMt 13k Salisb 14.4K Wilson 10.8
+IMR of the extra: Gastonia 83 Goldsboro 139 HighPoint 60 NewBern 53 RockyMt 106 Salisb 41 Wilson 91  
+1920 82 6194 : Ash, Charl, Durham, Greensboro, Raleigh               Gastonia Goldsboro HighPoint NewBern RockyMt Salisb Wilson
+1919 93 3144 : Asheville, Charlotte, Durham,  Greensboro, Raleigh, Wilm, Winston-Salem
+
+
+
+<p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
+</p>
+
+
+[CT Monthly bulletin of the Connecticut State Board of Health for the month of](https://archive.org/details/monthlybulletino619tutt/page/n3/mode/2up)
+
+Monthly bulletin of the Connecticut State Board of Health for the month of
+https://cscu-csl-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CSCU_NETWORK_ALMA7170353930003451&context=L&vid=CSL_V1&lang=en_US&search_scope=CSL_ALMA&adaptor=Local%20Search%20Engine&tab=default_tab&query=sub,exact,Mortality%20--%20Connecticut%20--%20Statistics,AND&mode=advanced&pfilter=dr_s,exact,18400101,AND&pfilter=dr_e,exact,19100201,AND&offset=0
+internet archive   -- looked briefly, searched for infant, did not get mortality data
+
+[CT Deaths under age 1 p228](https://archive.org/details/monthlybulletino1412tutt/page/n227/mode/2up?q=infant)
+
+<a name="DRA"></a>
+
+
+<H4> **DRA Mortality Statistics** </H4>
+
+
+
+**1880 Census **  vols 11 & 12  -- I have, but where did I find them? ---   vol 11 Tab XI has grand group 2 but with urb and nonurb (I wanted urb)  COded in R for about 10 obs of u1d & SR5      
+1880 urban south atlantic SouAtl urban:  DC St=? Baltimore 530, Richmond 5870, Wilmington 7490
+
+
+v11 GrandGroup2 cities are -- Balt, Brklyn, NYCxB, Cambden, JerseyC,Newar,Wash, Wilm
+   not useful, b/c we will strip out Brklyn, NYCxB, NJurban, and we'll use the race detail on Balt, Wash, Wilm ... 
+ rural NY is 204K -- how can we easily divide it?  pdf549 lists counties in groups
+
+
+<br>**1890 Census** At [older link](https://www.census.gov/prod/www/decennial.html), and at [VSUS 1890-1938](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm) Volume 4 in 4 parts has mortality data.
+
+Our 1890 u1d/SR5 panel: MAurb OthNEUrb  NewEngRur Brooklyn NYCxB  Phila  
+
+RuralNY:    Chi 140K   (Det-Clev-Cinnci-Pitts-Milw-)
+
+MAssUrb 158k OthNewEngUrb? 59k  NewEngRural 142k  -- could take 30 minutes and create urban as BostonPlus and Other? Boston 40k  FallRiv 8  Law 4  Lynn 5  Camb 6.6  Low 7.1  worc 8.4  -- BostonEtc 78   othNE 140
+
+for NewEng, CT MA NH RI VT  (all but ME). We'll use MAurb othNEurb NErur    Boston too small? (43k)
+RURAL CT 39.2  Mass 43.5  NH 21   RI 13.5k   VT 27  total 142 -- one observation?
+
+CREATED top10NewEngUrban othNEurban NErural
+
+ rural NY?    build via RUR25K by subtracting off  cities 25K and above
+ 
+  group 4 has u5 pop 93902 with 277 nonwhite who are 137 140    It includes Buff 33k  Rochest 14  Oswego 2045
+
+
+ rural NY plus rural CT for an east-coast aggregate 
+
+
+
+
+Volume 4: Report on Vital and Social Statistics in the United States<br>
+[Part 1: Analysis and Rate Tables](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1890_1.pdf) <br>
+
+217  urban rural mortality
+
+495-512 f539-  "Description of areas for which data are given" 
+CT	DE	DC	MA	NH	NJ	NY	RI	VT
+and their MANY "cities" are listed -- but we can use R and city codes to aggregate ... rest of a state is "rural"
+And another set of Registration Cities are listed -- incl Chicago, Philly, Detroit,  .. Total of RegCities 271 (in and not-in Reg States)
+
+pp513-658 has key data, but we need to enter what is in the Reg Area ...   USE R for cities -- pdf539 of Pt 1 ...
+
+ would like to use small OH cities like Springfield, but how do we get "white" sr5 ? only total m5 and f5 in table 1 ... 
+
+
+
+Part 2: Cities of 100,000 population and upward (in Jim's digLibrary) ... Volume 4, Part 2, Vital Statistics, Cities of 100,000 pop ... 19610506v4p2.pdf
+<br>1890a_v4p2-01.pdf has TOC, shows pop by age/sex/color etc 337-360; 391-408 death rates by ward. 
+<br>19610506v4p2ch4.pdf  p2-06.pdf has "General Tables" pp. 335-444; p2-07.pdf for pp445-549 table 5 is continued ;  p2-08.pdf pp550-655 still Table 5 ;
+<br>48 cities death rates, u1 231, u5 78; Chicago u1 213  u5 69;  Newark stands out for high u1dr 318 (also DC, via "colored" dr > 490 )
+</p><p>Can muscle out city U2 vales -- Chicago U2 103.3 U5 102.3 -- pattern like Illinois, with the SR2 a full point above the SR5 ... 
+</p><p>
+<br>e.g. p514 Table 1 has u1 u5 for US, states, cities?
+<br> volume? is called: 1890 Bulletins  no. 100 Social Statistics of the Cities
+      
+1890 CITIES   1890a_v4p2-08 t5 has by wards;  T6 has deaths m/f deaths by age -- by causesayse
+
+</p>
+
+Part 3: Statistics of Deaths  SEEMS TO BE CAUSES       <br>
+
+[Part 4: Statistics of Deaths](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1890_4.pdf)
+Table 1 Deaths ..  in registration states, and cities in registration states, at certain ages and groups of ages, ..  sex, color, nativity, parental nativity, and birthplaces of mothers  ... May 31 1890. 2-21     
+For each Reg State, deaths by age/sex/color; and for reg cities of that state ...
+
+p501 6yr area: Metro District in NY, state of NJ, Baltimore, Boston, Phila, DC
+
+Table 13 Deaths during the 6 years endiig May 31,1890, at certain ages and from certain causes, with distinction of sex, color, nativity, parental nativity, and birthplaces of mothers. 502-663
+
+6 yrs e.g. p578f567 NJ state total, months/u1/u5/ ... / sex/color ;  also rural and urban split -- excruciating detail
+
+
+
+Tables 16-24 are on New Jersey NJ only
+ 
+
+
+
+
+
+**1900** for 1900 we have both the census-year deaths and the calendar year.
+
+<p>1900 census reports vol III; 
+
+we use table 19  pp  285-555 (pdf 598-868)
+<br>
+p xiv The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
+<br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
+<br> tabulated result of the comparison of the two sets of returns [on next page]
+<br>xv  xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR</p>     
+    
+1900 Table 5 Deaths in the United States, each state and territory, and each registration city, during the census year ending May 31, 1900, at each age, by sex --    GOOD FOR CITIES, but not by race     p21
+1900 Table 6 has states' deaths by age and sex, color,  e.g. pdf p65     
+
+
+
+
+1900-1904 1900 Table 8   pdf  308-349    1902 Tab 2 death/age  532-549      Tab 8 deaths/age by cause CITIES
+
+1905 MS Tab 2 by age 216-233   Tab 4 age, race, sex 252-269; Tab 8 city 100K+ 306     
+
+
+MS 1906 T4 states, ages;     
+
+1906 onward has infant deaths for large cities    
+
+
+1909 Table2 pdf468-   T2 doesn't have rural totals?    550-  f546-
+1910 Table 3 pp204    pdf195-242   1910 has urb/rur breakdown
+
+
+hsus? 1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US ...
+
+       
+**Mort Stats 1910** f153 T1 deaths by month of death ;  T2 deaths by color etc  eg f183 f195p204 T3 deaths by age   
+Table 1 lists indiv cities ... pdf 432-      
+Table 2 deaths by age -- again, no totals  eg pdf 482    
+Table 3 NOT AGES rural by indiv counties, no sums pdf p532    
+T4 States: age, color, nativity  eg pdf 556    
+T5  not by age (urb/rur by state) eg pdf572 T6 not by state  T7 States: age, cause  eg pdf600
+T8 ages, causes by cities 100K+   eg pdf 670
+T11 occs, male   T12 occs, fem  T13 Reg Area, by age, Index pdf 791-805
+
+
+
+
+1910-1920 Table IV pp428-   (pdf426-) 1910 and 1920 death rate per 100K enumerated population by age groups u1 1-4 u5 5-9 etc  MAYBE can back out IMR estimates from these?  pdf 426-27, 454-55, 484-85,     
+PAGES  512-13, 540-41, 568-69 (pdf566) Pittsb RI SC, TN UT VT VA WA WI    
+ (pdf is 2 less)
+
+1915 T3 184-211   f179-
+
+
+MS 1916  IA, IB, II causes,  III causes, rates, IV not ages; T1 T2 not ages;  T3 by age, state/color, state/city 152-74; T4 176-206 not urb/rur;   T5 not ages; T6 T7 T8 causes/ages, not rur/urb;     T9 u1 deaths by cause cities 100K+  t10 not ages;   T11 days/weeks  1916 T3 150-    f145-    
+
+1918 T3 144-169  f138-163     
+1919 T3 130-155 126-51     
+1920 printed table 3, 4  f137-  140 Table 3 deaths age/color 171-  Tab 4 col/age/nati    272 Tab 7 DRA causes/ages
+Table 8 deaths-cause by age (u1, 1, 2 ..., 5-9); Table 9 cities 479-540   pdf 476-536  ;       p224 is in Tab 5 deaths by cause Xage     
+
+1925   IA,B II   not ages;  Tab 3 age & color pp36-42 (pdf 38-44)   282-314 for cities?
+1926 T3 34-39   pdf37-42   f20-32 cities
+
+1928 t3 38-46 f41-
+
+1930 (for racial breakdown lacking in BRA for some states)  IA IB not by age; Table 1 by months (not by age); T2 not ages.     
+Table 3  age; urb10 unincorp rur;
+Table 4   age; white nativity/race
+
+
 
 <p>Early on: Bureau of Labor Statistics [Annual Reports](https://fraser.stlouisfed.org/title/bulletin-united-states-bureau-labor-3943?browse=1890s#477578) have city-level deaths by causes (these found via Cain & Rotella (2001)). But they lack age-specific deaths.  
 </p><p>But there are death-by-age in Registration cities for 1900 (census year, in Census Reports, Volume IV, Vital Statistics, Part II, [Statistics of Deaths](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1900_4.pdf)); I pdf-save Table 5 23-55   pp21-53
@@ -1439,6 +1671,8 @@ CDC Deaths 2017 Infant mortality
 
 Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 46.41 (p26); Table 7 is "Cohort Life Tables" and 1900 has e0x (p89) 51.52 
 
+<a name="MASS"></a>
+
 
 #### State of Mass
 
@@ -1452,6 +1686,10 @@ Some in 1955, Table 16, p 108
 [1855 MASS census](https://archives.lib.state.ma.us/handle/2452/122030) Table 2 (64-97 -119) gives totals in age-groups, but not by sex.  p222 discusses sex. Jim cannot find any sex/age data here. 
 
 [1865 MASS census](https://archives.lib.state.ma.us/handle/2452/122031) has age/sex
+
+[1875 Mass census](https://archives.lib.state.ma.us/handle/2452/122032) 
+2021.0530   found 1875 Mass census compilation error (age 1). Page 269 "The state by totals" reports age1 populations of 13825 male and 15589 female. Summing up the county-level values, we the male value is correct but the female value is 2000 too high. Ages 71- (pdf 139-)   p78 f146 is end of Barnstable, w/o totals ...  county recaps 263-268
+
 
 [1885 Mass](https://archives.lib.state.ma.us/bitstream/handle/2452/122033/ocm10085339-1885-v.1-pt.1.pdf?sequence=1&isAllowed=y) pdf532 p434 
 
@@ -1496,62 +1734,36 @@ Haines (2006 HSUS essay) The Massachusetts data reach reasonable quality by abou
 1915 TOCpdf8 deaths 130-31
 
 
-<p>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
-Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
-   Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
-[State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)</p>
+<H3>20th C sources</H3>
+
 
 <p>Life Table [2005](https://pubmed.ncbi.nlm.nih.gov/20578408/) 
+
+
+[1992 Vital Stats](https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf) for HSUS IMR 1915 on. pdf p507 </p>
+US Infant mortality data
+
 
 [1961 Vital Stats](https://www.cdc.gov/nchs/data/vsus/vsus_1961_1.pdf) live-births by sex, 1-28, pdf 
 1962 t15 pdf       pg 1-30 pdf38 by state
 
-<br> 20th C sources   
-[1992 Vital Stats](https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf) for HSUS IMR 1915 on. pdf p507 </p>
-US Infant mortality data
-
 <p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
 </p>
 
-<p> For 1930, Birth, Stillbirth, and Infant Mortality Statistics for the Birth Registration Area, [1930](https://www.google.ca/books/edition/Birth_Stillbirth_and_Infant_Mortality_St/yM3cOoJMf2UC?hl=en&gbpv=0) (difficult to find, I downloaded from GoogleBooks). For 1931 we have both the B-SB-IM-BRA and Mortality Statistics, and they give same u1 death count for Illinois (which serves to confirm same data, for me)
-
-  -17 Stillbirths; Tables 18-20 cover whole BRA;   
-  
-Table 21 give State-level deaths by causes, and by ages (u1day, 1, 2, 3-6 days, 1wk etc)
-
-Table 22 gives States' total/cities/incorps/rural with >10K and >2.5k as cutoffs.  And deaths are by sex. 
-
-Table 23 has that same 3-way breakdown, for deaths by days/weeks/months
-
-
-
-
-<p> [Mortality Rates 1910-1920](https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf)  438pdf436 Calif influenza. 
-<br>[Mort Stats 1931](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf) Tab 3 Deaths by age and color 80-90 (pdf 86-95),   
-
-[Mort Stats 1929](https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf) Tab 3 108-116  (pdf 110-118).    
-Tab4 States, u1 1to4 m/f    
-Tab5 deaths by cause (not age)  pp134-
-Tab6 causes: state, urb/rur  pp  176
-Tab7A causes: by race
-Tab8 causes: by age, for states
-Tab9 causes: by age, for major cities
-Tab10A causes: by month for cities
-Tab11 by cause, by infant-age, in Houston?
-
-</p>
-<p>[Life Tables](), where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the [1930 Life Tables volume](https://www.cdc.gov/nchs/data/lifetables/life30.pdf)
-</p>
-<p>1900 census reports vol III; we use table 19  pp  285-555 (pdf 598-868)
-<br>
-p xiv The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
-<br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
-<br> tabulated result of the comparison of the two sets of returns [on next page]
-<br>xv  xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR
-<p>CDC weekly [Achievements in Public Health, 1900-1999: Healthier Mothers and Babies](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm)
-</p>
-
 #### US Census Data for Sex Ratios by age
+
+##### New York State censuses
+
+[NY state library](https://www.nysl.nysed.gov/scandocs/nyscensus.htm)
+
+[1855](https://nysl.ptfs.com/data/Library1/06042012/88819.PDF)    YES-- AGEs     
+[1865](https://nysl.ptfs.com/data/Library1/77860.PDF) Yes -- ages      
+[1875](https://nysl.ptfs.com/data/Library1/93418.PDF) Yes -- ages      
+
+1892 no ages   p29 Exh C election districts, pop (citiz, alien)
+[1905](https://nysl.ptfs.com/data/Library1/93419.PDF)   -- no ages data
+1925 no ages
+Population figures for the cities, incorporated villages, towns, and counties of New York... Census of June 1, 1925.  No AGES
 
 <p>census dates or census timing: 1930 onward April 1 (90/365); 1920 Jan 1;  1910 April 15, 1840-1900 June 1* (1890 June 2)  
 1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
@@ -1754,6 +1966,7 @@ Table 11 County-level  u1 u5, all/native white/foreign-born white/negro
 Table 12 Cities  pdf58-63    
 Table 10 occs
 
+Calif Tab 12 47 (pdf 17-)
 
 
 <br>Looking for regional totals: Table 24 has 5yr totals
@@ -1789,6 +2002,9 @@ Table 33 has USA, u5 m/f 1880 1890 1900 1910   Table 41 age periods, states <br>
 1910 Vol 2 NOT AGES  has state detail, section for each state, Table 1 has state and county
 <br>Looked for, and did not find, u5 by sex for previous years.
 
+V1 Distribution by broad age periods of the urban and rural · population, classified by sex, bydivisions:.1910 ............ 425
+
+MS VA reg cities  Alexandria 0090. Danville 1631, Lynchburg 3790, Norfolk 4810 , Petersburg 5310, Richmond 5870  -- Citycodes
 
 **1900** Much like 1890, single-year for states (Table 2); age-groups for cities    
 vol 1 tables 1-4 NO age data; 
@@ -1804,24 +2020,14 @@ To think about: if 11mo olds are rounded up, how does that distort the SR1? It w
 <br>
 
 **1890** census
+
 AGES in [Eleventh Census - Volume 1. (Part I & Part II) Report on Population of the United States](https://www.census.gov/library/publications/1895/dec/volume-1.html)
-<p> Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states: ages by U1 months and single years (we have it in 2 parts). Table 3 states' sex by 5-year age groups;  Table 4 ages by periods of years of native white; Table 8 Ages by periods of years ... for cities having 25,000 inhab or more </p>
-<p>At [older link](https://www.census.gov/prod/www/decennial.html), 
-Volume 4: Report on Vital and Social Statistics in the United States<br>
-Part 1: Analysis and Tables <br>
-Part 2: Cities of 100,000 population and upward (in Jim's digLibrary)<br>
-Part 3: Statistics of Deaths<br>
-Part 4: Statistics of Deaths<br>
-</p>
-<p>Volume 4, Part 2, Vital Statistics, Cities of 100,000 pop ... 19610506v4p2.pdf
-<br>1890a_v4p2-01.pdf has TOC, shows pop by age/sex/color etc 337-360; 391-408 death rates by ward. 
-<br>19610506v4p2ch4.pdf  p2-06.pdf has "General Tables" pp. 335-444; p2-07.pdf for pp445-549 table 5 is continued ;  p2-08.pdf pp550-655 still Table 5 ;
-<br>48 cities death rates, u1 231, u5 78; Chicago u1 213  u5 69;  Newark stands out for high u1dr 318 (also DC, via "colored" dr > 490 )
-</p><p>Can muscle out city U2 vales -- Chicago U2 103.3 U5 102.3 -- pattern like Illinois, with the SR2 a full point above the SR5 ... 
-</p><p>
-<br>e.g. p514 Table 1 has u1 u5 for US, states, cities?
-<br> volume? is called: 1890 Bulletins  no. 100 Social Statistics of the Cities
-</p>
+<p> Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states: ages by U1 months and single years (we have it in 2 parts). Table 3 states' sex by 5-year age groups;  Table 4 ages by periods of years of native white; 
+In Vol 1 Part 2,  Table 8 Ages by periods of years ... for cities having 25,000 inhab or more -- sr5 not available for smaller places in 1890 </p>
+
+See above in [DRA section](#DRA) for mortality data from 1890 census
+
+
 
 
 **1880** Vol I, Statistics of the Population ... has single-year ages in Table XXI [Ala-Nevada](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NewHamp-Wyoming](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
@@ -1830,7 +2036,13 @@ VA is pdf33 p636; With enough time, can compile U5 ages for cities,
 1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
 Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf) 
 
+
+
+
 **1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
+
+[1870 census page](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) lists volume 2 but the link is broken (March 8, 2022).
+
 
 [**1870**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) US aggregates in Vol 2 [Table XXII](https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0) <br> [Table XXIII](https://www.census.gov/library/publications/1872/dec/1870b.html) for state-level ages in 1870, 1860, 1850. .    
 
@@ -1840,9 +2052,12 @@ Vol 1 tables have large age group -- "ages" is school age, 18+ ;  XXV some large
 City-level data for SRs not found. V1 Tab XXV has school age counts.
 
 
-
-
 1860 state-level ages u1 1-5 (as in ICPSR); so use IPUMS full instead
+
+deletions from data appendixof dempap 
+Mass 1890 p 104 Table 3, Ages by periods of life  of Volume 1 Part II (see TOC in census data of 0SSSm in dig lib) [1880 Census: Volume 1. Statistics of the Population of the United States](https://www.census.gov/library/publications/1883/dec/vol-01-population.html)  MASS p592 in Table XXI  Table XXI. Population, by Specified Age, Sex, Race, and General Nativity of the Whites, by States and Territories: 1880 
+   1870 Census: [Volume 2. The Vital Statistics of the United States](https://www.census.gov/library/publications/1872/dec/1870b.html)  LINK IS BROKEN MAR08 2022 Table XXIII. Ages with sex for each period of life ...    p563  /      Ninth census, volume 2, The Vital Statistics of the United States    1872 Wash GPO      -->
+
 
 
 ### US Census for the Black SR1 ###
@@ -2115,12 +2330,16 @@ hathi trust [UMinn lib](https://catalog.hathitrust.org/Record/100029687?type%5B%
 
 
 #### Britain before 1902####
+
 Three main "sources" (the first Brit & Ireland only): [Histpop-The Online Historical Population Reports Website](http://www.histpop.org); Hathitrust; GoogleBooks.    
 Age/sex tables in Census of England and Wales 1901 [General report](https://catalog.hathitrust.org/Record/100424194) with appendices (Harvard library's copy).^[Not in Hathi Census of England and Wales. 1901. Summary tables. Area, houses and population; ...]  
 Compilation error is explained pp. 47-48 (Hathi images 63-64).^[Same source at histpop, in the essays, about pg 3 of them (the one for 1901?)]. Table 16 (p. 209; Hathi 227) offers females per thousand males at 1861 1871 1881 1891 1901 "based on the enumerated numbers at the several Censuses, revised by taking into account the births and deaths in the five years preceding each Census." Table 20 and 21 
 (Hathi 230), Graduated Tables. Page 67 (Hathi 83) "Former Graduated Tables have been based on estimates of population at the middle of the Census year ; the Table for 1901 is based on the population actually enumerated. (para) In addition to this Graduated Table for 1901 ( Table 20 ) we have prepared by the same methods a Table for 1891 ( Table 21 ) . This differs from the Table given in the Report on that Census by including the Army, Royal Navy, &c., abroad , and by representing the enumerated population, not the estimated mid-year population, as well as by the methods of calculation employed."  
 
 1882 Annual report of the Registrar-General for England ... v.45 1882 suppl.. pvii Old and New English Life Tables, based upon the Mortality in 1838-54, and in 1871-80
+
+[Supplement to registrar-general's fifty-fifth annual report. Pt.I](http://www.histpop.org/ohpr/servlet/PageBrowser?path=Browse/Registrar%20General%20(by%20date)/1881-1890&active=yes&mno=550&tocstate=expandnew&tocseq=500&display=sections&display=tables&display=pagetitles&pageseq=first-nonblank&page=PrinterPageBrowser)  life tables
+
 
 
 1891  [HistPop](http://www.histpop.org)  
