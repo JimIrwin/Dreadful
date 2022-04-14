@@ -59,6 +59,10 @@ The World Bank. [Civil Registration and Vital Statistics for Monitoring the Sust
 Summary view of societies, time-periods for which we have good IMR/SR data.     
 Nordic countries: Denmark (1840-1970), Finland (1885-1970), Iceland (1845-1970), Norway (1890-1970) and Sweden (1751-1970)
 
+wondering if we can find mid-20thC data via [Health status in Europe: comparison of 24 urban areas to the corresponding 10 countries (EURO-URHIS 2) ](https://academic.oup.com/eurpub/article/27/suppl_2/62/3739761)
+     
+ Eurostate starts IMR with 1998
+
 
 Corsini & Viazzo (1997), [The Decline of Infant and Child Mortality](https://books.google.ca/books?id=0l3wMZBq3hgC&dq=Infant%20and%20Child%20Mortality%20in%20the%20Past&source=gbs_similarbooks)  TO LOOK OVER?
 
@@ -92,13 +96,65 @@ ages NOT in Aperçus statistiques sur la Belgique établis d'après les table
 Can't find 1940 Ann Stat for 1930  -- but IHS corroborates (2013:3442)
 
 ### France (added 2022.0303) 
-HMD says Vallin, J. and F. Meslé. (2001). Tables de mortalité françaises pour les XIXe et XXe siècles et projections pour le XXIe siècle. Paris: Instit national d’études démographiques [as cited in the HMD]
-CAN"T FIN
+   
+ Probably can use q0 from [French Human Mortality Database](https://frdata.org/en/french-human-mortality-database/)
+and connected DemRes paper by [Florian Bonnet](https://www.demographic-research.org/volumes/vol42/26/42-26.pdf) 
+p744 2.3 Censuses
+I have collected populations by birth year, home department, and sex for each census of the period 1901–1962 from hard-copy publications of SGF and INSEE. For the period 1968–2014, these statistics have been found in online sources.
 
+
+ IMR 3yr smoothed [Paris](https://www.insee.fr/fr/statistiques/serie/001745304)
+ 
+ dataset_DECES-MORTALITE_31032022.xlsx has IMR 2008 onward by department
+
+ Paris births  :  [1975 onward](https://www.insee.fr/en/statistiques/serie/000868091)
+
+Barbieri (1998 Pop)  La mortalité infantile en France  1902-1996 
+
+Statistique annuelle du mouvement de la population   2 at internet archive
+[1888](https://archive.org/details/statistiqueannu01gngoog/page/n8/mode/2up)
+[1893](https://archive.org/details/statistiqueannu00gngoog/page/n10/mode/2up)  
+
+
+
+age/sex   [1968 to 2018](https://www.insee.fr/fr/statistiques/1893204)
+  
+ 1962 via [Persee article](https://www.persee.fr/doc/estat_0423-5681_1965_num_20_3_10257) 
+   Population de la France  Villes et agglomérations urbaines; 1 volume, couverture beige; 1964; 
+  
+  
+Paris IMR 1960s ?        Checked, without luck,Paris leads in Neuberg L, Rodwin V. Neighborhood matters—infant mortality rates in four cities: London, Manhattan, Paris, and Tokyo. Indicators. 2002–3;2:15–38.
+
+ 
+Urban Population Changes in France 1962-75 (Veränderungen der städtischen Bevölkerung in Frankreich 1962-75) Author(s): Philip N. Jones
+Source: Erdkunde, Bd. 32, H. 3 (Sep., 1978), pp. 198-212  Looked at this for leads on 1960s census volumes/data
+
+looking for 1922-1967 ...     Recensement général de la population de 1962  -- 1 volume in Hathi, search only
+
+ 
+[census data 1851-1921](https://www.insee.fr/fr/statistiques/2653233?sommaire=2591397#consulter) 
+    
+    
+HMD says Vallin, J. and F. Meslé. (2001). Tables de mortalité françaises pour les XIXe et XXe siècles et projections pour le XXIe siècle. Paris: Instit national d’études démographiques (cited in the HMD). [CD-ROM contents here](https://www.ined.fr/Xtradocs/cdrom_vallin_mesle/contenu.htm)
+ 
+ 
+[Levasseur, E., La Population franpaise (Paris 1889),](https://archive.org/details/lapopulationfran01leva/page/n37/mode/2up?view=theater)
+
+paris by age/sex should be II 392
+
+[1881 census Paris](https://catalog.hathitrust.org/Record/100206351)  Should check re: anomalous CSR values 
+Résultats statistiques du dènombrement de 1881 pour la ville de Paris et renseignements relatifs aux recensements antérieurs.
 
 
 #### Netherlands NLD
+
+[Dutch censuses 1795-1971](http://www.volkstellingen.nl/en/)  found at [EHPS](http://primary-sources.eui.eu/website/volkstellingen-1795-1971) euro history primary sources
+
+1869  vt_1869_02_INL.pdf  pdf4 II 
+
 via HMD maybe we ought to look at [nidi](https://nidi.nl/en/) for their database?
+
+ Rothenbacjer 2002 book has cites to check pdf501  e (Garssen and Harmsen, 1999).  Poppel and Mandemakers (1997)   Francine van de Walle (1986
 
 Tabeau, E., van Poppel, F., Willekens, F. (1994). Mortality in the Netherlands: the Data base. NIDI, The Hague, Netherlands. [as cited in HMD]
 
@@ -511,18 +567,80 @@ Monthly data in [Statistische monatschrift](https://clio.columbia.edu/catalog/ht
 
 ### Sweden
 
+Can use 12 CSRs from 1757-1855, reasoning that when old-official and HMDraw are within 0.5% then we have a reliable CSR value ... both of those CSR values coming from Subbarg
+
+
+1757 is first yr with "official" (Sundbarg's term) CSR data, but Sudbarg's corrections often cast doubt on the official values. If so, we won't use the IMR CSR pairing.
+1757 or 1760?
+  1757  Su197 -.4 HMD +.3       wider range, don't use
+  1760  Su197 -.2 HMD +.3  Su181 +.2  COULD USE 1760
+  1763 197 same; 208 -.2 CAN USE
+  1766 NO -- HUGE SWING
+
+
 [**Sweden**](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101I/LevandeFodda/) IMR (1751-2020) and births (1749-2020). HMD for population counts 1749 forward; Statistics Sweden seems to have the same data for 1860 forward (at least the 1866 values are the same (random choice)). That site has sex by age from 1860
 
 2 or 3 versions of age-sex for Norway, 1751 forward (official 1860 on)
 
-HMD reports 1-year age-sex from 1751. Seems source is Sundbärg, G. (1908) for 1751-1900. He has p223 
+
+HMD ref 31 is Pp. 186-230 in Sundbärg 
+p179 official & corrected counts, total (not m/f) 0/1 1/3 3/5 for various yrs 1751 on. See corrected < and > official.
+p180 official m/f by age groups
+
+
+
+HMD reports 1-year age-sex from 1751. Gives source as Sundbärg, G. (1908) for 1751-1900, in [Statistisk Tidskrift 1908](https://books.google.ca/books?id=zTRAAQAAMAAJ&dq=Medelfolkm%C3%A4ngden+efter+%C3%A5lder+och+k%C3%B6n,+f%C3%B6r+ber%C3%A4kning+af+d%C3%B6dstalen&source=gbs_navlinks_s) in my [digital library](https://www.dropbox.com/sh/2i5slr1w2k3aysw/AACJokwIsDU4fmCiMkVzTnija?dl=0)  He has p223 
+ issue 129 of this journal ... overview of everything from the beginning - of the information about Sweden's population and its for division by age and sex, - with correction, as far as possible, of the numbers for the years 1750-1855, which in some parts are not fully acceptable in their own right original condition ... This correction for the first century includes those year-old groups Likewise, from the very beginning, however, the first of these five year groups, or the age 0-5 years, have been divided into three subgroups, in namely, the first year of life taken up separately (0.1 years) and the others four age years combined two and two (1 3 and 3 5 years).    ... In the next article, in this booklet, average people are published the quantity figures for these ages, for each year since 1750, - together with an account of which methods have been used, in the amounts calculation for the years that are not census years.  As shown in the said article, it is for the mortality calculations the official population, which should be used. By a
+codification of these age numbers from the point of view of the probable population distribution by age, is necessary to bring the figures into question agreement with the corrected figures for the age 0/5 years in booklet 129
+
+178 The calculation of the population in the ages 0/1 years, 1/3 years and 3/5 years is thus given a double task, with different results in each the case: - on the one hand a division of the official average population at the age of 0/5 years (which, as shown in the next article, can be considered the closest correspond to the figures given for the deceased), on the other hand a division of the corrected population.     
+In the former case, the population needs to be calculated for each calendar years; in the latter case again one can be content with every five years, such as in other corrections of our censuses. The calculation of the distribution of the official population is described detailed in the next article.     
+Here again, the task is to bring the official census results in accordance with the results at which we in booklet 129 have stayed such as the most likely [stayed as they were likely].     
+The method used in booklet 129 to examine the value of official figures is to follow each quinquennium from the one census to the other and check how the discrepancy? agrees with probable number of those who, in the meantime, estimated death. When, as here, it concerns one-year or two-year groups, this method id useless, - for the simple reason that in our censuses (before in 1860) a certain one-year or two-year group no longer appears at the following the censuses.     
+The possibility of correction is thus significantly reduced here. Meet the group to be examined, once in our official tables,
+but then never again. Under such circumstances, a complete investigation becomes one quite complicated work. Here we have contented ourselves only with an approximate attempt - which should be completed when more favorable circumstances  offer than is currently the case.    
+We thus stop again in the face of the same wishes, as several times met us before: the need for the old original documents to The population statistics of the 18th century were subjected to a thorough revision. We repeat what we have already said on the same subject: it is to hope that no significant errors shall thereby come to light, but this revision would be a measure of justice for the material itself, which is so precious and ate Sweden's so highly famous older population statistics.
+p179 official and corrected, totals (not by sex) for 0-1, 1-3, 3-5 or 0-5  1750
+
+calculations in booklet 129 have, among other things, shown that at our older censuses - yes until the year 1855 - age 0-5 years was too busy, at the expense of the age of 5/10 years.  
+
+
+p183 When the figure for the age 3/5 years is here so much above standard, which now turns out to be the case
+
+p184 total numbers 0/5, then m/f discussed: 
+Male and female gender. The table p. 180 ... distribution of the population by sex within the groups present here, by the official census  ...  A look at the older numbers is enough to convince that there are several significant inaccuracies here. If you go to county or diocesan summaries in Statistics Sweden's archives, front also make the mistakes clear.    
+However, in this case it is comparatively easy to roughly correct the errors, since at these ages the males of the male and female sexes is almost the same. In cases of gross discrepancy, one needs only, by comparison with previous and subsequent censuses, ascertain which of the figures, of the opposite sex or of the female sex, is the current, and then change the numbers of the other sex to approximate bearings. On in this way the deviations which in the table on the side have arisen. 179 before come for the age of 01 years between the official and the corrected figures for the years 1775, 1780, 1785 and 1790. One always recognizes that time - the Gustavian, - which in the history of our population statistics denotes the period of negligence and decay.
+p185
+Our task here has now been partly to reintroduce reasonable proportions between the numbers of the male and female in each case, partly to bring the sums of the three subgroups in accordance with the corrected ones the numbers in the booklet 129.
+
+
+
+p186 
+Medelfolkmängden efter ålder och kön , för beräkning af dödstalen .
+The average population by age and gender, for the calculation of the death rates . 
+    
+p186bott  Namely, it is the case that the age groups, in which our official statistics divided the population, essentially being the same used for the classification of the deceased. This is especially true about the age group that is of the greatest importance here, namely group 0/5 years.
+*suggestion that 0/5 count inflated by kids who should be in 5-10, for dead also
+
+p197 before Table 1 
+ The average populations in Tab. 1 based on the official people the quantity figures. Exceptions: the male and female population,
+separately, at the age of 0'5 years is corrected (for the years 1751/1860) and thus deviates from the official speeches. It follows that if you sum up the numbers for the male sex at all ages and likewise the numbers for the female sex, so results other than the total populations listed in the table are obtained of either sex. The sum of both sexes together is upset however, not.
+
+
+
+
 1860 60210 58446 118656; 
 1860 59711 57933.5 117644.5   HMD
 1860 60589 58837
 1861 60597.08  58845.51    119442.59
 
-
 Stats Sweden has [1860-2020](https://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101A/BefolkningR1860N/#) 
+
+for 1751-1859 HMD cites pp 186-230 of Sundbarg,
+
+
+IMR at StatsSweden 1751-2021
+
 
 
 ### Norway ###
@@ -1223,12 +1341,14 @@ https://population.un.org/wpp/Download/Standard/Interpolated/
 
 ### USA ###
 
+PUMS  
+Steven Ruggles, Sarah Flood, Sophia Foster, Ronald Goeken, Jose Pacas, Megan Schouweiler and Matthew Sobek. IPUMS USA: Version 11.0 [dataset]. Minneapolis, MN: IPUMS, 2021.
+https://doi.org/10.18128/D010.V11.0
 
 <p>[city codes](https://usa.ipums.org/usa-action/variables/CITY#codes_section) 
 Boston 0810    NewYork 4610 (Brooklyn 4611)  Phil 5330 (1850: 5331-35)  Chicago 1190
    Baltimore 530   NewOrleans 4570  Cleveland 1330    Detroit  1750     <br>
 [State Codes](https://usa.ipums.org/usa-action/variables/STATEICP#codes_section)</p>
-
 
 For Dempap, 1940-1970, decennial census values of u5 -- 
  raw 1940 raw f0  995356 RefC 45  HMD data  998165.28      1034937.60 
@@ -1237,12 +1357,14 @@ For Dempap, 1940-1970, decennial census values of u5 --
  1940 1980cen 103.2; also that in pe11, hmdinput; HMDdata 103.1;    -- 1940census 103.6 
  1950 1980cen 103.9; also that in pe11, hmdinput, HMDdata, 1950cen 
  1960 1980cen 103.4; also that in pe11, hmdinput, HMDdata, 1960cen
- 1970 1980cen 104.0; also that in pe11,  hmdinput, 1970cen (HMDdata 103.9) 
+ 1970 1980cen 104.0; also that in pe11,  hmdinput, 1970cen (HMDdata 103.9)    
+
 #### SR Population counts
 
 Grove & Lindner (VS1900-40) have states' u1 u5 pops by sex starting pdf p827 (Supplement Population Tables USA)
-  
+
    1900-04 t vii by months
+
 <p> 1850 
 </p>
 <p>our spreadsheet USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don't know if it is the most complete.  </p>
@@ -1346,8 +1468,7 @@ HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.g
 Our data    
 
 1915-1920  urb/rur 
-
-
+    
 ALabama 1925 on deaths; IMR 1927 on.   AZ 1925 on deaths; IMR 1926-30.   DE  
 FL
 GA 1928 onward, BRA (not in DRA before that). Atlanta in DRA earlier ...
@@ -1491,12 +1612,28 @@ internet archive   -- looked briefly, searched for infant, did not get mortality
 <a name="DRA"></a>
 
 
-<H4> **DRA Mortality Statistics** </H4>
+<H4> **DRA Mortality Statistics** </H4> 
 
+[Appendix](https://www.cdc.gov/nchs/data/misc/usvss.pdf) to US VSSS  offers history of DRA and BRA.     
+p57  Growth of the Birth- and Death-Registration Areas      
+  ... In 1880, the Bureau of the Census established a national ‘‘registration area’’ for deaths. This original area consisted of only two States—Massachusetts and New Jersey—the District of Columbia, and several large cities having efficient systems for the registration of deaths
+     
+p58 Table 1.01 lists dates for "Records on file for entire area (columns: Deaths Births"    
+DC 1855 1871     
+MA 1841 1841   
+MI 1867 1867  
+NH 1850 1850   
+NJ 1848 1848   
+RI 1852 1852   
+VT 1857 1857   
 
+**1870 census **     
+T V sex/age/cause by state   Table VII causes NOT AGE   
+ Table IX age/sex/color  -- entered these, for DC MA MI MH NJ RI VT,  in case they prove to be state registration data
 
-**1880 Census **  vols 11 & 12  -- I have, but where did I find them? ---   vol 11 Tab XI has grand group 2 but with urb and nonurb (I wanted urb)  COded in R for about 10 obs of u1d & SR5      
-1880 urban south atlantic SouAtl urban:  DC St=? Baltimore 530, Richmond 5870, Wilmington 7490
+   
+**1880 Census **  vols 11 & 12  -- I have, but where did I find them? ---   vol 11 Tab XI has grand group 2 but with urb and nonurb (I wanted urb)  Coded in R for about 10 obs of u1d & SR5         
+   1880 urban south atlantic SouAtl urban:  DC St=? Baltimore 530, Richmond 5870, Wilmington 7490
 
 
 v11 GrandGroup2 cities are -- Balt, Brklyn, NYCxB, Cambden, JerseyC,Newar,Wash, Wilm
@@ -1525,8 +1662,6 @@ CREATED top10NewEngUrban othNEurban NErural
  rural NY plus rural CT for an east-coast aggregate 
 
 
-
-
 Volume 4: Report on Vital and Social Statistics in the United States<br>
 [Part 1: Analysis and Rate Tables](https://www.cdc.gov/nchs/data/vsushistorical/vsush_1890_1.pdf) <br>
 
@@ -1539,8 +1674,7 @@ And another set of Registration Cities are listed -- incl Chicago, Philly, Detro
 
 pp513-658 has key data, but we need to enter what is in the Reg Area ...   USE R for cities -- pdf539 of Pt 1 ...
 
- would like to use small OH cities like Springfield, but how do we get "white" sr5 ? only total m5 and f5 in table 1 ... 
-
+ would like to use small OH cities like Springfield, but how do we get "white" sr5 ? only total m5 and f5 in table 1 ...     
 
 
 Part 2: Cities of 100,000 population and upward (in Jim's digLibrary) ... Volume 4, Part 2, Vital Statistics, Cities of 100,000 pop ... 19610506v4p2.pdf
@@ -2309,12 +2443,22 @@ Our british estimates: we accept 1901 forward from
 
 
 #### Britain 1901-2018 (official UK stats) ####
+
+ vision of Britain offer 5yr age/sex for each census year!
+ eg Inner London   GB Historical GIS / University of Portsmouth, Inner London through time | Population Statistics | Age and Sex Structure to age 85 and up, A Vision of Britain through Time.  URL: http://www.visionofbritain.org.uk/unit/10076845/cube/AGESEX_85UP   
+Date accessed: 11th April 2022
+
+
 Official UK stats, annually from ONS/National Archive RG 69 [Historic Mortality: 1901-1992](https://discovery.nationalarchives.gov.uk/details/r/C11521415)^[Also [ONS data 1961-2018](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/10727populationestimatesanddeathsbysingleyearofageforenglandandwalesandtheuk1961to2018/ewuksyoadeathspopdata19612018.xlsx), (found at ons.gov.uk search for " Population estimates by single year of age". Also can see 1998, 2008, 2018 data uk population pyramid interactive.]   
 
 Scotland sex by age via [pyramid xls](https://www.nrscotland.gov.uk/files//statistics/population-projections/2018-based/2018-based-scotpop-pyramid-18-based.xlsm)
 age-heap 2001
 
-Also, [HistPop](http://www.histpop.org) has census data fairly conveniently (although it is often busy); might want to look at it compared to the "official" stats?
+[ONS site with links to census data](https://www.ons.gov.uk/census/2011census/2011censusdata/censusdata18011991)
+
+ [HistPop](http://www.histpop.org) has census data fairly conveniently (although it is often busy); might want to look at it compared to the "official" stats?
+
+ [Casweb](http://casweb.mimas.ac.uk/) via UK ONS did not have London age/sex 
 
 
 Note that the 1931 census gives SR1 102.8 while RG69 gives 103.2 (1930 102)
@@ -2329,25 +2473,61 @@ hathi trust [UMinn lib](https://catalog.hathitrust.org/Record/100029687?type%5B%
 
 
 
-#### Britain before 1902####
+## Britain before 1902##
 
 Three main "sources" (the first Brit & Ireland only): [Histpop-The Online Historical Population Reports Website](http://www.histpop.org); Hathitrust; GoogleBooks.    
-Age/sex tables in Census of England and Wales 1901 [General report](https://catalog.hathitrust.org/Record/100424194) with appendices (Harvard library's copy).^[Not in Hathi Census of England and Wales. 1901. Summary tables. Area, houses and population; ...]  
-Compilation error is explained pp. 47-48 (Hathi images 63-64).^[Same source at histpop, in the essays, about pg 3 of them (the one for 1901?)]. Table 16 (p. 209; Hathi 227) offers females per thousand males at 1861 1871 1881 1891 1901 "based on the enumerated numbers at the several Censuses, revised by taking into account the births and deaths in the five years preceding each Census." Table 20 and 21 
+
+
+### 1901 
+
+
+HistPop 1901 sheet 4 [Summary tables, England and Wales, 1901](http://www.histpop.org/ohpr/servlet/TOC?path=Browse/Census%20(by%20date)/1901/England&active=yes&mno=112&tocstate=expandnew&display=sections&display=tables&display=pagetitles)     
+
+
+
+T13 SR5 100.3  T14 SR5 99.7   -- equivalent to swapping over 6000 from girls to boys ... oddly the p48 number of 5117 would drop T13 SR5 down only to 99.8
+
+Pdf 12 TOC  ...   43 Ages text   172 totals Eng/Scot/Ire    Appendix A tables?   T13 p206 enumerated pop?
+
+p43f60 The following Table shows the numbers of soldiers and sailors that have been respectively added to and subtracted from the enumerated population in order to arrive at (totals)  
+
+p46f63  ... 2. Ages
+
+Age/sex tables in Census of England and Wales 1901 [General report](https://catalog.hathitrust.org/Record/100424194) with appendices (Harvard library's copy).^[Not in Hathi Census of England and Wales. 1901. Summary tables. Area, houses and population; ...] In Jim's [Digital Library](https://www.dropbox.com/sh/ylihlyz3gjiv2mb/AADoOpIzB7W1RP7PildBnSMLa?dl=0)    
+     
+   p47 ... For general comparison of the returns of ages at successive Censuses ... collect them / into / groups for which rates of mortality are given in the Reg Gen's Annual Reports. Table 13 is constructed on this plan. { total/m/f quinquennial to 25ys, then decennial }     
+   
+<br>It has been found necessary to make one departure from the figures published in the Census Report for 1891, and reproduced in this and some other Tables in the present Report. The justification for this departure / explained by an extract from the Report on the Census:- " ... reason to believe that the number of males is somewhat understated, while that of females has received a corresponding addition. ... " in enumeration books m and f columns side by side   enumerator to copy ages into the columns
+     
+p48 1861 females overstated by 12,908; 1871 10,373; 1881 8,995;  1901 5117    
+By way of approximate correction of the figures relating to the Census of 1891 in Tables 13-24, an error of 7,500 (arithmetical mean between the limits suggested in the above extract) has been assumed; {1891 report posits 5-10 k as limit of errors} A further examination [after] publication of the Report on the Census of 1891 showed that this error fell almost exclusively on the age-group 0-5 ... corrected by transferring 7,500 from females to males in u5
+ 
+ 
+Compilation error explanation pp. 47-48 (Hathi images 63-64).^[Same source at histpop, in the essays, about pg 3 of them (the one for 1901?)]. 
+5
+
+Table 16 (p. 209; Hathi 227) offers females per thousand males at 1861 1871 1881 1891 1901 "based on the enumerated numbers at the several Censuses, revised by taking into account the births and deaths in the five years preceding each Census." Table 20 and 21 
 (Hathi 230), Graduated Tables. Page 67 (Hathi 83) "Former Graduated Tables have been based on estimates of population at the middle of the Census year ; the Table for 1901 is based on the population actually enumerated. (para) In addition to this Graduated Table for 1901 ( Table 20 ) we have prepared by the same methods a Table for 1891 ( Table 21 ) . This differs from the Table given in the Report on that Census by including the Army, Royal Navy, &c., abroad , and by representing the enumerated population, not the estimated mid-year population, as well as by the methods of calculation employed."  
+
+NOTE table 20 & 21 are called "graduated" but based on enumerated population -- are they tweaked with births/deaths of prior 5 years?"
+T20
+
+
+#### 1891  [HistPop](http://www.histpop.org)  
+
 
 1882 Annual report of the Registrar-General for England ... v.45 1882 suppl.. pvii Old and New English Life Tables, based upon the Mortality in 1838-54, and in 1871-80
 
 [Supplement to registrar-general's fifty-fifth annual report. Pt.I](http://www.histpop.org/ohpr/servlet/PageBrowser?path=Browse/Registrar%20General%20(by%20date)/1881-1890&active=yes&mno=550&tocstate=expandnew&tocseq=500&display=sections&display=tables&display=pagetitles&pageseq=first-nonblank&page=PrinterPageBrowser)  life tables
 
 
-
-1891  [HistPop](http://www.histpop.org)  
+    
 1881 Hathi Cornell  
 
 #### 1871
-pdf93 ToC for tables Tab42 ages in towns  
-  p46, pdf158p48  estimated ages
+
+I have vol 4, "General Report"
+pdf93 ToC for tables Tab42 ages in towns 40-45    p46, pdf158p48  estimated ages
 p47 Table 45 Estimated pop at each Yr of Age incl Army etc
 p48 Table 46 Estimated pop at each Yr of Age excl Army, Navy, Marines, Merch Sea
 p49 Table 47 estimates pops, incl army etc

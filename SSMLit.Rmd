@@ -271,6 +271,27 @@ Brown & Guinanne (2007 EHR) "Regions and time in the European fertility transiti
 
 ### France    
 
+*Tracking down IMR data*
+
+Probably can use q0 from [French Human Mortality Database](https://frdata.org/en/french-human-mortality-database/)
+and connected DemRes paper by [Florian Bonnet](https://www.demographic-research.org/volumes/vol42/26/42-26.pdf) 
+p744 2.3 Censuses
+I have collected populations by birth year, home department, and sex for each census of the period 1901–1962 from hard-copy publications of SGF and INSEE. For the period 1968–2014, these statistics have been found in online sources.
+
+
+2013 Barbieri "Mortality in France by département"  refers to Dept level life tables.     
+p385 Source: INSEE, Division des statistiques régionales, locales et urbaines, annual life tables by département     
+p387   major geographical inequalities in infant mortality in the mid1970s, with rates between 10 per 1,000 and 17 per 1,000 (Caselli and Egidi, 1986b).
+Caselli G., Egidi V., 1986b, “Géographie de la mortalité par âge et cause”, Chapter 14 in Vallin
+J., Meslé F., Les causes de décès en France de 1925 à 1978, Paris, INED, Cahier no. 115,
+pp. 533-581
+
+"Recent Demographic Developments in France: Relatively Low Mortality at Advanced Ages"
+France Prioux and Magali Barbieri, Population 2012.
+France’s falling European ranking in terms of probability of dying before age 15 years is partly explained by a stagnation, or even a slight rise, in infant mortality over the years 2005–2009 (Niel, 2010),
+
+Should see early IMR in 1800-1925  [Mouvement de la population, 1800-1925](https://www.insee.fr/fr/statistiques/2659665?sommaire=2591397&q=Mouvement+de+la+population)
+
 Guinanne (2011 JEL) Most scholars agree that Frances fertility decline started in the early nineteenth century at the latest. <refers to Weir 1994 table B3>
  
 Weir (1994 PopSt) ["New estimates of nuptiality and marital fertility in France, 1740–1911"](https://www.tandfonline.com/doi/abs/10.1080/0032472031000147816)
@@ -396,6 +417,7 @@ Weak pessimists    Mokyr 1988
 Optimists 
  
 ### England's SR1 and the standard of living debate
+
 [English data](#UKIre)  
 
 [Nice e0 plot for England and Wales e0](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/ourpopulationwherearewehowdidwegetherewherearewegoing/2020-03-27)
@@ -658,7 +680,84 @@ South, frow W to E: Pembroke, Carmanthan, Glamorgan
 
 <a name="ENGdemo"></a>
 
-### 19th C England demography    
+### Demography of 19th C England 
+
+stillbirths -- England imr 150 sr 100ish   Netherlands imr 200  101+    -- is it stillbirths?   -- ? healthy (male) SRB then not-breastfed? A key riddle for us. Tempting to say England is urban-industrial so misery for maternal (thus low SRB) and for even the hearty kids who survive tough infancy ...  OUCH -- maybe deaths at -1 week versus at +1 week can mess up IMR stats relative to our CSR measure of well/ill being?? Or is Netherlands more urban and poorer than England?
+
+WoodsR 2009 Death Before Birth  SBR (stillbirth rate) is from WoodsR 2005    
+p29 example  42 sb, 1000 lb, 150 u1d :   if 1/2 sb called u1d IMR 167 (sbr 20) and if sb inflated x 1.5 (u1d classed as sb -- engl avoid registr ) then IMR 132    ...  range of 132 to 167 with "true" 150 ...     
+p59 
+p96 SBR 1840-59 41 and 1930-39 40;  1580-1750 in range 55-62; 1750-1799 49-50; 1800-24 44; 1825-37 40; 
+p196f215 figure shows SBR flat at 50+ 1600-1940s (maybe 1600-1800 slight decline?)
+INDEX: SBR (stillbirth rate) 193–4, 196, 199–200 226–7, 231, 240   
+
+GarrettGalleySheltonWoodsR 2007   
+p61 Perhaps the strongest body of evidence which suggests that the pattern of declining endogenous infant mortality was real comes from data that the Registrar General collected and reported in the earliest decades following the onset of a system of civil registration in 1837 for a few scattered years in the 1840s
+p61  It shows that there was little change in endogenous infant mortality from 1580 to 1750 although exogenous causes rose and were almost exclusively the reason for the infant mortality rise that occurred over that period. It shows, however, a striking fall in endogenous mortality over the next 80 years by almost two-thirds 
+p62  the Registrar General’s data for a number of very different communities exhibiting very different overall infant mortality all suggest that whether infant mortality was high or modest or indeed uncharacteristically low there was a level of endogenous infant mortality that was remarkably similar in all of them
+p65 The late eighteenth century fall in exogenous infant mortality occurring in urban centres remains one of the unsolved mysteries of urban population history.
+p76 Woods <2005  > proposes a decline in stillbirth rates from levels of 70-75 to 40-45 per 1,000 between the
+late seventeenth and early nineteenth centuries  
+
+WoodsR 2000 book  Gives us possibility that false-sb bias IMR down a lot; under-reg of births, esp before 1875ish, bias IMR up a little
+p34 Victorian civil registration made no effort to record stillbirths; these were only registered after the Births and Deaths Act of 1926. p40 Glass 1951 Assuming that birth registration after 1880 is largely correct  p42 SRB since 1940s <43> SRB for legitimates 1060   
+p51 Glass / noted / a decrease in the SRB between 1841–45 and 1876–80, that it was especially low in the 1870s, 
+
+p55 n43 a figure of up to 60 stillbirths per 1,000 live births would not be unreasonable *that would raise imr of 150 to 198; 160 to 208*   
+p255 neonatal first month; post-neonatal months 2-12; perinatal sb + 1st week death;  n42 Stillbirths probably represented between 40 and perhaps up to 60 (in some places and circumstances) per 1,000 LB in 19th C [refers to Ch 2]    
+p260 28weeks gestation 100,000  survivors after 365 days from birth 81,247 for total MR of 187.5 (includes SB)
+
+p280  <across Europe>  a greater likelihood in certain regions that some stillbirths would be recorded as live born   n45 These comparative problems have been discussed and illustrated in Corsini and Viazzo (1997) and Bideau et al. (1997). Farr (1866a) also attempted to make some comparisons in a highly polemical paper and with the aid of his network of European statistical correspondents. There is also an early reference to ‘Darwin’s law’ (p. 12). 
+
+2002 vanPoppel et al Religious Differentials in Infant and Child Mortality in Holland, 1855-1912
+
+
+Wolleswinkel-van den Bosch, van Poppe,, Looman, Mackenbach (2000 Int J of Epidem)    
+odd regression-based, with little attention to data-quality issues. Broad claims about Catholics --     
+1032 <accepts Preston-Haines US high child mort>   child mortality declines after 1875-79 (more so than IMR) 
+1033 factors: wealth tax, female labour participation, catholicism, urbanization     
+"Cultural factors can influence mortality (decline) through determinants related to health behaviours. In this study percentage Roman Catholics is used as a cultural factor. It has been reported that breastfeeding was less common among Roman Catholics compared to other religious denominations.19 <Van Poppel 1992 Catholicism and regional mortality differences in 19th C Nether SHMed> High marital fertility levels were also related to Roman Catholicism, there was a strong adherence to folk medicine among Roman Catholics, and they were less inclined to accept new ideas (e.g. on hygiene)."  Soil types re: subsistence/mkt clay more mkt, but brackish water. 
+ We would wonder if it is speciously high via reporting sb and very early u1d more than the nonCatholics, who don't worry so about infant baptism? 
+
+
+Viazzo&Corsini1997 p xxi  although these measures were very  often used for international comparisons, they were probably not as reliable as commonlybelieved, either because ofthe quality ofthe vital registration systems orbecause of differences in the legal defrnitions of the registered events (stillbirths, late foetal births, live births, deaths) 
+      
+Masuy-Stroobant in V&C 1997 p4 the late introduction of the compulsory registration of stillbirths in several countries (1920 in Greece, 1924 in the Netherlands, 1927 in England and Wales    
+p4  n3  The 'présentés sans vie' or declared-dead births usually take two forms: 'true' stillbirths and live-born infants whose death occurred before their birth registration, also called 'false stillbirths'. They formed a special category in the published statistics at the beginning of the century and were often not counted in the figures for live births and infant deaths, which caused the published infant mortality frgures to be underestimated in some countries (including France and the Netherlands).
+p9 The idea of combining late foetal mortality and early neonatal mortality into a single index called p erinatal mortølity goes back to an article published in 1948 in Population Studies (Peller 1948). It is around this period that the stillbirth rate began a sustained and irreversible decline all over Europe    ... <late foetal mortality> the decline started much later than the decline of infant mortality   
+p27 The paradoxically low stillbirth rates of the Eastern European countries are not, at first sight, linked to differences in definition, but this situation obviously deserves fu rther investigation
+p30 Table has sb rates  1901-05 Netherlands 40.81  Eng NA   1926-30 Neth 25.04   Eng 39.79     -- earlier Neth SB probably refers to présentés sans vie
+
+    
+Mooney 1994 PopStudies (Still-births and the measurement of urban infant mortality rates c. 1890-1930)     
+42 cites WoodsR et al. for IMR decline -- no mention of sb there.   1890 Preston 223 Bath 165 -- *Ji wonders if sb account for much of the difference? Mooney cites WilliamsN & Mooney 1994 C&C but that has no sb mentions*.    
+43 Select Committee / "In the case of illegitimate children the fact that a still-birth has not to be registered, coupled with a desire for secrecy, is an inducement to a certain class of midwives to ensure that the child be still-born." -- *concern seems to be infanticide? But we see here a motivation to label an early death a still-birth. Possibly shifting numbers from IM to SB? *
+44 annual still-birth rate / 1918-1926 30-33 per 1,000 live births / probably substantially below the real figure.20
+48 1890 cemetery SB rates  england corrected 44 raw 20 per 1000   
+48 Schofield  1751-1850 Sweden 28/1000 sb/births      p49 very minor effects on IMR from correcting for uncertified sb (maximal 152 pushed up to 155)
+50  conclusion indicates sb issue biasing IMR down somewhat for smaller cities (so their urban penalty somewhat hidden)
+for some places, ...  
+
+#### Netherlands  Dutch  Holland
+
+[censuses](http://www.volkstellingen.nl/en/)
+
+van Poppel Jonker Mandemakers EHR 2005  Differential infant and child mortality in three Dutch regions, 1812–1909    
+Zeeland 240+ until 1870 (almost 300 in early 1850s); 1870 decline; then ~150 1880-1900
+Utrecht 240ish 1840s-60s (230-250)     1870-1900 declining, 250 to 130ish
+Friesland ~100 1800-49  rises and almost 150 in 1860s, 1870s decline to 100- , 1890s 100+
+288 Until 1860, twice as many children died during the first year of life in Zeeland as in Friesland.
+303 We observed large differences between the provinces in the levels of IMR by social group: in Friesland even the worst-ranking social group was much better off than the best-ranking one in Utrecht and Zeeland 
+304 confirms the recent observations by Derosas and Landers that mortality in the first month of life was caused not only by purely endogenous factors, but that the environment, social class included, played a role at this age as well, and contradicts the generally held view.4
+306 There are many indications that in Friesland breast-feeding was much more widespread over the social classes, and was utilised for a longer period than in Zeeland
+
+
+IMR was about      Netherlands 1850-1880 200  1880s some 30-40 points above England's  
+
+
+
+#### before 2022 April follows
+
 
 HarrisBe (2008 ResEconHist) "Gender, Health, and Welfare in England and Wales since Industrialisation." Mostly about post-infancy mortality stuff ... maybe we will want to look at for some recent perspective on england's mortality transition ...
 
@@ -674,7 +773,7 @@ ReidA (2002 PopSt), "Infant feeding and post neonatal mortality in Derbyshire, E
 2019 Davenport, Satchell, Shaw-Taylor (2019), "Cholera as a ‘sanitary test’ of British cities, 1831–1866",  [History of the Family](https://www.tandfonline.com/doi/full/10.1080/1081602X.2018.1525755)
 ABS The malign contribution of northern industrial cities to the stagnation of national life expectancy over the period 1820–1870 forms part of one of the most long-running debates in English economic history, regarding the impact of early industrialisation on living standards.   ...   We conclude (1) that any worsening of water quality in urban areas c.1800–1850 was not confined to new or rapidly growing industrial or manufacturing towns; and (2) infants probably rarely drank untreated water, so high infant or diarrhoeal mortality rates should not be read as indicators of poor water quality, in the English context.
   ATTACK SZRETER  
-  life expectancy improved at the aggregate national level between 1750 and 1820, and survival rates of infants and young children rose dramatically in London and probablyin other urban centres over the same period (Davenport,2015; Landers,1993, Chapters4–5; Wrigley, Davies, Oeppen, & Schofield,1997, p. 272)    Using a mixture of scant empirical evidence and extrapolation, Szreter and Mooney(1998) argued influentially that life expectancy fell in the national population between1820 and 1840 as a consequence of worsening conditions especially in northern indus-trial and manufacturing cities (Figure 1). 
+  life expectancy improved at the aggregate national level between 1750 and 1820, and survival rates of infants and young children rose dramatically in London and probablyin other urban centres over the same period (Davenport,2015; Landers,1993, Chapters4–5; Wrigley, Davies, Oeppen, & Schofield,1997, p. 272)    Using a mixture of scant empirical evidence and extrapolation, Szreter and Mooney (1998) argued influentially that life expectancy fell in the national population between 1820 and 1840 as a consequence of worsening conditions especially in northern indus-trial and manufacturing cities (Figure 1). 
   BUT   The higher infant and child mortality rates evident in the second half of the nineteenth century in many northern towns was probably also a feature of the first half of the century, as Szreter and Mooney argued. However it seems unlikely that this excess mortality was due to inferior water quality
 
 
@@ -1184,7 +1283,14 @@ p319 recommend institutions be formed to educate and qualify females to be nurse
 
 #### Current views of the onset of Infant-Mortality Transition in the USA? 
 
+
 Cutler & Miller (2005) & Goldin's correction thereof ...
+
+Anderson, Charles, Rees (2022) show that C&M used the wrong population data for mortality estimates ...
+
+
+new paper re: Cutler & Miller for us 1900-40 urban mortality  Anderson, D. Mark, Kerwin Kofi Charles, and Daniel I. Rees. 2022. "Reexamining the Contribution of Public Health Efforts to the Decline in Urban Mortality." American Economic Journal: Applied Economics, 14 (2): 126-57.
+DOI: 10.1257/app.20190034  with comment & reply
 
 
 
@@ -1593,9 +1699,6 @@ p389
 
 ### South Africa 
 
-
-
-
 MpetaFourieInwood2018
 Fig 3 Black male heights ~167.5cm   whites 174
 p1 . A similar gap between white and coloured South Africans is known to extend to the start of the 20th century but as yet there is no comparable study of black South Africans.15
@@ -1745,16 +1848,15 @@ Denoon, Donald (1983). Settler Capitalism: The Dynamics of Dependent Development
 
 #### Missing Boys?
 
-Jim on 2021 paper: , 
+Jim on 2021 paper: 
     
-    
-    
-    
+
      the twentieth-century under-five sex ratio for black children was so skewed towards girls, a ratio much lower, for example, than the sex ratios of pre-industrial European countries, remains unanswered. We suggest several possible explanations. The most likely explanation, we argue, was a preference for girls.
 
      p16 Although excess male mortality in the first months of life is found in all societies and historical contexts where infants of both sexes received the same quality of nurture and care, the values for the South African case are extreme. The high incidence of boys’ mortality in comparison with other world areas is most likely the consequence of, we argue, better care and nutrition received by girls during the first years of life.
 
 Jim on WP: goofball article that largely misses the point that bad material conditions of life generate a low sex-ratio! It uses SR4 -- too much noise? We'd say look for difference of SRs?  **Table 5** uses black SR1 for SBR (data lacking) -- but key is they show the Blacks' sex ratios in 1980/84 (1980 census, presumably) rising with age -- SR1 99.4 SR04 101.0 for 1980  and SR1 98.7  SR04 101.4 for 1985/90 (either the 1985 census, or 1991).   
+
 Francisco J. Marco-Gracia and Johan Fourie, Nov 2019 [Missing boys: Explaining South Africa’s unbalanced sex ratio, 1894-2011](https://www.researchgate.net/profile/Francisco_Marco-Gracia/publication/337657133_Missing_boys_Explaining_South_Africa's_unbalanced_sex_ratio_1894-2011/links/5de3a7f892851c8364583870/Missing-boys-Explaining-South-Africas-unbalanced-sex-ratio-1894-2011.pdf)
 p1     When the first articles on African sex ratios were published, the (p2) Statistical Offices found very low sex ratios for the under-five populations in various countries around the continent, ... 
     They expected to find that sex ratios under five years were over 100 (more boys than girls) ... We are not the first to document this. In the Preliminary Report of the 1963 Census of Northern Rhodesia (Northern Rhodesia Government 1964: 5-6), one observer wrote: 
@@ -1776,8 +1878,6 @@ Table 5 Use SR1 for black SBR
 
 Table 5 shows the Blacks' sex ratios in 1980/84 (1980 census, presumably)
 rising with age -- SR1 99.4 SR04 101.0 for 1980  and SR1 98.7  SR04 101.4 for 1985/90 (either the 1985 census, or 1991)   
-
-
 
 
 ### England, Scotland, Ireland ###
@@ -1865,21 +1965,10 @@ Annual report of the Registrar-General for England and Wales -- We have this
 
 #### Scotland
 
+Torres et al 2019 Pop Studies
+Numerous studies on the urban penalty during the period of intense urbanization (in England and Wales and elsewhere) have followed a common strategy, comparing mortality levels and indicators of health status—such as life expectancy at birth, crude death or infant mortality rates, and stature— in urban vs. rural or urban vs. total populations (e.g., Preston and van de Walle 1978; Eggerickx and Debuisson 1990 (Wallonia & Brussells 1889-92); Riggs 1994 (Scotland heights? 1800-50); Hubbard 2000 (Norway 19C); Haines 2001; Martínez-Carrión et al. 2014 (Spain heights?)). W
 
-##### Orkney papers
- Notion that low IMR may reflect under-reporting of infant deaths -- if so, would we see population smaller than expected? Otherwise, probably not worth our attention for our project.
 
-Jennings, Quaranta, Bengtsson (2017 Pop Studies), "Inequality and demographic response to short-term economic stress in North Orkney, Scotland, 1855–1910: Sector differences".    
-Refer to "Previous work on the predictors of infant and child mortality in Orkney has demonstrated that mortality was associated with household composition (Sparks 2007; Sparks et al. 2013) and climate conditions (Jennings et al. 2012)."
-
-Sparks et al 2013 AJPhysAnth  p194 on Data -- 1855-2001, 3 types of records: birth, marriage, death.  "some under-recording of vital events ... especially during early portions of the period of interest (Jennings et al 2008, Sparks 2007, 2009). 
-
-Jennings et al 2012
-
-Sparks 2009  1851-1901  p31 One apparent problem of concern is the reliability of the vital registration data, especially concerning infant deaths and incomplete linkage due to out-migration prior to death or marriage. Specifically under-enumeration of infant deaths was suspected, as mortality rates under age one were very low, ...
- ...  avoiding the problematic data (notably, enumerations of infant deaths).
-
-Sparks 2007  corey s Sparks  PA State PhD Anthro & Demog; 
 
 
   
@@ -1900,6 +1989,23 @@ Table V  Scotland 1890 Total Deaths 79,004 5.8% (4569) uncertified;
 [Census of Scotland -- 1861](https://catalog.hathitrust.org/Record/008879851), Population Tables and Report, [page xxii](https://www.dropbox.com/s/wix21p9xu99mi9m/Scotland1861xii.pdf?dl=0).  
 Great quotation about SBR 106 and the frail male "At birth 106 males appear for every 100 females ...; yet, by the law of nature, -- a law seen in still more powerful operation even in intra uterine life -- the tendency to succumb under disease is so much greater in the male than in the female, that by about the 18th year of life the proportion of the sexes becomes equalized, 100 males being alive at that age for every 100 females"  
 Citation: Census of Scotland -- 1861, Population Tables and Report (Number of the inhabitants, families, children at school, houses, ... ), Edinburgh 1862.
+
+
+##### Orkney papers
+ Notion that low IMR may reflect under-reporting of infant deaths -- if so, would we see population smaller than expected? Otherwise, probably not worth our attention for our project.
+
+Jennings, Quaranta, Bengtsson (2017 Pop Studies), "Inequality and demographic response to short-term economic stress in North Orkney, Scotland, 1855–1910: Sector differences".    
+Refer to "Previous work on the predictors of infant and child mortality in Orkney has demonstrated that mortality was associated with household composition (Sparks 2007; Sparks et al. 2013) and climate conditions (Jennings et al. 2012)."
+
+Sparks et al 2013 AJPhysAnth  p194 on Data -- 1855-2001, 3 types of records: birth, marriage, death.  "some under-recording of vital events ... especially during early portions of the period of interest (Jennings et al 2008, Sparks 2007, 2009). 
+
+Jennings et al 2012
+
+Sparks 2009  1851-1901  p31 One apparent problem of concern is the reliability of the vital registration data, especially concerning infant deaths and incomplete linkage due to out-migration prior to death or marriage. Specifically under-enumeration of infant deaths was suspected, as mortality rates under age one were very low, ...
+ ...  avoiding the problematic data (notably, enumerations of infant deaths).
+
+Sparks 2007  corey s Sparks  PA State PhD Anthro & Demog; 
+
 
 
 
