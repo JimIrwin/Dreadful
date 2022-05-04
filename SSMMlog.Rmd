@@ -13,6 +13,55 @@ output: html_document
 
 ### current log ###
 
+2022.0503 
+
+2022.0501   LT parag ?   -- maybe ENgland's historic ones?     Js should write chapter: Goldilocks and the 3 sex ratios    
+English LTs    
+LT1 SRB 105.2       SR1exact 101.99 SR5exact 101.55     IMR 
+
+1896 LT06 SRBrg  103.7   SR1exact 100.2  SR5exact  99.5     IMR 146  
+1911 LT08 SRBcen 103.9   SR1exact 101.2  SR5exact 100.9     IMR 112.5      
+1921 LT09 SRBcen 105.07  SR1exact 102.75 SR5exact 102.4     IMR  79.9     
+1931 LT10 SRBrg  104.88  SR1exact 103.0  SR5exact 102.6      IMR  63.4 
+1951 LT11 SRB
+1961 LT12
+
+2022.0430  concern with title saying "indicator" of IMR -- reveal was more accurate ..  Using Childhood S R to characterize IMR 
+
+2022.0422 need to settle on intro (Jim wants point that IMR is much lower now than historically, with our method a hist tool ... )  
+
+2022.0421 leads for Paris 1950s data
+
+Atlas des Parisiens : de la Révolution à nos jours : population, territoire et habitat, productions et services, religion, culture, loisirs
+columbia clio Structures demographiques et premieres estimations de la population de Paris a l'horizon 1974
+[Population par commune de 1851 à 1968](https://catalog.hathitrust.org/Search/Home?lookfor=%22%20France%20Population%20Statistics.%22&type=subject&inst=#:~:text=Population%20par%20commune%20de%201851%20%C3%A0%201968)
+
+2022.0418 Ji about done with intro section; finishing up expansion of "not structural" discussion -- now it is too long; need to find balance (but clear simple statments here make model more useful and make results easier to interpret later)
+
+Ji wants to block out the interp of results ... 
+
+
+Eventual set of regs for robustness:   direct: CSR on IMR; reverse: IMR on CSR  -- how predict IMR? via reverse, or solve out direct? 
+also CSR on IMR with slope-dummy when IMR gets to a level where Drevenst shows MU has fallen to 0.17; CSR on IMR 2 slope dummies -- IMR low & high (viz mu values)
+also CSR on IMR IMR2
+also CSR on IMR and dummy variables based on SRB values ...
+
+
+
+2022.0416  play around with examples of u1pop and either u1d or B to estimate IMR  -- separation factors are more influential for IMR(B,P) then IMR(D,P)  -- intuitively sensible, since D/B is the magnitude of interest and it is <<1, so loading uncertainty into the numerator rather than the denominator, generates more uncertainty.  
+
+
+wonder if Somalia's u5 mortality rates by sex are consistent with SR data?
+
+2022.0415 notice South Africa yearbook 1980-81 they "estimate" black IMR to be 100-110; values are given for Whites 21.6 Coloureds 132.6 and Asians 36.4    -- do we have CSR?
+
+2022.0414  Demography's top journal dismissed our work; instead of sending to the least prestigous Demography journal, why not send to a high-quality econ outlet like AER or JPE?
+
+send to Hill ?  Kenneth Hill is a demographer who specializes in deriving estimates of mortality from incomplete or deficient data.  He has a Ph.D. from the London School of Hygiene and Tropical Medicine, and has spent most of his career at the Johns Hopkins Bloomberg School of Public Health and the Harvard School of Public Health. Kenneth_hill_1@yahoo.com
+
+noted CSR offers powerful test of M-I misery -- to reject a null hypothesis of wellness in favor of alternative of misery. But CSR is not a powerful test of M-I wellness, can't reject null of misery without evidence that there is not mortal miscogyny. 
+
+
 2022.0413  Jim identifies 12 valid CSR values for Sweden 1757-1855, to add to current 1860 onward .... 
 Jim to hand off structure abs soon?
 

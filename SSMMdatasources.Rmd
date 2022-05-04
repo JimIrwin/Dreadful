@@ -10,7 +10,9 @@ output: html_document
 ## Overview ##
 <p>[US data](#USA) ([state of MASS](#MASS))), [Canada's sources](#CAN), [India Census](#IndiaCensus);  [Life Tables](#LifeTable),  </p>
 
-[Australasia](#AUSNZ)   [South Africa](#SouAfr) [Africa](#AFRICA)   [Italy](#ITALY)
+[Australasia](#AUSNZ)   [South Africa](#SouAfr) [Africa](#AFRICA)   [Italy](#ITALY)   [England, Scotland, Ireland](#UKIre)   
+[England](#ENG-WALES) 
+
 
 UN [pop by age/sex](https://population.un.org/wpp/Download/Standard/Interpolated/)
 UN [life tables](https://www.un.org/en/development/desa/population/publications/mortality/model-life-tables.asp)
@@ -619,7 +621,7 @@ p186
 Medelfolkmängden efter ålder och kön , för beräkning af dödstalen .
 The average population by age and gender, for the calculation of the death rates . 
     
-p186bott  Namely, it is the case that the age groups, in which our official statistics divided the population, essentially being the same used for the classification of the deceased. This is especially true about the age group that is of the greatest importance here, namely group 0/5 years.
+    p186bott  Namely, it is the case that the age groups, in which our official statistics divided the population, essentially being the same used for the classification of the deceased. This is especially true about the age group that is of the greatest importance here, namely group 0/5 years.
 *suggestion that 0/5 count inflated by kids who should be in 5-10, for dead also
 
 p197 before Table 1 
@@ -1073,31 +1075,29 @@ ABS page with [good overview of the censuses](https://www.abs.gov.au/ausstats/ab
 
 ### South Africa ###
 
+wk4 has 1991 5yr populations, bl/wh/col/asian and cites hathi 30112054273765  -- which on april15 2020 I cannot find ...
+
+
 u5 population data is lacking; we have 1904, 1911, 1918. IMR data is available for whites 1910-1990.
 
 IMR "coloured" IHS starts with 1937 and 1937-1940 ranges 157-166 (with 1941 166, 1942 177)
 So we want SR data 1921 1931?  1941?      6th census 1936  vol II ages  vol IX Bantu     
 
-Columbia Clio shows     
-microform [South Africa--Census, 1865, 1904, 1911, 1918, 1921, 1916, 1931, 1936, 1941]()
 
-[1921](https://clio.columbia.edu/catalog/10770950) via Gale, 19th C COllections Online
+Maybe Columbia has u5 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online. Expect we can get u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1); same is [search-only for Jim at Hathi](https://catalog.hathitrust.org/Record/009127872).       
 
-1936 is more than vol 1 available? SHould be, since it is on microfilm
-ZAN-T4817 Africa: South Africa  1926: no. 1-1936: no. 1   ADV REQUEST
+
+Columbia Clio microform: South Africa--Census, 1865, 1904, 1911, 1918, 1921, 1916, 1931, 1936, 1941.  [1921](https://clio.columbia.edu/catalog/10770950) via Gale, 19th C COllections Online
+
+1936 is more than vol 1 available? Should be, since it is on microfilm ZAN-T4817 Africa: South Africa  1926: no. 1-1936: no. 1   ADV REQUEST
 	
 Sixth census of the population of the Union of South Africa, enumerated 5th May 1936. Ages and marital condition of the Bantu Population / Sesde sensus van die bevolking van die Unie van Suid-Afrika, opgeneem 5 Mei 1936. Leeftye en huwelikstaat van die Bantoebevolking / Unie van Suid-Afrika. by South Africa. Office of Census and Statistics (1917-1951);
 
-South Africa. Office of Census and Statistics.  Sixth census of the population of the Union of South Africa, enumerated 5th May, 1936. = Sesde sensu  Pretoria : Printed by the government printer, 1938
-Schomburg Center - Research & Reference	 Sc+ 312-S (South Africa. Office of Census and Statistics. Sixth census)  v. 6-7, 9  
+South Africa. Office of Census and Statistics.  Sixth census of the population of the Union of South Africa, enumerated 5th May, 1936. = Sesde sensu  Pretoria : Printed by the government printer, 1938 Schomburg Center - Research & Reference	 Sc+ 312-S (South Africa. Office of Census and Statistics. Sixth census)  v. 6-7, 9  
 
 [Columbia -- Offsite at Princeton](https://clio.columbia.edu/catalog/SCSB-1076056)
 Natives (Bantu) and other non-European races. [Microform]
-AuthorSouth Africa. Office of Census and Statistics.
-TitleNatives (Bantu) and other non-European races. [Microform]
-PublishedPretoria, 1942.  
-Subjects
-South Africa > Census, 1936.
+Subjects  South Africa > Census, 1936.
 
 UG12/42, Sixth Census of the Union of South Africa 1936, Volume IX Natives (Bantu) and Other Non-European Races (Government Printer, Pretoria, 1942), p xxv.      
 UG50-'38, Sixth Census of the Union of South Africa 1936, Supplement to Volume IX Ages and Marital Condition of Bantu Population (Government Printer, Pretoria, 1938), p v.     
@@ -1123,10 +1123,6 @@ u5 white populations (by sex) :  we have 1904, 1911, 1918
 Ouderdom -- Age
 
 Report 03-00-092016.pdf says IMR fell to 35 per 1000 in 2011-16 versus 45 in 1993-98 (DHS )
-
-IGME suggests 
-
-Maybe Columbia has u5 pops in [Fourth census ... 1926](https://catalog.hathitrust.org/Record/009114310); but 1931 seems not online. Expect we can get u5 and u2 pops from [Report with summaries (1933)](https://clio.columbia.edu/catalog/SCSB-7896259) or [Fifth census ... 1931](https://clio.columbia.edu/catalog/2731375?counter=1); same is [search-only for Jim at Hathi](https://catalog.hathitrust.org/Record/009127872).       
 
 Columbia has [1970 census[(https://clio.columbia.edu/catalog/2520600)
 
@@ -1224,24 +1220,7 @@ At Hathi 1970 South Africa Census (subject), No "full view"  -- maybe Columbia h
 1891 Cape Good Hope, 1891 Natal:  age by sex for ages 1,2,3,4, and quints thereafter  -- SR1various.wk4 in econhist has the start of tabulating the SR by age   **1891 South Africa** has the heaping at age 0 relative to 1 
 
 
-#### South Africa Census 1911
-
-Place       |time |ratio|Nonwhite|White|Black|     |    | | 
-------------|-----|------|-----|-----|---- |-------|----|-|
-South Africa|1911 | SR1  |92.3 |104.9|91.5|       |    | | 
-South Africa|1911 | SR02 |93.0 |105.4|92.0|       |    | | 
-South Africa|1911 | SR05 |93.7 |103.2|92.9|       |    | | 
-
-
-Place       |time |ratio|Black|White|Other|       |    | | 
-------------|-----|------|-----|-----|---- |-------|----|-|
-South Africa|1911 | SR1  |91.5 |104.9|98.0 |       |    | | 
-South Africa|1911 | SR02 |x1.5 |105.4|x8.0 |       |    | | 
-South Africa|1911 | SR05 |92.9 |103.2|98.7 |       |    | | 
-
-
-
-**Source**: South Africa Census 1911, pp. 120-21 (populations by age and sex).
+South Africa Census 1911, pp. 120-21 (populations by age and sex).
 
 Census, 1911 ... Reports [vol. 1 (report/Part 1-4)](https://hdl.handle.net/2027/njp.32101031665449). South Africa.  
 241-334 Part 1 Population and Dwellings pdf 241
@@ -1304,7 +1283,10 @@ Europe IMRs in B. R. Mitchell (1998), International Historical Statistics Europe
 
 ### UN Sources ##
 
-re: Demographic Yearbook  https://unstats.un.org/unsd/demographic-social/products/dyb/documents/techreport/ageandsex.pdf
+re: [UN Demographic Yearbooks](https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml#statistics) available for download.  https://unstats.un.org/unsd/demographic-social/products/dyb/documents/techreport/ageandsex.pdf
+
+1965 Infant deaths and infant mortality rates: 1961-1965 p722-  pdf731-
+
 
 Our data from [demog stats DataBase](http://data.un.org/Data.aspx?d=POP&f=tableCode%3a22) thailand 1956 1960  1970 1980 
 
@@ -2293,10 +2275,8 @@ Statistics Canada pubs at Internet Archive [1941](https://archive.org/details/st
 
 
 <a name="UKIre"></a>
-## England, Scotland, Ireland Data & Results ##
 
-
-### England, Scotland, Ireland ###
+## England, Scotland, Ireland ##
 
 <p>
 On SRB in England 1880, from [Plowden's Report on the census of India ... 1881](https://catalog.hathitrust.org/Record/012155211)  (1883 p. 53)  <br>Plowden (India 1881) pdf  1623   In England they do not even publish in any detail the age figures as recorded, but doctor them, sometimes to the extent of 5 per cent., before using or printing them.*   * See Census Report of England and Wales, 1871, Vol. IV., p. 46, and XI
@@ -2361,7 +2341,7 @@ Census 1981, Scotland : historic tables, 1801-1981; Age u15 1861 on -- too broad
 
 ### Ireland Census
 
-#### Ireland Census 1841
+**Ireland Census 1841**
 Report of the Comm ... Census of Ireland for the Year 1841 [At Hathi](https://catalog.hathitrust.org/Record/001306972) or our copy (in SSMM).  
 Note: for illiteracy work, commsnrs p. xxxiv males age 56-65 194,079 40% read&write, 12% read, 48% neither ;   
 
@@ -2394,8 +2374,7 @@ For Provinces rural/urban SR1, need to add up 12m from County Level Data
      91  Ire         103270+14483=
 589 Tables of Deaths
 
-
-#### Ireland Census 1851
+**Ireland Census 1851**
 
 75p10 Ci Dublin I ages u1 1-u5 5-u10   .... 20-u30 ... 60+
 79p14 Co Dublin II  read,write, school
@@ -2423,15 +2402,20 @@ vIII Ulster
 
 Maybe http://www.histpop.org/ohpr/servlet/TOC?path=Browse/Census%20(by%20date)/1891/Ireland&active=yes&mno=439&tocstate=expand&tocseq=37200&display=sections&display=tables&display=pagetitles
 
-### England Census
+<a name="UKIre"></a>
+<a name="ENG-WALES"></a> 
 
-#### England Census 1881
-page v Table 
-
-
+### England (England and Wales)
 
 
-#### Time-series for England and Wales
+[Reg-Gen Reports](https://lse-atom.arkivum.net/uklse-dl1eh010020670001-uklse-dl1-eh01-002-067-0001-0001-pdf) at LSE digital library
+
+
+imr for London 1850s WilliamsN & Galley 1995 Pop Studies ; 
+
+
+
+#### Annual data for England and Wales, 1900 onward
 
 Infant Mortality Rate 1900-2019 from ONS Dataset [Vital statistics in the UK: births, deaths and marriages](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables/current/vitalstatsannualreferencetable20201.xlsx)
 
@@ -2443,6 +2427,29 @@ Our british estimates: we accept 1901 forward from
 
 
 #### Britain 1901-2018 (official UK stats) ####
+
+[1951 census County Report tables](https://www.visionofbritain.org.uk/census/report/EW1951COU?show=ALL)
+
+[counties listed](https://www.visionofbritain.org.uk/census/report/EW1951COU?show=DB)
+County Report: Lancashire
+County Report: Leicestershire
+County Report: Lincolnshire and Rutland
+County Report: London
+County Report: Middlesex
+County Report: Norfolk
+County Report: Northamptonshire
+
+
+vol1  p5/112 Anglesey & Caernarvonshire
+vol2 UCalif Bedfordshire
+vol2 OhioState Cardiganshire & Pembroekshire,   #111 Chesire #263 Cornwall;    #371 Cumberland & Westmoreland            #603 Deryshire 
+
+vol V Ohio State #9 Lancashire      #431 Table T Lincolnshire  #561 London
+
+
+[1951 census county reports  [Hathi vol 6 Middlesex-Northumberland](https://babel.hathitrust.org/cgi/pt?id=osu.32435067123752&view=1up&seq=473&skin=2021)  [Hathi vol 5 Lancashire](https://babel.hathitrust.org/cgi/pt?id=osu.32435067123364&view=1up&seq=9&skin=2021)
+
+
 
  vision of Britain offer 5yr age/sex for each census year!
  eg Inner London   GB Historical GIS / University of Portsmouth, Inner London through time | Population Statistics | Age and Sex Structure to age 85 and up, A Vision of Britain through Time.  URL: http://www.visionofbritain.org.uk/unit/10076845/cube/AGESEX_85UP   
@@ -2473,25 +2480,31 @@ hathi trust [UMinn lib](https://catalog.hathitrust.org/Record/100029687?type%5B%
 
 
 
-## Britain before 1902##
-
-Three main "sources" (the first Brit & Ireland only): [Histpop-The Online Historical Population Reports Website](http://www.histpop.org); Hathitrust; GoogleBooks.    
 
 
-### 1901 
 
+**Britain before 1902** Three main "sources"  [Histpop-The Online Historical Population Reports Website](http://www.histpop.org); Hathitrust; GoogleBooks.    
+
+
+### England 1901 Census
 
 HistPop 1901 sheet 4 [Summary tables, England and Wales, 1901](http://www.histpop.org/ohpr/servlet/TOC?path=Browse/Census%20(by%20date)/1901/England&active=yes&mno=112&tocstate=expandnew&display=sections&display=tables&display=pagetitles)     
 
+We have (from Google Books) 1903 publication, *Summary Tables ...* with full title being     
+Census of England and Wales. 1901. (63 Vict. c. 4.) Summary Tables. Areas, houses and population; also population classified by ages, ...   {publication date 1903}
 
-
-T13 SR5 100.3  T14 SR5 99.7   -- equivalent to swapping over 6000 from girls to boys ... oddly the p48 number of 5117 would drop T13 SR5 down only to 99.8
-
-Pdf 12 TOC  ...   43 Ages text   172 totals Eng/Scot/Ire    Appendix A tables?   T13 p206 enumerated pop?
+TOC pdf 12     43 Ages text   172 totals Eng/Scot/Ire    Appendix A tables?   T13 p206 enumerated pop?
 
 p43f60 The following Table shows the numbers of soldiers and sailors that have been respectively added to and subtracted from the enumerated population in order to arrive at (totals)  
 
 p46f63  ... 2. Ages
+
+f155 pp 140-    Table XXVI ages of persons, males and females, in each administrative county and county borough f163 p148  London 100.1 boys per 100 girls (496K)  Manchester
+
+
+
+Hathi has full view of 1904 publication, *General Report with Appendices* with the full title:    
+Census of England and Wales. 1901. (63 Vict. c. 4.) General Report with Appendices {publication date 1904}
 
 Age/sex tables in Census of England and Wales 1901 [General report](https://catalog.hathitrust.org/Record/100424194) with appendices (Harvard library's copy).^[Not in Hathi Census of England and Wales. 1901. Summary tables. Area, houses and population; ...] In Jim's [Digital Library](https://www.dropbox.com/sh/ylihlyz3gjiv2mb/AADoOpIzB7W1RP7PildBnSMLa?dl=0)    
      
@@ -2506,11 +2519,17 @@ By way of approximate correction of the figures relating to the Census of 1891 i
 Compilation error explanation pp. 47-48 (Hathi images 63-64).^[Same source at histpop, in the essays, about pg 3 of them (the one for 1901?)]. 
 5
 
+table 13 (p206 H)
+
+
 Table 16 (p. 209; Hathi 227) offers females per thousand males at 1861 1871 1881 1891 1901 "based on the enumerated numbers at the several Censuses, revised by taking into account the births and deaths in the five years preceding each Census." Table 20 and 21 
 (Hathi 230), Graduated Tables. Page 67 (Hathi 83) "Former Graduated Tables have been based on estimates of population at the middle of the Census year ; the Table for 1901 is based on the population actually enumerated. (para) In addition to this Graduated Table for 1901 ( Table 20 ) we have prepared by the same methods a Table for 1891 ( Table 21 ) . This differs from the Table given in the Report on that Census by including the Army, Royal Navy, &c., abroad , and by representing the enumerated population, not the estimated mid-year population, as well as by the methods of calculation employed."  
 
 NOTE table 20 & 21 are called "graduated" but based on enumerated population -- are they tweaked with births/deaths of prior 5 years?"
 T20
+
+
+Table 23  p218 of 100,000  u5 m f  London 5465 5460 p237 (General Report) 
 
 
 #### 1891  [HistPop](http://www.histpop.org)  
@@ -2521,7 +2540,9 @@ T20
 [Supplement to registrar-general's fifty-fifth annual report. Pt.I](http://www.histpop.org/ohpr/servlet/PageBrowser?path=Browse/Registrar%20General%20(by%20date)/1881-1890&active=yes&mno=550&tocstate=expandnew&tocseq=500&display=sections&display=tables&display=pagetitles&pageseq=first-nonblank&page=PrinterPageBrowser)  life tables
 
 
-    
+#### England Census 1881
+
+page v Table 
 1881 Hathi Cornell  
 
 #### 1871
@@ -2540,7 +2561,14 @@ Census of Scotland - 1861: Population tables and report. Number of the inhabitan
 
 #### 1851 
 
-[Our copy](https://www.dropbox.com/s/wlx1h29bjn8uq13/1851CensusGBPopTablesIIVol1Table4-clviiEstimated.tif?dl=0). Sourced from HistPop: [Great Britain **Population tables II,** Vol. I.](http://www.histpop.org./ohpr/servlet/PageBrowser?path=Browse/Census%20(by%20geography)/Great%20Britain/1851&active=yes&mno=30&tocstate=expandnew&display=sections&display=tables&display=pagetitles&pageseq=169&zoom=3) England and Wales. Divisions VII-XI. Scotland. Islands, 1851 Table 4 ... Estimated Numbers living at each year of Age.  
+[Our copy](https://www.dropbox.com/s/wlx1h29bjn8uq13/1851CensusGBPopTablesIIVol1Table4-clviiEstimated.tif?dl=0). Sourced from HistPop: [Great Britain **Population tables II. Ages, Civil Condition, Occupations ... ** Vol. I.](http://www.histpop.org./ohpr/servlet/PageBrowser?path=Browse/Census%20(by%20geography)/Great%20Britain/1851&active=yes&mno=30&tocstate=expandnew&display=sections&display=tables&display=pagetitles&pageseq=169&zoom=3) England and Wales. Divisions VII-XI. Scotland. Islands, 1851 Table 4 ... Estimated Numbers living at each year of Age.  
+
+pdf 6 TOC ages    pdf34 xxiv on errors -- nothing on the m/f error discussed in 1901 (and others)
+
+pdf 203 for u5 EngW, London  etc  (page cxcii ?192) ENUMERATED -- so sign of corrected values here; 
+
+pdf365 is p1 London enumerated population (same values as pdf 203)
+
 
 Hathi Versions
 [Population Tables I, Vol II](https://hdl.handle.net/2027/coo.31924092723471) is listings of numbers of inhabitants 1801 1811 ... 1851. It seems Vol I would be same ? 

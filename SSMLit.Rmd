@@ -9,14 +9,19 @@ output: html_document
 
 ## to look at: ##
 
-[Crew (1948)](https://clio.columbia.edu/catalog/3951320) seems like Columbia might let Jesse borrow it (pickup)?
+[Crew (1948)](https://clio.columbia.edu/catalog/3951320) Jesse has ordered ... 
+
+calibration literature looks at merits of inverting the direct regression versus using a reverse regression ... [Osborne](https://www.jstor.org/stable/1403690?seq=1)  statistical calibration 
+
+problem of inferring an X variable from a Y variable 
+
 
 ## Overview -- Data now has [its own page](https://jimirwin.github.io/Dreadful/SSMMdatasources.html)
 
 <p>Our "cases": [Europe](#EUROPE) [Std of Living in 19C England](#ENG), [Brit Demog](#ENGdemo)
 [Ireland](#IRE), [19C Mort Decline](#URB), [Urban Penalty & Mort Transition](#URB), [Canada](#CANmort), [USA](#USAmort) 
 </p>    
-<p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#InfMort)     </p>
+<p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#IMR)     </p>
 <p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 
 ## general collections 
@@ -36,9 +41,7 @@ K&F are used by Easterlin, for his story of e0 transition in England, France, Sw
 ### new stuff to review and then move (to the proper place in the page)
 
 Tavasolli et al    
-
-In this paper, we try to find the association between air pollution and infant mortality during
-late 19th century and the dawn of 20th century.     
+In this paper, we try to find the association between air pollution and infant mortality during late 19th century and the dawn of 20th century.     
 
     Like pollution, data on infant mortality and more importantly fetal death has been scarce.  ...      However, gender ratio has been shown to provide a quite robust proxy for fetal deaths. Male embryos are more susceptible to external stressors like pollution during prenatal development and more likely to suffer health problems during infancy as a respond to such stressors (Sanders and Stoecker (2011)). Therefore, during periods of large external shocks to utero, the reproductive system will be biased to produce more XX–chromosomes combination rather than XY–combination and as a consequence the probability of a live birth being girl increases. The latter probability is the dependent variable in this paper for analysis at household level while the female ratio to total number of children is the proxy used for county level regressions.   
     Using these proxies, we show that one thousandth of logarithm of employment in manufacturing is associated with 1–3% increase in the probability of a live birth being female. Wefindthat Mothers in counties with higher degrees of manufacturing industries were more likely to give birth to daughters, experience the fetal, prenatal, and infant death.
@@ -65,9 +68,7 @@ p9 SECTION 5.2 Aggregations the share of females among children on employment in
 
 p9 SECTION 6  The  reproductive  system  of  the mother  responds  to  external  stressors …  male  embryos  are  more susceptible  to  lower  health  quality  of  mother  and  environmental  shocks  to  placenta,  the  assigned  probabilities  at the time of conception will deviate to the benefit of females. This fact is the intuition for the choice of gender ratio for fetal and infant deaths.
 
-
-
-Journal of Environments Published August 21, 2020
+Journal of Environments Published August 21, 2020   
 EconPapers MPRA Paper No. 105093, posted 11 Jan 2021 03:03 UTC
  arXiv  Jan 2021
    -- not on her Google Scholar page, but on her home page;  
@@ -408,6 +409,8 @@ older ...  Plowden p. 57 for hearty girls (in famine)
 
 <a name="ENG"></a>
 
+
+
 ## the English Standard of Living (19th-C economic history & demography)
 
 Strong pessimists  "Classical View"  Engels Dickens Blake?
@@ -679,6 +682,37 @@ Radnor, Brecon   E, middle, N to S
 South, frow W to E: Pembroke, Carmanthan, Glamorgan
 
 <a name="ENGdemo"></a>
+
+## Demography of England
+
+### English Life Tables
+
+[Reg-Gen Reports](https://lse-atom.arkivum.net/uklse-dl1eh010020670001-uklse-dl1-eh01-002-067-0001-0001-pdf) at LSE digital library
+
+JIA vol 43 (xLiii) pdf95p82 lists English LTs to 1896 ...
+
+ I  1841 via 1841 census & 1841 deaths; Farr in Reg-Gen 5th Report 1843    
+ II 1841 via 1841 census & 1838-44 deaths; 12th Report 1853   
+III 1841 & 1851 census & deaths 1838-54; in Farr's volume published by Reg-Gen 1864 & Table also given in 28th Report pub in 1867
+ 4 1876    5 1886    
+ 
+ 6 1896   in Supp to 55th    
+ 
+I found [Supp to 65th](https://lse-atom.arkivum.net/uklse-dl1eh010020670001-uklse-dl1-eh01-002-067-0001-0001-pdf) but it does not have the 1896 life table?
+ 
+ 7 1906  
+ 8 1911  Supp to 75th Annual, pp 10, 18 for survivors l1 l5 and thus q .  SRB? see 1911 & 1912 annuals  1911 xxiv pdf15
+ 
+ 9 1921    -- how combine m & f ?
+ The Registrar-General's statistical review of England and Wales., 1921:1-2. [Decennial Supplement](https://hdl.handle.net/2027/umn.31951d000289693) at Hathi    p1 there notes  7 & 8 were published in Supplement to the 75th Annual Report of the Registrar-General 
+ 
+ 10 [1931](https://lse-atom.arkivum.net/uklse-dl1eh010020970001-uklse-dl1-eh01-002-097-0001-0001-pdf)  p48   births from [RG 1931 annual]()  Births p124 pdf72
+ 
+ 
+  11 [1951](https://lse-atom.arkivum.net/uklse-dl1eh010021260001-uklse-dl1-eh01-002-126-0001-0001-pdf)  [1951 annual](https://lse-atom.arkivum.net/uklse-dl1eh010021230003-uklse-dl1-eh01-002-123-0003-0001-pdf) for births 19? 56?
+  
+  
+ 12 1960-1962  [Supp 1961 Life Tables](https://lse-atom.arkivum.net/uklse-dl1eh010021390001-uklse-dl1-eh01-002-139-0001-0001-pdf) p26  
 
 ### Demography of 19th C England 
 
@@ -2685,12 +2719,19 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 
 ## Demography ##
 
-<a name="InfMort"></a>
+<a name="IMR"></a>
 
 ## Infant Mortality
 
 CITE  Victora et al. 2016, Sankar et al. 2015, 
 
+StockwellEG (1993). Infant Mortality (The Cambridge World History of Human Disease, 224-230)
+
+In contrast to the situation at the turn of the century, when infant mor-tality rates were ofthe order of 150 or more, a number of western European countries today have single-digit infant mortality rates; and in three countries (Finland, Iceland, and Sweden), out of every 1,000 babies born only 6 fail to survive until their first birthdays (Population Reference Bureau 1989). In addition, an infant mortality rate of less than 6 per 1,000 is found in Japan, the first non-European coun-try to achieve a high level of modernization. In sharp contrast to these single-digit infant mor-tality rates, or even those approaching 15 through-out more or less developed regions of the globe, in-fant mortality rates of the order of 100 or more per 1,000 live births are still fairly common in the less developed countries of the Third World. Today they are highest in the least developed countries of Af-rica: 18 countries on that continent have rates of 125 or more, and in at least 4 countries (Ethiopia, Guinea, Mali, and Sierra Leone) the infant mortal-ity rate continues to exceed 150 per 1,000 live births (Population Reference Bureau 1989).
+
+
+
+#### IMR & Breastfeeding
 
 Victora et al [(2016 Lancet 5228c)](Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect
 ) Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect     
@@ -2721,6 +2762,10 @@ Knodel & VanDeWalle 1967  -- more concerned with fertility-imr link?
 In addition to the information supporting the connection between breast feeding and fertility,  considerable evidence has been gathered during the late nineteenth and early twentieth centuries  linking breast feeding inversely to infant mortality. During this time great concern was shown in  several areas of Europe    
   <Howarth & Amsterdam>  These are only two examples of a large number of similar studies done at this time. Almost all
  show a strong inverse relationship between breast feeding and infant mortality
+
+1950 Valaoras, Vasilios G. “Refined Rates for Infant and Childhood Mortality.” Population Studies 4, no. 3 (1950)
+p253 Official statistics on infant and childhood mortality are available for about half of the world's population. 1: United Nations, Demographic Yearbook, 1948.
+
 
 
 ### IMR by sex / Excess Male IM / IM-SR ###
@@ -3108,13 +3153,13 @@ CRAP: [learning to use a life table](<https://www.measureevaluation.org/resource
 
 Refer to 19th C British Censuses of India
 
-
 #### Sen, Coale, Klasen 
 Sen 1990,1992; 1991 Coale; 1994 Klasen; 2002,2003 Klasen & Wink; 2003 Sen 
 
 2003 Sen shift in source of missing women, from mortality to selective abortion. Interesting for us is the use of SR05 as indicator of missing women. Also India division: N&W missing girls, S&E not.  
 
 Klasen & Wink (2003 Feminist Econ) about same info as 2002? Maybe tone differs: harsher on China; more generally, notion excess fem mort stabilized at a high level    
+
 Klasen & Wink (2002 PopDevR).  As in Klasen (1994 World Dev): Coale's (1991) constant SBR overstates expected sex ratios in poor countries (and therefore understates missing women). Some improvement since 1990s. "After significant improvements in Bangladesh and Pakistan, India now has the highest share of missing females among countries for which we have reliable demographic data."  increasing use of sex-selective induced abortion
 
 Klasen (1994 World Dev)  For SBR rising with income/SES and for West Life Table understates male IMR disadvantage   p1064 "Coale’s “West” Table assume that the survival disadvantage of boys is comparatively modest.”10 (n10: at LE=40 West Table male "the absolute disadvantage in the male probability to die in infancy is 29.7/1000. In the Model Life Tables “East” used below the disadvantage is much larger, namely 36.5/1000.)  But, once again, this assumption is likely to be a peculiarity of the countries that make up the “West” Tables and could be a result of preferential treatment for male infants rather than the “natural” state of affairs. The higher fragaility of male infants is likely to lead to a particularly large biological disadvantage in a high mortality environment so that in those populations the sex ratio of mortality in infancy should be higher (Waldron 1983, 1985, 1987)." Waldron sex-differences in mortality. Probably Waldron 1993 for Euro men higher mortality via drink/drive/violence
@@ -3143,7 +3188,6 @@ p128 To summarize, as family size grows, the desired percent sons falls sharply.
 p131 The projected sex ratio matches the trend more closely for the second half of the period, which is consistent with the diffusion of ultrasound being the main driver of the rising sex ratio in the 1980s and early 1990s, and then fertility decline playing a major role in the last decade, once access to ultrasound was widespread.    
 
 
-
 2017 Population [Mortality Inequalities and Trends in Low- and Middle-Income Countries, 1990-2015](https://www.cairn-int.info/journal-population-2017-2-page-221.htm?contenu=article)
 
 2015 Diamond-Smith & Bishai (2015 Demography 2015) "Evidence of Self-correction of Child Sex Ratios in India: A District-Level Analysis of Child Sex Ratios From 1981 to 2011." 
@@ -3162,7 +3206,7 @@ p10 between 1920 and 1950 ... average SRB of 1.069 male births for each female b
  **big stink** over SRB of 1.069 versus 1.059 -- 1% difference ...
 
 2010 Anderson & Ray (2010 REStud) ["Missing women: Age and disease"](https://economics.ubc.ca/files/2013/05/pdf_paper_siwan-anderson-missing-women-age-disease.pdf)    
-The paper is utter garbage. They use subsaharan Africa's relatively high death rates of women of child-bearing age to argue for missing women. And US 1900 women are dying in childbirth, creating the appearance of "missing women" there.  GARBAGE  twisting of fact that economic development has hugely reduced maternal death (and that male behavior-based deaths in rich nations is most of male deaths until old-age) ... Consider their calculation of subsaharan missing women age 20-24: their counterfactual (CF) female mortality is via the female/male rate of developed world. Devoloped has death rate (ages 20-24, throughout what follows) for males 2.94 times the female (1.1/0.4); subsahAfr male mortality is 5.7, so CF female mort is 5.7/2.94 or under 2 ... actual female mort is 9.4, so the female mortality among subsaharan women is be 9.4/(5.7/2.94) or  4.85 times actual mort.  And they use UN/WHO death rates for U1 and 1-4 to argue for missing girls in subsaharan Africa. But I bet if we looked at sex-ratios by age we would NOT see evidence of missing girls ... I bet the death rates approach and a sex-ratio approach will give opposite reulsts for subsah africa ...
+The paper is utter garbage. They use subsaharan Africa's relatively high death rates of women of child-bearing age to argue for missing women. And US 1900 women are dying in childbirth, creating the appearance of "missing women" there.  GARBAGE  twisting of the fact that economic development has hugely reduced maternal death (and that male behavior-based deaths in rich nations is most of male deaths until old-age) ... Consider their calculation of subsaharan missing women age 20-24: their counterfactual (CF) female mortality is via the female/male rate of developed world. Devoloped has death rate (ages 20-24, throughout what follows) for males 2.94 times the female (1.1/0.4); subsahAfr male mortality is 5.7, so CF female mort is 5.7/2.94 or under 2 ... actual female mort is 9.4, so the female mortality among subsaharan women is be 9.4/(5.7/2.94) or  4.85 times actual mort.  And they use UN/WHO death rates for U1 and 1-4 to argue for missing girls in subsaharan Africa. But I bet if we looked at sex-ratios by age we would NOT see evidence of missing girls ... I bet the death rates approach and a sex-ratio approach will give opposite reulsts for subsah africa ...
 
 ABSTR:  ... ; (2) as a proportion of the total female population, the number of missing women is largest in sub-Saharan Africa, and the absolute numbers are comparable to those for India and China; ... Finally, using historical data, we argue that a comparable proportion of women was missing at the start of the 20th century in the United States, just as they are in India, China, and sub-Saharan Africa today.   
 1263  For each category—age, and later, age and disease—we posit a “reference” death rate for females, one that would be obtained if the death rate of males in that country were to be rescaled by the relative death rates for males and females (in the same category) in developed countries.6 We subtract this reference rate from the actual death rate for females, and then multiply by the population of females in that category. This is the definition of “missing women” in the category of interest   ...  In sub-Saharan Africa, the sex ratio at birth is [p1264] approximately 1.03, much lower than for developed countries as a whole (which is 1.06). There appear to be genetic differences that determine this ratio.7   n7 Indeed, the sex ratio at birth for whites in the United States is around 1.06 whereas for blacks it is 1.03. The available data for births from sub-Saharan parents in the United States suggests similar numbers as well.    
@@ -3177,6 +3221,10 @@ Harris article is 413-448, in Komlos & Baten<br>
 p161  In many parts of the developing world, there is clear evidence of excess female mortality at very young ages. In Britain in the nineteenth century, excess female mortality was much more strongly represented among older children and adults (Harris, 1998, p. 432; Johansson, 1977, p. 166, 1996, p. 55; McNay et al., 1998, pp. 3–4). 
 Johansson, S. R. (1977). Sex and death in Victorian England: An examination of age- and sexspecific death rates, 1840–1910. In: M. Vicinus (Ed.), A widening sphere: Changing roles
 of Victorian women (pp. 163–181). London: Methuen.
+
+2008 Qian QJE  increase womens wage/income raises girls schooling; increase mens decreases.  Increase of missing women in China can be partly explained by increased gender wage gap
+
+
 
 2007
 Looked at, dismissed: 2007 Bhaskar, V., Gupta, B., 2007. India’s missing girls: biology, customs, and economic development. Oxford Rev. Econ. Policy 23 (2), 221–238. cited in 2017 EEH
