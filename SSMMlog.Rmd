@@ -13,7 +13,67 @@ output: html_document
 
 ### current log ###
 
-2022.0503 
+2022.0527   1911 to 1971 we don't have consistent boundaries -- so be careful of how we extraploate on 1911 SR for IMR, don't overstate the geographic similarities ...
+
+**BOUNDARY CHANGES TO KERALA **
+
+found India 1971 census age/sex   -- entered Kerala, but let's add Brerar and some urbans  -- don't want our SR story always to be same (6% swing implies ...)  
+
+
+
+
+
+2022.0526 wondering how to use  u1deaths data of 1910, 1900, 1890, 1880 ... 
+ 1900 census Vol III vouches for registrations in Mass, CT, RI, NH ...
+
+
+
+
+
+2022.0523
+REGION 22  urb10 too small mostly.  34MO ok 56k   
+
+2022.0522 noticed MD urb10 was set to use=0  -- a mistake, I believe.
+
+2022.0516  
+1930 11 DE 5k, 52 MD 29k       43 FL 35k  
+1930   63 ID 21k, 64 MT 19k,  68 WY 9k /  65 NV 3k, 66 NM 22k, 67 UT 20k
+
+2022.0515 
+imBRA has building blocks for cea prediction, need to combine with sr5, after packing
+BigCities  1920 NY Chi Philly   1930 bigCities add  Detroit u5w > 140K   
+leaving LosAngeles out for now (78+15=93K), because no racial breakdown; can add via use race=all (VS & pums are fine, it is cenVol problem)
+not  Cleveland u5w < 65K not StLouis u5white = 52k   -- longer term aggregate for midW-city group.
+
+LA 78K but 17 "other races"   -- recall Mexican classed as nonwhite -- for first pass, drop 
+CA  AZ   
+
+2022.0514 # RDS/u5CEAtots.RDS has US/urb-rur/4regions fPUMS 1850-80, 1900-40; cenVol 1940-50, and some earlier.
+ 
+ OH 1920 Cleveland u5 88433 black 2371 or 3%   -- but mort is not avail by race ... so drop from u5cea: for 1920 OH we'll have rur10 and urb10 --  will need to knock out urb10 for state-year where we have urb106?
+
+
+for CEA get a prediction equatiom BRA data (1930, 1920: metro/urb106/rur10)
+
+2022.0513  fPUMS does not split Brooklyn out from New York NY  -- probably could do it via publlished census ... POSTCEA
+
+2022.0512   use fPUMS for splitting up states (might get those breakdowns, with effort, from published census volumes)
+Use URBPOP<100 (100 00 is 10K and URBPOP seems best at including unincorporated NewEngland towns of size -- no difference for VT, ME, NH, CT; same effect for NJ & PA, NY no diff (PA urb10 764.3 vs 760.7; NJ 364.35 vs 360.9)
+
+
+
+2022.0509 
+
+Ji works on References formatting ...
+
+submission notes
+[DR says](https://www.demographic-research.org/info/guidelines.htm#References) For exact details on how to compile your reference list, please see our Reference Guidelines. It is not necessary to format your reference list before the work is submitted, but once your submission is accepted we will request that you reorganize the list so that it conforms to our standards.
+
+post-submission issues -- do we want to refer to Registrar General as author ...
+
+
+
+2022.0508 (Ji to CLovelly) Js to try to wrap up dempap (in morning chat Ji reviews 507 tweaks)
 
 2022.0501   LT parag ?   -- maybe ENgland's historic ones?     Js should write chapter: Goldilocks and the 3 sex ratios    
 English LTs    

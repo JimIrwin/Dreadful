@@ -11,10 +11,23 @@ output: html_document
 
 [Crew (1948)](https://clio.columbia.edu/catalog/3951320) Jesse has ordered ... 
 
-calibration literature looks at merits of inverting the direct regression versus using a reverse regression ... [Osborne](https://www.jstor.org/stable/1403690?seq=1)  statistical calibration 
+calibration literature looks at merits of inverting the direct regression versus using a reverse regression ... [Osborne](https://www.jstor.org/stable/1403690?seq=1)  statistical calibration. The problem of inferring an X variable from a Y variable  -- Osborne explains that inverting the results of Y regressed on X is called the "Classical Approach." And the predicting via the regression line from X regressed on Y is called the "inverse estimator" (attributed to Krutchkoff 1967). 
 
-problem of inferring an X variable from a Y variable 
+re:IMR and stillbirth definitions. In concluding his discussion of IM in his chapter "Cohort Life Tables" Vallin says (2006:127)     
 
+      Apart from these issues linked to the definition of commonly used indicators, let us note in conclusion that the measurement of infant mortality is sometimes impeded by problems of defining life and death. Registered deaths are registered precisely by virtue of the legal definition that makes it possible to distinguish between live births and stillbirths. This definition differs from country to country. Some statistical institutes try—with varying degrees of success—to compile additional information to identify, among the stillborn, those who actually lived without being able to attain the legal status of live births: these are known as false stillbirths. Such attempts are broadly consistent with the universal definition proposed by the World Health Organization (WHO).14 To analyze infant mortality with precision, we need to investigate the definition that actually matches the statistical tables used.
+
+in Caselli 2006 4vol -- Catherine Gourbin Ch 32  Fetal Mortality  (mostly 20th C and later)
+[Fetal Morality] It acquired some importance through the concept of perinatal mortality (stillbirths plus infant deaths at 0–6 days) that Peller (1948) introduced to avoid the errors caused by unreliable data on infants’ vital status at birth.  
+   Peller 1948   Peller Sigismund, 1948. Mortality, past and future. Population Studies, vol. 1(4), p. 405–456  p413  
+   
+           It is very difficult to ascertain the facts about stillbirths. The figures reported are the least reliable in the whole realm of vital statistics, and they also affect the re-liability of the data on deaths in the first day after birth. In one country, for religious or other reasons, many stillborn children are registered as 'died after christening', which means that they are included among deaths in the first day of life. In another country, where compulsory registration is limited to children born alive, a child who dies immediately after birth is not registered atall, just as if he were stillborn. In still other instances infants who, shortly after birth, died either from violent or natural causes, are wrongly registered as stillborn, deflating one rate and inflating the other. 4 The League of Nations tried to create a common basis for comparisons of various years and areas but failed, as no agreement was reached regarding the term 'stillbirth'.  
+           As long as such a situation prevails we shall be able to eliminate gross mistakes and misconceptions only by pooling stillbirths and deaths occurring during the first week in one single group to be called perinatal deaths. Such pooling is the more justified because both sets of phenomena are under the influence of, and governed by, the same factors. 
+           
+   Dominique Tabutin, "Information Systems in Demography" (Ch 121 of Caselli )  pp498-99 -- inconsistencies in stillbirth definition in later 20th C europe
+   
+     Another problem that is crucial for comparison over time or space is the variability in the legal definitions of events, particularly regarding stillbirths and live births. In Europe alone, despite World Health Organization’s (WHO’s) recommendations and efforts at statistical homogenization in the region, registration criteria still vary considerably (Gourbin and MasuyStroobant, 1995). For example, although WHO has for a long time recommended that each birth where the child has shown any sign of life should be recorded as a live birth, in 1998, 5 out of 22 European countries still restricted the criteria by limiting the type of sign of life required or by requiring a minimum life span (Czech Republic). This has resulted in five different definitions. In the same year, only four countries followed WHO’s 1975 recommendations on stillbirths14 and, in {p499} 2003, there were still seven different definitions of stillbirth in Europe. This results in problems and requires the greatest prudence in international comparisons, notably when relating to rare phenomena that are sensitive to changes in definition, such as the rate of stillbirths, perinatal mortality, or infant mortality in developed countries.
+   
 
 ## Overview -- Data now has [its own page](https://jimirwin.github.io/Dreadful/SSMMdatasources.html)
 
@@ -22,7 +35,7 @@ problem of inferring an X variable from a Y variable
 [Ireland](#IRE), [19C Mort Decline](#URB), [Urban Penalty & Mort Transition](#URB), [Canada](#CANmort), [USA](#USAmort) 
 </p>    
 <p>[Sex Ratio at Birth](#SRB), [Demography](#DEMOG), [Infant Mortality](#IMR)     </p>
-<p>[Missing Women](#Missing), [Biology/SRB studies](#SRB), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
+<p>[Missing Women](#Missing), [Biology/SRB studies](#SRBsect), [Life Tables](#LifeTable), [Language](#LANG)  </p>  
 
 ## general collections 
 
@@ -695,13 +708,14 @@ JIA vol 43 (xLiii) pdf95p82 lists English LTs to 1896 ...
  II 1841 via 1841 census & 1838-44 deaths; 12th Report 1853   
 III 1841 & 1851 census & deaths 1838-54; in Farr's volume published by Reg-Gen 1864 & Table also given in 28th Report pub in 1867
  4 1876    5 1886    
+ 5
+ 6 published in 1896, 1880-1890   in Supp to 55th Supplement to the fifty-fifth annual report of the Registrar-General of Births, Deaths, and Marriages in England. Part 1. London: Printed for her majesty’s stationery office, by Eyre & Spotswood, 1895.   
  
- 6 1896   in Supp to 55th    
  
 I found [Supp to 65th](https://lse-atom.arkivum.net/uklse-dl1eh010020670001-uklse-dl1-eh01-002-067-0001-0001-pdf) but it does not have the 1896 life table?
  
  7 1906  
- 8 1911  Supp to 75th Annual, pp 10, 18 for survivors l1 l5 and thus q .  SRB? see 1911 & 1912 annuals  1911 xxiv pdf15
+ 8 1911 Life Table in  Supp to 75th Annual, pp 10, 18 for survivors l1 l5 and thus q .  SRB? see 1911 & 1912 annuals  1911 xxiv pdf15   --we have this downloaded
  
  9 1921    -- how combine m & f ?
  The Registrar-General's statistical review of England and Wales., 1921:1-2. [Decennial Supplement](https://hdl.handle.net/2027/umn.31951d000289693) at Hathi    p1 there notes  7 & 8 were published in Supplement to the 75th Annual Report of the Registrar-General 
@@ -1386,7 +1400,7 @@ Though the registered deaths provide us with relatively good  data after 1855, t
 
 
 
-Gutman (1956) 1956 UColunmbia PhD "The Accuracy of Vital Statistics in Massachusetts, 1842-1901"
+Gutman (1956) 1956 UColumbia PhD "The Accuracy of Vital Statistics in Massachusetts, 1842-1901"
 
 Richards (1909) "A Study of New England Mortality"
 <br> p78 TabIII shows Age 0-1 death rate rising 1865 to 1875, then modest decline, but above 1865 level until after 1895  WHAT DO P&H HAVE?
@@ -2042,22 +2056,51 @@ Sparks 2007  corey s Sparks  PA State PhD Anthro & Demog;
 
 
 
+<a      name="BOYS"></a>
+
+<a name="INDIAsect"></a>
 
 ### India
+
+Rustagi 2006  pdf10 refers to India Census data via Rustagi 2003 --:   
+Rustagi, Preet. "The deprived, discriminated & damned girl child: Story of declining child sex ratios in India." (2006): citess
+Census of India. (1991 & 2001). Population Census Abstracts. Registrar General of India, New Delhi:
+Government of India
+
+Dyson 2018 For example, in Kerala, and possibly southern Tamil Nadu, perhaps only 60 out of every 1,000 live births were dying before reaching their first birthday. In contrast, in the country’s most populous state of Uttar Pradesh (UP) in the north, about 180 out of every 1,000 births were dying.121:  See Bhat et al. (1984: 6–9); Dyson (1984: 226).
+
+Dyson 1997 in Bideau    no signs of excess female mortality in Burma
+ refers to ChowdhurySR *The Unprecedented Growth of Population in Bengal in the 1930s*  MSc These LSE
+
+p115 refers to Davis (1951) using 1931 census report for IMRs
+
+p118 
+
+p121 In the east and south zones the two key provinces of Bengal and Madras bith experienced noticeably lower IM than in northern and central provinces ...  IMR decline during the 1920s and 1930s 
+
+p125 urb/rur IMR by province -- Punjab 178 in both; Madras 265/158  Central(Berer?) 237 225,  Bengal 168/159 Bihar 125/118   
+Bengal Calcutta     Madras city/prov  Bombay city/prov
+
+
+Dyson 1989 *India’s Historical Demography*  give Berar's IMR by year -- 1966-1970 drops from 108 to 73   ...  1907-11 m   f ~220 (185-248)
+
+
+
+Dyson 1989 "The population history of Berar since 1881 and its potential wider significance"     
+fn10 m/f IMR 1881-90 to 1931-40 (decadal)  1.08 1.06 1.12  1.21 1.22 1.17   hmmm     
+IMRs 1880s      216 250 241 262 233  1930s 231  1940s 195   1950s  1960s  1970s   1980s 63
+
+Bhat, Preston, Dyson (1984) Vital Rates of India
+
 
 Visaria in 1961 census
 
 p24 undercount of females not  a plausible main explanation for the excess of males
-
-p37 SRB
-
- pdf61  cites pp215-18 of 1911 census: vol 1, India, Part 1, *Report*
-
-
+p37 SRB    
+pdf61  cites pp215-18 of 1911 census: vol 1, India, Part 1, *Report*
 p53 pdf93 Female Infanticide and Neglect of Females
 
-
-    The facot that the institution of female infantiqide was known to exist in certain areaS of NOl th India was noted catHer in the discussion of the sex ratios at birth acoording to registration data.1 The custom has probably died out, . but the possibility of some rare cases occurring even now cannot be ruled out altpgether.    ...     We do not know the precise fOlm of neglect of female children or how exactly it leads to lower ohances of their survival. But it is alleged that, COinpared to boys, girls get less nourishment. Of course, the mother of an infant does not ordinarily discriminate between & boy or a girl and the univeually-observedbiological fragility of males continues to hold till the baby is weaned and is exposed to the various infections through other food.
+    The fact that the institution of female infantiqide was known to exist in certain areaS of NOl th India was noted catHer in the discussion of the sex ratios at birth acoording to registration data.1 The custom has probably died out, . but the possibility of some rare cases occurring even now cannot be ruled out altpgether.    ...     We do not know the precise fOlm of neglect of female children or how exactly it leads to lower ohances of their survival. But it is alleged that, COinpared to boys, girls get less nourishment. Of course, the mother of an infant does not ordinarily discriminate between & boy or a girl and the univeually-observedbiological fragility of males continues to hold till the baby is weaned and is exposed to the various infections through other food.
 
 
 p66 conclusions   Not underenum and not male-biased SRB. 
@@ -2177,7 +2220,9 @@ The second striking fact is the extraordinarily large proportion of females amon
 1901 Memorandum on the age tables and rates of mortality of the Indian ... Hardy, George Francis, Sir, 1855-1914.
 p7 interesting on errors in counts
 
-<a name="SRB"></a>
+<a name="SRBsect"></a>
+
+### SRB sex ratio at birth
 
 #### BIO-SR1 follow-ups or tidying needed
 Tanner (Fetus into Man) has something on fem child resiliency wrt to under-nutrition? See Harris (2009)
@@ -2314,6 +2359,7 @@ Catalano et al (2005 Hu Repro) California 9-11 2-point drop  SRB drops to 102.9 
 
 Catalano 2003 1991 East German economic collapse SRB falls to 104.4 from 105.9  1.5-point drop
 
+Kemkes, 2006 [Am Journal Hu Bio](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajhb.20562), "Secondary sex ratio variation during stressful times: The impact of the French Revolutionary Wars on a German parish (1787–1802)"  -- fem-tilt from malnutrition/stress?
 
 2020 ClarkAE, D'Ambrosio, Rohde, "Prenatal Economic Shocks and Birth Outcomes in UK Cohort Data," EcHuBio. Birth weights and head circumference. Regression models to estimate effect sizes. 
 
@@ -2953,8 +2999,9 @@ p14 Marco Breschi and his colleagues ...  In the Italian case with which they ar
 Ch 9     ... The policies of environmental clean up which had so dominated late nineteenth century sanitation were giving way to different forms of intervention that focused on the behaviour of individuals, their interactions with each other and with the environment.  /    Armstrong has argued that the very subtitle of George Newman’s 1906 book was indicative of how ‘the conceptual space of infant mortality’ had shifted ‘from one traversed by sanitary axes to primarily social dimensions’ (Armstrong, 2002: 33).   p170 We focus on infant mortality in an impoverished section of north Kensington, Notting Dale, and the crèche system developed there as a philanthropic response to the social ‘problem’ of working mothers.
 
 2006 in Caselli    
-Vallin & Caselli "Cohort Life Table" Ch 11 Pt V "The Special Case of Infant Mortality"
+Vallin & Caselli "Cohort Life Table" Ch 11 Pt V "The Special Case of Infant Mortality"  -- highlights that q is not a probability nor a rate; uses example of 1920 France (where 1919 vs 1920 births change a lot ...)
 
+pdf200p163 Ch 14 Hypothetical Cohort as a Tool for Demog Analysis -- seems implications covered are for estimates of fertility and migration?
 
 Derosas 2002 on Venice 1850-69  IMR 264 (n-3801), over twice the 125 for Jewish births (n=351)
 
@@ -3081,8 +3128,12 @@ They cite Tabutin & Williams (1994)  for excess female mortality in age groups 5
 
 <a name="LifeTable"></a>
 
-
 ### Life Table Implications ###
+
+
+[Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf) .  Caselli et al. 4 volumes has chapters of Life Tables (cohort, period, model, history -- Ji thinks)
+
+
 NOTE on simulations of SR1 via SBR, IMR, and relative male/female IMR. Which are in the [WK4 spreadsheet](https://www.dropbox.com/s/89gi1z7ewpyv3qh/SR1%20simulations.wk4?dl=0). Perhaps obviously, the time-pattern of infant deaths affects the SR1, as early deaths pull down the SR (because the excess male births play a smaller role in the cumulative SR1). To illustrate the magnitude of the effect: 23% IMR early-death pattern sees SR drop of 3.4 while even-death pattern has SR drop 2.4; 11% IMR early-death SR drop of 1.6 and even-death SR drop of 1.1. DETAILS: with 104 225(250/200); with my idea of realistic (.5,.15,.14,.1,.1)  104 goes to 100.6; with even 104 to 101.7   OR IMR 113(125/100) 104 to 102.4 vs 104 to 102.9   So the bigger effects occur at higher IMR and higher male excess IMR ...
 
 

@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-Log : Captains’ Log for the SSMM/SR1 Project</h1>
 <h4 class="author">jri &amp; jrm</h4>
-<h4 class="date">15 April, 2022</h4>
+<h4 class="date">22 May, 2022</h4>
 
 </div>
 
@@ -374,6 +374,38 @@ summary {
 <!-- ## To do for submission Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;  -->
 <div id="current-log" class="section level3">
 <h3>current log</h3>
+<p>2022.0516<br />
+1930 11 DE 5k, 52 MD 29k 43 FL 35k<br />
+1930 63 ID 21k, 64 MT 19k, 68 WY 9k / 65 NV 3k, 66 NM 22k, 67 UT 20k</p>
+<p>2022.0515 imBRA has building blocks for cea prediction, need to combine with sr5, after packing BigCities 1920 NY Chi Philly 1930 bigCities add Detroit u5w &gt; 140K<br />
+leaving LosAngeles out for now (78+15=93K), because no racial breakdown; can add via use race=all (VS &amp; pums are fine, it is cenVol problem) not Cleveland u5w &lt; 65K not StLouis u5white = 52k – longer term aggregate for midW-city group.</p>
+<p>LA 78K but 17 “other races” – recall Mexican classed as nonwhite – for first pass, drop CA AZ</p>
+<p>2022.0514 # RDS/u5CEAtots.RDS has US/urb-rur/4regions fPUMS 1850-80, 1900-40; cenVol 1940-50, and some earlier.</p>
+<p>OH 1920 Cleveland u5 88433 black 2371 or 3% – but mort is not avail by race … so drop from u5cea: for 1920 OH we’ll have rur10 and urb10 – will need to knock out urb10 for state-year where we have urb106?</p>
+<p>for CEA get a prediction equatiom BRA data (1930, 1920: metro/urb106/rur10)</p>
+<p>2022.0513 fPUMS does not split Brooklyn out from New York NY – probably could do it via publlished census … POSTCEA</p>
+<p>2022.0512 use fPUMS for splitting up states (might get those breakdowns, with effort, from published census volumes) Use URBPOP&lt;100 (100 00 is 10K and URBPOP seems best at including unincorporated NewEngland towns of size – no difference for VT, ME, NH, CT; same effect for NJ &amp; PA, NY no diff (PA urb10 764.3 vs 760.7; NJ 364.35 vs 360.9)</p>
+<p>2022.0509</p>
+<p>Ji works on References formatting …</p>
+<p>submission notes <a href="https://www.demographic-research.org/info/guidelines.htm#References">DR says</a> For exact details on how to compile your reference list, please see our Reference Guidelines. It is not necessary to format your reference list before the work is submitted, but once your submission is accepted we will request that you reorganize the list so that it conforms to our standards.</p>
+<p>post-submission issues – do we want to refer to Registrar General as author …</p>
+<p>2022.0508 (Ji to CLovelly) Js to try to wrap up dempap (in morning chat Ji reviews 507 tweaks)</p>
+<p>2022.0501 LT parag ? – maybe ENgland’s historic ones? Js should write chapter: Goldilocks and the 3 sex ratios<br />
+English LTs<br />
+LT1 SRB 105.2 SR1exact 101.99 SR5exact 101.55 IMR</p>
+<p>1896 LT06 SRBrg 103.7 SR1exact 100.2 SR5exact 99.5 IMR 146<br />
+1911 LT08 SRBcen 103.9 SR1exact 101.2 SR5exact 100.9 IMR 112.5<br />
+1921 LT09 SRBcen 105.07 SR1exact 102.75 SR5exact 102.4 IMR 79.9<br />
+1931 LT10 SRBrg 104.88 SR1exact 103.0 SR5exact 102.6 IMR 63.4 1951 LT11 SRB 1961 LT12</p>
+<p>2022.0430 concern with title saying “indicator” of IMR – reveal was more accurate .. Using Childhood S R to characterize IMR</p>
+<p>2022.0422 need to settle on intro (Jim wants point that IMR is much lower now than historically, with our method a hist tool … )</p>
+<p>2022.0421 leads for Paris 1950s data</p>
+<p>Atlas des Parisiens : de la Révolution à nos jours : population, territoire et habitat, productions et services, religion, culture, loisirs columbia clio Structures demographiques et premieres estimations de la population de Paris a l’horizon 1974 <a href="https://catalog.hathitrust.org/Search/Home?lookfor=%22%20France%20Population%20Statistics.%22&amp;type=subject&amp;inst=#:~:text=Population%20par%20commune%20de%201851%20%C3%A0%201968">Population par commune de 1851 à 1968</a></p>
+<p>2022.0418 Ji about done with intro section; finishing up expansion of “not structural” discussion – now it is too long; need to find balance (but clear simple statments here make model more useful and make results easier to interpret later)</p>
+<p>Ji wants to block out the interp of results …</p>
+<p>Eventual set of regs for robustness: direct: CSR on IMR; reverse: IMR on CSR – how predict IMR? via reverse, or solve out direct? also CSR on IMR with slope-dummy when IMR gets to a level where Drevenst shows MU has fallen to 0.17; CSR on IMR 2 slope dummies – IMR low &amp; high (viz mu values) also CSR on IMR IMR2 also CSR on IMR and dummy variables based on SRB values …</p>
+<p>2022.0416 play around with examples of u1pop and either u1d or B to estimate IMR – separation factors are more influential for IMR(B,P) then IMR(D,P) – intuitively sensible, since D/B is the magnitude of interest and it is &lt;&lt;1, so loading uncertainty into the numerator rather than the denominator, generates more uncertainty.</p>
+<p>wonder if Somalia’s u5 mortality rates by sex are consistent with SR data?</p>
 <p>2022.0415 notice South Africa yearbook 1980-81 they “estimate” black IMR to be 100-110; values are given for Whites 21.6 Coloureds 132.6 and Asians 36.4 – do we have CSR?</p>
 <p>2022.0414 Demography’s top journal dismissed our work; instead of sending to the least prestigous Demography journal, why not send to a high-quality econ outlet like AER or JPE?</p>
 <p>send to Hill ? Kenneth Hill is a demographer who specializes in deriving estimates of mortality from incomplete or deficient data. He has a Ph.D. from the London School of Hygiene and Tropical Medicine, and has spent most of his career at the Johns Hopkins Bloomberg School of Public Health and the Harvard School of Public Health. <a href="mailto:Kenneth_hill_1@yahoo.com" class="email">Kenneth_hill_1@yahoo.com</a></p>
