@@ -11,27 +11,118 @@ output: html_document
 
 <!-- ## To do for submission Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;  -->
 
+#### alive RDS files    
+
+
+
+1910 DS1910.RDS is u5g u5b & u1d   -- 19 solo with 100k kids; 
+ * could add small PA cities for 1905 to fill in missing PA 1905 value 
+ 
+
+u5CEAtots.RDS regions of US, and US, decenially 1840-1950
+
+
 ### current log ###
 
-2022.0527   1911 to 1971 we don't have consistent boundaries -- so be careful of how we extraploate on 1911 SR for IMR, don't overstate the geographic similarities ...
 
-**BOUNDARY CHANGES TO KERALA **
+2022.0703  status as Ji leaves for Peterborough.     
+SRimr1900.RDS has single-year SR:IMR pairs ready for plotting (aggregation/geog consistency is done)     
+IMR_SRgrouped1930.RDS has 5-year avg IMR:SR pairs ready for plotting (aggregated/geo-consistency is done)
+imsr20.RDS needs to be culled/aggregated for IMR:SR plotting; it includes both state aggregates and the urban rural splits thereof; it also has urban totals and some of the cities that are in those urban totals. (imsr30.RDS has same for 1930).     
+Possible next steps: 1920's IMR_SRgrouped; 1900's primary (disaggregated data). Jim could do in Peterborough
 
-found India 1971 census age/sex   -- entered Kerala, but let's add Brerar and some urbans  -- don't want our SR story always to be same (6% swing implies ...)  
+
+
+Note: for RDS for SR:IMR, realized we need two stages. One the data, ungrouped; then with flags for aggregations.    
+
+2022.0702  1900 imr:sr check NYCxBM, MIrur, Cinc+Clev -- all confirm (but note variation of SR for given IMR)
+
+2022.0630 1900 imr:sr check a few obs for validity of code (check for outliers? or does that bias?)
+
+2022.0629 1910 census has life tables -- cannot discern reliable births data there; they seem to infer births from annual pop by age and lexus triangles. 
+
+2022.0628 fixed the ERROR in CITIES file -- age 5 included in some ???
+
+2022.0627 about finished with T19 data entry; next R code to create imr:sr data set; probably choose aggregations like Cleve+Cincci+Toldeo ?   Might have work to do on CITIES for u1d:SR?
+
+
+working with 1900 census Mort Stats in T19 ... note that white IMR rural 107  urb 162   
+For now, focus on reg states urb/rur splits and Reg Cities for IMR:SR (so don't do cities separately except for big ones). NH is reg state, so use urb/rur and don't separately enter cities of NH. 
+
+
+2022.0625 u1sStatesW.R creates StatesU1dr-U5pop.RDS  -- 1880 to 1930 state-level u1dr & u5 pops.
+
+2022.0624 
+Question: how do we want to use the u1d data?
+61AZ u1dr is 117 while predicted (on IMR) would be about 131  -- reflecting relatively low Births per K U5 pop for AZ is 179 (no simple/easy explanation found from quick look at 1920 to 1930 populations of AZ). Not a magnitude to delay us further. PUNCHLINE: state-level u1dr is a good proxy for IMR
+
+2022.0623  u1drIMR by state works very well -- 2 not on the line: 
+1930 62 COLORADO had erroneous u1d (huge numbers!)
+1930 31Nevada -- messed up by small "colored" pop with huge IMR relative to u1dr. Can simply use whites 1926-1929 to avoid issue of how "Mexicans" enumerated in 1930
+
+ 1900-1950 India: SR05 increasingly masculine CSR  ... SR0-14 about stable ... 10-14   ROBUSTNESS: u2 ... 
+
+via online IPUMS, demonstrate that MA rural has very few births relative to u5 population and relative to potential mothers (age 15-40); leading to silly-low rural u1dr relative to IMR. To fix, need to aggregate
+
+interesting twist for using u1dr (u1 deaths per U5 pop) as proxy for IMR -- Tuscon & Phoenix had very high u1dr for their IMR because of non-residents in urban institutions ( births and u1deaths ); that point stated in Mortality Statistics volume. Oddly low u1dr of Mass rural probably a similar issue (converse? thereof).  Mass rural has expected population structure (e.g. u5 relative to wome
+
+00071 from IPUMS has 1930 (for u1dr vs IMR issue)
+
+2022.0622 anomalously low u1dr for MA and 2 others -- I suspect a problem with urb/rur defs in PUMS vs VS -- maybe just do exBoston?  what of other NewEng? 
+
+2022.0621   1920 for IMR:u1dr comparisons ... IMu1d.RDS
+
+re: India 1881-1931 except Travancore, high IM according to actuaries, and not much relationship seen between IMR and SRs as there observed -- issue to pursue: SR data suggests 1) more geographic variation in IMR and 2) urban penalty suggested by Dyson? might be wrong; maybe SR data will point to rural IM awful in colonial India?
+
+2022.0620 Ji review 1920-30 for urb/urb106 (e.g. Chic)
+ 1930 NYC Chi Phil Detroit LA Cleve StLouis Balt Boston Pittsb <Minn 464K StP 272 = 736> 
+ 1930 SanFran 630k Mil 578 (47K kids in 1930)  Buff 573 (48k kids in 1930)
+
+2022.0617     
+
+1920: often we have 5 years of u1d but fewer years of IMR (because births not counted yet). We want to know if u1 death rates track IMR. Ji uses the 5year u1dr and the avgIMR ...
+
+Thinking 1930 census white/mexican/colored issue means we avoid AZ -- what of NV NM CA ?  When PUMS U5s loaded, have a look ...
+
+1930 u5fW from cenVol 65NV 2940, 66NM 19828, 61AZ 12000, 71CA 158355 
+
+    
+Ji lays aside 1940 census volume data for HSUS -- first will do PUMS version, then go and add cenVol white:urb/rur Metros.
+
+2022.0614 Ji trying to wrap up 1910. Find that 2021December attempt at eIMR from 1909&1910 avg u1 deaths used   
+eIMR=1000* (1/ (u1/w1U1dec+1.66) )   but I now think the last term should be (u1/w1U1dec + 0.66), where 0.66 is (1-0.34) and 0.34 is the separation factor (see Preston et al. 2000:47 for 1/q = (1/m + 1-a )
+
+Thinking of general approach -- we seek to characterize mortality regime using infant deaths in relation to the u5 population that survived, or the u2 population that survived. Generally, we could take a single year of deaths as an estimate of the annual average for the period in question. Thinking we should use the appropriate set of deaths when available, and be satisfied with rougher estimates when that is all we have.   
+The year 1910 offers us rural/urban splits -- should we use those splits with state-level u1d rates? 
 
 
 
+
+2022.0608
+JIM: SR5DRA.RDS Data needed for HSUS body union of 1870-1930 datasets with any two of SR, IMR, 5yrDr, 1yrDR.   IMR & 5yDR & 1YrDR -- do the death rates track IM?  For appendix, 1890 cross-section of 5yrDR:SR used to extrapolate from Mass.  Then hand off to Jesse to crunch results.
+
+Jesse: Indian states 1971-1981 SR:IMR    1911 SR5 & SR    ; UN --  ... 
+
+Dreadful childhood -- Ji catch up on the lit  
+
+
+
+
+
+
+2022.0531 Ji leans to adding a line with Black IMR projection via DemPap regression lines (and maybe look at how the white SouAfr SR:IMR value looks in our regression?)
+
+2022.0528 Ji inclined to leave exploration of India to DemPap-Grande
+ Travancore-Cochin 1951 differs somewhat from Kerela 1971, because 1951 it includes the 5 Tamil taluks that shift to Tamil Nadu; and because Kerela 1971 has Malabar (big) and Kasaragod taluk of South Canara district. 
+
+2022.0527 For India  1911 to 1971 we don't have consistent boundaries -- so be careful of how we extraploate on 1911 SR for IMR, don't overstate the geographic similarities ... also, avoid extrapolating on 1 IMR point? maybe Sou Afr approach is suspect? 
+    found India 1971 census age/sex   -- entered Kerala, but let's add Brerar? and some urbans  -- don't want our SR story always to be same (6% swing implies ...)  
 
 
 2022.0526 wondering how to use  u1deaths data of 1910, 1900, 1890, 1880 ... 
  1900 census Vol III vouches for registrations in Mass, CT, RI, NH ...
 
-
-
-
-
-2022.0523
-REGION 22  urb10 too small mostly.  34MO ok 56k   
+2022.0523    REGION 22  urb10 too small mostly.  34MO ok 56k   
 
 2022.0522 noticed MD urb10 was set to use=0  -- a mistake, I believe.
 

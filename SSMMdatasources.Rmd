@@ -1424,7 +1424,7 @@ Maybe other volumes are at the older link to [Decennial Pubs](https://www.census
 
 #### USA IMR
 
-Our key source is [Vital Statistics for 1890-1938 ](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm)
+Our key source is [Vital Statistics for 1890-1938 ](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm). These mostly annual volumes are Mortality Statistics for the DRA and Birth Statistics for the BRA.  But the Censuses before 1930 provide additional births data, in the context of their production of life tables.
 
 HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf). Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics--Special Reports, vol. 45, No. 1, p7. ({I find it at Google via Hathi. Odd that they don't cite Linder & Grove, as in the 1957 edition}). 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.    
 
@@ -1453,11 +1453,10 @@ HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.g
 
 Our data    
 
-1915-1920  urb/rur 
-    
-ALabama 1925 on deaths; IMR 1927 on.   AZ 1925 on deaths; IMR 1926-30.   DE  
+1915-1920  urb/rur births and u1deaths     
+ALabama 1925 on deaths; IMR 1927 on.  AZ 1925 on deaths; IMR 1926-30.   DE    
 FL
-GA 1928 onward, BRA (not in DRA before that). Atlanta in DRA earlier ...
+GA 1928 onward, BRA (not in DRA before that). Atlanta in DRA earlier ...  
 
 IL DRA 1918-1920  Chicago 1915-1920  BRA-IMR 1922on
 IN DRA 1915-
@@ -1595,7 +1594,7 @@ internet archive   -- looked briefly, searched for infant, did not get mortality
 
 [CT Deaths under age 1 p228](https://archive.org/details/monthlybulletino1412tutt/page/n227/mode/2up?q=infant)
 
-<a name="DRA"></a>
+<a name="DRAsect"></a>
 
 
 <H4> **DRA Mortality Statistics** </H4> 
@@ -1614,11 +1613,23 @@ RI 1852 1852
 VT 1857 1857   
 
 **1870 census **     
+Intro seems to say the totals are worthless -- when did NJ start reg?  are there ant reg cities for 1870?
+ 
 T V sex/age/cause by state   Table VII causes NOT AGE   
  Table IX age/sex/color  -- entered these, for DC MA MI MH NJ RI VT,  in case they prove to be state registration data
-
    
-**1880 Census **  vols 11 & 12  -- I have, but where did I find them? ---   vol 11 Tab XI has grand group 2 but with urb and nonurb (I wanted urb)  Coded in R for about 10 obs of u1d & SR5         
+**1880 Census **  
+  Compendium refers to MA and NJ "registration records ... probably very near accurate" and lists cities with good registration -- we'll use ...
+
+v11 pp 9-13 deaths by age/sex for census year -- look at NJ & MA and see if those are reg values YES THEY ARE
+ 1880v11-04.pdf 126-    1880v11-06.pdf pp286-365
+ v11001-Pt2 pp633-47 IMR stuff; Mass 649-51; NJ 653-655
+  
+  1880v12-04.pdf   cxxxvi-clviii     1880v12-06.pdf pp185-345     1880v12-10.pdf pp657-
+mass v12 p641 totals u1d m 4087, f 3201
+
+BELOW is outdated on 1880 mortality ...
+vols 11 & 12  -- I have, but where did I find them? ---   vol 11 Tab XI has grand group 2 but with urb and nonurb (I wanted urb)  Coded in R for about 10 obs of u1d & SR5         
    1880 urban south atlantic SouAtl urban:  DC St=? Baltimore 530, Richmond 5870, Wilmington 7490
 
 
@@ -1694,25 +1705,39 @@ Tables 16-24 are on New Jersey NJ only
  
 
 
-
-
-
 **1900** for 1900 we have both the census-year deaths and the calendar year.
 
 <p>1900 census reports vol III; 
 
-we use table 19  pp  285-555 (pdf 598-868)
+we use table 19  pp  285-555 (pdf 598-868)  -- p xi rates reported when "the results are fairly comparable; for the nonregistration (enumeration) areas the insufficiency of the data are indicated by an asterisk (*). This character is also used for the same purpose in the registration area ...  It gives warning that the data are not regarded as sufficient for the computation of reliable rates."
+      
+ Thence Ji enters all PA cities over 4K u5 pop; same done for IL IN OH WI ... maybe MN etc?
+ NY rural is huge ...     try to id a large simple rural chunk?
+ Group 1 434K kids, incl NYC with 397 !   Tiny rural ...
+ Group 2 29K kids -- too small 
+ Group 3 28k too small   
+ Group 4 108,651  No f52p472   -- need pull out 7 cities, including Buff 41k & Rochester 15k   -- rural will be <30K
+ Group 5 151K  incl 15+ cities to deduct... 
+     
 <br>
-p xiv The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
-<br>In all these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
+p xiv in many cases there were actually fewer deaths recorded in the later years of the decade 1890-1900 than were recorded in 1890, notwithstanding large increases in population.  ... decision to have the enumerators make inquiry and return deaths in all areas where any doubt of the sufficiency of registration existed, in order to use the information as a check upon the accuracy of registration, and to supplement and complete the registration returns if found defective in numbers or in detail.   
+     The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY, nameley Broome, Columbia, ... cities: Albany, Cohoes, NY (greater), ... and certain counties and cities in the state of NJ ...
+<br>In these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns ... compared with the reg records. The result of the comparisons, ... indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated.
 <br> tabulated result of the comparison of the two sets of returns [on next page]
 <br>xv  xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR</p>     
     
 1900 Table 5 Deaths in the United States, each state and territory, and each registration city, during the census year ending May 31, 1900, at each age, by sex --    GOOD FOR CITIES, but not by race     p21
 1900 Table 6 has states' deaths by age and sex, color,  e.g. pdf p65     
 
+**1910 census Life Tables 1890 1901 1910 **
+
+Pdf 446 has births (computed, registered) 1901 1910 for:    
+DC neg&col; Indianna; Mass; MI; NJ; NY; Bost; CHic; NYC; Phil
 
 
+
+
+**1900 to 1910 **
 
 1900-1904 1900 Table 8   pdf  308-349    1902 Tab 2 death/age  532-549      Tab 8 deaths/age by cause CITIES
 
@@ -1723,8 +1748,12 @@ MS 1906 T4 states, ages;
 
 1906 onward has infant deaths for large cities    
 
+1907 T2 pp282f276  by race is in southern places only ; T4 adds nativity; 
 
-1909 Table2 pdf468-   T2 doesn't have rural totals?    550-  f546-
+1908 
+
+1909 toc pdf2  Table2 pdf468-   T2 doesn't have rural totals   T4 p550/f546 again no rural totals. Pretty thorough skim through tables and it seems we would need to sum up rurals or cities? to get rural. MA would be managable, but rural is defined via 1900 populations, and 1910 is via 1910 ...
+
 1910 Table 3 pp204    pdf195-242   1910 has urb/rur breakdown
 
 
@@ -1800,7 +1829,7 @@ Bell&Miller Life Tables, Table 6 is "Period Life Tables" and 1900 has male e0x 4
 Richards (1909) "A Study of New England Mortality"
 [Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)   Shows time-pattern of IMR (see SSMLit.html)
 
-
+[Annual Reports](https://archives.lib.state.ma.us/handle/2452/39847/browse?rpp=20&sort_by=2&type=dateissued&offset=40&etal=-1&order=ASC)
 
 
 ##### U5 populations by sex in Mass 
@@ -1876,21 +1905,15 @@ US Infant mortality data
 
 <p>[1950](https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf) p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite.  E.g. 1940 white 106.0    But I worry Southern whites tend to inflate the national average?
 </p>
+## US Census Data for Sex Ratios by age
 
-#### US Census Data for Sex Ratios by age
+Our IPUMS downloads are 
+1880 ages 0-5 00069.csv; 1900 00070.csv   -- these have CITY -- which others also do?
 
-##### New York State censuses
 
-[NY state library](https://www.nysl.nysed.gov/scandocs/nyscensus.htm)
+1880-1910 1920, 1930, 1940 u11 00068; 
 
-[1855](https://nysl.ptfs.com/data/Library1/06042012/88819.PDF)    YES-- AGEs     
-[1865](https://nysl.ptfs.com/data/Library1/77860.PDF) Yes -- ages      
-[1875](https://nysl.ptfs.com/data/Library1/93418.PDF) Yes -- ages      
 
-1892 no ages   p29 Exh C election districts, pop (citiz, alien)
-[1905](https://nysl.ptfs.com/data/Library1/93419.PDF)   -- no ages data
-1925 no ages
-Population figures for the cities, incorporated villages, towns, and counties of New York... Census of June 1, 1925.  No AGES
 
 <p>census dates or census timing: 1930 onward April 1 (90/365); 1920 Jan 1;  1910 April 15, 1840-1900 June 1* (1890 June 2)  
 1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. 
@@ -1908,7 +1931,6 @@ These may contain age/sex/race, but odd text files ...
 </p>
 
 <p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  </p>
-
 
 ICPSR datasets with ages: 1800, 1810, 1820: 0-9;  0-4 (or better) are in 1830, 1840, 1850, 1860,  1930 (Part 27), 1940, 1950, 1960, 1970.  
 
@@ -2085,11 +2107,18 @@ Census of Population: 1950, Vol. 2, Tables 94 & 97; Table 94 has sex by single y
 
 **1940**
 <br>1940 Population Volume 1 has various population totals (nation and states).
-<br>Pop Vol II Characteristics of the Pop. Table 7 1940 & 1930 age by race & sex, urban & rural.  T21-48 "Divisions and States",  T26 Age, by race and sex, ... 1940. No 1930 regional age data found in Vol II. Pop Vol III Labor Force.  
-<br>Pop Vol IV Characteristics by Age / Marital Status, Relationship, Education, and Citizenship; Part 1 U S Summary; Part 2 AL to LA. In Part 1: Table 1 has age/sex for whites 1920 to 1940; Table 2 has age/sex 1930 & 1940 urb/rur; "Regions" Tables 26-45 and "Divisions and States" Tables 46-52.     
+<br>
+<br>[1940 Census of Population: Vol II Characteristics of the Pop ...](https://www.census.gov/library/publications/1943/dec/population-vol-2.html) . Has 
+Table 7 1940 & 1930 age by race & sex, urban & rural.  T21-48 "Divisions and States",  T26 Age, by race and sex, ... 1940. 
+1940 Census of Population: Volume 2. Characteristics of the Population. Sex, Age, Race, Nativity, Citizenship, Country of Birth of Foreign-born White, School Attendance, Years of School Completed, Employment Status, Class of Worker, Major Occupation Group, and Industry Group
+No 1930 age data by region found in Vol II. 
+<br> Pop Vol III Labor Force.  
+<br>Pop **Vol IV Characteristics by Age** / Marital Status, Relationship, Education, and Citizenship;   
+Part 1 US Summary; Part 2 AL to LA; Part 3     ; Part 4 OH to WY ;    
+Part 1: US Summ Tab 1 age/sex, 1930&1940, for whites/nonwhite, urban/rural; 1920 total pop by age. Table 2 1930&1940 age-sex all/white/nonwhite and all/urb/rur for white & nonwhite; "Regions" Tables 26-45 and "Divisions and States" Tables 46-52.     
 T26 ages by single years, color sex for regions 1940. Can't find a 1930 regions/division u5 source here.  
 
-<p>Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has ages. Page 4 has light discussion of under-enumeration of infants. States are in groups, within which there are city-data. E.g. For Philadelphia, see pdf35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf).
+<p>Table 1 in [Vol 4](https://www.census.gov/library/publications/1943/dec/population-vol-4.html) has single-year ages (1930 & 1940, I think). Page 4 has light discussion of under-enumeration of infants. States are in groups, within which there are city-data. E.g. For Philadelphia, see pdf35, p206 [Table 2](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf).
 <br>[1940 NY](https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p3ch6.pdf). 33973538v4p2ch3.pdf Arkansas
 </p>
 <p> USA 1940  98.9 if we use the PE-11 XLS (2004) SR2 adjusted for Black vs Nonwhite for 99.0-0.1     
@@ -2108,6 +2137,9 @@ T26 ages by single years, color sex for regions 1940. Can't find a 1930 regions/
 <br>
 v2ch11 T8 p577 5yr by sex  color, nat ;  T16 p587 urb/rur ; T24 p669 divisions age/sex race     
 <br> Tab 33 p724  city 500K+ ages
+<br>
+
+urban/rural 1930 USA vol 1ch02  p7 in recent censuses / 2,500+   1930 definition modified to include unicorp places with 10K+ and pop density 1K+ per sq mile ... adds 4 town in CT   ...  in NH MA RI  previous censuses had some rural townships in urban ... 
 
 <br>
 SR2 census negro 98.4  nonwhite 98.6    PE-11 nonwhite 98.6
@@ -2146,7 +2178,7 @@ DROP IT BY .2 to 98.5
 census SR2 negro 98.4  nonwhite 98.6  
 PE-11 nonwhite 98.7
 
-**1910**  e.g. [Pop vol 1](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p1.pdf)    
+[**1910 census volumes**](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1910.html)  e.g. [Pop vol 1](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p1.pdf)   
 
 
 use [census](https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf)
@@ -2185,7 +2217,7 @@ AGES in [Eleventh Census - Volume 1. (Part I & Part II) Report on Population of 
 <p> Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states: ages by U1 months and single years (we have it in 2 parts). Table 3 states' sex by 5-year age groups;  Table 4 ages by periods of years of native white; 
 In Vol 1 Part 2,  Table 8 Ages by periods of years ... for cities having 25,000 inhab or more -- sr5 not available for smaller places in 1890 </p>
 
-See above in [DRA section](#DRA) for mortality data from 1890 census
+See above in [DRA section](#DRAsect) for mortality data from 1890 census
 
 
 
@@ -2234,6 +2266,22 @@ https://www2.census.gov/programs-surveys/popest/FTP2_Key.xlsx
 https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/pe-11-1910.xls
 
 https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html
+
+
+
+##### New York State censuses
+
+[NY state library](https://www.nysl.nysed.gov/scandocs/nyscensus.htm)
+
+[1855](https://nysl.ptfs.com/data/Library1/06042012/88819.PDF)    YES-- AGEs     
+[1865](https://nysl.ptfs.com/data/Library1/77860.PDF) Yes -- ages      
+[1875](https://nysl.ptfs.com/data/Library1/93418.PDF) Yes -- ages      
+
+1892 no ages   p29 Exh C election districts, pop (citiz, alien)
+[1905](https://nysl.ptfs.com/data/Library1/93419.PDF)   -- no ages data
+1925 no ages
+Population figures for the cities, incorporated villages, towns, and counties of New York... Census of June 1, 1925.  No AGES
+
 
 <a name="CAN"></a>
 
@@ -2700,18 +2748,26 @@ Statistisches Handbuch für den Preussischen Staat. [Band 1. 1888](https://catal
 ## India
 
 India IMR estimates starting 1910 at [IGME India IMR](https://childmortality.org/data/India); citing Provincial Annual Sanitary-Health Reports 1947 for 1911-1949    
- Possible lead for data is 2009 working paper by Amrith, sunil s. [Health in India Since Independence](https://hummedia.manchester.ac.uk/institutes/gdi/publications/workingpapers/bwpi/bwpi-wp-7909.pdf)  There we see cite to India, Health Survey and Development Committee. [Report of the Health Survey and Development Committee](https://clio.columbia.edu/catalog/SCSB-8027233)
+
+Possible lead for data is 2009 working paper by Amrith, sunil s. [Health in India Since Independence](https://hummedia.manchester.ac.uk/institutes/gdi/publications/workingpapers/bwpi/bwpi-wp-7909.pdf)  There we see cite to India, Health Survey and Development Committee. [Report of the Health Survey and Development Committee](https://clio.columbia.edu/catalog/SCSB-8027233)
 
 Bhat, Preston, Dyson, [*Vital Rates in India, 1961-1981*](https://books.google.ca/books?id=4QIQgNw7_CQC&dq) may be of interest for us for post-1950 IMR ... they have various attempts at estimating IMR ... also interesting for age-accuracy     p41 has 1970ish IMR by State -- like in Visaria
 
-Visaria 1980 offers province-level IMR for 1970 onward -- can we find SR by province?
+Visaria 1980 offers province-level IMR for 1970 onward --  we can connect to SR by province?
+
+CRS civil registration system -- 21st C Ji deems
 
 
 ### India Census Data
 
+two main sources: [SAOA ](https://www.jstor.org/site/south-asia-open-archives/saoa/censusreports-30733929/?searchkey=1653754091567)  has 1871 to 1881
+
+and [Census India catalogue](https://censusindia.gov.in/nada/index.php/catalog/?page=1&sort_by=popularity&sort_order=desc&ps=15)
+
+
 Finding comparable states in 1971 and 1911? 
 
-Maharashtra is the second-most populous state in India and theM second-most populous country subdivision globally. It was formed on 1 May 1960 by splitting the bilingual Bombay State, which had existed since 1956, into majority Marathi-speaking Maharashtra and Gujarati-speaking Gujarat
+Maharashtra is the second-most populous state in India and theM second-most populous country subdivision globally. It was formed on 1 May 1960 by splitting the bilingual Bombay State, which had existed since 1956, into majority Marathi-speaking Maharashtra and Gujarati-speaking Gujarat  
 
 [Bombay Pt 2](https://www.jstor.org/stable/saoa.crl.25393770?seq=1) -- 1911 -- how easy to split off Gujarat (missing wom rate just 0.4%)   --- 63    77   78/86 Districts & States -- 34 places to split betwween Gujarat and Mhara    99 cities
 
@@ -2719,14 +2775,10 @@ Maharashtra is the second-most populous state in India and theM second-most popu
  States Reorganisation Act, 1956 
 Kerala was created by merging Malabar district (1951 4.8m) and the Kasaragod taluk (1951 0.4m) of South Canara districts of Madras State with Travancore–Cochin.
 
-
-
-
 1971 Tamil Nadu (1969 renamed from Madras State)
   part of Madras Presidency and 1947 Madras State; 1956 re-organisation act took parts for Kerala, Karnataka (Mangalore? into Mysore), Andrha Pradesh (>Hyderabad?)
 
 to Kerala: Malabar district and Kasaragod taluk of South Canara district; wikip says Kasaragod pop 247,467 in 1911 and census 1911 has South Canara 1,195,227 COULD ADD 1/4 of S Canara 
-
 
 FROM Trav-Coch: The five Tamil-majority taluks of Vilavancode, Kalkulam, Thovalai, Agastheeswaram, and Sengottai were transferred from Travancore-Cochin to Madras State in 1956
    Sengottai (also known as Shencottah or Shenkottai Tamil 
@@ -2753,8 +2805,6 @@ FOUND!!!  [Census of India 1971 ... Age Tables](http://lsi.gov.in:8081/jspui/bit
 
 
 Census of India 1971 Serie 1 India Part II-A (i) General Population Tables
-
-
 
 Censuses during British rule: 1872, 1881, 1891, 1901, 1911, 1921, 1931, 1941    
 Censuses since: 1951 19611971 etc to 2011
@@ -2877,6 +2927,12 @@ p12  pr42 The ratio of females to- males would appear to be less in India than i
 
 #### 1911 Census of India
 
+[India Vol 1 Pt 2](https://www.jstor.org/stable/saoa.crl.25393779?seq=1)  Ages, e.g. seq58p52 but these omit "states" portion of the provinces (and province table reports both).
+
+Census of India 1911. [Vol. 10, Central Provinces and Berar. Pt. 2, Tables.](https://www.jstor.org/stable/saoa.crl.25393775)   p36seq40 Ages 
+
+
+
 Bombay splits into Maharashtra and Gujarat   -- missing women rates of .79% and 0.40% 
 
 At [SOA via Census Reports](https://www.jstor.org/site/SAOA/SouthAsiaOpenArchivesSAOA/CensusReports-1911-26575903/?ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&searchkey=1653655770663)
@@ -2891,7 +2947,7 @@ Kerala is in Travancore Volume XXIII; Part 1   Part II   Part III Provincial Tab
 [Bombay](https://www.jstor.org/stable/saoa.crl.25393782?ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&seq=1#page_thumbnails_tab_contents)   ages 11 seq=16
 
 
-Census of India 1911. [Vol. 10, Central Provinces and Berar. Pt. 2, Tables.](https://www.jstor.org/stable/saoa.crl.25393775)  
+
 
 [vol 18 Cochin](https://www.jstor.org/stable/saoa.crl.25394107)   Part II xv ages seq152 p xvi u5
 seq180 xliv
@@ -2901,11 +2957,10 @@ seq180 xliv
 1911  Appendices to the Imperial Tables, Part III, Vo-XIV, Punjab   NOT AGES
 
 
-1951
+**1951**
 
  [v. 1, India, pt. II-A, Demographic TablesPart ? Demographic Tables](https://www.jstor.org/stable/saoa.crl.25394107?seq=1)  Age and Civil Condition 161-229   329 on 332   
  Gives us u1 1to4 pops by province for 1951
-
 
 
 
