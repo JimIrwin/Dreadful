@@ -364,7 +364,7 @@ summary {
 
 <h1 class="title toc-ignore">SSMM-data: Data Sources for the SSMM/SR1 Project</h1>
 <h4 class="author">jri, with jrm</h4>
-<h4 class="date">30 June, 2022</h4>
+<h4 class="date">05 September, 2022</h4>
 
 </div>
 
@@ -372,13 +372,17 @@ summary {
 <p><a name="TOC"></a></p>
 <div id="overview" class="section level2">
 <h2>Overview</h2>
+<p>US sources have their own file</p>
 <p>
-<a href="#USA">US data</a>, Census volumes <a href="#1940US">1940 volumes</a>, (<a href="#MASS">state of MASS</a>)), <a href="#CAN">Canada’s sources</a>, <br> <a href="#IndiaSources">India Census</a>; <a href="#LifeTable">Life Tables</a>,
-</p>
-<p><a href="#AUSNZ">Australasia</a> <a href="#SouAfr">South Africa</a> <a href="#AFRICA">Africa</a> <a href="#ITALY">Italy</a> <a href="#ENG-WALES">England</a> <a href="#SCOT">Scotland</a> <a href="#IRE">Ireland</a></p>
+<p><a href="#EURsect">Europe</a> <a href="#AUSNZsect">Australasia</a> <a href="#SouAfr">South Africa</a> <a href="#AFRICA">Africa</a> <a href="#ITALY">Italy</a> <a href="#ENG-WALES">England</a> <a href="#SCOT">Scotland</a> <a href="#IRE">Ireland</a> <a href="#CANsect">Canada</a>, <br> <a href="#IndiaSources">India Census</a>; <a href="#LifeTable">Life Tables</a></p>
 <p><em>stuff to organize/move</em> (Ji tidied 22.0504)</p>
 <div id="general-sources" class="section level3">
 <h3>General Sources</h3>
+<p>Mitchell/Palgrave 2013 IMR pdf 219 Africa; 223 Asia; 226 Oceana; 2249 South America 3575 Europe</p>
+<p><a href="https://childmortality.org/data">IGME infant mortality graphs</a> historical …</p>
+<p>20C punchlines, via World Bank:<br />
+1985 From 10- (Euro, Japan) to 120-150 (large nations; also 174 Mozambique) 1960 From 20- (Euro, Japan) to 150-200 (large nations; also Afghan 222, )</p>
+<p>– 2010 range is 2 to 84 (Nigeria)</p>
 <p><a href="https://www.mortality.org/cgi-bin/hmd/DataAvailability.php">HMD country codes</a></p>
 <p>UN <a href="https://population.un.org/wpp/Download/Standard/Population/">World Population Prospects</a> for pops by sex and age-groups for countries and regeions. E.g. Sou Afr total pop, u2 and u5, by sex (coloured/white not separate). For example, pops by age &amp; sex from the UN World Population Prospects … <a href="https://population.un.org/wpp/Download/Standard/Interpolated/">download</a> .</p>
 <p>UN <a href="https://population.un.org/wpp/Download/Standard/Interpolated/">pop by age/sex</a><br />
@@ -392,6 +396,7 @@ UN <a href="https://www.un.org/en/development/desa/population/publications/morta
 <p>Suthar et al <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002929">2019 PloS Med</a> “Evaluation of approaches to strengthen civil registration and vital statistics systems: A systematic review and synthesis of policies in 25 countries” most low- and middle-income countries still have underdeveloped systems</p>
 <p>The World Bank. <a href="http://documents.worldbank.org/curated/en/979321495190619598/pdf/115150-WP-CRVS-for-Monitoring-the-SDGs-web-version-May-18-2017-PUBLIC.pdf">Civil Registration and Vital Statistics for Monitoring the Sustainable Development Goals 2017.</a></p>
 <p><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60171-4/fulltext">Mikkelsen, et al (2015 The Lancet)</a> “A global assessment of civil registration and vital statistics systems: monitoring data quality and progress”</p>
+<p><a name="EURsect"></a></p>
 </div>
 <div id="europe" class="section level3">
 <h3>Europe</h3>
@@ -788,7 +793,7 @@ Might use Mitchell for IMR, or HMD u1 deaths &amp; u1 pop match Mitchell IMR for
 <h3>Brazil</h3>
 <p>Brazil’s <a href="https://loja.ibge.gov.br/">IBGE</a> has historical statistics for <a href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&amp;id=231573">download:</a>; e.g <a href="https://loja.ibge.gov.br/historia-das-estatisticas-brasileiras-estatisticas-desejadas.html">1822-89</a>,</p>
 <p><a href="https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&amp;view=detalhes">Brazil 1872</a> Some funny-looking sex-ratio values in mestizos and slave &gt;10 yrs?</p>
-<p><a name="AUSNZ"></a></p>
+<p><a name="AUSNZsect"></a></p>
 </div>
 <div id="australasia" class="section level3">
 <h3>Australasia</h3>
@@ -1087,490 +1092,7 @@ Unicef spreadsheet of <a href="https://data.unicef.org/wp-content/uploads/2020/0
 <p><a href="https://www.who.int/healthinfo/mortality_data/en/">WHO Mortality Database</a> has population for &lt;1 1-4 … single year, 1950 forward. But not Nigeria nor Ethiopia</p>
 <p><a href="https://www.lifetable.de/data/BGD/BGD001019801980AU1.pdf">HMD life table</a> Bangaldesh 1980 0q1 male 90 female 118 per 1000. Seems to be early work of <a href="https://academic.oup.com/ije/article/46/3/809/3867622">HDSS</a></p>
 <p>Looking at UN? pop by age data: Ghana Cameroon 1-4 yrs <a href="https://population.un.org/wpp/Download/Standard/Interpolated/" class="uri">https://population.un.org/wpp/Download/Standard/Interpolated/</a></p>
-<p><a name="USA"></a></p>
-</div>
-<div id="usa" class="section level3">
-<h3>USA</h3>
-<p>
-our spreadsheet USAkidsForR.xls has national totals; US-KIDSFORR.XLS has state and finer data, but I (Ji) don’t know if it is the most complete.<br />
-2021.0604 Age25censRegns.xls compiles regional data, NewEng, MidAtl, SouAtl; but often does not give source. I suspect I totalled up the state-level. And it does not isolate white populations except for South
-</p>
-<p>PUMS – cite Steven Ruggles, Sarah Flood, Sophia Foster, Ronald Goeken, Jose Pacas, Megan Schouweiler and Matthew Sobek. IPUMS USA: Version 11.0 [dataset]. Minneapolis, MN: IPUMS, 2021. <a href="https://doi.org/10.18128/D010.V11.0" class="uri">https://doi.org/10.18128/D010.V11.0</a></p>
-<p>
-<a href="https://usa.ipums.org/usa-action/variables/CITY#codes_section">city codes</a> Boston 0810 NewYork 4610 (Brooklyn 4611) Phil 5330 (1850: 5331-35) Chicago 1190 Baltimore 530 NewOrleans 4570 Cleveland 1330 Detroit 1750 <br> <a href="https://usa.ipums.org/usa-action/variables/STATEICP#codes_section">State Codes</a>
-</p>
-<p>For Dempap, 1940-1970, decennial census values of u5 – 1940 is the only questionable value raw 1940 raw f0 995356 RefC 45 HMD data 998165.28 1034937.60 raw 1950 raw f0 1544340</p>
-<p>1940 1980cen 103.2; also that in pe11, hmdinput; HMDdata 103.1; – 1940census 103.6 1950 1980cen 103.9; also that in pe11, hmdinput, HMDdata, 1950cen 1960 1980cen 103.4; also that in pe11, hmdinput, HMDdata, 1960cen 1970 1980cen 104.0; also that in pe11, hmdinput, 1970cen (HMDdata 103.9)</p>
-<div id="sr-population-counts-checking-for-inconsistencies" class="section level4">
-<h4>SR Population Counts – checking for inconsistencies</h4>
-<p>Grove &amp; Lindner (VS1900-40) have states’ u1 u5 pops by sex starting pdf885- p872 (Supplement Population Tables USA). This show 1930 &amp; 1940 as in 1940 census – so VS probably good for white IM etc</p>
-<p>1900-04 t vii by months</p>
-<p>
-1850
-</p>
-<p>
-PUMS data extracts (on Jim’s computer or drive)
-</p>
-<p>
-<p>National <strong>white</strong> SR5 discrepencies over 0.1% – 1870 PUMS is 0.3 less male <strong>important</strong> insomuch as it is against our findings;<br />
-1850 fPUMS 103.72 cenVol 103.35 PUMS 0.37% more male (more healthy) – not likely important; could strengthen ours<br />
-1870 fPUMS 103.04 cenVol 103.34 PUMS 0.30% less male (less healthy) – potential to weaken our results;<br />
-1900 fPUMS 102.50 cenvol 102.64 1910 fPUMS 102.50 cenVol 102.93 PUMS 0.43% less male (less healthy) – potential to clarify?</p>
-</p>
-<p>
-<p>1870 recall that for whites, PUMS 1870 (103.04) is 0.30% less male than the published volume.</p>
-<p>1870 MASS all SR5 fPUMS (100.8) is 0.74 less male than cenVol (101.53). But 1875 state census is 100.9 and 1865 is 101.3. So the 1870 cenVol SR5 may seem high? 1870 MASS whites SR5 fPUMS () is 0.7% less male than CenVol. Looking at single years of age, age 0 is most dramatic, it is 1.7% less male … if the PUMS SR0 had the cen value, then Mass would be just 0.2 less male … And that is a matter of 141 infants being moved from female to male … out of almost 33K infants …<br />
-Looking at counties, Norfolk is largeish with low male SR 93 with 2K infants; but random sample finds fem-tilt (10/21 in pure random; fuller sample 28/37 ). Maybe there is a large county that undercounted males in some part? Would need much luck, or district-level PUMS …<br />
-e.g Boston Wd10 start at i100.<br />
-Age0 91 1 0, 92 0 1, 93 0 0, 94 0 1, 95-103 0 0; 104 0 1, 105 0 0, 106 2 0; 188 1 0, 189 0 0, 190 0 0, 191 1 0, 192 2 0 1870 SR5 all – will restricting to white narrow the discreps? NJ cenVol 102.2 PUMS 101.7 PUMS 0.5% less male; white 0.6% less male (102.4 101.8)<br />
-NY cenVol 101.9 PUMS 101.6 PUMS 0.32% less male; white 0.32% less (101.96 101.63)<br />
-PA cenVol 101.9 PUMS 101.2 PUMS 0.7% less male; white 0.76 less (102.03 101.26)<br />
-MiddAtl whites SR5 PUMS is 0.54% less male than the published census</p>
-</p>
-<p>
-<p>1910 PUMS SRs from usa_00043.csv; <br><strong>discrepencies</strong> between fPUMS and published volumes include <br>Mass SR5 f-101.5 c-102.0 ; <br>NY white SR5 f-101.4 c-102.1 (SR2 101.9 102.9) … when time, Jim to randomly sample …</p>
-</p>
-<p>
-<p>1920 white SRs <br>PUMS above Census – MD SR5p 0.4 above census (102.6 102.2); SR2p same (103.7 103.7) MA SR5p 0.3 above census (102.1 101.8); SR2p 0.6 above census (101.7 101.1). Ji checked and it seems correct.<br />
-WA SRp 0.3 above census (104.4 104.1); SR2p 0.5 above census (103.8 103.3) PA SR5,SR2 0.3 above census (sr5 101.9 101.6 ; sr2 102.2 101.9)<br />
-NC SR5p 0.2 above census (104.2 104.0); SR2p 0.2 above (104.5 104.3) NY SR5p 0.2 above census; SR2-P 0.3 above (SR5 102.7 102.5; SR2 102.2 101.9)<br />
-OH SR5p 0.2 above census (103.3 103.1)<br />
-MN SR5p 0.1 above census (102.9 102.8); SR2p 0.2 above census (103.4 103.2) KT SR5p 0.1 above census (103.9 103.8); SR2p 0.1 above census (104.1 104.0) IN SRp 0.1 above census (102.5 102.4); SR2p 0.1 below census (102.9 103.0) CT SR5p same; SR2 0.6 above census (102.5 vs 101.9); SR25-P must be well below?<br />
-MI SR5p same (102.9); SR2p 0.2 above (102.7 102.5)<br />
-VA SR5p same (102.4); SR2p 0.3 above (102.3 102.0) WI SR5p same (102.9); SR2p 0.1 below (102.8 102,9)<br><br />
-KS SR5p 0.4 below census (103.0 103.4), SR2p 0.9 below census (102.0 102.9) Small state results ME SR5p 0.3 above census (103.1 102.8); SR2p 0.3 above census (103.3 103.0); u5 ~75k UT SR5p 0.2 above census (103.3 103.1); SR2p 0.3 below census (103.4 103.7); u5 ~60k (Ji checked u2, cen has 104.0) RI SR5p 0.5 above census (101.4 100.9); SR2p 0.6 above census (101.8 101.2) NH SR5p 0.5 above census (102.7 102.2); SR2p 0.1 above (102.5 102.4) – small state, u5 41k VT SR5p 0.3 above census (103.1 102.8); SR2p 0.2 above (104.0 103.8) – small state, u5 34.5k<br />
-DC SR5p 0.3 below census (101.6 101.9); SR2p 0.7 above (103.9 103.6) – very small place, u5 23k</p>
-</p>
-<p>
-1930 white SRs – <em>Arizona</em> alerts us to potential problem with category “white” in published census versus the PUMS. VS (vital statistics) and census both seem to group “Mexican” in “colored”. <br>1930VS has 438K total, comprised of 266K white and 172K colored ; <br>census has 436K total, comprised of 264K white and 171K nonwhite (11 negro, 114 mexican, 44 indian) <br>The 1929VS estimated pop of 1929 is 372K and 56K colored; 1931 269 174; <br><br />
-<br>1930 census has 1930 white SR5 103.59 (n= 9,927,396) for US – smaller pop b/c “Mexican” classed as nonwhite. <br>1940 census has 1930 white SR5 103.51 (n=10,142,169) for US – Mexican in “white” <br>1970 census has 1930 white SR5 103.50 (n=10,151,119) for US
-</p>
-<p>
-<p>1940 SR5 of PUMS is 1% more female than cenVols</p>
-</p>
-<p>
-<strong><em>UNDERCOUNTS</em></strong> Underenumeration of infants and children? Hacker (2003) relies on PUMS samples for 1850-1870, which we doubt for SR data. Earlier work on fertility refers to infants, but the empirical work and estimates work with 5-yr groups (u5, 5-9, etc). See LIT for Thompson &amp; Whelpton (1933), Yasuba, Coale &amp; Zelnick, Land et al., Hacker.
-</p>
-<br> 1850 compendium DeBow p 104 mentions age heaping at 10 15 20 ….
-<p>
-US Census Office offers a partial listing of <a href="https://www.census.gov/programs-surveys/decennial-census/decade.1950.html"><strong>Pubs by decadal census</strong></a>. But the 1890 page does not show Volume 4, which has vital statistics<br> Maybe other volumes are at the older link to <a href="https://www.census.gov/prod/www/decennial.html">Decennial Pubs</a>. <br>Sometime useful are the IPUMS USA <a href="https://usa.ipums.org/usa/voliii/tPublished.shtml">incomplete links to census volumes</a> <br> * also see the PDF on 20thC US for linked sources, in our B/W page
-</p>
-</div>
-<div id="usa-imr" class="section level4">
-<h4>USA IMR</h4>
-<p>Our key source is <a href="https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm">Vital Statistics for 1890-1938</a></p>
-<p>HSUS (1976) <a href="https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf">Vital Statistics and Health and Medical Care</a>. Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics–Special Reports, vol. 45, No. 1, p7. ({I find it at Google via Hathi. Odd that they don’t cite Linder &amp; Grove, as in the 1957 edition}). 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.</p>
-<p>1915-1932 Birth Registration Area only. 1915 99.9 1916 101.0 1931-61.6 1932-57.6 1933-58.1 – same values in Linder &amp; Grove.<br />
-<br>p44 B 1-220. General note.<br />
-<br>A two-part compendium updating and expanding the second edition, Historical Statistics of the United States, Colonial Times to 1957. <br> US Bureau of the Census, <em>Historical Statistics of the United States, Colonial Times to 1970,Bicentennial Edition, Part 1</em>, Washington, D.C., 1975.</p>
-<p>
-June 1959 <a href="https://www.census.gov/library/publications/1949/compendia/hist_stats_1789-1945.html">Historical Statistics of the United States, 1789 - 1957</a>9- <br>Cites Linder &amp; Grove for IMR.
-</p>
-<p><br><a href="https://www.cdc.gov/nchs/nvss/mortality/hist293.htm">NVSS HIST293</a> offers data and discussion about US mortality statistics (DRA 1900-32, USA 1933-98)</p>
-<p><br>This <a href="https://www.cdc.gov/nchs/nvss/mortality/hist293.htm">page</a> about VS history attributes to<br />
-<a href="https://www.cdc.gov/nchs/data/misc/usvss.pdf">Hetzel AM</a> U.S. Vital Statistics System Major Activities and Developments, 1950-95. 72 pp. (PHS) 97-1003 pdf icon[PDF – 724 KB]</p>
-<p>
-CDC NCHS <a href="https://www.cdc.gov/nchs/products/vsus.htm">Vital Statistics</a> e.g. <a href="https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm">1890-1938</a>
-</p>
-<p>
-CDC weekly <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm">Achievements in Public Health, 1900-1999: Healthier Mothers and Babies</a>
-</p>
-</div>
-<div id="bradra-data" class="section level4">
-<h4>BRA/DRA data</h4>
-<p>Our data</p>
-<p>1915-1920 urb/rur</p>
-<p>ALabama 1925 on deaths; IMR 1927 on. AZ 1925 on deaths; IMR 1926-30. DE<br />
-FL GA 1928 onward, BRA (not in DRA before that). Atlanta in DRA earlier …</p>
-<p>IL DRA 1918-1920 Chicago 1915-1920 BRA-IMR 1922on IN DRA 1915-</p>
-<p>MD BRA 1916+ DRA 1915+ MA BRA 1915+ MN 1915-1920 can do white urb/rur or do folk=all and Minneapolis-StPaul as 1 place and it is a metro (&gt;600K) for metro/urb106/rur10 … 1930 is next …</p>
-<p>MO 1925+ white urb/rur (StL &lt; 500K)</p>
-<p>NJ 1925-1930 Newark ~400K so we could split it off NC Not 1915-1920 – anomalous geog coverage …</p>
-<p>2022.0309 Considering state-level IMR:SR – NY is in the DRA from 1890</p>
-<p>2021Nov02 CENSUS DAY CENSUS DATES 1850-1900 June 1 (1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1.</p>
-<p><a href="https://www.census.gov/history/www/through_the_decades/overview/1900.html">1900</a> June 1;</p>
-<p>1910 [SOURCE NEEDED] Apr 15; 1920 Jan 1;</p>
-<p>DRA 1910 IMR estimated via u1 deaths, u1 pop, separation factor 1910 u5 boys 3145145.0 eIMR 107.45935 (m&amp;f)<br />
-1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US … USimrDRA1910.RDS Note we have only 1 yr of IMR data to connect to SR (so use SR2?)</p>
-<p>Dempap uses full BRA. BRA data for IMR 1920, 1930 – US totals (but 1920 is Jan 1, so 1920 refers to 1919; before 2021Nov 2, 1920 erroneously included some 1920 IMR). Ji also looked at US-North 1920 (excludes DC) amd 1930 US-North US-Sou-white US-Sou-black.</p>
-<p>USimrBRA.RDS is simply the BRA part of USimr-BRA.xls (which covers 1915-1931); that RDS file was made by EstUSimrDRA.R, and that file reads the u1 deaths counts from USimr-BRA.xls (top part of which is the BRA data) and merges them with the u1 pop counts in US1910SR1.RDS (which was created from 1910 PUMS full-count in 2nd part of buildPUMSurb10.R). That SR1 file has 27 states (tot/urb10k, rur10k)</p>
-<p>u2u5forBRAimr.RDS</p>
-<p>For 1915 to 1930 (for census SRs of 1920 and 1930), we get IMR by state/race from <a href="https://www.cdc.gov/nchs/nvss/mortality/hist293.htm#:~:text=Lindner%20FE%2C%20Grove,the%20Census.%201943%3B">Lindner &amp; Grove (1943)</a> Vital statistics rates in the United States, 1900-1940. We use annual Birth Statistics pubs to get birth counts. Oddly, <a href="https://www.cdc.gov/nchs/products/other/miscpub/vsushist.htm">Hetzel’s</a> history of US vital statistics systems has SC starting in DRA 1916 and BRA 1919, yet SC not in Birth Stats 1926</p>
-<p>South: 1925-1930 DC (6 2.8) DE (3.6 0.7) FL (20 9) KT (53 3.5) MD (24 6) NC (53 24) VA (38 16) WV (38 2)</p>
-<p>1925 birth stats (google books or Hathi) pdf 33 has table with legit &amp; illegit by state, but not total births …<br />
-Va 1917<br />
-Ala Ark La Tn are 1927 onward, so could relate them to SR2 … GA 1928</p>
-</div>
-<div id="usa-data-onfor-infant-mortality-to-1940-1890-1900-04-1900-05-1900-40" class="section level4">
-<h4>USA data on/for Infant Mortality to 1940 (1890, 1900-04, 1900-05, 1900-40)</h4>
-<p>
-CDC NCHS <a href="https://www.cdc.gov/nchs/products/vsus.htm">Vital Statistics</a> e.g. <a href="https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm">1890-1938</a> <br><a href="www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html">1900-1970</a>
-</p>
-<p>
-<a href="https://data.nber.org/vital-stats-books/vsrates1900_40.CV.pdf">1900-1940 Vital Statistics Data</a> Probably Linder &amp; Grove? IMR Tables 26 to 35. Table 26 IMR by state But these don’t have birth counts? (for GLS weighting) p572. I’m looking for SRB data – not Table 53, which gives total births (and IMR data) at various geographic levels. Not Table 50, crude birth rates by month;
-</p>
-<p>Children’s Bureau Montclair NJ, Baltimore MD, Waterbury CT, Johnstown PA, Manchester NH, Brockton MA, NewBedford MA<br />
-Also Pittsburgh 1920, Memphis</p>
-<p>Duncan BS, Duke E. 1917. Infant mortality: Results of a field study in Manchester, N.H. based in births in one year. Washington, DC: U.S. Government Printing Office, 134 pp. (Children’s Bureau publication; no. 20; Infant mortality series; no. 6)</p>
-<p>
-<p><strong>Birth Statistics for the BRA</strong></p>
-<p><a href="https://catalog.hathitrust.org/Record/003923081">Maybe a full set</a> at HathiTrust</p>
-<p><a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112051430939&amp;view=1up&amp;seq=9">1915</a> <a href="https://babel.hathitrust.org/cgi/pt?id=hvd.li4xnm&amp;view=1up&amp;seq=5">1916</a>, IMRs pdf 8-17 <a href="https://babel.hathitrust.org/cgi/pt?id=hvd.li4xnn&amp;view=1up&amp;seq=5">1917</a> has link to Google books for download. pdf 28-61 (in digLib)</p>
-<p>1918 pdf44-75 for Table 1 1919 pdf 42-61</p>
-<p><a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112002972542&amp;view=1up&amp;seq=7">1921</a> <a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112051430954&amp;view=1up&amp;seq=9">1922</a></p>
-<p>1919 Table 1 “rural” excludes municipalities 10K+ in 1910; 66p61 Table III -76p71 Table IV</p>
-<p>1925 T22 for cities? 195-233 1926 pdf10 TOC Table I pdf 16-20? Table 1 Births by month (no Brooklyn; nor race)</p>
-<p>1927 Table 1 pdf349-354 (pdf has 2 vols, 1926 &amp; 1927) cities f354-364 10-30k</p>
-<p><a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112002972575&amp;view=1up&amp;seq=7">1928</a> Tab 1 pdf 55- Looking for Brooklyn maybe Brooklyn 247-297</p>
-<p><a href="https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t3521c56x&amp;view=1up&amp;seq=27&amp;size=150">1929</a> Downloaded. Table 1 pdf 53-59 Reg. cities 52-67 f59-74 f53-</p>
-<p>1930 BRA T1 pdf -145 f280 T10 stillbirths, T21 day/month U1 deaths</p>
-<p><a href="https://www.cdc.gov/nchs/data/vsushistorical/birthstat_1931.pdf">1931</a> IMRs pdf 51-102</p>
-<p>
-<p>For 1930, Birth, Stillbirth, and Infant Mortality Statistics for the Birth Registration Area, <a href="https://www.google.ca/books/edition/Birth_Stillbirth_and_Infant_Mortality_St/yM3cOoJMf2UC?hl=en&amp;gbpv=0">1930</a> (difficult to find, I downloaded from GoogleBooks). For 1931 we have both the B-SB-IM-BRA and Mortality Statistics, and they give same u1 death count for Illinois (which serves to confirm same data, for me)<br />
--17 Stillbirths; Tables 18-20 cover whole BRA;<br />
-Table 21 give State-level deaths by causes, and by ages (u1day, 1, 2, 3-6 days, 1wk etc)<br />
-Table 22 gives States’ total/cities/incorps/rural with &gt;10K and &gt;2.5k as cutoffs. And deaths are by sex.</p>
-<p>Table 23 has that same 3-way breakdown, for deaths by days/weeks/months</p>
-<p>
-<p><a href="https://www.cdc.gov/nchs/data/vsushistorical/mortrates_1910-1920.pdf">Mortality Rates 1910-1920</a> 438pdf436 Calif influenza. <br><a href="https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1931.pdf">Mort Stats 1931</a> Tab 3 Deaths by age and color 80-90 (pdf 86-95),</p>
-<a href="https://www.cdc.gov/nchs/data/vsushistorical/mortstatsh_1929.pdf">Mort Stats 1929</a> Tab 3 108-116 (pdf 110-118).<br />
-Tab4 States, u1 1to4 m/f<br />
-Tab5 deaths by cause (not age) pp134- Tab6 causes: state, urb/rur pp 176 Tab7A causes: by race Tab8 causes: by age, for states Tab9 causes: by age, for major cities Tab10A causes: by month for cities Tab11 by cause, by infant-age, in Houston?
-</p>
-<p>1920 BRA Michigan cities have new cities versus 1919 – Hamtramck 1851 births, Highland Park 845, Owosso 277, Wyandotte 492 but loses Manistee 135 births, Menonimee 240 births, – Net change ~ 3100</p>
-<p>NC 1920 vs 1919 – 28% increase in births in the 1919 places? 1920 1/3 of births are in towns not in 1919 list … looked at urban white … so 1920 added Gastonia 13k Goldsboro 11k HighPoint 14k NewBern 12k RockyMt 13k Salisb 14.4K Wilson 10.8 IMR of the extra: Gastonia 83 Goldsboro 139 HighPoint 60 NewBern 53 RockyMt 106 Salisb 41 Wilson 91<br />
-1920 82 6194 : Ash, Charl, Durham, Greensboro, Raleigh Gastonia Goldsboro HighPoint NewBern RockyMt Salisb Wilson 1919 93 3144 : Asheville, Charlotte, Durham, Greensboro, Raleigh, Wilm, Winston-Salem</p>
-<p>
-<a href>Life Tables</a>, where we see 1920 Registration Area states are a large proportion of population (maybe 80% or more?). I used 1919-21 and 1929-31 from the <a href="https://www.cdc.gov/nchs/data/lifetables/life30.pdf">1930 Life Tables volume</a>
-</p>
-<p><a href="https://archive.org/details/monthlybulletino619tutt/page/n3/mode/2up">CT Monthly bulletin of the Connecticut State Board of Health for the month of</a></p>
-<p>Monthly bulletin of the Connecticut State Board of Health for the month of <a href="https://cscu-csl-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CSCU_NETWORK_ALMA7170353930003451&amp;context=L&amp;vid=CSL_V1&amp;lang=en_US&amp;search_scope=CSL_ALMA&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=sub,exact,Mortality%20--%20Connecticut%20--%20Statistics,AND&amp;mode=advanced&amp;pfilter=dr_s,exact,18400101,AND&amp;pfilter=dr_e,exact,19100201,AND&amp;offset=0" class="uri">https://cscu-csl-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CSCU_NETWORK_ALMA7170353930003451&amp;context=L&amp;vid=CSL_V1&amp;lang=en_US&amp;search_scope=CSL_ALMA&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=sub,exact,Mortality%20--%20Connecticut%20--%20Statistics,AND&amp;mode=advanced&amp;pfilter=dr_s,exact,18400101,AND&amp;pfilter=dr_e,exact,19100201,AND&amp;offset=0</a> internet archive – looked briefly, searched for infant, did not get mortality data</p>
-<p><a href="https://archive.org/details/monthlybulletino1412tutt/page/n227/mode/2up?q=infant">CT Deaths under age 1 p228</a></p>
-<p><a name="DRAsect"></a></p>
-<H4>
-<strong>DRA Mortality Statistics</strong>
-</H4>
-<p><a href="https://www.cdc.gov/nchs/data/misc/usvss.pdf">Appendix</a> to US VSSS offers history of DRA and BRA.<br />
-p57 Growth of the Birth- and Death-Registration Areas<br />
-… In 1880, the Bureau of the Census established a national ‘‘registration area’’ for deaths. This original area consisted of only two States—Massachusetts and New Jersey—the District of Columbia, and several large cities having efficient systems for the registration of deaths</p>
-<p>p58 Table 1.01 lists dates for “Records on file for entire area (columns: Deaths Births”<br />
-DC 1855 1871<br />
-MA 1841 1841<br />
-MI 1867 1867<br />
-NH 1850 1850<br />
-NJ 1848 1848<br />
-RI 1852 1852<br />
-VT 1857 1857</p>
-<p><strong>1870 census </strong><br />
-Intro seems to say the totals are worthless – when did NJ start reg? are there ant reg cities for 1870?</p>
-<p>T V sex/age/cause by state Table VII causes NOT AGE<br />
-Table IX age/sex/color – entered these, for DC MA MI MH NJ RI VT, in case they prove to be state registration data</p>
-<p><strong>1880 Census </strong><br />
-Compendium refers to MA and NJ “registration records … probably very near accurate” and lists cities with good registration – we’ll use …</p>
-<p>v11 pp 9-13 deaths by age/sex for census year – look at NJ &amp; MA and see if those are reg values YES THEY ARE 1880v11-04.pdf 126- 1880v11-06.pdf pp286-365 v11001-Pt2 pp633-47 IMR stuff; Mass 649-51; NJ 653-655</p>
-<p>1880v12-04.pdf cxxxvi-clviii 1880v12-06.pdf pp185-345 1880v12-10.pdf pp657- mass v12 p641 totals u1d m 4087, f 3201</p>
-<p>BELOW is outdated on 1880 mortality … vols 11 &amp; 12 – I have, but where did I find them? — vol 11 Tab XI has grand group 2 but with urb and nonurb (I wanted urb) Coded in R for about 10 obs of u1d &amp; SR5<br />
-1880 urban south atlantic SouAtl urban: DC St=? Baltimore 530, Richmond 5870, Wilmington 7490</p>
-<p>v11 GrandGroup2 cities are – Balt, Brklyn, NYCxB, Cambden, JerseyC,Newar,Wash, Wilm not useful, b/c we will strip out Brklyn, NYCxB, NJurban, and we’ll use the race detail on Balt, Wash, Wilm … rural NY is 204K – how can we easily divide it? pdf549 lists counties in groups</p>
-<p><br><strong>1890 Census</strong> At <a href="https://www.census.gov/prod/www/decennial.html">older link</a>, and at <a href="https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm">VSUS 1890-1938</a> Volume 4 in 4 parts has mortality data.</p>
-<p>Our 1890 u1d/SR5 panel: MAurb OthNEUrb NewEngRur Brooklyn NYCxB Phila</p>
-<p>RuralNY: Chi 140K (Det-Clev-Cinnci-Pitts-Milw-)</p>
-<p>MAssUrb 158k OthNewEngUrb? 59k NewEngRural 142k – could take 30 minutes and create urban as BostonPlus and Other? Boston 40k FallRiv 8 Law 4 Lynn 5 Camb 6.6 Low 7.1 worc 8.4 – BostonEtc 78 othNE 140</p>
-<p>for NewEng, CT MA NH RI VT (all but ME). We’ll use MAurb othNEurb NErur Boston too small? (43k) RURAL CT 39.2 Mass 43.5 NH 21 RI 13.5k VT 27 total 142 – one observation?</p>
-<p>CREATED top10NewEngUrban othNEurban NErural</p>
-<p>rural NY? build via RUR25K by subtracting off cities 25K and above</p>
-<p>group 4 has u5 pop 93902 with 277 nonwhite who are 137 140 It includes Buff 33k Rochest 14 Oswego 2045</p>
-<p>rural NY plus rural CT for an east-coast aggregate</p>
-<p>Volume 4: Report on Vital and Social Statistics in the United States<br> <a href="https://www.cdc.gov/nchs/data/vsushistorical/vsush_1890_1.pdf">Part 1: Analysis and Rate Tables</a> <br></p>
-<p>217 urban rural mortality</p>
-<p>495-512 f539- “Description of areas for which data are given” CT DE DC MA NH NJ NY RI VT and their MANY “cities” are listed – but we can use R and city codes to aggregate … rest of a state is “rural” And another set of Registration Cities are listed – incl Chicago, Philly, Detroit, .. Total of RegCities 271 (in and not-in Reg States)</p>
-<p>pp513-658 has key data, but we need to enter what is in the Reg Area … USE R for cities – pdf539 of Pt 1 …</p>
-<p>would like to use small OH cities like Springfield, but how do we get “white” sr5 ? only total m5 and f5 in table 1 …</p>
-Part 2: Cities of 100,000 population and upward (in Jim’s digLibrary) … Volume 4, Part 2, Vital Statistics, Cities of 100,000 pop … 19610506v4p2.pdf <br>1890a_v4p2-01.pdf has TOC, shows pop by age/sex/color etc 337-360; 391-408 death rates by ward. <br>19610506v4p2ch4.pdf p2-06.pdf has “General Tables” pp. 335-444; p2-07.pdf for pp445-549 table 5 is continued ; p2-08.pdf pp550-655 still Table 5 ; <br>48 cities death rates, u1 231, u5 78; Chicago u1 213 u5 69; Newark stands out for high u1dr 318 (also DC, via “colored” dr &gt; 490 )
-</p>
-<p>
-Can muscle out city U2 vales – Chicago U2 103.3 U5 102.3 – pattern like Illinois, with the SR2 a full point above the SR5 …
-</p>
-<p>
-<p><br>e.g. p514 Table 1 has u1 u5 for US, states, cities? <br> volume? is called: 1890 Bulletins no. 100 Social Statistics of the Cities</p>
-<p>1890 CITIES 1890a_v4p2-08 t5 has by wards; T6 has deaths m/f deaths by age – by causesayse</p>
-</p>
-<p>Part 3: Statistics of Deaths SEEMS TO BE CAUSES <br></p>
-<p><a href="https://www.cdc.gov/nchs/data/vsushistorical/vsush_1890_4.pdf">Part 4: Statistics of Deaths</a> Table 1 Deaths .. in registration states, and cities in registration states, at certain ages and groups of ages, .. sex, color, nativity, parental nativity, and birthplaces of mothers … May 31 1890. 2-21<br />
-For each Reg State, deaths by age/sex/color; and for reg cities of that state …</p>
-<p>p501 6yr area: Metro District in NY, state of NJ, Baltimore, Boston, Phila, DC</p>
-<p>Table 13 Deaths during the 6 years endiig May 31,1890, at certain ages and from certain causes, with distinction of sex, color, nativity, parental nativity, and birthplaces of mothers. 502-663</p>
-<p>6 yrs e.g. p578f567 NJ state total, months/u1/u5/ … / sex/color ; also rural and urban split – excruciating detail</p>
-<p>Tables 16-24 are on New Jersey NJ only</p>
-<p><strong>1900</strong> for 1900 we have both the census-year deaths and the calendar year.</p>
-<p>
-<p>1900 census reports vol III;</p>
-<p>we use table 19 pp 285-555 (pdf 598-868) – p xi rates reported when &quot;the results are fairly comparable; for the nonregistration (enumeration) areas the insufficiency of the data are indicated by an asterisk (*). This character is also used for the same purpose in the registration area … It gives warning that the data are not regarded as sufficient for the computation of reliable rates.&quot;</p>
-<p>Thence Ji enters all PA cities over 4K u5 pop; same done for IL IN OH WI … maybe MN etc? NY rural is huge … try to id a large simple rural chunk? Group 1 434K kids, incl NYC with 397 ! Tiny rural … Group 2 29K kids – too small Group 3 28k too small<br />
-Group 4 108,651 No f52p472 – need pull out 7 cities, including Buff 41k &amp; Rochester 15k – rural will be &lt;30K Group 5 151K incl 15+ cities to deduct…</p>
-<br> p xiv in many cases there were actually fewer deaths recorded in the later years of the decade 1890-1900 than were recorded in 1890, notwithstanding large increases in population. … decision to have the enumerators make inquiry and return deaths in all areas where any doubt of the sufficiency of registration existed, in order to use the information as a check upon the accuracy of registration, and to supplement and complete the registration returns if found defective in numbers or in detail.<br />
-The registration record was accepted as sufficiently complete and satisfactory in Mass, CT, RI, and NH; certain counties in the state of NY, nameley Broome, Columbia, … cities: Albany, Cohoes, NY (greater), … and certain counties and cities in the state of NJ … <br>In these areas the mortality schedule was withdrawn from the enumerators. In all others they were directed to report deaths, and their returns … compared with the reg records. The result of the comparisons, … indicated that registration was defective in many places where it was supposed to be perfect, a considerable percentage of the deaths reported by the enumerators not being found in the reg record. As the enumerators did not report more than 50 or 60 per cent of the deaths, the presumption is strong that the omissions in the registration record were even greater than indicated. <br> tabulated result of the comparison of the two sets of returns [on next page] <br>xv xvi Chicago looks not bad: registration record (RR) forms have 93.5 of deaths recorded (the other 6.5% being enumerated deaths not in the RR
-</p>
-<p>1900 Table 5 Deaths in the United States, each state and territory, and each registration city, during the census year ending May 31, 1900, at each age, by sex – GOOD FOR CITIES, but not by race p21 1900 Table 6 has states’ deaths by age and sex, color, e.g. pdf p65</p>
-<p><strong>1910 census Life Tables 1890 1901 1910 </strong></p>
-<p>Pdf 446 has births (computed, registered) 1901 1910 for:<br />
-DC neg&amp;col; Indianna; Mass; MI; NJ; NY; Bost; CHic; NYC; Phil</p>
-<p><strong>1900 to 1910 </strong></p>
-<p>1900-1904 1900 Table 8 pdf 308-349 1902 Tab 2 death/age 532-549 Tab 8 deaths/age by cause CITIES</p>
-<p>1905 MS Tab 2 by age 216-233 Tab 4 age, race, sex 252-269; Tab 8 city 100K+ 306</p>
-<p>MS 1906 T4 states, ages;</p>
-<p>1906 onward has infant deaths for large cities</p>
-<p>1907 T2 pp282f276 by race is in southern places only ; T4 adds nativity;</p>
-<p>1908</p>
-<p>1909 toc pdf2 Table2 pdf468- T2 doesn’t have rural totals T4 p550/f546 again no rural totals. Pretty thorough skim through tables and it seems we would need to sum up rurals or cities? to get rural. MA would be managable, but rural is defined via 1900 populations, and 1910 is via 1910 …</p>
-<p>1910 Table 3 pp204 pdf195-242 1910 has urb/rur breakdown</p>
-<p>hsus? 1910 builds from USimrDRA1910.RDS 16June2021, which is with USimrBRA.RDS in Wrangling/Raw/US …</p>
-<p><strong>Mort Stats 1910</strong> f153 T1 deaths by month of death ; T2 deaths by color etc eg f183 f195p204 T3 deaths by age<br />
-Table 1 lists indiv cities … pdf 432-<br />
-Table 2 deaths by age – again, no totals eg pdf 482<br />
-Table 3 NOT AGES rural by indiv counties, no sums pdf p532<br />
-T4 States: age, color, nativity eg pdf 556<br />
-T5 not by age (urb/rur by state) eg pdf572 T6 not by state T7 States: age, cause eg pdf600 T8 ages, causes by cities 100K+ eg pdf 670 T11 occs, male T12 occs, fem T13 Reg Area, by age, Index pdf 791-805</p>
-<p>1910-1920 Table IV pp428- (pdf426-) 1910 and 1920 death rate per 100K enumerated population by age groups u1 1-4 u5 5-9 etc MAYBE can back out IMR estimates from these? pdf 426-27, 454-55, 484-85,<br />
-PAGES 512-13, 540-41, 568-69 (pdf566) Pittsb RI SC, TN UT VT VA WA WI<br />
-(pdf is 2 less)</p>
-<p>1915 T3 184-211 f179-</p>
-<p>MS 1916 IA, IB, II causes, III causes, rates, IV not ages; T1 T2 not ages; T3 by age, state/color, state/city 152-74; T4 176-206 not urb/rur; T5 not ages; T6 T7 T8 causes/ages, not rur/urb; T9 u1 deaths by cause cities 100K+ t10 not ages; T11 days/weeks 1916 T3 150- f145-</p>
-<p>1918 T3 144-169 f138-163<br />
-1919 T3 130-155 126-51<br />
-1920 printed table 3, 4 f137- 140 Table 3 deaths age/color 171- Tab 4 col/age/nati 272 Tab 7 DRA causes/ages Table 8 deaths-cause by age (u1, 1, 2 …, 5-9); Table 9 cities 479-540 pdf 476-536 ; p224 is in Tab 5 deaths by cause Xage</p>
-<p>1925 IA,B II not ages; Tab 3 age &amp; color pp36-42 (pdf 38-44) 282-314 for cities? 1926 T3 34-39 pdf37-42 f20-32 cities</p>
-<p>1928 t3 38-46 f41-</p>
-<p>1930 (for racial breakdown lacking in BRA for some states) IA IB not by age; Table 1 by months (not by age); T2 not ages.<br />
-Table 3 age; urb10 unincorp rur; Table 4 age; white nativity/race</p>
-<p>
-Early on: Bureau of Labor Statistics <a href="https://fraser.stlouisfed.org/title/bulletin-united-states-bureau-labor-3943?browse=1890s#477578">Annual Reports</a> have city-level deaths by causes (these found via Cain &amp; Rotella (2001)). But they lack age-specific deaths.
-</p>
-<p>
-<p>But there are death-by-age in Registration cities for 1900 (census year, in Census Reports, Volume IV, Vital Statistics, Part II, <a href="https://www.cdc.gov/nchs/data/vsushistorical/vsush_1900_4.pdf">Statistics of Deaths</a>); I pdf-save Table 5 23-55 pp21-53</p>
-</div>
-<div id="cdc-birthsfinal-data-for-20xx" class="section level4">
-<h4>CDC &quot;Births:Final Data for 20xx</h4>
-<p>annual <a href="https://www.cdc.gov/nchs/hus/previous.htm%20https://search.cdc.gov/search/index.html?query=%22sex%20ratio%22&amp;sitelimit=NCHS&amp;exact=sex%20ratio%20at%20birth#results">Health</a> reports.</p>
-<p><a href="https://www.cdc.gov/nchs/products/vsus/vsus_1980_2003.htm" class="uri">https://www.cdc.gov/nchs/products/vsus/vsus_1980_2003.htm</a> vital stats don’t have births by sex</p>
-<p><a href="https://www.cdc.gov/nchs/products/nvsr.htm">National Vital Statistics Reports</a>. (Births) Most recent (as of 2020 May) seems to be 2018 (SBRs 1.046all 1.052white 1.029black 1.063Asian 1.036Hispanic 1.036Amerind/Alaska 1.022PacficIsle). Looking for SRB discussion later than 2001 report (not 2018, 2015, YES: 2005 noting downward trend 1970s to 2002 – citing Mathews&amp;Hamilton (2005 CDC)</p>
-<p>Mathews&amp;Hamilton (2005 CDC) <a href="https://www.cdc.gov/nchs/data/nvsr/nvsr53/nvsr53_20.pdf">Trend analysis of sex ratio at birth in the United States</a>. Quick read by Jim indicates they don’t place a welfare interpretation on the declining SBR 1970s to 2000 … 1.050 “In 2002 the sex ratio reported for fetal loss was higher than for live births (1,128 compared with 1,048)” 1.0763 – CDC data</p>
-<p>Matin, Hamilton, et al. <a href="https://data.nber.org/natality/2001/docs/nvsr51_02.pdf">Births 2001 (CDC 2002)</a>. p8 1046 p9 ….</p>
-<p>CDC Deaths 2017 Infant mortality</p>
-<p>Bell&amp;Miller Life Tables, Table 6 is “Period Life Tables” and 1900 has male e0x 46.41 (p26); Table 7 is “Cohort Life Tables” and 1900 has e0x (p89) 51.52</p>
-<p><a name="MASS"></a></p>
-</div>
-<div id="state-of-mass" class="section level4">
-<h4>State of Mass</h4>
-<p>Richards (1909) “A Study of New England Mortality” <a href="https://books.google.ca/books?id=L2VBAQAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Annual Reports 1898</a> Shows time-pattern of IMR (see SSMLit.html)</p>
-<p><a href="https://archives.lib.state.ma.us/handle/2452/39847/browse?rpp=20&amp;sort_by=2&amp;type=dateissued&amp;offset=40&amp;etal=-1&amp;order=ASC">Annual Reports</a></p>
-<div id="u5-populations-by-sex-in-mass" class="section level5">
-<h5>U5 populations by sex in Mass</h5>
-<p>US census volumes and data-sets for 1860-1970 at 10-year intervals; Mass State Census for 1865-1915 at 10-year intervals. 1925-1965? (2021Oct26): not 1925 1935 1945 1965.<br />
-Some in 1955, Table 16, p 108</p>
-<p>
-<p>Mass <a href="https://archives.lib.state.ma.us/handle/2452/122027/browse?type=dateissued">state cenuses</a> of 1865-1915 have u5 pop by sex. Not so: 1925</p>
-<p><a href="https://archives.lib.state.ma.us/handle/2452/122030">1855 MASS census</a> Table 2 (64-97 -119) gives totals in age-groups, but not by sex. p222 discusses sex. Jim cannot find any sex/age data here.</p>
-<p><a href="https://archives.lib.state.ma.us/handle/2452/122031">1865 MASS census</a> has age/sex</p>
-<p><a href="https://archives.lib.state.ma.us/handle/2452/122032">1875 Mass census</a> 2021.0530 found 1875 Mass census compilation error (age 1). Page 269 “The state by totals” reports age1 populations of 13825 male and 15589 female. Summing up the county-level values, we the male value is correct but the female value is 2000 too high. Ages 71- (pdf 139-) p78 f146 is end of Barnstable, w/o totals … county recaps 263-268</p>
-<p><a href="https://archives.lib.state.ma.us/bitstream/handle/2452/122033/ocm10085339-1885-v.1-pt.1.pdf?sequence=1&amp;isAllowed=y">1885 Mass</a> pdf532 p434</p>
-<p><a href="https://archives.lib.state.ma.us/bitstream/handle/2452/122034/ocm09219786-1895-v.2.pdf?sequence=2&amp;isAllowed=y">1895 Mass v2</a> pdfs 7, 11, 442 ages recap 5ry p422</p>
-</p>
-</div>
-<div id="mass-imr" class="section level5">
-<h5>Mass IMR</h5>
-<p>Haines (1998:231) Unfortunately, collection of vital statistics was left to individual states and municipalities, which resulted in tardy and uneven coverage. Massachusetts was the first to begin this activity at the state level in 1842 and achieved relatively good coverage by about 1855 (Abbott, 1897:714-715).</p>
-<p>Abbott 1897:714 The period of forty years (1856–95) has been selected for consideration for the reason that it presents a definite portion of time in which the returns of vital statistics of the cities and towns may be deemed to be fairly accurate. The returns of the first few years following 1842 are more or less incomplete and untrustworthy, but those of the forty years under consideration must be considered as approximately correct.</p>
-<p><br> Note: arguably, the rural data are perhaps not “deemed to be fairly accurate” ?</p>
-<p>Haines (2006 HSUS essay) The Massachusetts data reach reasonable quality by about 1860 and are reproduced here in Tables Ab928 and Ab1048–1058.</p>
-<p>
-Mass Vital Statistics <a href="https://archives.lib.state.ma.us/handle/2452/39847">Annual Reports</a> <a href="https://archives.lib.state.ma.us/handle/2452/39847/browse?type=dateissued">By date?</a> I started to check 1890 versus 1885 and 1895, but realized Mass 1890 looks fine …
-</p>
-<p>
-<p><a href="https://archives.lib.state.ma.us/discover?filtertype_1=dateIssued&amp;filter_relational_operator_1=contains&amp;filter_1=1901&amp;submit_apply_filter=&amp;query=Mortality&amp;scope=2452%2F39847">searched Mortality</a> And then use advanced filters to get date desired (issue date 1900 gives rpeort of 1900 )</p>
-<p><a href="https://archives.lib.state.ma.us/discover?query=Mortality&amp;scope=2452/39847&amp;filtertype_0=title&amp;filter_relational_operator_0=contains&amp;filter_0=&amp;filtertype=dateIssued&amp;filter_relational_operator=equals&amp;filter=%5B1842+TO+1899%5D">1842-1899 Mortality etc</a></p>
-<p>1859 births 20 xx stillbirths xxvi deaths 42? 44? 54? xxxiv (pdf132) 1860 xxiv ; 1861 xxxiv (births pdf 100 p xx)<br />
-1862 xxxiv pdf111 for u1 m/f deaths</p>
-<p>1865 6? 10? p29 clii – 10 year sum</p>
-<p>1876 pdf56p42 gives 10yrs of births and u1 deaths for Mass cxlvi ? deaths by age</p>
-<p>1889 24 year totals p198 deaths p185 births</p>
-<p>1898 1899 2, 34 1900 34 (pdf46)</p>
-<p>1914 has births 1866 forward pdf194 p180 1915 TOCpdf8 deaths 130-31</p>
-<H3>
-20th C sources
-</H3>
-<p>
-<p>Life Table <a href="https://pubmed.ncbi.nlm.nih.gov/20578408/">2005</a></p>
-<a href="https://www.cdc.gov/nchs/data/vsus/mort92_2a.pdf">1992 Vital Stats</a> for HSUS IMR 1915 on. pdf p507
-</p>
-<p>US Infant mortality data</p>
-<p><a href="https://www.cdc.gov/nchs/data/vsus/vsus_1961_1.pdf">1961 Vital Stats</a> live-births by sex, 1-28, pdf 1962 t15 pdf pg 1-30 pdf38 by state</p>
-<p>
-<a href="https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf">1950</a> p81 (pdf 91) offers SRB for 1935-1950, for all/white/nonwhite. E.g. 1940 white 106.0 But I worry Southern whites tend to inflate the national average?
-</p>
-</div>
-</div>
-</div>
-</div>
-<div id="us-census-data-for-sex-ratios-by-age" class="section level2">
-<h2>US Census Data for Sex Ratios by age</h2>
-<p>Our IPUMS downloads are 1880 ages 0-5 00069.csv; 1900 00070.csv – these have CITY – which others also do?</p>
-<p>1880-1910 1920, 1930, 1940 u11 00068;</p>
-<p>
-census dates or census timing: 1930 onward April 1 (90/365); 1920 Jan 1; 1910 April 15, 1840-1900 June 1* (1890 June 2)<br />
-1850-1900 June 1 (but 1890 June 2); 1910 April 15; 1920 Jan 1; 1930 onward, Apr 1. <a href="https://www.census.gov/history/www/through_the_decades/overview/1900.html">1900</a> Jan.1; <a href="https://www.census.gov/history/www/through_the_decades/overview/1900.html">1910</a> Apr 15; 1920 Jan 1;
-</p>
-<p><br><a href="www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html">1900-1970 intercensal pops</a></p>
-<p>
-Age by Race &amp; Sex 1900 to 1970 in Table 53 of <a href="https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_us1-07.pdf">US Summary</a> from 1970 Census of Pop: Characteristics … June 1973, Report Number Volume 1. Web page link is “chapter 7” but the text says “Chapter B”. <br>1940 census v4 has 1920,1930,1940 single year ages for white/nonwhite; also 1910 for total population.
-</p>
-<p>
-These may contain age/sex/race, but odd text files … <a href="www.census.gov/data/datasets/time-series/demo/popest/1980s-national.html">1980-1989</a>
-</p>
-<p>
-Except for Mormon’s 1850 &amp; 1880, the full-count PUMS are from Ancestry.com
-</p>
-<p>ICPSR datasets with ages: 1800, 1810, 1820: 0-9; 0-4 (or better) are in 1830, 1840, 1850, 1860, 1930 (Part 27), 1940, 1950, 1960, 1970.</p>
-<p>NOT 1870 5-18,18-44, 21+ NOT 1880 – can get u10 via 10-14, 15-20, 21+ 1890 get u5 via 5-20, 21+ nat-white, for-white, colored 1900 get u5 via m21+ 5-20 NOT 1910 no age/sex NOT 1920 1930 Ages NOT in 1870, 1880 (5-17, 10-14, 15-20, 18-44, 21+), 02896-0005-Data.dta</p>
-<p>
-<a href="https://www2.census.gov/programs-surveys/popest/tables/2020/2020-demographic-analysis-estimates/table-1.xlsx">2020 all races by age</a> U.S. Census Bureau, Population Division, 2020 Demographic Analysis (December 2020 release). <br><a href="https://www.census.gov/data/tables/2020/demo/popest/2020-demographic-analysis-tables.html">2020 tables</a> <br><a href="https://www.census.gov/data/tables/2012/demo/popest/revised-2010-demographic-analysis-estimates.html">2010 by age</a> <br>Jim pasted in 2020 and 2010 demog analysis estimates of pop by age/sex/col <br><a href="https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html">1900 to 1970 Nationals</a>
-</p>
-<p><strong>2010 and 2000</strong> <a href="https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-national.html">2000-2010</a> <br> Maybe <a href="https://wonder.cdc.gov/controller/datarequest/D163">1990-2019</a> <br> maybe <a href="https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-national.html">2000-2010 Intercensal</a></p>
-<p>maybe <a href="https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-state.html">State Intercensal Datasets: 2000-2010</a></p>
-<p>NOT 2000 state-volumes “Summary Population and Housing Characteristics” e.g. <a href="https://www.census.gov/prod/cen2000/phc-1-41.pdf">Rhode Isle</a> not single years of age. PHC-1-41 is not what we’re after (but does have U5)</p>
-<p>Not useful: <a href="www.census.gov/data/datasets/time-series/demo/popest/intercensal-1990-2000-national.html">1990-2000</a></p>
-<a href="https://www.census.gov/prod/www/decennial.html">Census of Population and Housing, Decennial Pubs?</a>
-<p>
-<a href="https://www.census.gov/programs-surveys/decennial-census/decade.html"><em>Publications grouped the census Decennial</em></a>
-</p>
-<p><strong>2000</strong> For NYC I find <a href="https://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/census2000/sf1p6a6i.xls">Total Population by Single Years of Age and Sex - 2000</a><br> 2000 PHC-1 u5 ages; PHC-2 no age-data; PHC-3 no age data; DP-1 u5; Briefs NO; Profile NO;</p>
-<p><strong>1990</strong> <a href="https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf">1990 Census of Population, General Population Characteristics, United States</a> States 262a-g Northeast metro/not etc tables 64, 65 <br> cities in tabs 61-63? <br><a href="https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-40-1.pdf">PA 1990</a>. Table 17 for urban/rural. Phil is part 2 (I printed the page)br <a href="https://www2.census.gov/library/publications/decennial/1990/cp-1/">1990 states</a> 10DC 11FL 12GA 15IL 18Kansas 22Md 26Missi 36ND 38 OK 44 TN 47Vt 50 WVa</p>
-<p><strong>1980</strong> <a href="https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu8011u_bw.pdf">USA ages</a> Page 1-23 Table 41 Single Years of Age by Race, Spanish Origin, and Sex: 1980, in 1980 Census of Population, Volume 1, Ch. B, General Population Characteristics, Part 1, United States Summary<br> pdf 35-55</p>
-<a href="https://babel.hathitrust.org/cgi/pt?id=uva.x004451315&amp;view=1up&amp;seq=173&amp;q1=single%20year">Illinois</a> at HathiTrust, images 173- <br> <a href="https://www2.census.gov/prod2/decennial/documents/1980/1980censusofpopu80134unse_bw.pdf">NY volume</a> pdf84 Table 18 p72 pdf111 NYC&amp;NENJ urbanized area <br> General Population Characteristics, PC80-1-B34, Vol 1, Characteristics of the Pop, Ch B, General Pop Char
-<p>
-IPUMS has good access to <a href="https://usa.ipums.org/usa/voliii/pubdocs/1980/pubvols1980.shtml">1980 age volumes</a> <br> <br>Michigan 1980 <a href="https://catalog.hathitrust.org/Record/009780899">Table 18 pdf 162ish</a> <br>But it does not have Illinois Ch B Chapter 2 (with ages) for PA seems to be missing (looked on Hathi too). Poked around the census directory, looking at pdfs 80134 is NY <br> vol 1
-</p>
-<p>
-Illinois at <a href="https://catalog.hathitrust.org/Record/102583049">Hathi</a> <br><a href="https://www.dropbox.com/s/jzhux09h39clhfz/1980PATabs18-20.pdf?dl=0">PA ages Tables 18-20</a> extracted from <a href="https://www.dropbox.com/s/3nectos2e359yql/PA_1980_Vol1B.pdf?dl=0">Penn Volume</a> downloaded from GoogleBooks.Ca
-</p>
-<p><strong>1970</strong> census <a href="https://www.census.gov/library/publications/1973/dec/population-volume-1.html">Characteristics of the Population</a> <br> Maybe chapter numbered 7 on webpage is US total age data <br> Generally Ch 4 on that webpage (URLs differ)<br> Table 19 Single Year of Age by Race and Sex p87 negro and negro&amp;other Table 24 p102 SSMA’s Table 17 p85 race by sex – no ages. <br>1970 Pop Vol 1 Unites States Summary <br> Section 1, <a href="https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_us1-07.pdf">Ch 7</a> Table 50 single years by race &amp; sex; pdf12 1-265<br />
-Table 53 5yr age/race/sex US 1900-1970<br />
-Table 56 5yr age/race/sex Regions 1970 <br> Ch 1, does not have ages; Ch 5 starts with Tab 170 Industry of employed males <br> Section 2, <a href="https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_us2-01.pdf">Chapter 1</a>, pdf15 for Table 19 which has 1970 and 1960 5yr age groups by sex for total, native white, foreign-born white, etc But Data is “based on sample”</p>
-<p>
-The standard <a href="https://usa.ipums.org/usa/resources/voliii/pubdocs/1960/Population/Vol1/37722946v1p23ch3.pdf">MASS link</a> is missing the start of Table 16. So we use the detailed <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722946v1p23ch5.pdf">Table 271</a>.
-</p>
-<p><a href="https://www2.census.gov/library/publications/decennial/1970/population-volume-1/00496492v1p40s1ch3.pdf">PA ages</a> pdf 51 t24 Phila</p>
-<p><a href="https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ny1-02.pdf">NY ages</a></p>
-<p><a href="https://www2.census.gov/library/publications/decennial/1970/population-volume-1/1970a_ma-01.pdf">MA ages</a></p>
-<p><strong>1960</strong></p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1960.html">1960 census pubs</a></p>
-<p>
-Reconciling Vt data, I find statement (Vol 1, Part 47 Vermont, p xii) that chapter B has complete-count while chapters C and D have 25% sample stats. Eg the U5 totals differ by 3. For <a href="https://www.google.ca/books/edition/Census_of_Population_1960/vSabfPk3ERMC?hl=en&amp;gbpv=1">Vermont</a>, I use google books copy. <br> MASS is missing p31 or so; I use Google Books version.
-</p>
-<p><a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/">This directory seems to have the 1960 age data</a>. But Mass is missing the start of Table 16 (p23-31). This <a href="https://www.census.gov/library/publications/1961/dec/population-vol-01.html">page at census.gov</a> has some valid links. But GA is missing – maybe ok via write in URL at <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/" class="uri">https://www2.census.gov/library/publications/decennial/1960/population-volume-1/</a> DC 10 FL 11 GA12 . Some are like GA: <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-12-d.pdf">12-d is Georgia</a>. But others are like <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/06586188v1p35ch3.pdf">NC, which is p35ch3</a> And then the 1960 census page has a valid link to <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749999v1p42ch3.pdf">SC</a></p>
-<p><a href="https://usa.ipums.org/usa/voliii/pubdocs/1960/pubvols1960.shtml">only some via IPUMS</a> CT For any state, use its Population Vol 1, section 3, general pop characteristics.</p>
-<p>census <a href="https://www.census.gov/library/publications/1961/dec/population-vol-01.html">Vol 1</a> col-01-01-k <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-01-h.pdf">Table 156 Single years of age, by nativity, color, and sex, for the US, urb &amp; rural</a></p>
-<p>Table 232 single years of age, by color and sex, for regions, 1960 p612 Vol 1 states or cities lack single year, lack age-group</p>
-<p>1960 Vital Statistics <a href="https://www.cdc.gov/nchs/data/vsus/nat60_1.pdf">Vol 1 Natality,</a> SRB by state 1-27 Also, p 1-9 for national SRB white 1.055 nonwhite 1.018 2-4 Live births by specified race and sex: US and States pdf54</p>
-<p>Vol 1, Pt 2, for each State. Single years : Tables 94, 95, 101, 102. Cities: age groups 20, 96 <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37722946v1p23ch5.pdf">Mass</a> Mass Table 16 (pdf p9) white female U1 52,822 but Table 94 52,940</p>
-<p><a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/37749573v1p34ch3.pdf">NY</a> Table 16 Age by color and sex … pdf p10 Table 20 pdf44 for NYC</p>
-<p><a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/17216604v1p40ch07.pdf">PA</a> table 94 single year of age, state; color (white/nonwhite)</p>
-<p>ILL <a href="https://www2.census.gov/library/publications/decennial/1960/population-volume-1/vol-01-15-e.pdf">Tables 13-19</a> in the directory as vol-01-15-e 15-c is Number of Inhabs 15-e includes age/sex color single year</p>
-<p>1960 PE11XLS single year, white/black/other</p>
-<p>1960 The table presented here is a preprint of table 65 from Final Report PC(l)-1C, which contains summary information on these and other general social and economic characteristics of the population.</p>
-<p>This report presents statistics on age by sex and color for the urban, rural-nonfarm, and rural-farm population of the United States.</p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1950.html"><strong>1950</strong> US Census</a></p>
-<p>(<a href="https://www.census.gov/programs-surveys/decennial-census/decade.1950.html" class="uri">https://www.census.gov/programs-surveys/decennial-census/decade.1950.html</a>) <br></p>
-<p>Vol 1 is pop totals;<br />
-<br> Vol 2 Characteristics of the Pop. Part 1 US Summary <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/21983999v2p1.pdf">TOC</a> . Table 38 US age/sex for rural/urban 1940 &amp; 1950. Table 39 1880-1950 US age/sex/color. Regions/division 1950 only (via &quot;General Contents p viii of TOC.)<br />
-Table 61 5yr age /race/ urb-rur / REGIONS 1950 Table 62 p112 Age by sex, for divisions: 1950 – not by race</p>
-<p>Age-data from Table 15 in <a href="https://www.census.gov/library/publications/1953/dec/population-vol-02.html"><strong>Volume 2 for each state</strong></a>. Table 15 groups ages 1&amp;2, we split as 48.5% age 1 (based on sample-evidence in Table 51). Table 15s are in dropbox. <br>Table 33 is SSMAs, urban, cities, etc. <br> <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38ch3.pdf">Penn T33</a> is pdf 2-25 Population Table 94 via sample; Table 95 single year white/nonwhite 1940; Table 38 u1 1&amp;2 3&amp;4 white/nonwhite, 1940 &amp; 1950; Table 39 5-yr ages white/nonwhite 1880 to 1950</p>
-<p>BW: 1950census does not have negro <br> 1950 For U2, we extrapolate on the full count’s 1&amp;2 age group by taking 48.5% of them as the age 1 (based on the 20%-sample counts). Maybe 1960 has full-count data for 1950? Table 33 NY pdf 23-41 using the 20% sample (Table 51) <br> Table 51 says 1950 data from 20% sample; says Tab 14,15, 33 are complete count.</p>
-US Census of Pop (via my zip 21983999v2p1 probably Vol 2 Part 1) <br> Vol I Number of Inhabitants (comprising Series P-A bulletins) <br> Vol II Characteristics of the Population (comprising Series P-A, P-B, and P-C bulletins) <br> Vol III Special Reports: … Nonwhite Pop by Race, <br> <br> Population Volume II … compruses 54 parts … 1. US Summary 2. Alabama … 21 Mass Looks like I have Pt 1 – US Summary. <br> Pt 32 is NY <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch3.pdf">ch3</a> for U1 and 2-yr or 5-yr age and sex <br> <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/22980932v2p32ch4.pdf">ch 4</a> Tab 51 for single-year <br> Part 38 is <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/23760756v2p38.pdf">PA</a> tables 15, 33
-<p>
-Region single year data Table 146 – based on 20% sample. NE NC Sou West – Full count Table 61 – 5yr groupings. We’ll need to tally up states.
-</p>
-<p>1950 <a href="https://www.cdc.gov/nchs/data/vsus/VSUS_1950_1.pdf">Vital Statistics</a> p81 Registered live births and live births adjusted for underregistration, by race and sex: US, 1935-50 p81 Male births per 1,000 female births, by race: US, 1935-1950 1950 Vital Stats <a href="https://www.cdc.gov/nchs/data/vsus/VSUS_1950_2.pdf">Vol 2</a> p187 live births by race &amp; sex, US and states. pdf193 Table 18 page 187 p324</p>
-<p>
-US total for CEA paper, Jim extrapolated from the 1960 black/nonwhite ratios by sex: U2 for ages 0 and 1; Age2to4 for ages 2, 3, 4 (U2 and 2-5) to avoid noise.
-</p>
-Census of Population: 1950, Vol. 2, Tables 94 &amp; 97; Table 94 has sex by single year of age for “White” and for all “Nonwhite”. For our black SR02 in 1950 (100.9), we reduced the nonwhite value by 0.1, based on the difference between the negro and nonwhite sex-ratios for under-age-5 (via Table 97). A 1950 black SR02 of 101.0 results from applying the same correction to the nonwhite SR02 from the spredsheet for 1950 in the National Intercensal Tables: 1900-1990 (released in 2004).
-</p>
-<p>
-PE-11 has Nonwhite SR2 is 101.1, census has 101.0
-</p>
-<p><a name="1940US"></a></p>
-<p><strong>1940</strong> <br>1940 Population Volume 1 has various population totals (nation and states). <br> <br><a href="https://www.census.gov/library/publications/1943/dec/population-vol-2.html">1940 Census of Population: Vol II Characteristics of the Pop …</a> . Has Table 7 1940 &amp; 1930 age by race &amp; sex, urban &amp; rural. T21-48 “Divisions and States”, T26 Age, by race and sex, … 1940. 1940 Census of Population: Volume 2. Characteristics of the Population. Sex, Age, Race, Nativity, Citizenship, Country of Birth of Foreign-born White, School Attendance, Years of School Completed, Employment Status, Class of Worker, Major Occupation Group, and Industry Group No 1930 age data by region found in Vol II. <br> Pop Vol III Labor Force.<br />
-<br>Pop <strong>Vol IV Characteristics by Age</strong> / Marital Status, Relationship, Education, and Citizenship;<br />
-Part 1 US Summary; Part 2 AL to LA; Part 3 ; Part 4 OH to WY ;<br />
-Part 1: US Summ Tab 1 age/sex, 1930&amp;1940, for whites/nonwhite, urban/rural; 1920 total pop by age. Table 2 1930&amp;1940 age-sex all/white/nonwhite and all/urb/rur for white &amp; nonwhite; “Regions” Tables 26-45 and “Divisions and States” Tables 46-52.<br />
-T26 ages by single years, color sex for regions 1940. Can’t find a 1930 regions/division u5 source here.</p>
-<p>
-Table 1 in <a href="https://www.census.gov/library/publications/1943/dec/population-vol-4.html">Vol 4</a> has single-year ages (1930 &amp; 1940, I think). Page 4 has light discussion of under-enumeration of infants. States are in groups, within which there are city-data. E.g. For Philadelphia, see pdf35, p206 <a href="https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p4ch3.pdf">Table 2</a>. <br><a href="https://www2.census.gov/library/publications/decennial/1940/population-volume-4/33973538v4p3ch6.pdf">1940 NY</a>. 33973538v4p2ch3.pdf Arkansas
-</p>
-<p>
-USA 1940 98.9 if we use the PE-11 XLS (2004) SR2 adjusted for Black vs Nonwhite for 99.0-0.1<br />
-<br>2004 PE-11 release for 1940 nonwhite has SR1 98.4 SR1-2 99.5 suggesting heaping<br />
-<br>1940 census has u1 and u5 negro and more detailed for nonwhite. From that <br> negro vs nonwhite U1 -0.13 U5 99.1 vs 99.2 <br> I ADJUST 1940 NONWHITE U2 DOWN BY .1 FROM 99.0 to 98.9 BUT see PAPER for latest version <br> Looking for 1940 U5 by state or division v2 pt 1 Table 26 p59
-</p>
-<p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1930.html"><strong>1930</strong></a> <br> see 1940 for correction of 1930’s grouping of Mexican with colored <br>See Vol 2 Ch 10 pdf 111 for Illinois <a href="https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch11.pdf">1930 Vol 2</a> for ages, pp674-690 pdf 112-128 <br> v2ch11 T8 p577 5yr by sex color, nat ; T16 p587 urb/rur ; T24 p669 divisions age/sex race<br />
-<br> Tab 33 p724 city 500K+ ages <br></p>
-<p>urban/rural 1930 USA vol 1ch02 p7 in recent censuses / 2,500+ 1930 definition modified to include unicorp places with 10K+ and pop density 1K+ per sq mile … adds 4 town in CT … in NH MA RI previous censuses had some rural townships in urban …</p>
-<p><br> SR2 census negro 98.4 nonwhite 98.6 PE-11 nonwhite 98.6 <br> Vol III has state-level data, including urban/rural u5 age/sex; also 1920 u5 age/sex (and % splits for rural vs urban, but too imprecise) <br> v3p1 TOC pdf<br />
-pdf44p594 Table 3 age/sex rural/urban pdf50 p600 Table 11<br />
-Table 11 County-level u1 u5, all/native white/foreign-born white/negro<br />
-Table 12 Cities pdf58-63<br />
-Table 10 occs</p>
-<p>Calif Tab 12 47 (pdf 17-)</p>
-<p><br>Looking for regional totals: Table 24 has 5yr totals</p>
-</p>
-<p>1925 NY state census – no age data presented.</p>
-<p>
-<p><strong>1920</strong> <a href="https://www.census.gov/library/publications/1922/dec/vol-02-population.html">1920</a> <br> Our age data, including single-year for Divisions, found in <a href="https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch03.pdf">Vol 2, ch 3</a> pdf20 is p162 Table 9 “Dist by Single Years of Age” for US as a whole, <strong>pdf29</strong> Table 13 single age Regions and States (states is 188-285 pdf 46-143) <br><a href="https://www2.census.gov/library/publications/decennial/1920/volume-2/41084484v2ch04.pdf">ch 4</a> Table 15 has cities with single-year ages</p>
-<p>v3 Tables 1 to 13; Table 8 is Ages for cities e.g. <a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf">Georgia</a> <a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch04.pdf">Kansas etc.</a> <a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch06.pdf">NewYork</a> NYC Ch4 Table 15 pdf10 <a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch07.pdf">Ohio, Penn</a> Table 3, e.g. pdf p3 p769 (Ohio) has u1 u5,<br />
-<br> W/B use census, based on small difference and 1910-based doubts of PE11 for older data DROP IT BY .2 to 98.5 census SR2 negro 98.4 nonwhite 98.6<br />
-PE-11 nonwhite 98.7</p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1910.html"><strong>1910 census volumes</strong></a> e.g. <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p1.pdf">Pop vol 1</a></p>
-<p>use <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf">census</a> census SR2 negro 99.2 nonwhite 99.6 PE-11 SR2 nonwhite says 100.8 with very rounded numbers, so I reject, and stick with census TABLE 43 has Divisional ages</p>
-<p>1910 Pop <a href="https://www.census.gov/library/publications/1913/dec/vol-1-population.html">Vol 1</a>. <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p6.pdf">Ch 4</a> has single year ages, including <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p7.pdf">major cities</a> Table 29 is national totals, including the 1910 “negro” values which I found elsewhere. <br> Table 33 has USA, u5 m/f 1880 1890 1900 1910 Table 41 age periods, divs &amp; states, but not by sex <br> Table 43 single year p391 NY Table 48 no sex breakdown, u5 by region. Table 49 1910 t50 (100-500k),t51 (500k+),t52,t53,t54 1910 1910 Vol 2 NOT AGES has state detail, section for each state, Table 1 has state and county <br>Looked for, and did not find, u5 by sex for previous years.</p>
-<p>V1 Distribution by broad age periods of the urban and rural · population, classified by sex, bydivisions:.1910 ………… 425</p>
-<p>MS VA reg cities Alexandria 0090. Danville 1631, Lynchburg 3790, Norfolk 4810 , Petersburg 5310, Richmond 5870 – Citycodes</p>
-<p><strong>1900</strong> <a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1900.html">12th census pubs</a></p>
-<p>Much like 1890, single-year for states (Table 2); age-groups for cities<br />
-vol 1 tables 1-4 NO age data; <a href="https://www2.census.gov/library/publications/decennial/1900/volume-2/volume-2-p5.pdf">vol 2</a> has ages. Vol 2. Pop, Part II, Statistics of the Pop, has mainland US totals. In tables, Table 3 is states 5yr by sex</p>
-<p><br> 1900 bulletins 1-60, 61-106 <br>Bulletin 13, “A Discusssion of Age Statistics” <a href="http://www2.census.gov/prod2/decennial/documents/03322287no13.zip">discussion of age statistics</a> p18 indicates 1890 ages were “age at nearest birthday” and therefore confusion in 0 1 2 age groups <br> To think about: if 11mo olds are rounded up, how does that distort the SR1? It would seem to leave more of the younger, who are more male … That is a 39 page essay, with attention to sex-ratio evidence rural/city-sizes … <br></p>
-<p><strong>1890</strong> census</p>
-AGES in <a href="https://www.census.gov/library/publications/1895/dec/volume-1.html">Eleventh Census - Volume 1. (Part I &amp; Part II) Report on Population of the United States</a>
-<p>
-Report on the Population of the United States at the Eleventh Census: 1890, Part II (Washington, D.C.: GPO, 1897). Table 1 has US; Table 2 has states: ages by U1 months and single years (we have it in 2 parts). Table 3 states’ sex by 5-year age groups; Table 4 ages by periods of years of native white; In Vol 1 Part 2, Table 8 Ages by periods of years … for cities having 25,000 inhab or more – sr5 not available for smaller places in 1890
-</p>
-<p>See above in <a href="#DRAsect">DRA section</a> for mortality data from 1890 census</p>
-<p><strong>1880</strong> Vol I, Statistics of the Population … has single-year ages in Table XXI <a href="https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf">Ala-Nevada</a> and <a href="https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf">NewHamp-Wyoming</a> <br> VA is pdf33 p636; With enough time, can compile U5 ages for cities, 1880 city ages in <a href="https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html">vol 12</a> <br> Ages u1 &amp; 1to5 <a href="https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf">Vol 12, Table XIII</a></p>
-<p><strong>1875</strong> Mass state census pdf p141 County of Barnstable pdf541 occs</p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html">1870 census page</a> lists volume 2 but the link is broken (March 8, 2022).</p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html"><strong>1870</strong></a> US aggregates in Vol 2 <a href="https://www.dropbox.com/s/dndp8e0uv4nf1vf/1870b-33Vol2TabXXII.pdf?dl=0">Table XXII</a> <br> <a href="https://www.census.gov/library/publications/1872/dec/1870b.html">Table XXIII</a> for state-level ages in 1870, 1860, 1850. .</p>
-<p>Vol 1 tables have large age group – “ages” is school age, 18+ ; XXV some large age groups, some cities, but no way to get u5. Ninth census, volume 1, the statistics of the population of the United States embracing the tables of race, nationality, sex, selected ages, and occupations … Washington: GPO 1872</p>
-<p>City-level data for SRs not found. V1 Tab XXV has school age counts.</p>
-<p>1860 state-level ages u1 1-5 (as in ICPSR); so use IPUMS full instead</p>
-<p>deletions from data appendixof dempap Mass 1890 p 104 Table 3, Ages by periods of life of Volume 1 Part II (see TOC in census data of 0SSSm in dig lib) <a href="https://www.census.gov/library/publications/1883/dec/vol-01-population.html">1880 Census: Volume 1. Statistics of the Population of the United States</a> MASS p592 in Table XXI Table XXI. Population, by Specified Age, Sex, Race, and General Nativity of the Whites, by States and Territories: 1880 1870 Census: <a href="https://www.census.gov/library/publications/1872/dec/1870b.html">Volume 2. The Vital Statistics of the United States</a> LINK IS BROKEN MAR08 2022 Table XXIII. Ages with sex for each period of life … p563 / Ninth census, volume 2, The Vital Statistics of the United States 1872 Wash GPO –&gt;</p>
-<div id="us-census-for-the-black-sr1" class="section level3">
-<h3>US Census for the Black SR1</h3>
-<p>population volumes from 1850 and 1860 give U1, 1-u5, 5-u10 etc, for Whites, Free Colored Slaves. Negro Population 1790-1915 Ch 4 provides SR1 for blacks 1850, 1860, 1870, 1900, 1910 and explains that 1880 and 1890 includes “indians, chinese, japanese” with blacks. So we need to extrapolate to fill in – calculate non-white totals</p>
-<p>1940 can’t find negro age 2 – just nonwhite for single yr</p>
-<p>Have nonwhite 1900-2010 ? really</p>
-<p>searchable index <a href="https://www2.census.gov/programs-surveys/popest/FTP2_Key.xlsx" class="uri">https://www2.census.gov/programs-surveys/popest/FTP2_Key.xlsx</a></p>
-<p><a href="https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/pe-11-1910.xls" class="uri">https://www2.census.gov/programs-surveys/popest/tables/1900-1980/national/asrh/pe-11-1910.xls</a></p>
-<p><a href="https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html" class="uri">https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.html</a></p>
-<div id="new-york-state-censuses" class="section level5">
-<h5>New York State censuses</h5>
-<p><a href="https://www.nysl.nysed.gov/scandocs/nyscensus.htm">NY state library</a></p>
-<p><a href="https://nysl.ptfs.com/data/Library1/06042012/88819.PDF">1855</a> YES– AGEs<br />
-<a href="https://nysl.ptfs.com/data/Library1/77860.PDF">1865</a> Yes – ages<br />
-<a href="https://nysl.ptfs.com/data/Library1/93418.PDF">1875</a> Yes – ages</p>
-<p>1892 no ages p29 Exh C election districts, pop (citiz, alien) <a href="https://nysl.ptfs.com/data/Library1/93419.PDF">1905</a> – no ages data 1925 no ages Population figures for the cities, incorporated villages, towns, and counties of New York… Census of June 1, 1925. No AGES</p>
-<p><a name="CAN"></a></p>
-</div>
+<p><a name="CANsect"></a></p>
 </div>
 <div id="canada-sources" class="section level3">
 <h3>Canada sources</h3>
@@ -1621,7 +1143,7 @@ UofT library offers wide range of Can census <a href="https://mdl.library.utoron
 <div id="england-england-and-wales" class="section level3">
 <h3>England (England and Wales)</h3>
 <p><a href="https://lse-atom.arkivum.net/uklse-dl1eh010020670001-uklse-dl1-eh01-002-067-0001-0001-pdf">Reg-Gen Reports</a> at LSE digital library</p>
-<p>Life tables</p>
+<p>Life tables Farr’s healthy districts &amp; HDLT2 in 1897 (Ji downloaded)</p>
 <p>imr for London 1850s WilliamsN &amp; Galley 1995 Pop Studies ;</p>
 <div id="annual-data-for-england-and-wales-1900-onward" class="section level4">
 <h4>Annual data for England and Wales, 1900 onward</h4>

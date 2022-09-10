@@ -1,0 +1,170 @@
+---
+title: "SSMM-LIT-Slavery Literature for the SSMM (CSR) Project "
+author: "jri, with jrm"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+  
+<a name="TOC"></a>
+
+# to look at: #    
+
+via Fogel, on mortality (IMR?) EM #41 and TP #18  
+
+
+ ... 
+ 
+<a name="SLVsect"></a>
+
+[Logan (2022 JEP)](SSMLogan.html) ... nothing for SSMM-slv (hints of interest in material conditions of life)
+
+    The obvious attributes of slavery—forced extraction of effort, slow work, resistance, and violence—seemed incompatible with high levels of output produced. 
+
+
+Steckel paper (maybe 1996 chapter in volume about AA women ?)
+
+41. Reductions of 210 grams for Ethiopian women were reported by N. Tafari, R. L. Naeye, and A. Gobezie, “Effects of Maternal Undernutrition and Heavy Physical Work during Pregnancy on Birth  Weight,” British Journal of Obstetrics and Gynecology 87 (1980): 222-26
+
+ 
+<p> Hilde (2020)   Slavery, Fatherhood, and Paternal Duty in African American Communities over the Long Nineteenth Century. [Buckner review](https://networks.h-net.org/node/4113/reviews/7222405/buckner-hilde-slavery-fatherhood-and-paternal-duty-african-american)  
+
+Intro    
+p2 To varying degrees, slaveholders materially “provided” for their dependents by usurping that patriarchal privilege from black men.^4 Wilma Dunaway argues that Mountain South masters had an incentive to inadequately feed and clothe their slaves, leading to higher levels of malnutrition and mortality than in the Lower South. Dunaway, African-American Family, 86–97, 100–113, 273, 282; Fogel and Engerman, Time on the Cross, 5, 109–126.
+
+n40p296 ...    In his study of three rice-growing plantations in South Carolina and Georgia, William Dusinberre notes of Gowrie plantation, “child mortality devastated these families, so that the most common nuclear grouping was a husband and wife with no surviving children.” Dusinberre, Them Dark Days, 84.
+
+
+
+search INFANT:  attachment White pp 112-113; Schwartz Born in Bondage   </p>
+
+
+If the market and mobility frequently separated children from their par-ents, so too did high mortality caused by strenuous labor, physical punish-ment, and malnourishment.24p305n24 Compared to the general slave population, Dunaway finds that slaves in the Mountain South were 1.4 times more likely to die due to inadequate provisioning of food and clothing, malnutrition, overcrowded housing, poor sanitation, and occupational hazards. Dunaway, African-American Family, 85–113, 273.
+
+
+n56p307  ... Damian Pargas argues that centralized nurseries improved childcare and that being related to some of the children enabled caretakers to fulfill their obligations to kin. Pargas, Quarters and the Fields, 74, 75, 81–83
+
+
+n60 Rawick, AS, supp., ser. 1, Indiana and Ohio, 5:212. Poor nutrition leading to low birth weights as well as illness and child death placed a heavy emotional burden on enslaved parents. King, Stolen Childhood, 12; Dunaway, African-American Family, 141, 273; Steckel, “A Peculiar Population,” 728–737; Kiple and Kiple, “Slave Child Mortality,” 284–309. High infant mortality, twice that of white women, resulted from hard labor, malnutrition, disease, attenuated breastfeeding, and seasonal patterns of conception and childbearing. Steckel, “Women, Work, and Health under Plantation Slavery in the United States,” 55–56; Cody, “Cycles of Work and Childbearing,” 61–78; King, “Suffer with Them Till Death,” 149–150.
+
+
+<p>
+2018 Slavery & Abolition issue titled [Mothering Slaves: Motherhood, Childlessness and the Care of Children in Atlantic Slave Societies](https://www.tandfonline.com/doi/full/10.1080/0144039X.2017.1316959)  vvb
+
+2018 Women's History Review titled [Mothering Slaves: Motherhood, Childlessness and the Care of Children in Atlantic Slave Societies](https://www.tandfonline.com/doi/full/10.1080/09612025.2017.1336849)
+
+West & Shearer 2018 WoHiRev  start with light-work assignments of pregnant women  CHECK FOR PROGENY ARTICLES
+
+
+2017 Schneider EHR    epigenetic: good conditions in utero -- foster catch-up growth after a dreadful childhood     
+p4  In essence, this article argues that the tremendous catch-up growth experienced by slaves is inconsistent with Steckel’s assertion that slave birth weights, a proxy for health in utero, were incredibly low. Adaptive theories of human growth suggest that poor conditions in utero have long-lasting effects on the growth pattern of children, especially in limiting catch-up growth. Thus, it is more likely that slave children experienced relatively good conditions in utero and had higher birth weights than Steckel argued.
+
+
+
+Baptist 2014 book  -- uses Eblen 1972 
+[the expansion of cotton production came from increasing use of "torture" to "push" enslaved workers to produce more. SW slavery worse; cotton kingdom worse; Narrow evidential base (relies on some narrative and autobios)]
+
+encountering and that was emerging on the frontiers of the early nineteenth- century South was inherently new.  
+p113 Entrepreneurs redirected left- handed power by measuring work, implementing continuous surveillance of labor, and calibrating time and torture     
+p119   Lydia [walking back from field] carried a baby on her back in a sling of cloth [late for roll, brutally beaten with horrific large whip]    p120  southwestern captivity distilled and intensified slavery     ... Survivors of southwestern torture said their experiences were so horrific that they made any previous “licken” seem like nothing.     
+p121 the new pushing system: a system that extracted more work by using oppressively direct supervision combined with torture ratcheted up to far higher levels than he had experienced before. Between 1790 and 1860, these crucial innovations made possible a vast increase in the amount of cotton grown       
+p122     The rate of infant mortality in the new slave labor camps was extraordinary: one of every four children born died before reaching his or her first birthday.
+p123  girls 256  boys 296  115.6%     --- -24  +16 = -8  .. 276  ... cites Eblen 1972  Weird he does not use Steckel?  
+p130  Enslavers used measurement to calibrate torture in order to force cotton pickers to fi gure out how to increase their own productivity and thus push through the picking bottle-neck.    
+p142  every cotton labor camp carved out of the southwestern woods used torture as its central technology.
+
+
+walter Johnson 2013 BOOK River of Dark Dreams
+
+p170 memories bespeak spaces and routines that were dense with the threat of  vio-lence inflicted on bodies exposed by their labor.   ...  Slave-holders used the well- grooved patterns of  plantation life to construct a simulacrum of  domestic and agricultural order over sexual predation
+
+p193 reformer Phillips says 3/4 child mortality "Perhaps he exaggerated; his essay was a philippic, designed to spur his society to change. Perhaps the real figure for child mortality was a mere 60 percent, or 55, or 50.n41"   41: p467-68 Follett estim that some Louisiana sugar plantations had a 55 percent mortality rate among slave children within the first year of life  Afflect 50% u1 10% more 1-5 ... 55%  
+
+
+p195  Being enslaved was not only a condition characterized  by  vulnerability  to  sexual  assault—it  was  always  al-ready  a  condition  of   sexual  violation.  n46 Debh Gray 
+
+p464notes   almost impossible to imagine a scenario in which most field hands did not suffer from some level of  malnutrition. 
+
+
+Pargas 2011 Slv&Abol
+ Brenda Stevenson, Wilma Dunaway : VA slave women full labour quotas until giving birth, return to work after 2-week confinement (rest). Then childcare by sibs & elderly.  LowerSouth studies lighter tasks during pregnancy, 4wk+ confinement.   ISSUE: slave childhood "stolen" (early work) or separate from plantation economy
+
+
+</p>
+
+
+
+
+<p>Fogel (1989 *Without Consent or Contract* main volume)     
+Ch 5 The Population Question     
+Franklin on US healthy;
+p 119 Anti-Slavery Reporter on slaves's natural increase in US vs UK sugar regions "superiority of the U S in the physical treatment of their slaves."n11
+p120  Weld's view that "much hardship and great cruelties without experiencing so great a derangement of the vital functions as to prevent childbearing"    
+p128      One of the more important discoveries is that the century-long decline in the mortality of U.S. slaves probably came to a halt during the 1810S or 1820s and then began to rise ...  plantation records indicates that the death rates of infants rose by about 24 percent between the 1820s and the 1840s
+
+p145 It thus appears that diets sufficient to maintain the health of nonpregnant women engaged in heavy labor were insufficient to produce average weight gains in pregnant women that would yield adequate average birth weights and forestall high infant death rates. 
+
+**MORTALITY RATES** n63 refers to EM #41 and TP #18  
+
+</p>
+
+
+wilma a Dunaway (2003 CUP) [The African-American Family in Slavery and  Emancipation](https://books.google.ca/books?id=gXdbikvSXJMC)
+MINOR WORK
+Jane T Censer raises doubts about the arguments, suggesting the narrative sources for applachia give a bleaker view because interviewers were A-A Fiske students, unlike regular WPA folk. Also Albemarle VA etc included in Appalachia.
+
+cited by Hilde (2020 Introd p2n4p291)   Wilma Dunaway argues that Mountain South masters had an incentive to inadequately feed and clothe their slaves, leading to higher levels of malnutrition and mortality than in the Lower South. Dunaway, African-American Family, 86–97, 100–113, 273, 282; Fogel and Engerman, Time on the Cross, 5, 109–126.
+
+  These voices recount experiences that are representative of a majority of slaves of the Mountain South, ... low black population density and small plantations. What they have to say is startling b/c they are reporting a past that contradicts the dominant paradigm. The conventional wisdom is that owners rarely broke up slave families; that slaves were adequately fed, clothed, and sheltered; and that slave health or death risks were no greater than those experienced <p2> by white adults.
+
+
+
+
+<p>Schwartz (2000)     
+p22 "high infant mortality rate among slaves, combined with miscarriages and stillbirths, ... Only a foolish owner forfeited a woman's labor or assumed any extra expense associated with pregnancy before the pregenancy seemed likely to be carried to term;"   n6  Fogel 1989 pp 127-128  Steckel in WCC:Conditions,V2, Dusinberre; Berlin&Morgan (1993) C&C, p21. 
+
+
+Dusinberre (1996) Them Dark Days: Slavery in the American Rice Swamps
+
+Coclanis review in JAH:  To him, N A slavery, at least in the rice swamps, was econ inefficient ... but highly profitable form of capitalism marked by brutal labor exploitation and horrific slave mortality
+
+
+brenda Stevenson (1996 book on Loudon Co VA, N Piedmont)
+p150   some scholars liberally estimate that the mortality for white youngsters under the age of ten was 40% n28p369 donald Sweig 61% u16 mortality for white children (1982 PhD on N Va Slavery )
+p249  attributes 50% IMR for Sou slaves to Steckel  via  n57 from michael Johnson NYReviewBooks article about slavery  
+
+
+Steckel 1979 SSH  via plantation records    IMR 1830-1863 ~ 230.5 n=1510
+
+
+Eblen 1974  via pop survival, model life tables IMRs   Black 1900/1910 only a little above Haines's 1850-80 white
+
+
+
+### Enslaved Americans/ Antebellum Southern Slaves  -- via Steckel and others
+
+Dreadful infancy: Steckel (various)
+
+Not dreadful infancy: Schneider (2017 EHR);  Steckel dissertation?  ?Carson  Coelho&McGuire
+
+Carson 2008 argues for vitamin D differences for geog difference is slave height
+
+Coelho & McGuire (2000 JEH) downplay maternal overwork and poor maternal/infant diet, argue for hookworm & malaria. Steckel (2000 JEH) reply shows they overstate plausible effects of those diseases.
+
+Steckel, Richard H.  (1986a), “Birth Weights and Infant Mortality among American Slaves,” Explorations in Economic History, 23:173‑98.
+______ (1986b), “A Peculiar Population: The Nutrition, Health, and Mortality or American Slaves from Childhood to Maturity," The Journal of Economic History, 46:721-42.
+______ (1986c), “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History, 10:427–65.
+abc via EEH April 1986;     JEH September 1986;      SSH Winter 1986;
+
+#### SR evidence
+JohnAM (1988 book p194) Trinidad Plantations 1813 SR04 98.9 (828/837; 3/4 CI 93.5-104.7)  n too small 
+
+####Lit List
+
+
+Meeker EEH
+
+
+
+
+
+[back to top](#TOC)

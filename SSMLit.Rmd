@@ -43,7 +43,6 @@ Calibration:   calibration literature looks at merits of inverting the direct re
 
 ### Life Table Implications ###
 
-
 [Handy UN chapter on LifeTables](https://www.un.org/en/development/desa/population/publications/pdf/manuals/estimate/childmort/chap1.pdf) .  Caselli et al. 4 volumes has chapters of Life Tables (cohort, period, model, history -- Ji thinks)
 
 
@@ -131,11 +130,6 @@ It is very difficult to ascertain the facts about stillbirths. The figures repor
      Another problem that is crucial for comparison over time or space is the variability in the legal definitions of events, particularly regarding stillbirths and live births. In Europe alone, despite World Health Organization’s (WHO’s) recommendations and efforts at statistical homogenization in the region, registration criteria still vary considerably (Gourbin and MasuyStroobant, 1995). For example, although WHO has for a long time recommended that each birth where the child has shown any sign of life should be recorded as a live birth, in 1998, 5 out of 22 European countries still restricted the criteria by limiting the type of sign of life required or by requiring a minimum life span (Czech Republic). This has resulted in five different definitions. In the same year, only four countries followed WHO’s 1975 recommendations on stillbirths14 and, in {p499} 2003, there were still seven different definitions of stillbirth in Europe. This results in problems and requires the greatest prudence in international comparisons, notably when relating to rare phenomena that are sensitive to changes in definition, such as the rate of stillbirths, perinatal mortality, or infant mortality in developed countries.
    
 
-
-
-
-
-
 ## general collections 
 
 Keyfitz & Flieger (1968 at Internet Archive);  [World Population:](https://archive.org/details/worldpopulationa0000keyf/page/448/mode/2up?view=theater)
@@ -144,10 +138,6 @@ Keyfitz & Flieger (1968 at Internet Archive);  [World Population:](https://archi
 K&F are used by Easterlin, for his story of e0 transition in England, France, Sweden ... 
 <br>Of note for me, compared to ONS, they seem to have more e0 rise 1871-1901 and less 1901-1911, and they have some gain in male q0 1871-1901 (178.5 to 173 -- maybe negligible?). p3 says "documentation ... turned out to be too bulky to print ... data comes from official national publications or through reliable secondary source constituted by the UN Demographic Yrbooks 1948-66" p670 for UK Mitchell 1962 Abstr of Brit Hist Stats; Reg-Gen annual reports; Annual Abstracts etc.
 </p>
-
-
-
-
 
 
 ### new stuff to review and then move (to the proper place in the page)
@@ -204,7 +194,6 @@ Ji DISSENTS FROM deHansen's reading of McKeown, who says on p63 simply that for 
 
 McKeown (1967:123) draws on Beaver to argue for importance of milk quality for reducing IM  <discussed more in next chapter>
 
-
 Morse & Luke ( [2021 Pop Studies](https://www.tandfonline.com/doi/abs/10.1080/00324728.2021.1877793) )
 "Foetal loss and feminine sex ratios at birth in sub-Saharan Africa" . Published online 2021 Feb 18, we get via Jun28 George Alter sends Jun28 [N-IUSSP](https://www.niussp.org/fertility-and-reproduction/missing-boys-in-sub-saharan-africa-due-to-high-rates-of-foetal-loss/)
 blurb/article about the journal article
@@ -218,17 +207,14 @@ p256n6 An unusually low or a significant long-term increase in the infant mortal
 
 ### newly added and maybe important
 
-
-
 To check: Preston 1975   Gwatkin 2000
 
 Deaton (2003 JEL)   p133 refers to Almond, Chay, Greenstone for narrowing black/white IMR gap 1965-1971 -- we see SR2 +1.4 (1940-1950 similar, but 1950 anomolously high?)    
 
 p139 h. G. B. Rodgers (1979) and A. T. Flegg  (1982) were early studies that followed  Preston's lead, explicitly looking for (and  finding) effects of income inequality on  mortality    ... Rodgers /  56 countries  / hazardous effects of of inequality on life-exp at b, life-exp at age 5, and  IMR  Flegg child mortality  
 
- Robert Waldmann (1992)   infant mortality on a cross sec-tion of up to 57 developing and developed countries. conditional on mean income, the share of income  to poorest 20% decreased IMR ... share to richest 5% *increased* IMR  
- 
-  ...  Perhaps the single most cited finding in the literature is Wilkinson's (1992, 1994, 1996) demonstration of a relationship be-tween income inequality and life expectancy  across a number of industrialized countries <1st world problems, we can ignore for now?>
+Robert Waldmann (1992)   infant mortality on a cross sec-tion of up to 57 developing and developed countries. conditional on mean income, the share of income  to poorest 20% decreased IMR ... share to richest 5% *increased* IMR        
+   ...  Perhaps the single most cited finding in the literature is Wilkinson's (1992, 1994, 1996) demonstration of a relationship be-tween income inequality and life expectancy  across a number of industrialized countries <1st world problems, we can ignore for now?>
 
 p140  Andrew Baumbusch (1995) replicates Waldman but <with 1993 data, income to top 5% reduced IMR -- share or level?>       < US inequal & high IMR drives pattern in LIS data for rich countries>
 
@@ -240,9 +226,6 @@ p152 interesting mention of "biology of stress and disease"
 Sapolsky Wild Baboons    McEwen NewEngJMed  stress mediators ...  allostasis
 
 #### loose ends
-
-2021 Sex ratios and gender discrimination in Modern Greece (Francisco J. Beltrán Tapia & Michail Raftakis) [Pop Studies 2021](https://www.tandfonline.com/doi/pdf/10.1080/00324728.2021.1923787?needAccess=true)
-<br> p5Before considering the relative numbers of boys and girls in the Greek censuses, it is important to note that child sex ratios in the past are not comparable to contemporary ones because mortality levels during infancy and childhood have a direct influence  on sex ratios in these age groups. Due to the survival advantage of females, harsher environments are especially deleterious to boys (especially during the first years of life), thus increasing their relative mortality and resulting in lower sex ratios. Following the estimation in Beltrán Tapia (2019, pp. 5–6), Figure 2 plots the available information on infant mortality and child sex ratios (ages 0–4) in European countries between 1750 and 2001 and illustrates the negative relationship between these two variables. According to these estimates, infant mortality of slightly below 200 deaths per 1,000 live births (in line with the values reported for Greece during the second half of the nineteenth century [Valaoras 1960, p. 132]), should yield child sex ratios of around 101 boys per 100 girl
 
 Charaus, [2010 Phd thesis, Marquette](https://epublications.marquette.edu/dissertations_mu/68)
 p146 G-I U2 deaths surge 1888/90 and high 'til 1910.  And discussion of breast-feeding, referring to Levenstein, harvey JAH 1983 
@@ -263,10 +246,6 @@ p68 US  e0 37-43 years -- n23 R Haines Avery -- JIH re US life tables REMINDING 
 
 ### Input for CEA paper ###
 
-van de Walle 1986 in Coale & Watkins   
-p203 For example, in most of Bavaria during the last half of the nineteenth century, nursing was avoided and high mortality and high fertility went hand-in-hand (Knodel, 1968)
-p215 In sum, the exact date of decline in infant mortality is difficult to pinpoint because of irregularities in its course and because of scarcity of documents prior to the last decades of the nineteenth century. Before the general massive drop in this century, there were wide differences in levels and trends of infant mortality among European regions, among countries, and within each country. 
-
 <p>via HMD England (& Wales): England's early rise in e0 (40/42/46 in 1850/1875/1900) comes before IMR declines  <br>
 life-expectancy rises 4.3 years from 1875 to 1900, and 12.1 years from 1900 to 1925<br>
 Infant mortality R is 150+ from 1875 to 1900, and then it falls in half from 1900 to 1925 <br>
@@ -285,14 +264,16 @@ England (and Wales) e0m ~40 yrs 1850-80, e0f ~42 yrs 1850-1870;  with IMR about 
 <br>UK ONS [Life Expectancy](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howhaslifeexpectancychangedovertime/2015-09-09#:~:text=Life%20expectancy%20at%20birth%2C%20England%20and%20Wales%2C%201841%20to%202011&text=A%20newborn%20boy%20was%20expected,higher%20number%20of%20infant%20deaths.) [Their Data](https://static.ons.gov.uk/visual/2015/09/life_expectancy_1841-20111.csv) Look at data to see male e0 1840, 1850
 has 1851 male e0 40 (39.91) q0? and 1901 49 (48.53) q0 144.3  -- that ~9-year gain came without a change i IMR
 <br>1931 male e0 ~59 IMR ~63
-</p><p>
+</p>
+
+<p>Easterlin 2004 book reprints old articles^[Chapters 2 and 3 are previously unpublished. Chapter 7 has been expanded to include material on less developed countries deleted as irrelevant by the editors of the economic history journal in which it first appeared. The other published articles were originally prepared for specialized audiences ... I have shortened and reworked many of them ... more accessible to the nonspecialist. Those interested in technical details should consult the originals]. But LDC material added to "How Beneficient... "   
+</p>
+<p>
 Easterlin (1999 EurRevEcHi) "How beneficent is the market? A look at the modern history of mortality"
 <br>(Abstract, p257) A short answer is, not very. In contrast to economic growth, where the free market is commonly viewed as a prime mover, mortality in the last two centuries has not been greatly helped by market forces. The classic sources of market failure - information failures, externalities, public goods, principal-agent, and free rider problems - have been pervasive. Nor has economic growth itself been behind the worldwide improvement in life expectancy. In the primitive state of nineteenth century health knowledge, the immense rise in urbanisation engendered by economic growth largely vitiated any positive level-of-living effects by increasing exposure to disease. Instead, public policy initiatives, based on new knowledge of disease and new institutions, have been essential to the improvement of life expectancy, both in urban areas and nationwide.</p>
-<p>p257 The concept of human development has recently emerged to rival economic development as a worldwide objective of public policy ... In assessing human welfare, advocates of this concept would, at a minimum, place indicators of social conditions, notably life expectancy and educational achievement, on an equal footing with traditional economic measures like GDP per capita and a poverty index ... political and civil liberties. In this article, I focus on only one of the proposed new measures, life expectancy at birth (referred to subsequently
-simply as life expectancy).
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it is fair to say that, so far as life expectancy is concerned, the common reaction among many economists and economic historians is scepticism of the broader measure of human development. This is because improved life expectancy is typically viewed as a natural by-product of <p258> economic development or of the institutional conditions that foster economic development. Thus, elevating life expectancy to the status of a social goal commensurate with economic growth raises no issues that are not already being dealt with in the study of economic growth and its determinants.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is this view to which the present article is addressed. Specifically, the questions of concern here are: (1) is life expectancy largely or wholly a function of economic growth? (2) If not, are the conditions commonly taken to foster economic growth, namely, free markets, private property, and freedom of contract, also responsible for promoting the advance of life expectancy? As a basis for forming tentative answers to these questions, this article examines the nature and causes of the historical improvement in life expectancy
-over the period chiefly from 1800 to 1950.
+<p>p257 The concept of human development has recently emerged to rival economic development as a worldwide objective of public policy ... In assessing human welfare, advocates of this concept would, at a minimum, place indicators of social conditions, notably life expectancy and educational achievement, on an equal footing with traditional economic measures like GDP per capita and a poverty index ... political and civil liberties. In this article, I focus on only one of the proposed new measures, life expectancy at birth (referred to subsequently simply as life expectancy).
+<br>I think it is fair to say that, so far as life expectancy is concerned, the common reaction among many economists and economic historians is scepticism of the broader measure of human development. This is because improved life expectancy is typically viewed as a natural by-product of <p258> economic development or of the institutional conditions that foster economic development. Thus, elevating life expectancy to the status of a social goal commensurate with economic growth raises no issues that are not already being dealt with in the study of economic growth and its determinants.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is this view to which the present article is addressed. Specifically, the questions of concern here are: (1) is life expectancy largely or wholly a function of economic growth? (2) If not, are the conditions commonly taken to foster economic growth, namely, free markets, private property, and freedom of contract, also responsible for promoting the advance of life expectancy? As a basis for forming tentative answers to these questions, this article examines the nature and causes of the historical improvement in life expectancy over the period chiefly from 1800 to 1950.
 </p>
 <p>p261 This Section addresses the presumption that the historical improvement in life expectancy is due to the favourable effect of economic growth on living levels.3 It first presents evidence that the long term trends in life expectancy and economic growth are not closely related, drawing on the record of six countries with relatively good data. It then considers why the relationship between the two has been quite weak in the historical past (see also Kunitz and Engerman 1992).</p> 
 <p>We'll use HMD data, so don't fuss with Easterlin's timing. 
@@ -323,10 +304,28 @@ p265 If the McKeown hypothesis is correct, then the take-off dates for life expe
 <br>p287 The control of infectious disease involves serious issues of market failure - information failures, externalities, public goods, principal-agent problems, and so forth. The market cannot be counted on for such things as the provision of pure water and milk, the proper disposal of sewage, control of pests such as mosquitos and rats, the supply of uncontaminated food and other manufactured products, immunisation of children and adults against major infectious diseases, and the dissemination of new knowledge regarding personal hygiene, infant and child care, food handling and preparation, care of the sick, and the like. There is also a serious market failure problem with regard to the distribution of antimicrobials because of externalities associated with the development of disease-resistant bacteria. 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  p287  The title of this article posed the question, how beneficent is the market? The ubiquity of market failure in the control of major infectious disease supplies the answer: if improvement of life expectancy is one's concern, the market cannot do the job. Implementation of the new techniques of disease control has required the development of new institutions, centering on the public health system
 <br>p288 Rather than a story of the success of free market institutions, the history of mortality is testimony to the critical need for collective action.
-</p><p>
-</p><p>
-VALLIN 1991 Mortality in Europe from 1720 to 1914: long-term trends and changes in patterns by age and sex, in [Schofield et al.](https://archive.org/details/declineofmortali0000unse) (at Internet Archive). pp38-   INTERESTING REMARK about when/why data becomes available
-<br>p38. On the eve of the First W W the demographic transtion in Europe was far from complete and, in particular, the decline in mortality had a long way to go: indeed it had hardly begun.  ... we are well aware of what has happened since that time, our knowledge of earlier developments is often vague, sometimes confused, and always incomplete. pp40-41 crude death rate graphs [I'll skip, and focus on HMD instead]  p42 1.1 The Reduction of Variability [of CDR]. 
+</p>
+
+<p>Schofield & Reherer (1991 volume), Chapter "1 The Decline of Mortality in Europe"
+intro: p3 dates start of mort trans to "latter part of the 17th C"   
+
+p1 At first glance, the historical development of mortality in Europe can be easily and quickly summarized. Pre-decline patterns typical of most Ancien Régime societies were characterized by high overall levels, punctuated by periodic bouts with epidemics caused by infectious disease (plague, small- pox, typhus, etc.). During the eighteenth century, and chiefly thanks to ever more efficient government intervention, the incidence of crisis mortality diminished drastically in most of Europe. It was the ‘stabilisation of mortality’ as Michael Flinn called it, and was essential to the subsequent spurt in European growth rates.! With the reduction of epidemics, endemic infectious diseases became relatively more important and gains in life expectancy slowed considerably. It was not until the latter part of the nine- teenth century that mortality once again declined sharply in most areas of Europe. Child mortality and, somewhat later, infant mortality were respon- sible for much of this decline, though gains in life expectancy affected all age groups. Mortality improvement was due mostly to the decline in diseases such as diarrhoea and tuberculosis. The third period of mortality decline began after World War II, spread throughout the world, and seems inextric- ably, though not exclusively, linked to the discovery and use of sulpha drugs and antibiotics.
+
+
+     p3 The early phase of mortality transition, which stretches from the latter part of the seventeenth century to the beginning of the nineteenth, seems to have been characterized by the decline, or even disappearance, of crisis mortality caused by epidemic infectious diseases. 
+
+
+</p>
+
+
+<p>
+VALLIN 1991 "Mortality in Europe from 1720 to 1914: long-term trends and changes in patterns by age and sex", in [Schofield et al.](https://archive.org/details/declineofmortali0000unse) (at Internet Archive). pp38-   INTERESTING REMARK about when/why data becomes available
+<br>p38. 
+
+      On the eve of the First World War the demographic transition in Europe was far from complete and, in particular, the decline in mortality had a long way to go: indeed, it had hardly begun. However, though we are well aware of what has happened since that time, our knowledge of earlier developments is often vague, sometimes confused, and always incomplete. Regular reliable statistics on mortality only became available in Europe towards the end of the nineteenth century. Social scientists know that there is often a time-lag between the appearance of a particular phenomenon and the construction of instruments designed to measure it. In spite of the long history of burial registers this is also true of mortality, whose course altered radically between the eighteenth and nineteenth centuries.
+
+<br>pp40-41 crude death rate graphs [I'll skip, and focus on HMD instead]  p42 1.1 The Reduction of Variability [of CDR]. 
+
 <br>p43 In France, there is evidence of a clear decline in the cdr between 1750 and 1845 (we have no data for earlier <p44> years), but during the following 40 years the death rate did not change appreciably and only resumed its decline toward the end of the 1880s. In England  ... 'normal' mortality appears to have been constnat throughout the 18th C until the 1820s ... brief period of decline which lasted for about ten years ... succeeded by a renewed period of near-constancy ... until the 1870s. After that date, however, decline became rapid and continuous."
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The most surprising ... is the lower mortality which England seems to have enjoyed, when compared with France, at the beginning of the period. 
 <br>1720-49 French CDR 32-35 /k    peak 49 in 1747.  England 1720-49 25-28 /k peak 37 in 1742.
@@ -338,10 +337,17 @@ VALLIN 1991 Mortality in Europe from 1720 to 1914: long-term trends and changes 
 <br> Changes are similar to those that we have traced in crude death rates, though there are some slight differences. underestimation of infant mortality in England (and possibly also in Sweden) at the beginnninng of the 18th C. It is more interesting that between 1845 and 1890 when the crude death <p50 figure; p51> in France remained stationary,  [IMR] curve / was dome-shaped. Infant mortality increased considerably between 1850 and 1870 and did not resume its decline until 1895.  ... most severe period of inzn in France ... deterioration in the health of an increasing proportion of young children ... industrial working class.  young mothers ... work outside their homes ... give out their children to be nursed, 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In England, the movement of IM until 1875 was almost exactly the same as that of the c d r, which had remained on a plateau since 1830. ... (gains 1875-1885 cancelled by) increase between 1885 and 1900, and it was only after that date (five years later than in France) that a real new decline occurred. More clearly than the crude death rate, the course of IM suggests that the first stage of public-health transition was limited to the end of the e18th and the beginnings of the n19th centuries. From then, we would have to wait until the end of the n19th cent to discern the great wave of mortality decline which was to continue throughout the t20th. The FWWar did not mark the limit of a period of transition, and the cut-off points that have been chosen are, to some extent, arbitrary.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ... division of the transition into two distinct phases, which was typical of England and France [possibly Norway but data lack] ... did not apply to Sweden. ... IM fell continuously, except for year-to-year fluctuations, from the moddle of the e18th C onwards,
+
+<br>p51 More clearly than the crude death rate, the course of infant mortality suggests that the first stage of the public-health transition was limited to the end of the eighteenth and the beginnings of the nineteenth centuries. From then, we would have to wait until the end of the nineteenth century to discern the great wave of mortality decline which was to continue throughout the twentieth. 
+
 <br>p52 Italy IM "rate declined continuously and rapidly from 1863 onwards and reached the same level as in Eng and Fr by about 1900.
 <br>Differences between infant mortality rate in different Euro countries were probably largest around 1850. By that time important progress had already been achieved in some countries (Norw, Swed, Eng, Fr) [Norway ~100; others ~150-160 -- via Mitchell IHSEur and Vallin's figure 3.4]
+
 <br>p66 Hoever, even the limited amount of data at our disposal makes it possible to reach some conclusions about the characteristics of mortality during the two centuries [1720-1920]. Even though the health transition has resulted in a reduction, and later in an elimination, of years of 'crisis' mortality, and the beginning of a reduction in 'normal' mortality everywhere, the overall impression is, none the less, one of extreme diversity. This applies both to the dates when the transition began (the mid-e18th c in France, the end of the n19th c in Germany and Russia) and to the trend of decline (regular and continuous in Sweden for three centuries, a long period of stagnation during the middle of the 19th c in France and England). 
-</p><p>
+</p>
+
+
+<p>
 Keyfitz & Flieger (1968 at Internet Archive) IS SUPERSEDED BY UK ONS. 
 K&F are used by Easterlin, for his story of e0 transition in England, France, Sweden ... 
 <br>Of note for me, compared to ONS, they seem to have more e0 rise 1871-1901 and less 1901-1911, and they have some gain in male q0 1871-1901 (178.5 to 173 -- maybe negligible?). p3 says "documentation ... turned out to be too bulky to print ... data comes from official national publications or through reliable secondary source constituted by the UN Demographic Yrbooks 1948-66" p670 for UK Mitchell 1962 Abstr of Brit Hist Stats; Reg-Gen annual reports; Annual Abstracts etc.
@@ -544,7 +550,10 @@ Humphries: 18C ?bad living conditions?  Need to spend more time looking for her 
 <p>
 2020 Shaw-Taylor["An introduction to the history of infectious diseases, epidemics and the early phases of the long‐run decline in mortality"](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.13019)
 <br>Fig 1 for e0 England&Wales.  1800-1850 ~40  1900 ~45
-</p><p>
+</p>
+
+
+<p>
 2020 Davenport (2020 EHR) "Urbanization and mortality in Britain, c. 1800–50"
 
 ABSTRACT: In the long-running debate over standards of living during the industrial revolution,pessimists have identified deteriorating health conditions in towns as undermining the positive effects of rising real incomes on the ‘biological standard of living’. This article reviews long-run historical relationships between urbanization and epidemiological trends in England, and then addresses the specific question: did mortality rise especially in rapidly growing industrial and manufacturing towns in the period c. 1830–50?  Using comparative data for British, European, and American cities and selected rural populations, this study finds good evidence for widespread increases in mortality in the second quarter of the nineteenth century. However, this phenomenon was not confined to ‘new’ or industrial towns. Instead, mortality rose in the 1830s especially among young children (aged one to four years) in a wide range of populations and environments  ...  Instead, mortality rose in the 1830s especially among young children (aged one to four years) in a wide range of populations and environments
@@ -705,9 +714,7 @@ NOT NEEDED (male height decline, not new)
 The most controversial aspect of Floud et al.’s work concerned their delineation of trends in the average height of British males in the eighteenth and early nineteenth centuries. 
 
 Engerman 1997 (in Steckel & Floud) The Standard of Living Debate in International Perspective: Measures and Indicators
-  e such a
-controversy would have seemed rather more surprising to residents of earlynineteenth-century New York than to residents of London at that same time
-p.
+   such a controversy would have seemed rather more surprising to residents of early nineteenth-century New York than to residents of London at that same time p.
 
 
 1995 Horrell & Humphries (1995 EHR) "Women's Labour Force Participation ... NOT FOR OUR StdLiv
@@ -851,6 +858,15 @@ p34 Victorian civil registration made no effort to record stillbirths; these wer
 p51 Glass / noted / a decrease in the SRB between 1841–45 and 1876–80, that it was especially low in the 1870s, 
 
 p55 n43 a figure of up to 60 stillbirths per 1,000 live births would not be unreasonable *that would raise imr of 150 to 198; 160 to 208*   
+
+247 While the infant mortality rate (IMR) did not decline substantially in England and Wales in the nineteenth century, it did enter a precipitous and sustained decline after 1899 which has continued throughout the twentieth century ...   
+The early childhood mortality rate (ECMR for ages 1–4 years), on the other hand, began to decline in the middle of the nineteenth century, and certainly ECMR had parted company from IMR in the 1860s.       
+There is also some reason to suspect that, unlike infant mortality, early childhood mortality passed through a cyclical upswing in the mid-nineteenth century and declined thereafter, and thus that some of the diseases of childhood may have been less prominent in the early years of the nineteenth century. If this does prove to be the case, then the true origins of the secular decline of childhood mortality (ages 0 and up to 5 years) would lie with infant mortality at the end of the century rather than early childhood mortality (ages 1 and up to 5 years) in the 1850s and 1860s.
+
+253   Fig 7.2 1841-1941 IMR and ECMR (1-4) series     
+IMR plummets after 1900. Less dramatically: tends to rise across the 1880s and 1890s; 1840-1870 fluctuates above 150 without trend; 1871-1881 tends to decline;     
+ECMR tends to fall after the late 1850s BUT maybe 
+
 p255 neonatal first month; post-neonatal months 2-12; perinatal sb + 1st week death;  n42 Stillbirths probably represented between 40 and perhaps up to 60 (in some places and circumstances) per 1,000 LB in 19th C [refers to Ch 2]    
 p260 28weeks gestation 100,000  survivors after 365 days from birth 81,247 for total MR of 187.5 (includes SB)
 
@@ -906,7 +922,7 @@ IMR was about      Netherlands 1850-1880 200  1880s some 30-40 points above Engl
 #### before 2022 April follows
 
 
-HarrisBe (2008 ResEconHist) "Gender, Health, and Welfare in England and Wales since Industrialisation." Mostly about post-infancy mortality stuff ... maybe we will want to look at for some recent perspective on england's mortality transition ...
+HarrisBe (2008 ResEconHist) "Gender, Health, and Welfare in England and Wales since Industrialisation." Pre-1850 heights and sex-differences. Sex-discrim for excess adult female mortality
 
 Johansson (2005 PopSt) on Fogel ... 
 [casting doubt on Fogel's view of chronic malnutriion] p248 Even now it remains conventional to assume that some part of the excess mortality of females in the nineteenth century reflects the pre- [p249] sence of chronic malnutrition among wives and daughters in low-income households, but not among their husbands and sons, except during harvest failure or famine (Alter et al. 2004).
@@ -932,14 +948,15 @@ The peripheral north and west, where the longer survival of the family economy g
 2012 Humphrey, Bello, Rousham "SEX DIFFERENCES IN INFANT MORTALITY IN SPITALFIELDS, LONDON, 1750-1839"
   parish was chosen as a case study  ONE PARISH -- too narrow (but support OPTIMs)
 By the 1860s, however, infant mortality rates in London had decreased dramatically (Landers, 1990; Schellekens, 2001), although the estimated mortality rates and the magnitude of decline in mortality over this period vary according to the method of calculation (Woods, 2006). The relative mortality of male and female infants is poorly documented in London during this important period of demographic and economic transition.
-   Male infants have an inherent biological susceptibility to mortality at all ages compared with females, but this is particularly pronounced in early life. This underlying pattern of mortality, however, may be significantly influenced by infant feeding, weaning and health care behaviours for male and female infants, practices that are often socially and culturally determined (Waldron, 1983, 1987).
-p117 marked decline in endogenous infant mortality, reflecting conditions
-already present at birth,   Contrastingly, the reduction in total infant mortality was particularly steep between the 1790s and 1830s, despite the fact that this was a period of economic decline in the parish of Christ Church Spitalfield     ...  A plausible interpretation for these
-results is that exclusive breast-feeding until the age of 3 months was widely practised in the 1830s resulting in substantially lower infant mortality in the first 3 months of life than in earlier periods. 
+   Male infants have an inherent biological susceptibility to mortality at all ages compared with females, but this is particularly pronounced in early life. This underlying pattern of mortality, however, may be significantly influenced by infant feeding, weaning and health care behaviours for male and female infants, practices that are often socially and culturally determined (Waldron, 1983, 1987).     
+p117 marked decline in endogenous infant mortality, reflecting conditions already present at birth,   Contrastingly, the reduction in total infant mortality was particularly steep between the 1790s and 1830s, despite the fact that this was a period of economic decline in the parish of Christ Church Spitalfield     ...  A plausible interpretation for these results is that exclusive breast-feeding until the age of 3 months was widely practised in the 1830s resulting in substantially lower infant mortality in the first 3 months of life than in earlier periods. 
 
-2008 Gregory (annals) on IMR   1870s or 1880s for urban IMR declines; rural declines earlier; rural periphery IMR decline latest?
-Gregory, I. (2008), "Different places, different stories: Infant mortality decline in England and Wales, 1851–1911." [Annals of the Association of American Geographers 98(4): 773‒794.](doi:10.1080/00045600802224406)    
+2008 Gregory (annals) on IMR   1870s or 1880s for urban IMR declines; rural declines earlier; rural periphery IMR decline latest?  Gregory, I. (2008), "Different places, different stories: Infant mortality decline in England and Wales, 1851–1911." [Annals of the Association of American Geographers 98(4): 773‒794.](doi:10.1080/00045600802224406)    
 Figure 1 shows mort decline at end 19thC .  Complicated geographic decomposition, using maps ... p791 confirms the basic snapshot pattern: Urban areas had high rates and rural areas had lower ones.   there is much to support the well-established urban story. Urban areas did indeed have high rates, they generally started to decline in the 1870s or 1880s   Urban areas   improvements were around the same as the national aggregate.   over much of the countryside, infant mortality decline started well [p792] before the 1870s  ...    This means that to understand the functioning of  the national aggregate, we must understand at least  three stories: the urban story of high rates that start  to decline in the 1870s and 1880s, the rural-core story of much larger declines starting much earlier, and the  rural-periphery story of the areas that lagged behind the  others. Within these there will clearly be many variations ...  
+
+Haines 2001 Annals/NBER
+NBERversion p.2  Condran and Crimmins [1978, 1980] and Crimmins and Condran [1983] found that the rural-urban mortality difference was already diminishing in the 1890s, and that the urban penalty was largely due to tuberculosis, diarrheal diseases, and several other infectious, communicable diseases.   ... It is clear that, before about 1920, urban mortality was much in excess of rural mortality. In general, the larger the city, the higher the death rate.
+
 
 WoodsR (2000 CUP) demography book <br>
 p52 Figure 2.10 uses the SRBs reported in Office of Population Censuses and Surveys, Birth
@@ -1118,6 +1135,10 @@ Humphries, Jane and Timothy Leunig. 2009. Was Dick Whittington taller than those
 
 #### Various General/International Perspectives ####
 
+Anderson, Charles, Rees (2022 AEJ)
+Since the mid-nineteenth century, mortality rates in the Western world have plummeted and life expectancy has risen dramatically. Sometimes referred to as the mortality transition, this development is widely recognized as one of the most significant in the history of human welfare (Fogel 2004).
+also in their maybe from: https://www.cato.org/research-briefs-economic-policy/public-health-efforts-decline-urban-mortality
+
 
 <p>From Mitchell IHS, I'd say France IMR 150-170 in 1850s and 1890s. So France and England both have post1900 IMR declines. Germany earlier.  
 </p>
@@ -1125,21 +1146,56 @@ Humphries, Jane and Timothy Leunig. 2009. Was Dick Whittington taller than those
 The History of the Family, Volume 24, Issue 2 (2019)
 [Urban sanitation and the decline of mortality](https://www.tandfonline.com/doi/full/10.1080/1081602X.2019.1605923)
 
+Consequently, the decline of urban mortality is a particularly important part of the overall history of mortality change.       
+{new para} The papers in this special issue are especially concerned with this topic and with the role played by sanitary intervention within this. Taken together, they aim to shed new light on the role played by sanitary intervention in different parts of Europe (including England and Wales) and Australia during the late-nineteenth and early-twentieth centuries. These years have often been regarded as critical to the process of demographic and epidemiological transition within these countries (Caldwell, 2006; Omran, 1971). They also witnessed the origins of a substantial shift in the relative healthiness of urban and rural areas, by the end of which the healthiness of many urban populations had surpassed that of their rural counterparts (Leon, 2007).
+
+
+
+
 with
-de Looper et al. [(2019 Hi Fam)](https://www.dropbox.com/s/88jmiamvft8o6h2/deLooper2019HiFamily?dl=0) "Sanitary improvement and mortality decline in Sydney, New South Wales, 1857–1906"  refers to (p227) "Explanations of the urban mortality decline from the 1870s in Europe and the United States have emphasised the role of improvements in water supply and in sewerage infrastructure (e.g. Brown 1988GermTowns; Haines 2001urbUS; Schofield & Reher, 1991EuroNotMuchUrb)" NOTE "**urban mortality decline from the 1870s**" 
+de Looper et al. [(2019 Hi Fam)](https://www.dropbox.com/s/88jmiamvft8o6h2/deLooper2019HiFamily.pdf?dl=0)
+ "Sanitary improvement and mortality decline in Sydney, New South Wales, 1857–1906"  refers to (p227) "Explanations of the urban mortality decline from the 1870s in Europe and the United States have emphasised the role of improvements in water supply and in sewerage infrastructure (e.g. Brown 1988GermTowns; Haines 2001urbUS; Schofield & Reher, 1991EuroNotMuchUrb)" NOTE "**urban mortality decline from the 1870s**" 
    
 p228 2. Nineteenth-century mortality decline and sanitary improvement
-<br>Death rates in England, France, Germany, Sweden and the United States, among other such countries, declined sharply during the late nineteenth and early twentieth centuries (Condran & Cheney 1982 NO,Not PA, just PHIL 1890-1900; Haines & Kintner 2000 YESGerm IMR fall; Schofield & Reher, 1991MAYBE; Sundin & Willner, 2009SWEDEN dunno; Vallin, 1991 in Schof). These rapid declines reinforced the attenuation of epidemic crisis mortality that had already taken place by the mid-nineteenth century, and marked the beginning of a new mortality regime characterised by lower rates and lower variability (Schofield & Reher, 1991; Vallin, 1991). p238 Death rates per 1000 in New South Wales: Sydney and Rest of NSW <br> 
+<br>Death rates in England, France, Germany, Sweden and the United States, among other such countries, declined sharply during the late nineteenth and early twentieth centuries 
+(Condran & Cheney 1982 ***NO**,Not PA, just PHIL 1890-1900;    
+Haines & Kintner 2000 **YES** Germ IMR fall; 
+Schofield & Reher, 1991MAYBE; Sundin & Willner, 2009SWEDEN dunno; Vallin, 1991 in Schof). These rapid declines reinforced the attenuation of epidemic crisis mortality that had already taken place by the mid-nineteenth century, and marked the beginning of a new mortality regime characterised by lower rates and lower variability (Schofield & Reher, 1991; Vallin, 1991). p238 Death rates per 1000 in New South Wales: Sydney and Rest of NSW <br> 
 1860ish  ~25 15   1880ish ~20 13   1890 ~15 12   1900 12ish 10   1906 10 9 <br>
 Tending to decline 185s/60 to 1885, more steadily 1885-1906
 
-<p>Kesztenbaum & Rosenthal [(2017 JUrbEco)](https://www.dropbox.com/s/0hz7vc3lrfvzgs3/Kesztenbaum%26Rosenthal2016JUrbEcon?dl=0) <br>   The Parisian experience we analyze here extends a large prior literature that examines the evolution of mortality at the city level. The decline of mortality between 1870 and 1914 was widespread in large cities across the North Atlantic economies (Costa and Kahn, 2015). The sharp reduction of mortality occurred in the U.S. (Cutler and Miller, 2005; Troesken, 1999), in Germany (Brown, 1989), and in the U.K. (Szreter, 1988) among other countries. This decline initially allowed urban mortality to reach parity with that of rural areas, which had long enjoyed a health advantage (Woods, 2003). Urban mortality then continued to fall, finally giving cities the life expectancy advantage over rural areas they currently enjoy (including in the developing world, see Bocquier et al., 2011). </p>
+<p>Kesztenbaum & Rosenthal [(2017 JUrbEco)](https://www.dropbox.com/s/0hz7vc3lrfvzgs3/Kesztenbaum%26Rosenthal2016JUrbEcon?dl=0) <br>   The Parisian experience we analyze here extends a large prior literature that examines the evolution of mortality at the city level. The decline of mortality between 1870 and 1914 was widespread in large cities across the North Atlantic economies (Costa and Kahn, 2015). The sharp reduction of mortality occurred in the U.S. (Cutler and Miller, 2005; Troesken, 1999), in Germany (Brown, 1989), and in the U.K. (Szreter, 1988) among other countries. This decline initially allowed urban mortality to reach parity with that of rural areas, which had long enjoyed a health advantage (Woods, 2003). Urban mortality then continued to fall, finally giving cities the life expectancy advantage over rural areas they currently enjoy (including in the developing world, see Bocquier et al., 2011).     
+They work with e1 and not e0 b/c IMR out of reach b/c of infants sent to wet nurses in the country (really???) "Unfortunately we cannot compute infant mortality because until late in the nineteenth century middle- and lower-class Parisians very frequently sent newborns to wet nurses who lived some distance from the capital" 
 
-Floud, Fogel, Harris, Hong (2011), "The changing body: health, nutrition, and human development in the western world since 1700"
+
+
+</p>
+
+Floud, Fogel, Harris, Hong (2011), *The changing body: health, nutrition, and human development in the western world since 1700*     
+p296 Although there is a continuing debate over the impact
+of industrialization on the standard of living in the short to medium
+term, it nevertheless laid the foundations for the long-term improvement in both health and living standards of the population since the end
+of the eighteenth century
+
+
+Hacker (2010 Hi MEthods Life Tabs)
+p45 (abstract) "The resulting decennial life tables more accurately represent sex- and age-specific mortality rates while capturing known mortality trends.”   
+p45 As discussed in more detail below, recent research indicates that earlier assumptions of long-term mortality decline are in error. Mortality increased significantly in the mid-nineteenth-century United States before beginning its long-term decline.      
+p46 again "capturing known mortality trends."     
+p76 In addition to capturing known mortality trends not reflected in existing life tables, they more accurately represent the likely sex- and age-specific profile of nineteenth-century mortality
+
+
+
+Despite concerns about selection and censoring biases, it is clear from recent studies that mortality increased significantly after 1830 and remained relatively high until the 1870s
+
 
 <p>Vallin (2006), Chapter 68 in Caselli on "Europe's Demog Transition, 1740-1940" And see also Chapter 57.  
 
       Despite undeniable economic progress, child-raising conditions worsened for many French families in the second half of the 19th century (Rollet 1990, 1997). With industrialization, a growing share of the population left the countryside to swell the ranks of the urban proletariat, whose working, housing, and living conditions undermined their life expectancy. This period saw  urban mortality overtake rural mortality more than ever before. In addition, lack of time to raise their own children forced many working-class mothers to place them with nurses, which correspondingly diminished their chances of survival. This phenomenon is the main cause of the resurgence of infant mortality during the Second Empire.    ... From the late 1880s to the eve of World War II, life expectancy rose from 43 years to almost 60.  ... In particular, this was the period in which large-scale sanitation infrastructure projects were realized in the major cities—from the improvement of sewer systems to the construction of drinking-water distribution networks. [also education re hygiene & health]
+
+Cutler, Deaton, Lleras-Muney 2006 JEP "The Determinants of Mortality." {see below for more on this}. Downplay income as determinant of mortality; see first phase of declining mortality in England in 18C (pause 1820-1870). Say "In the United States, the mortality reduction appears to start around 1790, with a similar overall pattern. Life expectancy at birth in the United
+States rose from 47 years in 1900 to 78 years today."   No cites???
+
 
 
 </p><p>Haines & Kintner (2000 Hi Meth) on Germany
@@ -1154,12 +1210,25 @@ Schofield & Reher 1991 "The Decline of Mortality in Europe" [available at Intern
 </p><p>Chap 13 is Roger Woods "Public Health and Public Hygiene: The Urban Enviro ... Late 19th and Early 20th Cs"
 
 <p>Kunitz & Engerman (1992) 
-p30  In this paper we shall describe secular patterns of change in income and mortality;  suggest some of the reasons why commonsense observations of the association between  income and life chances are not reflected in the secular association between them; explore some of the reasons why, however, such a relation has commonly been assumed to be the  case; and discuss some ways of thinking about the causes of disease and death that may be
- applicable to considerations of the impact of real wages and income on mortality.
-p32 ss Domestic Product per man-year averaged about 1.2 per cent per annum from 1856 to
- 1973. Clearly, the accelerated increase in the growth of per capita income is associated with  an accelerated decline in mortality, as well as with dramatic shifts in the location of the  population from rural to urban areas, and with significant changes in the contribution of  various diseases to mortality; a shift from epidemics to endemic infectious diseases and,  finally, to a phase characterized by chronic diseases.5
+p30  In this paper we shall describe secular patterns of change in income and mortality;  suggest some of the reasons why commonsense observations of the association between  income and life chances are not reflected in the secular association between them; explore some of the reasons why, however, such a relation has commonly been assumed to be the  case; and discuss some ways of thinking about the causes of disease and death that may be  applicable to considerations of the impact of real wages and income on mortality.    
+
+p32 ss Domestic Product per man-year averaged about 1.2 per cent per annum from 1856 to  1973. Clearly, the accelerated increase in the growth of per capita income is associated with  an accelerated decline in mortality, as well as with dramatic shifts in the location of the  population from rural to urban areas, and with significant changes in the contribution of  various diseases to mortality; a shift from epidemics to endemic infectious diseases and,  finally, to a phase characterized by chronic diseases.5    
+
+p35  social networks reduce mort; Jewish;  Caldwell (1986 PopDevRev) on Costa Rica, Sri Lanka, Kerala   
+p38 Preston (1976) on 1930s to 1960s : "75-90% of the growth in LE for the world as a whole ... is attributable to factors exog to a nation's ... income"  K&E "These exog factors seem to be easily exported public- and personal-health technologies.
+ (Malthus 1960: Vol. 1:315).    
+  
+p42 Malthus on fading of war and positive checks on pop ...
+
+    "He was not alone. Contemporary continental mercantilist writers such as J. P. Frank  and successors such as Chadwick in Britain, Villerme in France and Virchow in Germany  recognized that mortality was not exogenous but the result of social arrangements which  could be modified by personal and public behaviour"   
+  
+      p43 two classes of reasons why there is no secular association between mortality and real wages.  The first ...  mortality rates are the product of many different forces,  not only wages, and it is a mistake to attempt to capture them all under the rubric of  economic status. ... second ... even accepting the very real importance of wages, there are profound difficulties and heroic assumptions that must be  made when reconstructing a wage series to relate to trends in mortality. This leads us to our  final topic, which has to do with ways of thinking about wages and income as causes of  death
+ 
+      p45 Focusing on real wages and per capita incomes in the analysis of mortality reductions appears to reflect the same political culture that is associated with the developmental  policies that the English-speaking world has generally followed; that is, an emphasis on the  growth of individual income as the most effective way to improve the quantity and quality of  life. Historically, as suggested above, other societies have followed other paths to a similar  demographic outcome.
+ 
 </p>
 
+Preston & Haines (1991) *Fatal Years* pp. 37-38  There is abundant evidence that urbanization initially had an unfavorable effect on longevity both in the United States and in western Europe <some IMR examples -- 1871-80 Sweden urb 193 rur 119  
 
 Woods & WOodward 1984 Urban Disease and Mortality in 19th C England
 
@@ -1275,192 +1344,270 @@ Ontario mortality below national average, signifcantly lower than rates in Quebe
 
 US econ growth (for HSUS paper)
 
-202
-
+Mitchener & McLean offer price-adjusted regional pc income relatives, 1880 1900 1920. Not susbtantial, so we can ignore. Effects of adjustments:   
+NE 1880 144 to 141; 1900 139 to 137 ; 1920 132 to 133    
+MW 1880  97 to 103; 1900 103 to 109 ; 1920 101 & 101    
+Sou 1880 54 to 55;  1900 54 & 54  ; 1920 64 to 63    
+West 1880 190 to 166; 1900 153 to 138 (no longer above NE); 1920 124 & 124
+Biggest impact on Pacific -- 
+NewEngland 1880 140 to 134;    
 
 <a name="USAmort"> </a>
 
+### Mortality Transition (USA and more generally)
+
+Anderson, Charles, Rees (2022 AEJ:AppEco "Reexamining ... Public Health Efforts ... Decline in Urban Mortality)
+Since the mid-nineteenth century, mortality rates in the Western world have plummeted and life expectancy has risen dramatically. Sometimes referred to as the mortality transition, this development is widely recognized as one of the most significant in the history of human welfare (Fogel 2004).
+
+also in their: https://www.cato.org/research-briefs-economic-policy/public-health-efforts-decline-urban-mortality
+
+Davenport 2021 
+The period witnessed enormous and ubiquitous rises in life expectancy at birth, from a global average of perhaps 30 years in 1800 to an estimated average of 72.6 years in 2019   ... refers to Easterlin's Mort Rev
+
+Shaw-Taylor 2020 EHR (also elsewhere on this page)  In 2019 global life expectancy was approaching 73 years. In 1800 it was probably about 30.3 -- cites Davenport forthcoming -- 2021
+
+
+Bleakley, cain, Hong (2018) in Oxford Handbook
+Table presents e0 and IMR from HSUS (with discussion of AB puzzle, then emphasis on 20C general improvements )
+
+The primary advantage of sanitation improvements was manifest in a substantial decline of mortality rates during the late nineteenth and early twentieth centuries, the fastest rate of decline in American history
+
+
+Weil (2015 JEL review of Deaton)  : agrees with Deaton that now possible to get healthy population without it being rich (good institutions?); but I think leaves open possibility that poverty/malnutrition is unhealthy
+p104 Similarly, in the analysis of Oeppen and Vaupel (2002), life expectancy in the “best practice” countries (those with the highest life expectancy in the world) has increased linearly since 1840 at a pace of three months per annum, with no sign of a slowdown. {Goofball Science article with plot of Sweden? Netherlands etc}
+
+Costa (2015 JEL)   about the "health transition" in the US
+p504 Concurrent with the increase in life expectancy and height since the 1880s  <e10 not e0>    
+p505  Together, the trend and microdata imply that unhealthy conditions can
+outweigh the positive effects of income (as <p506> seen in figure 1 for the 1830s to the 1880s),    
+p507    ... Cutler, Deaton, and Lleras-Muney (2006) argue that the history of mortality reduction from the mid-eighteenth century to the present encompasses three phases   ... mid18C to mid19C, late 19C to early 20C public health, since 1930s big medicine
+
+ ... Easterlin (1996), examining the links between the mortality transition and economic growth, concluded that while modern economic growth and the rapid decline in mortality stem from the same root causes <p508> that is, the explosion of science and technology in the last three centuries, the mortality revolution was not due to economic growth. It was instead due to public health interventions that were dependent on scientific knowledge and techniques and on government action to overcome information failures, externalities, and principal–agent and free rider problems. 
+
+p517 plots heights, from Bleakley, Costa, and Lleras-Muney (2014) -- so no shading of extrapolation from national guard (n7 acknowledges extrap)      
+
+
+Troesken (2015 Pox of Liberty) Ji: his cites for Mort Trans are weak
+The mortality transition took place during the late nineteenth and early twentieth centuries, when the United States (and other parts of the world) witnessed remarkable and historically unprecedented improvements in human health and longevity. 20^[Haines 2001 BUT THAT IS URBAN Mort Trans; see also James C. Riley, 2001OK ] Between 1850 and 1950, life expectancy at birth among whites increased by 75 percent, growing from 39.5 to 69. Among nonwhites there was an even larger increase, with life expectancy more than doubling, rising from 23 to 60.8.21^[HSUS Ab644-45 --Haines 1998] It is sometimes argued that the American mortality transition took place between 1900 and 1950, a time frame that saw American life expectancy among whites rise from 49.6 to 69. For nonwhites, life expectancy rose from 33 to 60.8.22 (ibid)
+
+Bleakley, Costa, Lleras-Muney (2014) 
+p135 shows Costa & Steckel height plot (but shades in the 1870s-1900 extrapolation; -4cm height decline 1830s-80s  1890-1950 +6mc)  ... e20 1800 ~47 down to ~41 in the 1850s ... recovery by 1900  ... After the 1880s, American men experienced the familiar secular increase in stature of recent times ... < +6cm by 1950 >  This large increase in heights occurs at the same time that life expectancy and health are rising substantially <via heights, it's 20C, barely any in the 19th C, maybe 1890s?>
+
+Floud, Fogel, Harris, Hong (2011 CUP), *The changing body: health, nutrition, and human development in the western world since 1700*     
+
+Moslty use/pitch the U shape 1800 to 1900 ... But can be read as 20C for US mort rev (not before)
+
+p296 Although there is a continuing debate over the impact of industrialization on the standard of living in the short to medium term, it nevertheless laid the foundations for the long-term improvement in both health and living standards of the population since the end of the eighteenth century.     
+p297 This ecological environment was so beneficial that Americans of the period were relatively better nourished and healthier than European populations throughout the colonial era even though the sophistication of American agricultural technology and medicine was far behind that of England and western European countries    
+p298 However, the average height of native-born American males shrank by about 4.4 cm between 1830   and 1890; the life expectancy at age 10 of American males followed a pattern similar to that of  heights, but began to decline earlier, during the 1790s, and continued to do so for about half a century (Figure 6.1).3 During this period, the overall change in stature and longevity was contrary  to the expectation for a period of rapid economic growth.4 This trend has been a much-studied issue in the fields of economic history and historical demography. 
+Many studies have looked for its fundamental cause within demographic change over the nineteenth century. With burgeoning agricultural technologies, Americans were able to produce more foodstuffs throughout this puzzling period, but the increase in agricultural productivity did not keep up with the rapid growth of the population and its food demands. Migration and urbanization led to sanitary problems and accelerated disease contagions. People required calories for combating diseases and intensive labor, but per capita food intake was  <p399> limited.   
+p399 limited. Consequently, the elimination of chronic malnutrition and secular improvements in population health – death and sickness – would not be realized until the beginning of the twentieth century,  when modern technologies in food production, work conditions, and disease controls began to be established.
+p316 The estimates in Table 6.6 then indicate a considerable decline in diet after 1840; the 1840 level was not recovered until 1870.19      
+p326 So far we have explored various disease environments that Americans suffered and died from in the past. How could they then conquer those infectious environments and the high risk of mortality?  Previous research has emphasized two main points: improvements in diet and improvements in sanitary reform. The role of diet was first suggested by Thomas McKeown. He argued that the decline of  mortality after 1700 owed more to improved diet and increased standards of living than to medical interventions or targeted public health reforms
+p332 . In particular, the 1880–1900 cohort seems to have been well fed, but their heights were among the shortest since 1800    
+p333 IMR:height points for 1850-1880 are way out of synch with 1910-1950
+
+Ferrie & Troesken 2008 EEH  Chicago water ... mortality decline 1870 onward
+The empirical estimates suggest that between 35 and 56 percent of the mortality decline that
+occurred in Chicago between 1870 and 1925 was related to water purification and the associated eradication of
+typhoid fever
+URBAN mortality transition -- timing of which they affirm Haines 2001
+
+Deaton 2006 JEL review of Fogel 
+p106 . In The Escape from Hunger and Premature Death, he restates his grand historical account of the synergistic improvement of living standards, morbidity, and mortality since the eighteenth century    
+p107 The escape from hunger and premature death was the escape from a nutritional trap where we could not work to produce food because we were too weak, and we were too weak because we could not work to produce food to make us strong
+
+In a country by country examination of mortality decline, whether in Europe in the 19th Century, Easterlin (1996, 2004, Chapter 7) or in the third world since World War II, William Easterly (1999), we sometimes find that  economic growth is correlated with improvements in longevity, but just as often not. While it is hard to imagine the absence of a correlation between health and income in the longest of long runs, the relationship can vanish for substantial periods of time. This is important, not just for getting the history straight, but for health policy throughout the world now <Sachs: health cause EG>
+
+Fogel (2004 book) Escape from Hunger and Premature Death, 1700-2100     
+
+xv enormous advances in the health and wealth of people over the past 300 years.
+
+p1 Chap 1 "The Persistence of Misery in Europe and America before 1900"    
+The twentieth century saw major improvements in the human condition ... Nothing has been more remarkable, however, than the extension of life expectancy, which has increased by about 30 years since 1900 in England, France, and the United States and in equal or larger amounts in such countries as India, China, and Japan. 
+p2 Table 1.1 show e0 Eng & US 1725-1990  US e0 1800 56, 1850 43,  1900 48, 1950 68   Where 1725-1850 are C&D life table shift of e10 from Fogel 1986 p511  e10 1800ish 55  1850ish 48   1901 51    ...      
+     
+     The improvements in life expectancy between 1900 and 1920 were so large, however, that it became obvious that the changes were not just a random perturbation or cyclical phenomenon. Similar declines recorded in the Scandan countries, France, and other European nations made it clear that the West, including Canada and the United States, had attained levels of survival far beyond previous experience and far beyond those that prevailed elsewhere in the world.2 <n2     
+p5   ... The debate over the McKeown thesis continued through the beginning of the 1980s.9 However, during the 1970s and 1980s, it was overtaken by the growing debate over whether the elimination of mortality crises was the principal reason for the first wave of the mortality decline, which extended from roughly 1725 to 1825 the first wave of the mortality decline, which extended from roughly 1725 to 1825. <para> The systematic study of mortality crises and their possible link to famines was initiated by Jean Meuvret in 1946      
+p8 section titled "The Dimensions of Misery during the Eighteenth and Nineteenth Centuries" 
+   It is now clear that although the period from the middle of the eighteenth century to the end of the nineteenth has been hailed justly as an industrial revolution, as a great transformation in social organization, and as a revolution in science, these great advances brought only modest and uneven improvements in the health, nutritional status, and longevity of the lower classes before 1890. Whatever contribution the technological and scientific advances of the eighteenth and nineteenth centuries may have made ultimately to this breakthrough, escape from hunger and high mortality did not become a reality for most ordinary people until the twentieth century
+
+p18 Life expectancy began to decline during the 1790s and continued to do so for about half a century. A new rise in heights, ... probably began with cohorts born during the **last decade** of the nineteenth century and continued down to the present.27 <27: Fogel 1986; Costa & Steckel 1997> {Fogel 1986  has same wording} ... A second height decline, which was accompanied by a rise in the infant mortality rate, occurred in Sweden during the 1840s and 1850s.28 <28: Fogel 1993 and sources in Tab 1.4
+p19 It is worth noting that during the 1880s Americans were slightly shorter than either the English or the Swedes, but a century earlier the Americans had had a height advantage of 5 to 6 cm over both groups.
+
+Fogel (2004 EDCC Health, Nutrition, and Econ Growth   -- looks at roughly 1800 to 2000
+
+Fogel (1997 in Handbook (Deaton 200? really likes this piece)    
+434 The attempt to explain the secular decline in mortality in a systematic way did not
+begin until early in the twentieth century because it was uncertain before that time that
+such a decline was in progress.
+p435  The plunge in mortality during the early years of the twentieth century delivered a major blow to the Malthusian theory of population
+
+
+
+Riley (2001 Inet arch)  health transition (more than mortlity transition)
+preface: Reaching old age became a commonplace only in the 20th C. This is a history of the retreat of death and the democratization of survival to old age in the period since about 1800.  Intro p1   humankind ... 1800 nearly 1B people  e0<=30   By 2000,  >6B e0 reached nearly 67  This is the crowning achievement of the modern era   ...   This dramatic change is called the "health transition"     
+p19 pretransition era was not one dominated by pandemics of infectious disease.  instead / diseases went unchecked or ...   p20 ... Disease epidemics, wars, and harvest failures sometimes produced mortality crises  p21 The typical death took an infant or a young child.  ... In NW Euro mortality crises began to wane in scale and frequency in the late 16C ... This the first stage of this recast version of the epidemiologic transition,  NW Euro from about 1575 to 1900 but was concentrated in the period 1670-1750, took the form of less frequent and less devastating mortality crises.   
+p22 The second stage ... waning of certain communicable diseases, of which the most important are diseases of childhood and youth. Only infants <1 and older adults >65 did not benefit in most places and parts of this second stage ... 1750 to about 1890.    ...   The third stage, in which most respiratory diseases waned in importance and infant mortality decreased sharply  ... in most <23> place in NW Euro IM remained high until the early 20C ... by 1939 ... IM had declined to less than 5 percent of a cohort   p34   IM began to decline in the early 20C
+p35 e0 20 to 35 yrs between neolithic and the health transition   p36 by 1900 health transition underway in the US   p185 ... IM  In most countries for which death rates are known, infant mortality remianed high until 1900. 26
+
+Haines (2000 in Camb Ec Hi of USA vol 2) uses his IMR estimates
+
+Costa & Steckel 1997 (heights, graph that is later used by Bleakley et al.)  Plot shows heights increasing from about 1890 (but that is via Ohio National Guard extrapolation)
+
+Easterlin 2000 JEP  The marked upturn in life expectanicy that started in the late 19th century is due to a technological breakthrough, but a quite different one from that underlying economic growth  ...  It arises from major advances in the control of communicable disease-first via preventive miethods, and then  via therapeutic techniques. I
+
+Easterlin 1996 (book)    
+p7 The Mortality Revolution ... The onset of the modem Mortality Revolution occurs later than the start of modern economic growth. Not until the latter part of the nineteenth century does substantial and sustained reduction in mortality begin, initially in the countries of northwestern Europe. Then, in less than a century, life expectancy at birth virtually doubles, from around thirty-five to seventy years.  
+But in the mid-nineteenth century, mortality was largely stagnant in European countries experiencing modem economic growth. Then <p8> starting in the latter part of the century, unprecedented declines began in country after country.  ... The great reductions in mortality from the late nineteenth century through 1960 were concentrated especially at the young ages, first childhood and then infancy.    
+The Mortality Revolution was also concentrated much more heavily in urban than in rural areas. Before the Mortality Revolution cities were centers of contagion, and urban mortality was much higher than rural. The Mortality Revolution brought about much more rapid reduction in urban than rural mortality, leading eventually to fairly similar mortality rates in the two areas.
+
+p69 CHAPTER 6 The Nature and Causes of the Mortality Revolution   
+     an unprecedented reduction in human mortality.
+
+
+Fogel 1993 HiMeth for mortality declines resumed in the "last quarter" of the 19C     
+
+Pope 1992 p270 There seems to be a consensus that mortality diminished in the late nineteenth century-certainly after 1880.
+
+
+
+
+Fogel 1986  Between 1700 and 1980 there was a decline of about 35 points in the standardized American death rate (see table 9.1). Between the same years, the British rate declined by about 21 points. About 70% of the American decline and about 50% ofthe British decline took place before 1911.     
+p465 plots e10 : declining 1790-1860, uptick 1865, 1870 then missing until 1900 (not just USborn in new series)
+
+Easterlin via Keyfitz (life tables e0) has 1870s take-off of e0 <which he views as too late for MEG causing increased e0; likely with better data he would be fine with our tendency to see even later mortality improvements>
+
+Kunitz 1983 EHR "Speculations on the European Mortality Decline" is about pre-20C ... the decline in Euro-
+ A pean mortality which began in the seventeenth century and accelerated  in the eighteenth and nineteenth centuries.
+
+
+### Infant Mortality in the US  (US IMR)
+
+consensus: high IMR (~200) in mid-19th C -- wide but shallow ... 
+
+ e.g Alsan & Goldin JPE 2019  p587 From 1870 to 1930, life expectation conditional on reaching age 20 changed little, but infant mortality plummeted from around one in five to one in 16 white infants for the United States and Massachusetts, and deaths of noninfants under 5 years decreased by a factor of seven in Massachusetts (fig. 1).1 Why the rapid change?   FN1 includes The historical literature on US infant mortality includes Cheney (1984 -- Philly IMR decline after 1900), Preston and Haines (1991 NOT IM, but hint at 1876-1896 mort improvements), Condran and Lentzner (2004 NYC & Chic Q4 of 19C), and Condran and Murphy (2008 _ PHILLY 1870-1920, but when does IMR decline??? ).
+
+Condran & Murphy 2008 SSH Philadelphia  "universally noted and deplored levels of mortality of large cities in the second half of the nineteenth century"  p493 infants as % of deaths falls from 40+ % in early 1870s to mid-30% in the 1880s and 1890s, then across 1890s falls to under 30% by 1900 and 22% by 1915  p520 "the incontrovertible decline in infant mortality in the 50 years we have examined." VERY DIFFICULT TO SEE WHAT HAPPENED TO IMR 1870 to 1890. u1deaths/deaths does decline; some hint that u1d/pop (total) decreased a little 
+
+Condran & Lentzner 2004 JIH NYC Chicago NewOrleans  URBAN IMR declining 1875/1900
+317 an index of the seasonal peak in mortality for three age groups under age five.   p318 e.g. NY July often double the monthly average; p333 general notion that the growth of cities adversely affected the life chances of children, but that rapid improvement in health conditions during the last quarter of the nineteenth century considerably altered the picture for the two larger cities.
+
+Alter (1997) four distinct period:  ... 2. The nineteenth century. Little can be said with certainty about infant and child mortality during most of this century.  ... Steckel (1988) child mortality via families linked across  1850 1860 census JIM: Use 1855/60/65/70/75 NY censuses?    
+p97 various IMRs Meckel 1990 NY 1885+ is 248 ... 1900 183
+
+
+Preston & Haines *Fatal Years* (1991) don't offer q0 -- just q5; "infant mortality" is not an index item.    
+Their white q5 is 161; But then Haines 1998 Life Table for 1900 has that value for q5 and it has q0 of 111 (properly understood as 1896?). Hacker's life tables for 1890-1899 imply white q5 173 and q0 121    
+p67 If we make the reasonable assumption that the West model life table system pertained in the period 1880-1900 roughly as accurately as it did in 1900, then children of older women were clearly subject to higher mortality conditions than were children of younger women. <new para> These estimates thus suggest that a substantial reduction in child mortality occurred prior to the census of 1900, an implication consistent with some of the research cited earlier in this chapter.
+
+Cheney 1984 Phila  -- IMR improvements after 1900
+p569 The seasonal mortality patterns of one year olds seem to have undergone major changes during the last quarter of the 19th C  .... clear-cut steady decline in August ratio in the 1870s        
+ For infants, the major portion of the decline is seasonal levels occurred during the 20thC
+p581 1880-1900 second stage of transition away from yearly summer diarrheal epidemics, a more gradual decline occurred in infant and 1yrold mortality levels. The decline was much less distinct than that observed for one year olds during the first stage or for infants during the third stage.
+
+Condran & Cheney 1982 q0 estimated from 1q4 and C&D South model -- find IMR declines from 174 in 1870, to 160 in 1880, 153 in 1890, 137 1900, 120 1910, 96 1920, 75 1930       
+BUT: Cheney 1984 finds 1q2 falls before 1900, but 0q1 does not  -- so their model life table extrapolation seems specious ...
+
+Glover life tables for US     
+Indianna 1901 1910   124-130  p124 qm 111  qf 95.6  ~ 103  ;   Mich 144  qm 113  qf 91.4   ~ 102
+
+
 
 #### HSUS
- Haines essay (Chapter Ab Vital Statistics)    p 1-388 has plot of IMR, from series Ab921 & Ab923  Sources given as   
+
+Table Ab1-10 Table Ab1-10 - Fertility and mortality, by race: 1800–2000; Series Ab9-10 "Infant mortality rate White Black" from Ab921 & Ab923
+Series Ab9–10. 1850–1990: from series Ab921 and Ab923, except that series Ab10, 1850, is from Richard H. Steckel, “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History (Winter 1986): 427–65. 1999: Statistical Abstract of the United States, 2002, Table 98.   <Weird: the 1850 value is given in Ab923; 921 white 923 black> 
+
+footnote 2: For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively.
+
+So there is some confusion about the HSUS values for 1900 and 1910 ...
+
+Haines essay (Chapter Ab Vital Statistics)    
+  ... One consequence of the lack of vital registration data before the early part of the twentieth century has been a resort to special estimation techniques and indirect measures of fertility and mortality to gain insight into the demographic transition of the nineteenth century. Most of the statistics presented are simple tabulations or standard demographic rates. However, a number of the newer findings arise from application of rather sophisticated techniques (Preston and Haines 1991; Haines and Preston 1997; Haines 1998a).     
+ 
+p 1-388 has plot of IMR, from series Ab921 & Ab923 Those series sources are listed as   
      
       For the total and white populations for 1850-1910, and for the black population for 1900 and 1910, Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998): 149-69.
    
 Ab921 1850 216.8  /  1860 181.3  /  1870 175.6  / 1880 214.8      
  p158 q5-9 31.8   p159 q5-9 26.9 /  24.9      / q5-9 30.2  
    
+####   Haines (2006 HSUS) vital stats essay :    
+p 1-382 "The infant mortality rate on an annual basis for Massachusetts for 1850–1998 is found in Table Ab928. Massachusetts is the state with the longest reliable series of annual birth and infant death data." 
+p 1-385 "The Massachusetts data reach reasonable quality by about 1860 and are reproduced here in Tables Ab928 <IMR> and Ab1048–1058 <Mass death stuff>.      
+Haines (1998) says Mass vital stats "achieved relatively good coverage by about 1855 (Abbott, 1897:714-715)."  Abbott says of 1856-95 "the returns of vital statistics of the cities and towns may be deemed to be fairly accurate. The returns of the first few years following 1842 are more or less incomplete and untrustworthy, but those of the forty years under consideration must be considered as approximately correct."    Abbot p740 observes that " The death-rate of infants under one year is greater now than it was in the first half of the period, but the death -rate of children from one to five years is less than it
+was then." (p812 "Balance of Mortality" doesn't say more on  this point)
 
-
-
-#### USA undercounting in census
-
-<p>Hogan (2019 Census Bureau) 
-
-    The fact that net undercoverage of young children has been relatively high in censuses compared with older children and adults is well documented (see Coale 1955, Siegel 1974, U.S. Census 2012a, Hogan et al. 2013, and U.S. Census Bureau 2014).
-
-Coale - does 1950; Siegel 1960 & 1970.
-</p>
-<p>Eriksson et al (2018 Demog) p2016 Figure 5
-        
-      p2009 Census counts suffer from underenumeration, which we adjust by the estimates of underenumeration contained in Land et al. (1984), Preston et al. (2003), and Hacker (2013).
-        
-        p2022 To resolve the bias from underenumeration [of births], when the census undercounts the number of children alive at the census date, we scale the count of children in the census by estimates of the extent of underenumeration (Hacker 2013; Land et al. 1984; Preston et al. 2003).
-<br>Hacker 2013 -- native white underenum 1850-1930; Land et al 1984  1940 & 1950;  Preston at al : Black pop       
       
-        
-</p><p>2014 census bureau report. 
-Fig 2 1950-2000 undercounts from O’Hare, W.P. (2012) “The Undercount of Children in the 2010 Census and Its Implications,” Presentation at the Joint Statistical Meetings, San Diego, CA Aug. 2, 2012
-<BR>"There is a well-documented undercount of young children (defined here as ages 4 and under) in decennial censuses"   -- but cites unlikely of use for us: Robinson et al, 1993 -- prep for 2000; [O’Hare, 1999](https://files.eric.ed.gov/fulltext/ED437494.pdf) --re 1990; West & Robinson, 1999 -- cens Bureau WP; Edmonston, 2001 Oregon; Adlakha et al, 2003 -- re 2000 subnational; Daponte & Wolfson, 2003 re poor; Pitkin & Park, 2005 Calif ; Zeller, 2006 re 2000?; O’Hare, 2009 -- why missed?  ; Hernandez & Denton, no date -- re poverty?)                
-        
-</p><p>**Hacker (2013 SSH) **  Hacker's attempts to correct for undercount are too much of a production/construction ... layers of assumptions to try to uncover underenumeration. Much beyond scope of our research. Certainly we can dismiss the estimates based on the 1% PUMS samples (which we find highly erratic for sex-ratio values). Can we dismiss his 1900 estimates?
-<br>Hacker (2013) offers estimates of the census undercounts, via the PUMS samples for 1850 1860 1870  -- which are on 1% samples.
-PUMS are 1% for 1850, 1860, 1870, 1910, 1920, 1940, and defaults for 1880 10%, 1900 5%, 1930 5%  ... 
-<br>p72 This article estimates age- and sex-specific net census underenumera-tion of the native-born white population in the United States for the census years 1850–70 and revises existing estimates for the census years 1880–1930 (see Coale and Zelnik 1963). It relies on the 1850–70 IPUMS samples of the US census, published census data from the 1880–1940 censuses, new esti-mates of nineteenth-century mortality, and back-projection methods to esti-mate the “true” white population by age and sex at each census.
-<br>p81 The Census Bureau has produced demographic analysis estimates of census coverage since the 1960 census (Robinson et al. 1993). Kenneth C. Land, George C. Hough, and Marilyn M. McMillan (1984) have revised estimates of census coverage for the 1940 and 1950 censuses.
-    <br>
+HSUS Sources:  Neonatal and infant mortality rates: 1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2, Mortality, part A, Table 2-2.  ... For the total and white populations for 1850-1910, and for the black population for 1900 and 1910, Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998): 149-69. For the black population in 1850, Richard H. Steckel, “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History 10 (4) (1986): 427-65.
+   
+For 1915-1932, data are for the current Birth Registration Area only. For the composition of the Birth Registration Area, see the essay on vital statistics in this chapter. U
 
-          p82 This article relies on new sources and new estimates of nineteenth-century mortality to revise and extend Coale and Zelnik’s demographic analysis of census coverage in the United States. In addition to relying on published age distributions of native-born whites in the 1880–1940 censuses, it relies on age distributions generated from the 1850–70 IPUMS samples (Ruggles et al. 2010). The IPUMS has two major advantages over the published cen-sus tabulations used by Coale and Zelnik. First, native-born whites can be cross-tabulated by single years of age and sex in all IPUMS samples, includ-ing the 1850, 1860, and 1870 samples, allowing estimates of census coverage to be extended back to the 1850 census. Second, the IPUMS can be cross-tabulated by place of birth, allowing a proxy of regional census coverage to be constructed for the first time. 
-           With few exceptions, discussed below, the results are based on the method detailed by Coale and Zelnik (1963). 
+#### Why do Haines & Hacker get IMR above MASS?
+
+Haines (1998) -- uses Haines (1979 Demog) for 1850-1890 and  Haines & Preston.
+ p155 Table 2 West model white males 174 (204 in US model)      
+ p156 Tot Pop Males 1850 q0 .2409 or 241   5-9 0.0336 or 33.6  Dx=2277 lx=67805
 
 
-</p><p>p84 Figure 4 graphs net underenumeration by sex and census year, NOT BY AGE -- ignore ---  shows "census bureau, nonblack" male and female lines. Text refers to Robinson et al 1993 and Robinson et al 2002. The former does offer the undercount estimates for 1990
-</p><p>p85 Births were back-projected from the adjusted age distributions of native born white females aged 15–29 in the 1850–60 and 1880–1940 censuses and from native-born white males aged 5–54 in the 1850–60, 1880, 1900-1910, and 1930-40 censuses using my life tables through 1900 (Hacker 2010_ and DRA life tables for the white population for the 20th C (C&Z 1963 p184) n8. The exercise yields as many as eight estimates of births in a given year....  In the years in which they overlapped, estimates based on female age distributions exceeded estimates based on male distributions by 4.0 percent. Based on these results and Coale and Zelnik’s analysis of the 1950 postenumeration survey, which found a 1.4 percent net undercount of females aged 15–29, births back- <86> projected from the female age distributions were inflated by 1.4 percent and births back-projected from male distributions by 5.4 percent. n9 
-<br>n8 Inspection of the resulting series led Coale and Zelnik to reject the birth estimates derived from the 1890 and 1920 male distributions  ... and from 1870
-<br>n9 Coale and Zelnik’s (1963: 11) analysis of the 1880–1950 censuses found that estimates of the total number of births during the period 1851–1943 that were derived from the female distributions exceeded estimates based on the male distributions by 3.0 percent, and they adjusted their projected counts accordingly
-</p><p>p89 Figure 4 plots the average net undercount by sex and census year with Coale and Zelnik’s (1963) estimates for census years 1880–1940 and the Census Bureau’s estimates for census years 1950–2000 (Robinson et al. 1993; Robinson et al. 2002). 
-<br>
-<br>QUESTION: how would fullPUMS (1850-1870) change his story?
 
-</p><p>Robinson et al (2002 PopRPR) Demographic Analysis has served as a standard to assess coverage levels and changes in coverage in each census since 1960. In particular, DA provides an independent benchmark for assessing differences in coverage by age, sex, and race (see Siegel and Zelnik 1966; U.S. Bureau of the Census 1974, 1988; and Robinson et al. 1993 for the demographic evaluations of the 1960–1990 censuses).
 
-</p><p>Robinson et al (1993 JASA)  1990 undercount -- nonblack u5 fem undercount is more
-u = r * P and  r * P = P- C   so C = P - rP = (1-r)P and P = C / (1-r) 
+Haines (1979 Demog)     
+ABS using census mortality data for older children and teenagers to fit model tables  ... the Coale and Demeny West Model, apparently do not adequately  depict the changing shape of mortality over the period 1850-1910. ... alternative model life table system / based on the Brass two parameter logit system and available reliable life tables from the period 1850-1910. two parameter system reduced to a one parameter system ... The resulting model system is, however, heavily dependent on the experience of northern, industrial states, especially Massachusetts. 
 
-</p><p>LandKC et al (1984) for net undercounts in 1940 and 1950
-
-</p><p>Siegel (1974 Demography) offers various estimates of net undercount by age.
-<br>U5 white male/female
-<br>1970 2.6/2.2 2.4/2.0 2.6/2.2 2.3/2.0
-<br>1960 1.9/1.1 1.9/1.1
-<br>PREFERRED 1970 2.3/2.0  1960 1.9/1.1
-</p><p>Siegel & Zelnick 1966 on 1960 
-</p><p>**Coale and Zelnik** (1963)
-
-<br>Let's look at Coale & Zelnik values for 1900 ... pp 179-180 ... underenumeration rates of 7.6% male, 6.5% female -- for a 1.2%-point  SR-move toward male. 
-
-    The 1900 census ... the persons reported as age 15 were not the same cohort reported as age 5 in 1890. Rather, the 15 year olds in the 1900 census were born between June 1, 1884 and June 1, 1885, and were six months younger than those reported at age 5 in 1890.
-<br>So people counted in 1890 as age x were mean age x, but those in other census years were mean age x+0.5  -- so 1890s kids are actually 1/2 year younger ... and 1890age10 are 9.5 years older than 1880age0. And 1890 includes some kids not yet born in the 1880 count?
-</p><p>
-**Yasuba (1962)**  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
-</p>
-<p>Fertility     
-pp27-28 Yasuba uses Thompson & Whelton's approach: u5 counts + 5% + implied deaths (Mass Life Table) for 5yrs ending in census year. Then the 5yrs til the next 5yrs gives increase per 4 years, 1/4 of the increase added to shift to centred on census year.
+p290 "Research using various techniques of indirect mortality estimation indicates that the degree of underreporting of deaths in the  census may be rather small at ages 5 to 9, IO to 14, and 15 to 19 (Haines, 1977)      
+ Brass system chose to construct a model life table system for the U S 1850-1910  ... to provide a vehcile for fitting cen- <p291> sus mortality data in in a way which more accurately depicts the changing shape of mortality in the late nineteenth century. The Brass system would be based on such life tables as are available and reasonably reliable. ... the period after about 1850. The system is carried up to 1910 in order to take advantage of the  relatively large number of tables which become available during the 1900-1910 decade     
+ given an age specific death rate (such as 5M5 or 5q5), the level of mortality (a) could be obtained from the standard {?such as C &D?}. Then, with a functional relationship between alpha and beta, the value of beta can be derived     
+p294 ... Once the life tables had been collected, the question arose as to the best procedure to estimate alpha and beta for each table. Two were selected for the two separate models. For the national and state life table model, the United States registration state table for 1900-02 was chosen. The life table for the urban white population of the registration states of 1900-02 was selected as the standard for the urban life table model.    ... The a and (3 {alpha and beta} parameters were estimated using a weighted least squares (WLS) regression procedure   
+Ji: ?so take a life table and regress logits of its lAGEs on the logits for the standard table -- then that life table is described by the alpha and beta ...      
+p301 {it didn't work well so}   In order to specify a more accurate relationship, additional variables (the degree of urbanization and time) were added to the equation linking a and fj, shown in Table 5.      
+p306 {Ji now lost about extent to which a year's LT relies on life-tables from other years -- maybe same equation for alpha and beta as function of urbanization and time?}
  
-</p>
-<p>Index entries for underenumeration of children 19, 23, 26, 29-30, 34-35, 70, 97, 142, 180; NY births 123
-<br>      
-p19  In Chapter III, mortality records are examined to see whether differentials and trends in child mortality largely accounted for the differentials and trends in the birth ratios. It will be found that a part, but only a small part, of the differentials in the birth ratios may have been due to differentials in mortality. The child mortality rate in the United States may have increased in the few decades preceding the Civil War but not so rapidly as to explain to a considerable extent the fall in the refined birth ratio. Other factors which may have affected the birth ratios such as the extent of underenumeration of young children and the rate of increase of yearly births tended to mask the differentials and trends in the birth ratios.     
-p23  In 1850 and thereafter, the number of children under 1 was also reported but, owing partly to heavy underenumeration in this age class and partly to the desire for comparability of the ratios throughout th/e nineteenth century, most demographers have preferred to use the number of children under 5 or under 10. <NO CITES FOR UNDERENUM>      
-p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>     
-Yasuba assumes same 5% underenumeration of u5 for 1850-1920     
-
-pp29-30 5% underenumeration of u5  from Whelpton     
-pp34-35 Thompson & Whelpton / Grabill    
-p70 mention of underenum of kids    
-p97 U5 +5% for enum    
-p142 relatively large underenum in 1850    
-p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.     
-p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ...        
-p193 IM 79, 81   seems to suggest 1850 census mortality shows relative ranking of states in terms of u10 mortality (and therefore infant mortality?)
-
-<p>Yasuba Ch 3 Mortality pp73-101; mostly a waste of time for our project. His concern is extent to which birth-ratio patterns are from mortality (patterns are downward time-trend and regional differentials).     
-p73 1. Relative levels of Mortality in Different States and Territories    
-Blodgett, Seaman: mort higher in South (Seaman IMR higher in North)
-p74 sanitary conditions in cities in this country in the middle of the 19th C were bad. Numerous remarks by city officials and medical authorities on filthiness and overcrowding, deficient ventilation, improper drainage, scanty water supply and the resultant rage of infectious diseases and high mortality bear testimony to this.4 [n4 NOT CONVINCING -- see below NYC 1866 TENEMENTS; AMedA 1848 NO; Mass 1917 -- BOSTON urban penalty 1830-45;  generally, very vague allusions to hygiene and disease and mortality in these ...] <br>
-p74 life table constructed by Jaffe and Lourie  New Eng towns, NYC, Phil -- urban-rural mortality differential / Table III-1 "No mortality rate was computed for the age-class 0-4 but the extrapolation of the trend points to a still larger differential for it than for the age-class 5-9. <BUT: is that contradicted by English evidence (eg Reid & Hadish?) where early childhood mortality ECM is more sensitive to urban than is IMR?>
-<br> p75  J-L Life Table gives age 5-9 death rate in Bost-NY-Phil over twice that of rural Mass (12.5 vs 5.1) <br>
-census mortality evidence problematic because of random annual/geog variation (would want more observations to identify patterns). Underenumeration issues and debates. Kennedy -- census stats good for comprative mortality levels. p76 but DeBow 2 yrs later argues patterns reflect data quality rather than health (impossible to believe Mississippi a healthier State than Rhode Island, etc.)  ... <br>
-p80 white u10 death rates by state via census ... USA 20.5  Mass 38.5 RI 27.1  NY 25  MD 30.8  VA 14 NC 12 GA 11  Ohio 22 KT 18.4 TN 13.6  ALA 14.7     MS 16.1   ... he finds positive correlations with pop density, non-agric L, and urban (all simple correlations, not partial )
-<br> My view: we'd waste our time getting into the game of trying to discern meaning in census mortality data ... 
-<br>p87  2. Trend of Mortality, 1800-1860 
-p96 "it is likely that the death rate increased somewhat duirng the few decades preceding the Civil War." 
-</p>
-
-<p>**Okun**  p24 refers to Lee's use of life-tables and reverse survival ratios to estimate undercounts of 0-4 year olds. If life table says 15% of kids die, but only 5% die, then the undercounts are much overstated ... via life table, every 85 in 10-14 age group in t+10 census requires 100 kids age 0-4 in the t census ...  For 1870, Lee says 11.6% of kids (0-4) were missed.  Say Lee had 88% survivor rate and we think 94% is correct; 
-he sees 100  94  and thinks there should be 106.8; 100/106.8 is 93.6% -- he'd say undercount is 6.4% .  But that is all spurious ... <BR>
-If he has survivor rate of 84% and mortality is 1/3 that then we'd say no underenum. And isn't 10 year age overstated? And age 4 understated, by age-heaping?
-</p>
 
 
-Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (1963)
-
-Grabill et al (1958) p. 409 Some enumerators began the age count with 1 year according to the Compendium of the Seventh Census, so the 1850 Census may have had more misstatements of age of infants than usual.
-Jim *cannot find that point in the 1850 Compendium* (also *not* found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      
-       
-random 1850 MS census pages from NY  via surname Johnson NY-Kings i52-i60, list of u3 ages from those pages:   2 ] 2 1 ] 1 ] 1 ] 2 1 1 2/12 ] 1 ] 8/12 1 1 ] 1 1 1 8/12 ] 2 2 [60]     
-So we see 5 2-yr-olds, 11 1-yr-olds, 3 infants ... seems suspicious; let's update that?
 
 
-      
-p97 (Grabill or Yasuba?) To estimate the number of births, first, the number of children under 5 was increased by 5 per cent in order to allow for under¬enumeration ; the number of children aged 4-9 was left unchanged. ... In 1920 the census was less complete than usual at all ages, partly because of enumerator-recruitment problems.     
-p410 In some censuses it was noted that the number of children in the first 2 years of age was much less than the numbers at ages 2, 3, and 4 , al. though fragmentary birth statistics pointed to rapidly increasing annual numbers of births . Thus, the existence of an undercount of infants was " obvious" from data on population by single years of age in some censuses taken in a time of rapid population growth . Such an undercount was noted as early as 1850, when the first tabulations of population by single years of age were made for the United States.     
-Ji looks at 1900 census special report; there argument for improved age coverage in 1900, problem in 1890 due to "closest birthday", and suggestion that 1880 looks better. But all in all Ji continues to find that the key is the SR values and not the magnitudes ... (i.e. absent SR much different for the cohort 10 years on, we can relax)
+Haines (1977 Demog)  seven NY counties 1865 and seven PA counties 1900 (moms recall kids born).  p312 NY 1089 moms  p313 PA mining region  882 moms    
+p330  For New York, a comparison of census death rates with those obtained by the Surviving Children Method fitted to West Model life tables (see Figure I) indicates that the census death rates are not unreasonable for the ages approximately 5 to 20.  NY 1865 0q2 he gets about 180 or more ... higher than we believe ...
 
 
-Whipple (1917), *State Sanitaton. A Review of the Work of the Massachusetts State Board of Health* (2 vols).  pdf16 TOC says Part II Report of the Mass Sanitary Commission of 1850 <pp241-370?> ; Appendix p350-367 interesting misc, with some from France and elsewhere 
-<p>p239   Part II Report of the Mass Sanitary Commission Lemuel Shattuck, Nathaniel P. Banks, Jr., Jehiel Abbot, 1850
-<br>pp -259  The Sanitary Movement Abroad
-<br> p260-  The Sanitary Movement at Home
-<br> p267-  Sanitary History of the State <covers 1618-
-<br> p276 Boston smallpox table 1721, 1730, 1752, ... 1778, 792  Mortality drops from 3+ per 100 population to 1 as innoculation takes charge
-<br>p280 1819 yellow fever in Boston; June 30 - Nov 1.  p282 1831-32 Boston Asiatic cholera, scarlatina, typhus. 
-<br> (still p282) For the last 40 years, ... less definite information ... than in previous periods
-<br>p283 To complete this general view of the sanitary condition of the state ... we have compiled from the Registration Reports, from the "Bills of Mortality" of Boston, and from other sources ...  p284 mortality by age-group for Boston and for Concord & Worcester (MA) & Amherst (NH) for 1826-1835 in comparison to census pops of 1830. records of those towns "supposed to be full; and though not the healthiest, may be considered, among the country towns, of about an average health."
-</p>
-<p>Tables present annual mortality rates (%) for age groups, U5 rate for "country towns" is 3.05% for 1830;  about 1/2 of 1830 Boston's 5.96%; 2/5 of 1840's 7% and 1/3 of the 1845 figure for Boston.
-<br>No SR for towns, but 1845 Boston's SR5 is 100.3 (n=14k 75% CI +/- 1.9).
-<br>Look ahead to 1860 Suffolk Co and SR5 is 99.7 (n=44k 75% CI +/- 1.5)
-<br>Do note that mid-19th-C Boston is small (1890s it reaches 1/2 million). 1850 to 1860 Philly jumps from 121k to 565k. 
-</p><p>Figure 8 graphs survival by age; roughly, the proportion who die by age 5 for groups is:
-<br>
-55% Boston Catholics; 35% Bostonians; 12% in Newton; 10% in England.
-</p><p>p287 claims mortality rising, "the average duration of life is not as great now as it was forty or fifty years ago" </p>
-p308 interesting remark about Boston's $5 million structure to bring water from Lake Cochituate, 19.5 miles away, "affords to every inhabitant an abundant supply of water of the best quality"
-p319 recommend institutions be formed to educate and qualify females to be nurses of the sick.
-**Looking for comments on registration quality* -- not found.
-<p>Annual Report of the Resident Physicians of the City of New York for 1865 (1866) p.7  "necessity of some legal enactment by which the construction of all tenement-houses, with special reference to limiting the number of inhabitants and the ventilation, shall be placed under the regulation and direction of some properly qualified sanitary inspector.
-<br> <new para> At present  most of the ten-hou in this city are absolutely unfit for occupation;   ventilation ... they are pest-holes that breed typhoid and typhus fever ...
-</p><p>Communication on Hygiene in Transactions of the AMA  "the more compact compact society becomes ... the more manifestly these causes develop themselves; hence densely populated cities present the greatest complication of these evils"  ... deficient ventilation, improper drainage, accumulation of filth, and a scanty supply of water, ... powerful predisposing causes of diseases, and that when conjoined, they cannot fail to produce a high rate of mortality. This is the theory; .. bad sewerage, a bad supply of water, ... accumulation of filth, ... wherever the commissioners of sewers have not been, there fever is prevalent;
-</p><p>SHattuck (1841).  pdf15-16 (p383-4) pdf15 increasing mortality ... nursing and feeding of children with improper food ... bad air in confined, badly located, and filthy houses, ... Epidemic diseases which are particularly prevalent among children have increased.  scarlet fever  13% of deaths ... Other infantile diseases have also increased. ... greater mortality in prevailed in certain localities, and in certain classes  pdf16 "families crowded into houses in Broad street, Ann street, and other densely populated parts of the city, render the air very impure, and expose the lives of infants, who are compelled to breathe it, to almost inevitable death.  ... epidemics are generated ...
-<br> pdf p10 (p368?) has decadal deaths by sex and single years of age. Maybe useful if combined with an assumption on SRB?
-<br> pdf11 table shows u5 %rate of mortality 1811-20 33.64%  1821-30 37.04%   1831-39 43.09%
-
-</p>
-
-#### Alter's undercounrt issue
-
-<H3>George Alter's concern: infant undercounts</H3>
-
-<p>If under-enumeration of infants ...
-
-<p>We restrict attention to the US-born, and treat US-born children as a closed population in any 10-year period, assuming negligible out-migration. And we abstract from possible problems in the IPUMS coding of children as US- or foreign-born.</p>
-<p>The key issue for our findings on children's sex ratios over the period 1850-1920 is the possibility that improvements in the accuracy of enumeration of children's ages generate specious changes in observed sex ratios. We find child sex-ratios circa 1900 to be more tilted toward females, in comparison to the ratios observed in censuses from 1850 to 1880 (or 1890, but we dismiss the 1890 data as flawed). There is a Literature of US demographic research suggesting underenumeration of infants in the censuses of 1850 through 1880, with the 1900 census age question eliciting a much more accurate enumeration. The possible problem we need to consider is that the observed changes in child sex ratios could reflect changes in enumeration errors rather than changes in actual sex ratios. For example, suppose actual sex ratios were constant in the period 1850 to 1900. And suppose a relative under-enumeration of female vs male infants biased child sex-ratio values toward males in the 19th-century censuses, but improvements in enumeration resulted in more accurate sex-ratio values from 1900 on. If so, the  observed shift toward girls would be an artifact of changing measurement error and not a reflection of deteriorating maternal-infant health.</p>
-
-
-#### Current views of the onset of Infant-Mortality Transition in the USA? 
-
+ -- views of the onset of Infant-Mortality Transition in the USA? 
 
 Cutler & Miller (2005) & Goldin's correction thereof ...
 
-Anderson, Charles, Rees (2022) show that C&M used the wrong population data for mortality estimates ...
+Anderson, Charles, Rees (2022 AEJ) show that C&M used the wrong population data for mortality estimates ...
+
+new    paper re: Cutler & Miller for us 1900-40 urban mortality  Anderson, D. Mark, Kerwin Kofi Charles, and Daniel I. Rees. 2022. "Reexamining the Contribution of Public Health Efforts to the Decline in Urban Mortality." American Economic Journal: Applied Economics, 14 (2): 126-57.
+DOI:       10.1257/app.20190034  with comment & reply  JESSE TO CHECK ...
 
 
-new paper re: Cutler & Miller for us 1900-40 urban mortality  Anderson, D. Mark, Kerwin Kofi Charles, and Daniel I. Rees. 2022. "Reexamining the Contribution of Public Health Efforts to the Decline in Urban Mortality." American Economic Journal: Applied Economics, 14 (2): 126-57.
-DOI: 10.1257/app.20190034  with comment & reply  JESSE TO CHECK ...
+### US Sources lacking evidence on IMR
+
+Bleakly, Costa, Lleras-Muney (2014) Height is their health measure
+p121 life expectancy at birth rose by about thirty years in the twentieth century—an unprecedented increase  p122 Height is a good proxy for general health conditions in childhood      
+p129 We explore how health relates to education and income or wealth using many individual data sets spanning the 1860s to 2000.
+
+Cutler, David M., Angus Deaton, and Adriana Lleras-Muney. 2006. JEP "The Determinants of Mortality."      
+p97 Through the twentieth century in the United States and other high-income countries, growth in real incomes was accompanied by a historically unprecedented decline in mortality rates that caused life expectancy at birth to grow by nearly 30 years     
+p99 hunter-gather ancestors e0 perhaps 25 years; England 1700 e0=37 yrs      
+In the eighteenth century, mortality began to decline. By 1820, life expectancy at birth in England was about 41 years, up six years over the previous century. Between 1820 and 1870, the period of greatest industrialization, life expectancy remained stable at about 41 years. Since 1870, mortality has fallen relatively continuously as well as more rapidly than in the first phase of mortality decline. Life expectancy in England climbed to 50 years in the first decade of the twentieth century, and is about 77 years today. A similar transition, with some moderate differences in timing, took place in all developed countries. Mortality reduction in France was broadly similar to that in England. In the United States, the mortality reduction appears to start around 1790, with a similar overall pattern. Life expectancy at birth in the United States rose from 47 years in 1900 to 78 years today.    
+they contrast 1950 1841 e0 and e10 -- could mislead that IMR changed before 1899
+
+p100 graphs England's e0 e10 e45 e65 (via expected age at death), nicely illustrating huge impact of IMR declining 1900-1950.  Such data not available for USA!     
+
+p101  If we accept this argument and date the modern decrease in mortality from 1870, when it began in earnest in England and several other European countries, the link between economic growth and mortality becomes tenuous, because the timing of the beginnings of modern growth is far more dispersed across countries than is the onset of the modern mortality decline (Easterlin, 2004). Also, as we shall see, improvements in public health offer a more coherent explanation for mortality declines after 1870.
+
+p102 The preponderance of the evidence suggests that the lack of improvement in mortality between 1820 and 1870 was due in large part to the greater spread of disease in newly enlarged cities. Nutrition may or may not be the culprit here; debate about whether nutrition and real wages were rising or falling in the middle of the nineteenth century continues to rage. But the effect of unsanitary conditions was larger and the spread of disease was easier in bigger, more crowded cities.    
+p105 Some analysts would continue to give nutrition the primary role in reducing life expectancy {sic}, even after 1870 and well into the twentieth century, rather than public health and medical care.
+
+p116 Perhaps controversially, we tend to downplay the role of income. Over the broad sweep of history, improvements in health and income are both the consequence of new ideas and new technology, and one might or might not cause the other. Between rich and poor countries, health comes from institutional ability and political willingness to implement known technologies, neither of which is an automatic consequence of rising incomes. Within countries, the lower earnings of people who are sick explain much of the correlation between income and health, rather than a causal relationship from higher income to better health.
 
 
+Note Costa & Kahn 2015 AER-P&P for 1900-1930 reduction in NYC and Phil imr inequality
 
-### Massachusetts Mortality
+
+### Massachusetts Mortality 
 
 <p>Alsan & Goldin (2019 JPE) 1880-1920 sse below for [MASSdem](#MASSdem) 
 <br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
@@ -1481,13 +1628,14 @@ Alsan & Goldin (2019 JPE) 1880-1920
 <br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
 <br>Appendix A refers to Secretary of the Commonwealth of Massachusetts,
 Report on Births, Marriages, and Deaths  
-</p><p>
-<br>Leonard, Beemer, Anderton (2012 Cont & Change 433-59) p433 For the United States, the evidence suggests that overall mortality may have declined in the third and early <p434> fourth quarters of the nineteenth century.[3 Costa & Steckel 1997, Ferrie 2003 (re:1850-60), Swedlund (1990); Hautaniemi, Swedlund, Anderton] However, in Massachusetts, mortality plateaued during the latter half of the nineteenth century, and not until the turn of the twentieth century did mortality begin a slow but sustained decline.[4 HSUS - no more detail?] In previous work, we have argued that high overall regional mortality was sustained by the strains of significant population growth within newly emerging urban–industrial communities.5 These strains were ultimately relieved as population growth stabilised and urban infrastructures developed, notably with the introduction of filtered water supplies and sewage systems.6 Although such improvements began after mid-century, their widespread penetration into emerging industrial cities as not completed until near the turn of the century or later, when regional mortality finally began to fall.
+</p>
+<p>
+Leonard, Beemer, Anderton (2012 Cont & Change 433-59)    
+p433 For the United States, the evidence suggests that overall mortality may have declined in the third and early <p434> fourth quarters of the nineteenth century.[3 Costa & Steckel 1997, Ferrie 2003 (re:1850-60), Swedlund (1990); Hautaniemi, Swedlund, Anderton] However, in Massachusetts, mortality plateaued during the latter half of the nineteenth century, and not until the turn of the twentieth century did mortality begin a slow but sustained decline.[4 HSUS - no more detail?] In previous work, we have argued that high overall regional mortality was sustained by the strains of significant population growth within newly emerging urban–industrial communities.5 These strains were ultimately relieved as population growth stabilised and urban infrastructures developed, notably with the introduction of filtered water supplies and sewage systems.6 Although such improvements began after mid-century, their widespread penetration into emerging industrial cities as not completed until near the turn of the century or later, when regional mortality finally began to fall.
 </p>
 <p> Swedlund & Ball 1998 in Goodman & Leatherman. 
 p124 In the latter half of the nineteenth century, rates of infant mortality in American cities were a matter of grave
-concern. As many as 15 to 20 percent of newborns died within their first year, and in the worst neighborhoods or
-most afflicted cities, rates could go much higher (Phelps 1912; Woodbury 1926; Swedlund 1990; Meckel 1991).    
+concern. As many as 15 to 20 percent of newborns died within their first year, and in the worst neighborhoods or most afflicted cities, rates could go much higher (Phelps 1912; Woodbury 1926; Swedlund 1990; Meckel 1991).    
 
 Scan Received: Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
 
@@ -1663,15 +1811,186 @@ p2 SRBs are silly high  108 109 109 109 117  p3 1890 SRB 27523/24687 = 111.5 SIL
 
 ### Misc US health/demog 
 
-Meeker 1972 EEH says e0 rose 1850-1900 from about 40 to about 50
-uses the e0 estimates of Jacobson (1957) and Meech     
-says Jacobson uses "Greville short-cut method, a technique that uses age-specific death rates as its basic data input."  ... uses death registration for Mass and MD for 1850    Meech examined survival rates in the census 1830-1860  ... both get e0 male of 40-41     
+Ferrie 2001 EEH 1850, 1860 mortality schedules for wealth:health     
+
+p36  ...  using the coefficients in panel B table 2.8 ... the mortality rate for male infants born and residing in Illinois in five-person families headed by  farmers was 97 per thousand in families that did not own any personal wealth; the mortality rate for otherwise identical infants was roughly half as great (53 per thousand) in families that possessed any personal wealth. {FN 23 lower IMRs of 88 vs 33 if use table 2A.9 }     
+p37    Large differences in mortality between those with and those without wealth in rural communities in the mid-nineteenth-century United States demonstrate the important role played by general living standards and the material conditions of day-to-day life in shaping mortality patterns.
+
+
+Meeker (1972 EEH)  --  e0 rose 1850-1915 from about 40 to about 50
+uses the e0 estimates of Jacobson (1957) for Mass & MD and Meech     
+says Jacobson uses "Greville short-cut method, a technique that uses age-specific death rates as its basic data input."  ... uses death registration for Mass and MD for 1850    Meech examined survival rates in the census 1830-1860  ... both get e0 male of 40-41
+
+p353 The period from 1850 to 1915 witnessed unprecedented improvements in the health of Americans. Male expectation of life at birth rose from approximately forty-one years in the 1850s to over fifty-three years by 1915.   ... I attempt to demonstrate that a fundamental transition in the state of health occurred in the decade of the eighties, that average mortality and life expectancy improved little, and very likely worsened, prior to 1880, but improved rapidly thereafter. 
+
 356 That expectation of life at birth increased during the second half of the nineteenth century is beyond dispute.   
-358 I believe, with Meech, that the expectation of life improved only very slowly before 1880; it then began to improve rapidly. This view is consistent with the Massachusetts data, and as shown below, Massachusetts data-despite surface appearances to the contraryappear to be fairly representative of the United States as a whole. 
+358 I believe, with Meech, that the expectation of life improved only very slowly before 1880; it then began to improve rapidly. This view is consistent with the Massachusetts data, and as shown below, Massachusetts data-despite surface appearances to the contrary appear to be fairly representative of the United States as a whole. 
+
+Jacobson 
+p197 Moreover, since Massachusetts was one of the most urbanized States in the country, the mortality from infectious diseases may have been higher there than in most other areas. In consequence, the expectation of life  was probably lower in Massachusetts than in the country as a whole    
+p198 The values of nmx for the white population in the United States were derived by taking the arithmetic average of the values for Maryland and Massachusetts.  MD from 1850 census volume (d)    
+1850 census of MD  5m0 males MA 7.105 MD 5.466   e0 males MA 38.3 MD 41.8 Eng 40.2
+p
+
+
+#### Alter's undercount issue
+
+<H3>George Alter's concern: infant undercounts</H3>
+
+<p>If under-enumeration of infants ...
+
+<p>We restrict attention to the US-born, and treat US-born children as a closed population in any 10-year period, assuming negligible out-migration. And we abstract from possible problems in the IPUMS coding of children as US- or foreign-born.</p>
+<p>The key issue for our findings on children's sex ratios over the period 1850-1920 is the possibility that improvements in the accuracy of enumeration of children's ages generate specious changes in observed sex ratios. We find child sex-ratios circa 1900 to be more tilted toward females, in comparison to the ratios observed in censuses from 1850 to 1880 (or 1890, but we dismiss the 1890 data as flawed). There is a Literature of US demographic research suggesting underenumeration of infants in the censuses of 1850 through 1880, with the 1900 census age question eliciting a much more accurate enumeration. The possible problem we need to consider is that the observed changes in child sex ratios could reflect changes in enumeration errors rather than changes in actual sex ratios. For example, suppose actual sex ratios were constant in the period 1850 to 1900. And suppose a relative under-enumeration of female vs male infants biased child sex-ratio values toward males in the 19th-century censuses, but improvements in enumeration resulted in more accurate sex-ratio values from 1900 on. If so, the  observed shift toward girls would be an artifact of changing measurement error and not a reflection of deteriorating maternal-infant health.</p>
 
 
 
-### Crap to Mostly Ignore (even if we cite it) ###
+#### USA undercounting in census
+
+<p>Hogan (2019 Census Bureau) 
+
+    The fact that net undercoverage of young children has been relatively high in censuses compared with older children and adults is well documented (see Coale 1955, Siegel 1974, U.S. Census 2012a, Hogan et al. 2013, and U.S. Census Bureau 2014).
+
+Coale - does 1950; Siegel 1960 & 1970.
+</p>
+<p>Eriksson et al (2018 Demog) p2016 Figure 5
+        
+      p2009 Census counts suffer from underenumeration, which we adjust by the estimates of underenumeration contained in Land et al. (1984), Preston et al. (2003), and Hacker (2013).
+        
+        p2022 To resolve the bias from underenumeration [of births], when the census undercounts the number of children alive at the census date, we scale the count of children in the census by estimates of the extent of underenumeration (Hacker 2013; Land et al. 1984; Preston et al. 2003).
+<br>Hacker 2013 -- native white underenum 1850-1930; Land et al 1984  1940 & 1950;  Preston at al : Black pop       
+      
+        
+</p><p>2014 census bureau report. 
+Fig 2 1950-2000 undercounts from O’Hare, W.P. (2012) “The Undercount of Children in the 2010 Census and Its Implications,” Presentation at the Joint Statistical Meetings, San Diego, CA Aug. 2, 2012
+<BR>"There is a well-documented undercount of young children (defined here as ages 4 and under) in decennial censuses"   -- but cites unlikely of use for us: Robinson et al, 1993 -- prep for 2000; [O’Hare, 1999](https://files.eric.ed.gov/fulltext/ED437494.pdf) --re 1990; West & Robinson, 1999 -- cens Bureau WP; Edmonston, 2001 Oregon; Adlakha et al, 2003 -- re 2000 subnational; Daponte & Wolfson, 2003 re poor; Pitkin & Park, 2005 Calif ; Zeller, 2006 re 2000?; O’Hare, 2009 -- why missed?  ; Hernandez & Denton, no date -- re poverty?)                
+        
+</p><p>**Hacker (2013 SSH) **  Hacker's attempts to correct for undercount are too much of a production/construction ... layers of assumptions to try to uncover underenumeration. Much beyond scope of our research. Certainly we can dismiss the estimates based on the 1% PUMS samples (which we find highly erratic for sex-ratio values). Can we dismiss his 1900 estimates?
+<br>Hacker (2013) offers estimates of the census undercounts, via the PUMS samples for 1850 1860 1870  -- which are on 1% samples.
+PUMS are 1% for 1850, 1860, 1870, 1910, 1920, 1940, and defaults for 1880 10%, 1900 5%, 1930 5%  ... 
+<br>p72 This article estimates age- and sex-specific net census underenumera-tion of the native-born white population in the United States for the census years 1850–70 and revises existing estimates for the census years 1880–1930 (see Coale and Zelnik 1963). It relies on the 1850–70 IPUMS samples of the US census, published census data from the 1880–1940 censuses, new esti-mates of nineteenth-century mortality, and back-projection methods to esti-mate the “true” white population by age and sex at each census.
+<br>p81 The Census Bureau has produced demographic analysis estimates of census coverage since the 1960 census (Robinson et al. 1993). Kenneth C. Land, George C. Hough, and Marilyn M. McMillan (1984) have revised estimates of census coverage for the 1940 and 1950 censuses.
+    <br>
+
+          p82 This article relies on new sources and new estimates of nineteenth-century mortality to revise and extend Coale and Zelnik’s demographic analysis of census coverage in the United States. In addition to relying on published age distributions of native-born whites in the 1880–1940 censuses, it relies on age distributions generated from the 1850–70 IPUMS samples (Ruggles et al. 2010). The IPUMS has two major advantages over the published cen-sus tabulations used by Coale and Zelnik. First, native-born whites can be cross-tabulated by single years of age and sex in all IPUMS samples, includ-ing the 1850, 1860, and 1870 samples, allowing estimates of census coverage to be extended back to the 1850 census. Second, the IPUMS can be cross-tabulated by place of birth, allowing a proxy of regional census coverage to be constructed for the first time. 
+           With few exceptions, discussed below, the results are based on the method detailed by Coale and Zelnik (1963). 
+
+
+</p><p>p84 Figure 4 graphs net underenumeration by sex and census year, NOT BY AGE -- ignore ---  shows "census bureau, nonblack" male and female lines. Text refers to Robinson et al 1993 and Robinson et al 2002. The former does offer the undercount estimates for 1990
+</p><p>p85 Births were back-projected from the adjusted age distributions of native born white females aged 15–29 in the 1850–60 and 1880–1940 censuses and from native-born white males aged 5–54 in the 1850–60, 1880, 1900-1910, and 1930-40 censuses using my life tables through 1900 (Hacker 2010_ and DRA life tables for the white population for the 20th C (C&Z 1963 p184) n8. The exercise yields as many as eight estimates of births in a given year....  In the years in which they overlapped, estimates based on female age distributions exceeded estimates based on male distributions by 4.0 percent. Based on these results and Coale and Zelnik’s analysis of the 1950 postenumeration survey, which found a 1.4 percent net undercount of females aged 15–29, births back- <86> projected from the female age distributions were inflated by 1.4 percent and births back-projected from male distributions by 5.4 percent. n9 
+<br>n8 Inspection of the resulting series led Coale and Zelnik to reject the birth estimates derived from the 1890 and 1920 male distributions  ... and from 1870
+<br>n9 Coale and Zelnik’s (1963: 11) analysis of the 1880–1950 censuses found that estimates of the total number of births during the period 1851–1943 that were derived from the female distributions exceeded estimates based on the male distributions by 3.0 percent, and they adjusted their projected counts accordingly
+</p><p>p89 Figure 4 plots the average net undercount by sex and census year with Coale and Zelnik’s (1963) estimates for census years 1880–1940 and the Census Bureau’s estimates for census years 1950–2000 (Robinson et al. 1993; Robinson et al. 2002). 
+<br>
+<br>QUESTION: how would fullPUMS (1850-1870) change his story?
+
+</p><p>Robinson et al (2002 PopRPR) Demographic Analysis has served as a standard to assess coverage levels and changes in coverage in each census since 1960. In particular, DA provides an independent benchmark for assessing differences in coverage by age, sex, and race (see Siegel and Zelnik 1966; U.S. Bureau of the Census 1974, 1988; and Robinson et al. 1993 for the demographic evaluations of the 1960–1990 censuses).
+
+</p><p>Robinson et al (1993 JASA)  1990 undercount -- nonblack u5 fem undercount is more
+u = r * P and  r * P = P- C   so C = P - rP = (1-r)P and P = C / (1-r) 
+
+</p><p>LandKC et al (1984) for net undercounts in 1940 and 1950
+
+</p><p>Siegel (1974 Demography) offers various estimates of net undercount by age.
+<br>U5 white male/female
+<br>1970 2.6/2.2 2.4/2.0 2.6/2.2 2.3/2.0
+<br>1960 1.9/1.1 1.9/1.1
+<br>PREFERRED 1970 2.3/2.0  1960 1.9/1.1
+</p><p>Siegel & Zelnick 1966 on 1960 
+</p><p>**Coale and Zelnik** (1963)
+
+<br>Let's look at Coale & Zelnik values for 1900 ... pp 179-180 ... underenumeration rates of 7.6% male, 6.5% female -- for a 1.2%-point  SR-move toward male. 
+
+    The 1900 census ... the persons reported as age 15 were not the same cohort reported as age 5 in 1890. Rather, the 15 year olds in the 1900 census were born between June 1, 1884 and June 1, 1885, and were six months younger than those reported at age 5 in 1890.
+<br>So people counted in 1890 as age x were mean age x, but those in other census years were mean age x+0.5  -- so 1890s kids are actually 1/2 year younger ... and 1890age10 are 9.5 years older than 1880age0. And 1890 includes some kids not yet born in the 1880 count?
+</p><p>
+**Yasuba (1962)**  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
+</p>
+<p>Fertility     
+pp27-28 Yasuba uses Thompson & Whelton's approach: u5 counts + 5% + implied deaths (Mass Life Table) for 5yrs ending in census year. Then the 5yrs til the next 5yrs gives increase per 4 years, 1/4 of the increase added to shift to centred on census year.
+ 
+</p>
+<p>Index entries for underenumeration of children 19, 23, 26, 29-30, 34-35, 70, 97, 142, 180; NY births 123
+<br>      
+p19  In Chapter III, mortality records are examined to see whether differentials and trends in child mortality largely accounted for the differentials and trends in the birth ratios. It will be found that a part, but only a small part, of the differentials in the birth ratios may have been due to differentials in mortality. The child mortality rate in the United States may have increased in the few decades preceding the Civil War but not so rapidly as to explain to a considerable extent the fall in the refined birth ratio. Other factors which may have affected the birth ratios such as the extent of underenumeration of young children and the rate of increase of yearly births tended to mask the differentials and trends in the birth ratios.     
+p23  In 1850 and thereafter, the number of children under 1 was also reported but, owing partly to heavy underenumeration in this age class and partly to the desire for comparability of the ratios throughout th/e nineteenth century, most demographers have preferred to use the number of children under 5 or under 10. <NO CITES FOR UNDERENUM>      
+p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>     
+Yasuba assumes same 5% underenumeration of u5 for 1850-1920     
+
+pp29-30 5% underenumeration of u5  from Whelpton     
+pp34-35 Thompson & Whelpton / Grabill    
+p70 mention of underenum of kids    
+p97 U5 +5% for enum    
+p142 relatively large underenum in 1850    
+p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.     
+p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ...        
+p193 IM 79, 81   seems to suggest 1850 census mortality shows relative ranking of states in terms of u10 mortality (and therefore infant mortality?)
+
+<p>Yasuba Ch 3 Mortality pp73-101; mostly a waste of time for our project. His concern is extent to which birth-ratio patterns are from mortality (patterns are downward time-trend and regional differentials).     
+p73 1. Relative levels of Mortality in Different States and Territories    
+Blodgett, Seaman: mort higher in South (Seaman IMR higher in North)
+p74 sanitary conditions in cities in this country in the middle of the 19th C were bad. Numerous remarks by city officials and medical authorities on filthiness and overcrowding, deficient ventilation, improper drainage, scanty water supply and the resultant rage of infectious diseases and high mortality bear testimony to this.4 [n4 NOT CONVINCING -- see below NYC 1866 TENEMENTS; AMedA 1848 NO; Mass 1917 -- BOSTON urban penalty 1830-45;  generally, very vague allusions to hygiene and disease and mortality in these ...] <br>
+p74 life table constructed by Jaffe and Lourie  New Eng towns, NYC, Phil -- urban-rural mortality differential / Table III-1 "No mortality rate was computed for the age-class 0-4 but the extrapolation of the trend points to a still larger differential for it than for the age-class 5-9. <BUT: is that contradicted by English evidence (eg Reid & Hadish?) where early childhood mortality ECM is more sensitive to urban than is IMR?>
+<br> p75  J-L Life Table gives age 5-9 death rate in Bost-NY-Phil over twice that of rural Mass (12.5 vs 5.1) <br>
+census mortality evidence problematic because of random annual/geog variation (would want more observations to identify patterns). Underenumeration issues and debates. Kennedy -- census stats good for comprative mortality levels. p76 but DeBow 2 yrs later argues patterns reflect data quality rather than health (impossible to believe Mississippi a healthier State than Rhode Island, etc.)  ... <br>
+p80 white u10 death rates by state via census ... USA 20.5  Mass 38.5 RI 27.1  NY 25  MD 30.8  VA 14 NC 12 GA 11  Ohio 22 KT 18.4 TN 13.6  ALA 14.7     MS 16.1   ... he finds positive correlations with pop density, non-agric L, and urban (all simple correlations, not partial )
+<br> My view: we'd waste our time getting into the game of trying to discern meaning in census mortality data ... 
+<br>p87  2. Trend of Mortality, 1800-1860 
+p96 "it is likely that the death rate increased somewhat duirng the few decades preceding the Civil War." 
+</p>
+
+<p>**Okun**  p24 refers to Lee's use of life-tables and reverse survival ratios to estimate undercounts of 0-4 year olds. If life table says 15% of kids die, but only 5% die, then the undercounts are much overstated ... via life table, every 85 in 10-14 age group in t+10 census requires 100 kids age 0-4 in the t census ...  For 1870, Lee says 11.6% of kids (0-4) were missed.  Say Lee had 88% survivor rate and we think 94% is correct; 
+he sees 100  94  and thinks there should be 106.8; 100/106.8 is 93.6% -- he'd say undercount is 6.4% .  But that is all spurious ... <BR>
+If he has survivor rate of 84% and mortality is 1/3 that then we'd say no underenum. And isn't 10 year age overstated? And age 4 understated, by age-heaping?
+</p>
+
+
+Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (1963)
+
+Grabill et al (1958) p. 409 Some enumerators began the age count with 1 year according to the Compendium of the Seventh Census, so the 1850 Census may have had more misstatements of age of infants than usual.
+Jim *cannot find that point in the 1850 Compendium* (also *not* found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      
+       
+random 1850 MS census pages from NY  via surname Johnson NY-Kings i52-i60, list of u3 ages from those pages:   2 ] 2 1 ] 1 ] 1 ] 2 1 1 2/12 ] 1 ] 8/12 1 1 ] 1 1 1 8/12 ] 2 2 [60]     
+So we see 5 2-yr-olds, 11 1-yr-olds, 3 infants ... seems suspicious; let's update that?
+
+Butler county Ohio (via john wright, Ohio, born 1830) u3: i70 3/12 2 10/12 i71 2 1 2 7/12  i72  2 1 1/12 --  so that enumerator(A D Keay?) used <1 yr
+
+      
+p97 (Grabill or Yasuba?) To estimate the number of births, first, the number of children under 5 was increased by 5 per cent in order to allow for under¬enumeration ; the number of children aged 4-9 was left unchanged. ... In 1920 the census was less complete than usual at all ages, partly because of enumerator-recruitment problems.     
+p410 In some censuses it was noted that the number of children in the first 2 years of age was much less than the numbers at ages 2, 3, and 4 , al. though fragmentary birth statistics pointed to rapidly increasing annual numbers of births . Thus, the existence of an undercount of infants was " obvious" from data on population by single years of age in some censuses taken in a time of rapid population growth . Such an undercount was noted as early as 1850, when the first tabulations of population by single years of age were made for the United States.     
+Ji looks at 1900 census special report; there argument for improved age coverage in 1900, problem in 1890 due to "closest birthday", and suggestion that 1880 looks better. But all in all Ji continues to find that the key is the SR values and not the magnitudes ... (i.e. absent SR much different for the cohort 10 years on, we can relax)
+
+
+Whipple (1917), *State Sanitaton. A Review of the Work of the Massachusetts State Board of Health* (2 vols).  pdf16 TOC says Part II Report of the Mass Sanitary Commission of 1850 <pp241-370?> ; Appendix p350-367 interesting misc, with some from France and elsewhere 
+<p>p239   Part II Report of the Mass Sanitary Commission Lemuel Shattuck, Nathaniel P. Banks, Jr., Jehiel Abbot, 1850
+<br>pp -259  The Sanitary Movement Abroad
+<br> p260-  The Sanitary Movement at Home
+<br> p267-  Sanitary History of the State <covers 1618-
+<br> p276 Boston smallpox table 1721, 1730, 1752, ... 1778, 792  Mortality drops from 3+ per 100 population to 1 as innoculation takes charge
+<br>p280 1819 yellow fever in Boston; June 30 - Nov 1.  p282 1831-32 Boston Asiatic cholera, scarlatina, typhus. 
+<br> (still p282) For the last 40 years, ... less definite information ... than in previous periods
+<br>p283 To complete this general view of the sanitary condition of the state ... we have compiled from the Registration Reports, from the "Bills of Mortality" of Boston, and from other sources ...  p284 mortality by age-group for Boston and for Concord & Worcester (MA) & Amherst (NH) for 1826-1835 in comparison to census pops of 1830. records of those towns "supposed to be full; and though not the healthiest, may be considered, among the country towns, of about an average health."
+</p>
+<p>Tables present annual mortality rates (%) for age groups, U5 rate for "country towns" is 3.05% for 1830;  about 1/2 of 1830 Boston's 5.96%; 2/5 of 1840's 7% and 1/3 of the 1845 figure for Boston.
+<br>No SR for towns, but 1845 Boston's SR5 is 100.3 (n=14k 75% CI +/- 1.9).
+<br>Look ahead to 1860 Suffolk Co and SR5 is 99.7 (n=44k 75% CI +/- 1.5)
+<br>Do note that mid-19th-C Boston is small (1890s it reaches 1/2 million). 1850 to 1860 Philly jumps from 121k to 565k. 
+</p><p>Figure 8 graphs survival by age; roughly, the proportion who die by age 5 for groups is:
+<br>
+55% Boston Catholics; 35% Bostonians; 12% in Newton; 10% in England.
+</p><p>p287 claims mortality rising, "the average duration of life is not as great now as it was forty or fifty years ago" </p>
+p308 interesting remark about Boston's $5 million structure to bring water from Lake Cochituate, 19.5 miles away, "affords to every inhabitant an abundant supply of water of the best quality"
+p319 recommend institutions be formed to educate and qualify females to be nurses of the sick.
+**Looking for comments on registration quality* -- not found.
+<p>Annual Report of the Resident Physicians of the City of New York for 1865 (1866) p.7  "necessity of some legal enactment by which the construction of all tenement-houses, with special reference to limiting the number of inhabitants and the ventilation, shall be placed under the regulation and direction of some properly qualified sanitary inspector.
+<br> <new para> At present  most of the ten-hou in this city are absolutely unfit for occupation;   ventilation ... they are pest-holes that breed typhoid and typhus fever ...
+</p><p>Communication on Hygiene in Transactions of the AMA  "the more compact compact society becomes ... the more manifestly these causes develop themselves; hence densely populated cities present the greatest complication of these evils"  ... deficient ventilation, improper drainage, accumulation of filth, and a scanty supply of water, ... powerful predisposing causes of diseases, and that when conjoined, they cannot fail to produce a high rate of mortality. This is the theory; .. bad sewerage, a bad supply of water, ... accumulation of filth, ... wherever the commissioners of sewers have not been, there fever is prevalent;
+</p><p>SHattuck (1841).  pdf15-16 (p383-4) pdf15 increasing mortality ... nursing and feeding of children with improper food ... bad air in confined, badly located, and filthy houses, ... Epidemic diseases which are particularly prevalent among children have increased.  scarlet fever  13% of deaths ... Other infantile diseases have also increased. ... greater mortality in prevailed in certain localities, and in certain classes  pdf16 "families crowded into houses in Broad street, Ann street, and other densely populated parts of the city, render the air very impure, and expose the lives of infants, who are compelled to breathe it, to almost inevitable death.  ... epidemics are generated ...
+<br> pdf p10 (p368?) has decadal deaths by sex and single years of age. Maybe useful if combined with an assumption on SRB?
+<br> pdf11 table shows u5 %rate of mortality 1811-20 33.64%  1821-30 37.04%   1831-39 43.09%
+
+</p>
+
+ap to Mostly Ignore (even if we cite it) ###
 <p>Costa & Kahn (2015 AER-P&P) 1900-1930 p564 The urban mortality premium relative to rural areas in 1880 was ten years in Philadelphia (Haines 2001).  ... We will show that between 1900 and 1930 neighborhood convergence took place in New York City and Philadelphia such that infectious disease death rates in the highest baseline death rate areas declined by more than in the relatively safer areas </p>
 	<p>Cain & Hong [(2009 EEH)](https://doi.org/10.1016/j.eeh.2009.05.001)  "Survival in 19th century cities ..." 		Although it is widely known that, during the 19th century, life expectancy was substantially lower in cities than in rural areas, ... differences ... survival rates and proportional hazard ratios across urban sizes and rural environments are less well understood.1 <br>
 				n1 For example, Weber (1899) JIM? reported life expectancy at birth in the cities of Massachusetts was almost seven years less than that in the state as a whole. See also Condran and Crimmins (1980) RURAL/URBAN 1890-1900, Glover (1921) LIFE TABLES 1890-1910, Haines (1977), United Nations (1953) UNSURE, Vinovskis (1981) and Woods et al. (1988) ENG-WALES.
@@ -2408,7 +2727,7 @@ p7 interesting on errors in counts
 p180 One strategy for influencing the sex ratio that has recently received attention is maternal diet during pregnancy, based on work with experimental animals. This review focuses on these influences, summarizing some of the relevant work in experimental animals and the few human studies that exist as well.     
 62 articles included 11 reviews and 51 original articles, mostly animal and human intervention studies    
 p181 . Several studies suggest that female mammals that have healthier diets and nutritional status may produce more sons than daughters.34 <34 is  Franzek EJ, Roozen HG. The effects of malnutrition in a human population on addictive behavior and sex ratio at birth. Eur Psychiatry. 2011;26(S2):2015 -- that is a bizarre 12 line abstract-like item, reporting prenatal famine link to substance abuse as adult. Nothing for us   > 
-... A study infemale mice in 1995found that, with intermittentfeeding and energy restriction, less male offspring were delivered from dams deprived of food every other day or every third day.33 However, other studies did not show similar effects.35   An earlier study on mice also found that the sex ratio skewed toward females, with less male births resulting from diets with reduced amounts of fat or reduced total energy intakes.42 I
+... A study in female mice in 1995 found that, with intermittentfeeding and energy restriction, less male offspring were delivered from dams deprived of food every other day or every third day.33 However, other studies did not show similar effects.35   An earlier study on mice also found that the sex ratio skewed toward females, with less male births resulting from diets with reduced amounts of fat or reduced total energy intakes.42 I
 
 
 
@@ -2668,9 +2987,6 @@ MIXED FINDINGS FOR OUR VIEW (some are nonsupportive, not falsifying -- they get 
 The prediction that females in better body condition would produce more male than female progeny has been observed in red deer [14, 22, 23], roe deer [24], mature ewes [25], reindeer [26], Barbary sheep [27], domestic pigs [28], and a number of other species, although there are exceptions [13, 29]. Dairy cows, but not heifers, on a high plane of nutrition give birth to proportionately more bull than female calves than cows on a poorer diet [30]. Repeat breeder cows, i.e., ones that have problems becoming pregnant by artificial insemination, also tend to produce more males [31]. The data on roe deer [24] were obtained with farmed animals on a diet controlled for low- and high-energy intake by varying the oil content. In that study, 75% of the calves born to the high-energy does were male, while the low-energy group produced only 46% males. Most other studies have been performed on wild populations, which are less well-controlled.
 
 Kruger & Nesse (2004 Evol Psych). [Sexual Selection and the Male:Female Mortality Ratio](https://doi.org/10.1177/147470490400200112) Daniel J. Kruger, Randolph M. Nesse. January 1, 2004 Research Article  Gender discreps in mortality across ages (and time/place)  Mentions epidem transition away from child/childbirth/infection death to later age death<br> 
-
-P
-
 
 <p>
 2 articles by Cagnacci et al, and comments by Jongbloet -- a set not worth our attention for SSMM ... <br>
@@ -2954,7 +3270,7 @@ Vaupel, J.W., K.G. Manton and E. Stallard. 1979. The impact of heterogeneity in 
 [back to top](#TOC)
 
 
-<a name="IMR"></a>
+<a name="IMRsect"></a>
 
 ## Infant Mortality
 
@@ -3080,6 +3396,7 @@ Wizemann&Pardue2001ExploringBioHumH_SexMatter.pdf   p22 example of how 2 x-chrom
 
 #### IMR  
 
+#### Excess Male Mortality ?
 
 Drevenstedt et al [2008 Proc NAS](https://www.pnas.org/content/105/13/5016.short) on excess male infant mortality, claiming it was only 10% in 1751, rising to >30% by 1970ish, then falling. Seems a mess for missing importance of level of IMR for relevance of sex-differential in IMR To us, exagerates importance of the early Sweden "data"
 
@@ -3144,6 +3461,18 @@ Guillot M, Gerland P, Pelletier F, Saabneh A (2012) Child Mortality Estimation: 
 
 Model life tables for both sexes combined are obtained from sex-specific model life tables by calculating a weighted average of male and female values of 4q1 predicted at a given level of 1q0 while assuming a sex ratio at birth of 1.05.    
 In this paper, we focus on the relationship between 4q1 and 1q0, instead of the relationship between 5q0 and 1q0. The relationship between 5q0 and 1q0 is a byproduct of the relationship between the 4q1 and 1q0. Indeed, the three indicators are related with one another through the equation 5q0 = 1−(1−1q0)(1−4q1). We decided to focus on the relationship between 4q1 and 1q0, because these two indicators have no age overlap, which generates more variance and makes patterns of deviation easier to detect.
+
+WoodsRo 1993 Pop Studies  "On the Historical Relationship Between Infant and Adult Mortality"
+p216 The relationship between infant and early  childhood mortality remains intriguing. Clearly it is not easily predictable when life  expectancy at birth is low, and may display considerable geographical variation.     
+p217  implications in these investigations of pre-transition societies with high mortalities for theoretical debate still in progress among statistical  demographers over the most effective, and thus parsimonious, way to summarize the  entire mortality curve.37 The three indices used here - IMR, ECMR, and e20 - would all  seem indispensable, since each one captures a distinctive aspect of the mortality pattern  and their empirical interrelations clearly were not predictable in the past
+
+
+van de Walle 1986 in Coale & Watkins (book: *The Decline of Fertility in Europe*)   
+p203 For example, in most of Bavaria during the last half of the nineteenth century, nursing was avoided and high mortality and high fertility went hand-in-hand (Knodel, 1968)     
+p207 There seems to be unassailable evidence that the decline of child mortality was faster than the decline in infant mortality during the last quarter of the nineteenth century;
+p215 In sum, the exact date of decline in infant mortality is difficult to pinpoint because of irregularities in its course and because of scarcity of documents prior to the last decades of the nineteenth century. Before the general massive drop in this century, there were wide differences in levels and trends of infant mortality among European regions, among countries, and within each country. 
+
+
 
 ### IMR as indicator ###
 
@@ -3218,8 +3547,6 @@ Infant mortality in France 1750-1950
 
 Kytir & Munz Infant mortality in Austria - 1820-1950
 
-
-van de Walle 1986, "Infant Mortality and the European Demographic Transition" in Coale & Watkins) JIM REVIEW for URBAN PENALTY
 
 
 Dyhouse (1978 JSocHi)     
@@ -3338,6 +3665,11 @@ Klasen (1994 World Dev)  For SBR rising with income/SES and for West Life Table 
 Coale [(1991 Pop Dev Rev)](https://www.jstor.org/stable/1971953). Excess female mortality and the balance of the sexes in the population: an estimate of the number of" missing females"
 
 #### "Missing women" articles
+
+2021 Sex ratios and gender discrimination in Modern Greece (Francisco J. Beltrán Tapia & Michail Raftakis) [Pop Studies 2021](https://www.tandfonline.com/doi/pdf/10.1080/00324728.2021.1923787?needAccess=true)
+<br> p5Before considering the relative numbers of boys and girls in the Greek censuses, it is important to note that child sex ratios in the past are not comparable to contemporary ones because mortality levels during infancy and childhood have a direct influence  on sex ratios in these age groups. Due to the survival advantage of females, harsher environments are especially deleterious to boys (especially during the first years of life), thus increasing their relative mortality and resulting in lower sex ratios. Following the estimation in Beltrán Tapia (2019, pp. 5–6), Figure 2 plots the available information on infant mortality and child sex ratios (ages 0–4) in European countries between 1750 and 2001 and illustrates the negative relationship between these two variables. According to these estimates, infant mortality of slightly below 200 deaths per 1,000 live births (in line with the values reported for Greece during the second half of the nineteenth century [Valaoras 1960, p. 132]), should yield child sex ratios of around 101 boys per 100 girl
+
+
 
 Echavarri (2021 Cliometrica) OUCH -- weird piece, increased SRB with war attributed to sex-discrim.  
 "Neonatal discrimination and excess female mortality in childhood in Spain in the frst half of the twentieth century" <br>
@@ -3499,6 +3831,16 @@ Shahar (1990) *Childhood in the Middle Ages*   via HarrisBe (1998 in Komlos+) fe
 Tabutin Dominique, 1978. La surmortalité féminine en Europe avant 1950, Population, vol. 34(1), p. 121–147. Jesse will cover this in his France discussion.
 
 Russell josiah cox (1948) British medieval population pp147-154 via HarrisBe (1998 in Komlos+) obliquely suggests female infanticide ti explain rising SR 1250 to 1348 and 1430 to 1545
+
+### Other Items about Missing Women and Female Infancticide
+
+Caldwell (2006 bk Demographic Transition?) Ch 2 is fascinating … for me raises question of whether low IMR in high-density populations would tend to foster infanticide (as population control), and if so, it is female infants who will be victims (because one less fem is one less set of kids, but one less male is just one other male fathering the kids?) … also Weyer??? – Ji looking soon …  (oops – read too much of Ch 2: my conclusion is that homosexuality is all that a pre-contraceptive society needs to avoid demographic disaster – Caldwell says of Malthus “postulating a constant passion between the sexes, he argued that it normally led to so many births that population would have grown had it not been constrained by mortality driven by a shortage of food … ). Fascinating! 
+
+Balikci (1967, 1970) reported on the Canadian Eskimos, drawing on his own fieldwork in the 1960s and, for the earlier precontact period, on the relatively inaccessible reports of Knud Rasmussen (1931) and data from the beginning of the twentieth century assembled by Weyer (1962) on sex ratios among children.  Balikci (1967, p. 622) concluded that “Female infanticide is a vital part of the society’s long range ‘family’ population policy.” Infanticide was based on ad hoc decisions within the family, there being no fixed rules, and no community involvement other than that the practice was accepted. Later he concluded that the reasons were food shortages and, in the case of female infanticide, the need to balance the numbers of the sexes in the adult marriage market, depleted by the high mortality of males during hunting (Balikci 1970, pp. 150–3). In the last 30 years Balikci has become the most frequently cited authority on Eskimo population control although nearly all his data on the subject are drawn from earlier sources. Weyer 1962: via internet archive, p134 CSRs of -20% to -40% (excess boys) in very small populations, presented as evidence of female infanticide (for population control?)
+
+
+
+
 
 
 <a name="LANG"></a>

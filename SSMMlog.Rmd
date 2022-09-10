@@ -13,8 +13,6 @@ output: html_document
 
 #### alive RDS files    
 
-
-
 1910 DS1910.RDS is u5g u5b & u1d   -- 19 solo with 100k kids; 
  * could add small PA cities for 1905 to fill in missing PA 1905 value 
  
@@ -24,6 +22,63 @@ u5CEAtots.RDS regions of US, and US, decenially 1840-1950
 
 ### current log ###
 
+
+2022.0907 emma Griffin's book Breadwinner looks promising -- re;henry George progress breeds poverty; also IMR in Engl ...
+
+2022.0827 Jim sees MinnStP not included -- leave for now or fix? If fix MN urban will be "all" and not "white" ---  just need to use NYC/Brooklyn sort of code to get MnStP together
+
+2022.0826 we were using google docs to track our work and try to finish HSUS. Looking ahead -- might be worth breaking out Suffolk Co from Mass totals?
+
+2022.0808 Ji trying to clarify VS data available to corroborate/challenge 
+
+2022.0730 
+Ji sees 1921-28 IMR as roughly OK/credible; but the entries to BRA have a little higher IMR.  1921 65% included (in 1930 VS, 1921's missing states have IMR 8% above non-missing).        1927 88%  1928 94%  1933 100% (Tx added) IMR 52.8 and w/o Tx 52.3  
+1920 BRA white IMR was 82   -- just the 1915 BRA states together had 1920 IMR of 90 -- the apparent decline is from 99 to 82 but it would be just within the 1915BRA ... 
+
+2022.0725 Ji notices JPE paper^[https://www-journals-uchicago-edu.cmich.idm.oclc.org/doi/10.1086/717455#sc5] with structure of a lengthy "Introduction" of 15 paragraphs summarizing the paper, then data, results, and conclusion of 1 paragraph. 
+
+2022.0724 Ji starts to check older IMR data, b/c 1910 disparages birth counts ... 1910 MI compared to MA suggests MI births undercounted such that true IMR is 100 vs measure 125?
+
+2022.0720 Ji finds 1910 IMR for reg states and some cities.  1910 fpUms?   But indications the births data are bad (but MI births good starting in 1906, says MI). Overall, some confusion about which data are sound ... 
+
+2022.0717  1890 reg states  CT DE DC MA NH NJ NY RI VT
+
+1890 VS white IMR
+NJ white total 115   urban 136  rural 82      ... 
+NY white total 104   urban 125  rural 60    ...   1900   143  urb 163  rur 95
+NYC white IMR 1880 LT 220 ;  1890 VS 137  ; 1900 VS 168  
+p596 Table 1, VS,
+
+2022.0714
+
+ 4Life-table estimates are known to be poor for infant mortality -- cites!
+ Fig 3 -- expand Y axis (IMR 0 to 300 )
+
+2022.0713    close of day, Ji got sidelined with 1880/1900 IMR u5dr comparisons for MA and NJ  ... punchline: in MA & NJ, the 1880 and 1900 IMRs were likely similar. Worsening IMR comes from urbanization elsewhere?
+
+Mass 1855?        R&R guys on IMR - Kerala -- seems to be Riley, citing Caldwell
+
+The SR1 is determined by two, additively separable terms -- "determined" or "reflects"
+
+2022.0712  NJ 1880 enumeration of deaths by age groups (compared to registration record):
+
+2022.0711 clarify 1940 pop values --
+
+2022.0710  Ji searches for statements of consensus on IMR -- answer is, there is almost no attention to US IMR; instead vague statements about mortality transition (often saying transition from last 1/4 of 19C -- probably inconsisent with Fogel etc heights&e10 )
+
+2022.0708 
+check on South Africa data via Cornell guy paper ...
+ To confirm: we've got 1901 & 1910 DC, IN, MA, MI, NJ, NY, and Bost, Chic, NYC, Phil from 1910 census life tables
+Mass SR:IMR  now uses cenVol and not fPUMS.  1890 was in error in U5.rds
+1870 avg is 0.004 more fem; 1880 avg is .001 more fem; 1900 is .002 less fem;
+
+2022.0706 moved discussion rural/urb u1dr:SR (conclusion was to stick to state aggregates, due to apparent urban-birthing).     
+1900 rural/urb u1dr:SR may prove problematic: I (Ji) predict rural SRs will suggest higher IMRs than are suggested  by  rural u1dr (due to urban-birthing). More generally, likely we cannot distinguish between two sources of low u1dr in rural data: low IMR and urban-birthing. So high u1dr in rural areas circa 1900 would be interesting (strong evidence of high IMR); but low rural u1dr uniformative. And for both rural and urban, variation in urban-birthing is likely to mess with the observed  u1dr:SR relationship. Urban u1dr will tend to look high relative to the urban SR; rural u1dr will tend to look low relative to the rural SR.  For example, MA in 1930, urban/rural values: u1dr 95/33, SR -3.1/-3.3, IMR  66/67  Here SR:u1dr relationship is driven by urban-birthing (I suspect).  So for me, we are left with one-sided signals of IMR – high rural u1dr signals high IMR; low urban u1dr signals low IMR.    
+1880 u1dr values are quite high, as expected (mostly between 170 & 260 ); fun question is how they compare to 1900!!! answer: we only have city data for 1900; and the 1900 u1dr values for cities are generally much LOWER than those for 1880. That said, US urbanization goes from 30% to 40%, and with an urban penalty, a declining urban IMR easily could leave 1900 IMR above 1880 IMR … 
+
+
+
+2022.0705   1920 im:sr looks ready ...
 
 2022.0703  status as Ji leaves for Peterborough.     
 SRimr1900.RDS has single-year SR:IMR pairs ready for plotting (aggregation/geog consistency is done)     
