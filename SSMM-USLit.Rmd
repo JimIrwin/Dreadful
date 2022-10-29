@@ -1,0 +1,763 @@
+---
+title: "SSMM-USLIT: US & Canada Literature for SSMM/CSR Project "
+author: "jri, with jrm"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+  
+<a name="TOC"></a>
+
+# to look at: #    
+
+ ... 
+ 
+## TOC
+
+<p> [USA](#USAsect) [US mortality](#USAmort)   [Canada](#CANmort)  </p>  
+
+
+<a name="USAsect"> </a>
+
+### USA
+
+US econ growth (for HSUS paper)
+
+Mitchener & McLean offer price-adjusted regional pc income relatives, 1880 1900 1920. Not susbtantial, so we can ignore. Effects of adjustments:   
+NE 1880 144 to 141; 1900 139 to 137 ; 1920 132 to 133    
+MW 1880  97 to 103; 1900 103 to 109 ; 1920 101 & 101    
+Sou 1880 54 to 55;  1900 54 & 54  ; 1920 64 to 63    
+West 1880 190 to 166; 1900 153 to 138 (no longer above NE); 1920 124 & 124
+Biggest impact on Pacific -- 
+NewEngland 1880 140 to 134;    
+
+Margo (1999 EEH) finds real wages higher in MW than NE  p139 MW/NE Common L 111.4%, Artisans 124.4%
+
+
+<a name="USAmort"> </a>
+
+### Mortality Transition in USA (see SSMLit.html for Mortality Transtion more generally)
+
+Anderson, Charles, Rees (2022 AEJ:AppEco "Reexamining the contribution of public health efforts to the decline in urban mortality"      
+Since the mid-nineteenth century, mortality rates in the Western world have plummeted and life expectancy has risen dramatically. Sometimes referred to as the mortality transition, this development is widely recognized as one of the most significant in the history of human welfare (Fogel 2004).     
+See also their [Cato research brief](https://www.cato.org/research-briefs-economic-policy/public-health-efforts-decline-urban-mortality)
+
+
+Bleakley, Cain, Hong (2018) in Oxford Handbook
+Table presents e0 and IMR from HSUS (with discussion of AB puzzle, then emphasis on 20C general improvements )
+
+The primary advantage of sanitation improvements was manifest in a substantial decline of mortality rates during the late nineteenth and early twentieth centuries, the fastest rate of decline in American history
+
+
+
+Costa (2015 JEL)   about the "health transition" in the US
+p504 Concurrent with the increase in life expectancy and height since the 1880s  <e10 not e0>    
+p505  Together, the trend and microdata imply that unhealthy conditions can
+outweigh the positive effects of income (as <p506> seen in figure 1 for the 1830s to the 1880s),    
+p507    ... Cutler, Deaton, and Lleras-Muney (2006) argue that the history of mortality reduction from the mid-eighteenth century to the present encompasses three phases   ... mid18C to mid19C, late 19C to early 20C public health, since 1930s big medicine
+
+ ... Easterlin (1996), examining the links between the mortality transition and economic growth, concluded that while modern economic growth and the rapid decline in mortality stem from the same root causes <p508> that is, the explosion of science and technology in the last three centuries, the mortality revolution was not due to economic growth. It was instead due to public health interventions that were dependent on scientific knowledge and techniques and on government action to overcome information failures, externalities, and principal–agent and free rider problems. 
+
+p517 plots heights, from Bleakley, Costa, and Lleras-Muney (2014) -- so no shading of extrapolation from national guard (n7 acknowledges extrap)      
+
+
+Troesken (2015 Pox of Liberty) Ji: Troesken's cites for Mort Trans are weak      
+The mortality transition took place during the late nineteenth and early twentieth centuries, when the United States (and other parts of the world) witnessed remarkable and historically unprecedented improvements in human health and longevity. 20^[Haines 2001 BUT THAT IS URBAN Mort Trans; see also James C. Riley, 2001-ok ] Between 1850 and 1950, life expectancy at birth among whites increased by 75 percent, growing from 39.5 to 69. Among nonwhites there was an even larger increase, with life expectancy more than doubling, rising from 23 to 60.8.21^[HSUS Ab644-45 --Haines 1998] It is sometimes argued that the American mortality transition took place between 1900 and 1950, a time frame that saw American life expectancy among whites rise from 49.6 to 69. For nonwhites, life expectancy rose from 33 to 60.8.22 (ibid)
+
+Bleakley, Costa, Lleras-Muney (2014)  "Health, Education, and Income in the United States, 1820–2000" 
+p122 
+p135 shows Costa & Steckel height plot (but shades in the 1870s-1900 extrapolation; -4cm height decline 1830s-80s  1890-1950 +6mc)  ... e20 1800 ~47 down to ~41 in the 1850s ... recovery by 1900  ... After the 1880s, American men experienced the familiar secular increase in stature of recent times ... < +6cm by 1950 >  This large increase in heights occurs at the same time that life expectancy and health are rising substantially <via heights, it's 20C, barely any in the 19th C, maybe 1890s?>
+
+Floud, Fogel, Harris, Hong (2011 CUP), *The changing body: health, nutrition, and human development in the western world since 1700*     
+
+Moslty use/pitch the U shape 1800 to 1900 ... But can be read as 20C for US mort rev (not before)
+
+p296 Although there is a continuing debate over the impact of industrialization on the standard of living in the short to medium term, it nevertheless laid the foundations for the long-term improvement in both health and living standards of the population since the end of the eighteenth century.     
+p297 This ecological environment was so beneficial that Americans of the period were relatively better nourished and healthier than European populations throughout the colonial era even though the sophistication of American agricultural technology and medicine was far behind that of England and western European countries    
+p298 However, the average height of native-born American males shrank by about 4.4 cm between 1830   and 1890; the life expectancy at age 10 of American males followed a pattern similar to that of  heights, but began to decline earlier, during the 1790s, and continued to do so for about half a century (Figure 6.1).3 During this period, the overall change in stature and longevity was contrary  to the expectation for a period of rapid economic growth.4 This trend has been a much-studied issue in the fields of economic history and historical demography. 
+Many studies have looked for its fundamental cause within demographic change over the nineteenth century. With burgeoning agricultural technologies, Americans were able to produce more foodstuffs throughout this puzzling period, but the increase in agricultural productivity did not keep up with the rapid growth of the population and its food demands. Migration and urbanization led to sanitary problems and accelerated disease contagions. People required calories for combating diseases and intensive labor, but per capita food intake was  <p399> limited.   
+p399 limited. Consequently, the elimination of chronic malnutrition and secular improvements in population health – death and sickness – would not be realized until the beginning of the twentieth century,  when modern technologies in food production, work conditions, and disease controls began to be established.
+p316 The estimates in Table 6.6 then indicate a considerable decline in diet after 1840; the 1840 level was not recovered until 1870.19      
+p326 So far we have explored various disease environments that Americans suffered and died from in the past. How could they then conquer those infectious environments and the high risk of mortality?  Previous research has emphasized two main points: improvements in diet and improvements in sanitary reform. The role of diet was first suggested by Thomas McKeown. He argued that the decline of  mortality after 1700 owed more to improved diet and increased standards of living than to medical interventions or targeted public health reforms
+p332 . In particular, the 1880–1900 cohort seems to have been well fed, but their heights were among the shortest since 1800    
+p333 IMR:height points for 1850-1880 are way out of synch with 1910-1950
+
+
+
+
+Hacker (2010 Hi Methods -- Life Tabs)  p45 (abstract) "The resulting decennial life tables more accurately represent sex- and age-specific mortality rates while capturing known mortality trends.”   **known mortality trends**
+p45 As discussed in more detail below, recent research indicates that earlier assumptions of long-term mortality decline are in error. Mortality increased significantly in the mid-nineteenth-century United States before beginning its long-term decline.      
+p46 again "capturing known mortality trends."     
+p76 In addition to capturing known mortality trends not reflected in existing life tables, they more accurately represent the likely sex- and age-specific profile of nineteenth-century mortality     
+
+Despite concerns about selection and censoring biases, it is clear from recent studies that mortality increased significantly after 1830 and remained relatively high until the 1870s
+
+
+Ferrie & Troesken 2008 EEH  Chicago water ... mortality decline 1870 onward
+The empirical estimates suggest that between 35 and 56 percent of the mortality decline that
+occurred in Chicago between 1870 and 1925 was related to water purification and the associated eradication of
+typhoid fever
+URBAN mortality transition -- timing of which they affirm Haines 2001
+
+2005 Beemer, Anderton, Hautaniemi Leonard (JHiMedAS) Sewers in the City: A Case Study of Individual-Level Mortality and Public Health Initiatives in Northampton, Massachusetts, at the Turn of the Century
+
+
+Haines (2000 in Camb Ec Hi of USA vol 2) uses his IMR estimates
+
+Costa & Steckel 1997 (heights, graph that is later used by Bleakley et al.)  Plot shows heights increasing from about 1890 (but that is via Ohio National Guard extrapolation)
+
+Fogel 1993 HiMeth for mortality declines resumed in the "last quarter" of the 19C     
+
+Pope 1992 p270 There seems to be a consensus that mortality diminished in the late nineteenth century-certainly after 1880.
+
+
+Fogel 1986  Between 1700 and 1980 there was a decline of about 35 points in the standardized American death rate (see table 9.1). Between the same years, the British rate declined by about 21 points. About 70% of the American decline and about 50% ofthe British decline took place before 1911.     
+p465 plots e10 : declining 1790-1860, uptick 1865, 1870 then missing until 1900 (not just USborn in new series)
+
+Easterlin via Keyfitz (life tables e0) has 1870s take-off of e0 <which he views as too late for MEG causing increased e0; likely with better data he would be fine with our tendency to see even later mortality improvements>
+
+### Infant Mortality in the US  (US IMR)
+
+consensus: high IMR (~200) in mid-19th C -- wide but shallow ... 
+
+e.g Alsan & Goldin JPE 2019  p587 From 1870 to 1930, life expectation conditional on reaching age 20 changed little, but infant mortality plummeted from around one in five to one in 16 white infants for the United States and Massachusetts, and deaths of noninfants under 5 years decreased by a factor of seven in Massachusetts (fig. 1).1 Why the rapid change?   FN1 includes The historical literature on US infant mortality includes Cheney (1984 -- Philly IMR decline after 1900), Preston and Haines (1991 NOT IM, but hint at 1876-1896 mort improvements), Condran and Lentzner (2004 NYC & Chic Q4 of 19C), and Condran and Murphy (2008 _ PHILLY 1870-1920, but when does IMR decline??? ).
+
+
+
+Condran & Murphy 2008 SSH Philadelphia  "universally noted and deplored levels of mortality of large cities in the second half of the nineteenth century"  p493 infants as % of deaths falls from 40+ % in early 1870s to mid-30% in the 1880s and 1890s, then across 1890s falls to under 30% by 1900 and 22% by 1915  p520 "the incontrovertible decline in infant mortality in the 50 years we have examined." VERY DIFFICULT TO SEE WHAT HAPPENED TO IMR 1870 to 1890. u1deaths/deaths does decline; some hint that u1d/pop (total) decreased a little 
+
+Condran & Lentzner 2004 JIH NYC Chicago NewOrleans  URBAN IMR declining 1875/1900
+317 an index of the seasonal peak in mortality for three age groups under age five.   p318 e.g. NY July often double the monthly average; p333 general notion that the growth of cities adversely affected the life chances of children, but that rapid improvement in health conditions during the last quarter of the nineteenth century considerably altered the picture for the two larger cities.
+
+Alter (1997) four distinct period:  ... 2. The nineteenth century. Little can be said with certainty about infant and child mortality during most of this century.  ... Steckel (1988) child mortality via families linked across  1850 1860 census JIM: Use 1855/60/65/70/75 NY censuses?    
+p97 various IMRs Meckel 1990 NY 1885+ is 248 ... 1900 183
+
+
+Preston & Haines *Fatal Years* (1991) don't offer q0 -- just q5; "infant mortality" is not an index item.    
+Their white q5 is 161; But then Haines 1998 Life Table for 1900 has that value for q5 and it has q0 of 111 (properly understood as 1896?). Hacker's life tables for 1890-1899 imply white q5 173 and q0 121    
+p67 If we make the reasonable assumption that the West model life table system pertained in the period 1880-1900 roughly as accurately as it did in 1900, then children of older women were clearly subject to higher mortality conditions than were children of younger women. <new para> These estimates thus suggest that a substantial reduction in child mortality occurred prior to the census of 1900, an implication consistent with some of the research cited earlier in this chapter.
+
+Cheney 1984 Phila  -- IMR improvements after 1900
+p569 The seasonal mortality patterns of one year olds seem to have undergone major changes during the last quarter of the 19th C  .... clear-cut steady decline in August ratio in the 1870s        
+ For infants, the major portion of the decline is seasonal levels occurred during the 20thC
+p581 1880-1900 second stage of transition away from yearly summer diarrheal epidemics, a more gradual decline occurred in infant and 1yrold mortality levels. The decline was much less distinct than that observed for one year olds during the first stage or for infants during the third stage.
+
+Condran & Cheney 1982 q0 estimated from 1q4 and C&D South model -- find IMR declines from 174 in 1870, to 160 in 1880, 153 in 1890, 137 1900, 120 1910, 96 1920, 75 1930       
+BUT: Cheney 1984 finds 1q2 falls before 1900, but 0q1 does not  -- so their model life table extrapolation seems specious ...
+
+Glover life tables for US     
+Indianna 1901 1910   124-130  p124 qm 111  qf 95.6  ~ 103  ;   Mich 144  qm 113  qf 91.4   ~ 102
+
+
+#### HSUS
+
+Table Ab1-10 Table Ab1-10 - Fertility and mortality, by race: 1800–2000; Series Ab9-10 "Infant mortality rate White Black" from Ab921 & Ab923
+Series Ab9–10. 1850–1990: from series Ab921 and Ab923, except that series Ab10, 1850, is from Richard H. Steckel, “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History (Winter 1986): 427–65. 1999: Statistical Abstract of the United States, 2002, Table 98.   <Weird: the 1850 value is given in Ab923; 921 white 923 black> 
+
+footnote 2: For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively.
+
+So there is some confusion about the HSUS values for 1900 and 1910 ...
+
+Haines essay (Chapter Ab Vital Statistics)    
+  ... One consequence of the lack of vital registration data before the early part of the twentieth century has been a resort to special estimation techniques and indirect measures of fertility and mortality to gain insight into the demographic transition of the nineteenth century. Most of the statistics presented are simple tabulations or standard demographic rates. However, a number of the newer findings arise from application of rather sophisticated techniques (Preston and Haines 1991; Haines and Preston 1997; Haines 1998a).     
+ 
+p 1-388 has plot of IMR, from series Ab921 & Ab923 Those series sources are listed as   
+     
+      For the total and white populations for 1850-1910, and for the black population for 1900 and 1910, Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998): 149-69.
+   
+Ab921 1850 216.8  /  1860 181.3  /  1870 175.6  / 1880 214.8      
+ p158 q5-9 31.8   p159 q5-9 26.9 /  24.9      / q5-9 30.2  
+   
+####   Haines (2006 HSUS) vital stats essay :    
+p 1-382 "The infant mortality rate on an annual basis for Massachusetts for 1850–1998 is found in Table Ab928. Massachusetts is the state with the longest reliable series of annual birth and infant death data." 
+p 1-385 "The Massachusetts data reach reasonable quality by about 1860 and are reproduced here in Tables Ab928 <IMR> and Ab1048–1058 <Mass death stuff>.      
+Haines (1998) says Mass vital stats "achieved relatively good coverage by about 1855 (Abbott, 1897:714-715)."  Abbott says of 1856-95 "the returns of vital statistics of the cities and towns may be deemed to be fairly accurate. The returns of the first few years following 1842 are more or less incomplete and untrustworthy, but those of the forty years under consideration must be considered as approximately correct."    Abbot p740 observes that " The death-rate of infants under one year is greater now than it was in the first half of the period, but the death -rate of children from one to five years is less than it
+was then." (p812 "Balance of Mortality" doesn't say more on  this point)
+
+      
+HSUS Sources:  Neonatal and infant mortality rates: 1915-1992: U.S. Public Health Service, Vital Statistics of the United States, 1992, volume 2, Mortality, part A, Table 2-2.  ... For the total and white populations for 1850-1910, and for the black population for 1900 and 1910, Michael R. Haines, “Estimated Life Tables for the United States, 1850-1910,” Historical Methods 31 (4) (1998): 149-69. For the black population in 1850, Richard H. Steckel, “A Dreadful Childhood: The Excess Mortality of American Slaves,” Social Science History 10 (4) (1986): 427-65.
+   
+For 1915-1932, data are for the current Birth Registration Area only. For the composition of the Birth Registration Area, see the essay on vital statistics in this chapter. U
+
+#### Why do Haines & Hacker get IMR above MASS?
+
+Haines (1998) -- uses Haines (1979 Demog) for 1850-1890 and  Haines & Preston.
+ p155 Table 2 West model white males 174 (204 in US model)      
+ p156 Tot Pop Males 1850 q0 .2409 or 241   5-9 0.0336 or 33.6  Dx=2277 lx=67805
+
+
+
+
+Haines (1979 Demog)     
+ABS using census mortality data for older children and teenagers to fit model tables  ... the Coale and Demeny West Model, apparently do not adequately  depict the changing shape of mortality over the period 1850-1910. ... alternative model life table system / based on the Brass two parameter logit system and available reliable life tables from the period 1850-1910. two parameter system reduced to a one parameter system ... The resulting model system is, however, heavily dependent on the experience of northern, industrial states, especially Massachusetts. 
+
+p290 "Research using various techniques of indirect mortality estimation indicates that the degree of underreporting of deaths in the  census may be rather small at ages 5 to 9, IO to 14, and 15 to 19 (Haines, 1977)      
+ Brass system chose to construct a model life table system for the U S 1850-1910  ... to provide a vehcile for fitting cen- <p291> sus mortality data in in a way which more accurately depicts the changing shape of mortality in the late nineteenth century. The Brass system would be based on such life tables as are available and reasonably reliable. ... the period after about 1850. The system is carried up to 1910 in order to take advantage of the  relatively large number of tables which become available during the 1900-1910 decade     
+ given an age specific death rate (such as 5M5 or 5q5), the level of mortality (a) could be obtained from the standard {?such as C &D?}. Then, with a functional relationship between alpha and beta, the value of beta can be derived     
+p294 ... Once the life tables had been collected, the question arose as to the best procedure to estimate alpha and beta for each table. Two were selected for the two separate models. For the national and state life table model, the United States registration state table for 1900-02 was chosen. The life table for the urban white population of the registration states of 1900-02 was selected as the standard for the urban life table model.    ... The a and (3 {alpha and beta} parameters were estimated using a weighted least squares (WLS) regression procedure   
+Ji: ?so take a life table and regress logits of its lAGEs on the logits for the standard table -- then that life table is described by the alpha and beta ...      
+p301 {it didn't work well so}   In order to specify a more accurate relationship, additional variables (the degree of urbanization and time) were added to the equation linking a and fj, shown in Table 5.      
+p306 {Ji now lost about extent to which a year's LT relies on life-tables from other years -- maybe same equation for alpha and beta as function of urbanization and time?}
+ 
+
+
+
+
+Haines (1977 Demog)  seven NY counties 1865 and seven PA counties 1900 (moms recall kids born).  p312 NY 1089 moms  p313 PA mining region  882 moms    
+p330  For New York, a comparison of census death rates with those obtained by the Surviving Children Method fitted to West Model life tables (see Figure I) indicates that the census death rates are not unreasonable for the ages approximately 5 to 20.  NY 1865 0q2 he gets about 180 or more ... higher than we believe ...
+
+
+ -- views of the onset of Infant-Mortality Transition in the USA? 
+
+Cutler & Miller (2005) & Goldin's correction thereof ...
+
+Anderson, Charles, Rees (2022 AEJ) show that C&M used the wrong population data for mortality estimates ...
+
+new    paper re: Cutler & Miller for us 1900-40 urban mortality  Anderson, D. Mark, Kerwin Kofi Charles, and Daniel I. Rees. 2022. "Reexamining the Contribution of Public Health Efforts to the Decline in Urban Mortality." American Economic Journal: Applied Economics, 14 (2): 126-57.
+DOI:       10.1257/app.20190034  with comment & reply  JESSE TO CHECK ...
+
+
+### US Sources lacking evidence on IMR
+
+Bleakly, Costa, Lleras-Muney (2014) Height is their health measure
+p121 life expectancy at birth rose by about thirty years in the twentieth century—an unprecedented increase  p122 Height is a good proxy for general health conditions in childhood      
+p129 We explore how health relates to education and income or wealth using many individual data sets spanning the 1860s to 2000.
+
+Cutler, David M., Angus Deaton, and Adriana Lleras-Muney. 2006. JEP "The Determinants of Mortality."      
+p97 Through the twentieth century in the United States and other high-income countries, growth in real incomes was accompanied by a historically unprecedented decline in mortality rates that caused life expectancy at birth to grow by nearly 30 years     
+p99 hunter-gather ancestors e0 perhaps 25 years; England 1700 e0=37 yrs      
+In the eighteenth century, mortality began to decline. By 1820, life expectancy at birth in England was about 41 years, up six years over the previous century. Between 1820 and 1870, the period of greatest industrialization, life expectancy remained stable at about 41 years. Since 1870, mortality has fallen relatively continuously as well as more rapidly than in the first phase of mortality decline. Life expectancy in England climbed to 50 years in the first decade of the twentieth century, and is about 77 years today. A similar transition, with some moderate differences in timing, took place in all developed countries. Mortality reduction in France was broadly similar to that in England. In the United States, the mortality reduction appears to start around 1790, with a similar overall pattern. Life expectancy at birth in the United States rose from 47 years in 1900 to 78 years today.         
+they contrast England's 1950 1841 e0 and e10 -- could mislead that IMR changed before 1899. "Between 1841 and 1950, life expectancy at birth increased by 30 years" NO?! from 40 to 64 in Figure 1 ..... 24 years, 1/4 by 1900 ... 
+
+p100 graphs England's e0 e10 e45 e65 (via expected age at death), nicely illustrating huge impact of IMR declining 1900-1950.  Such data not available for USA!     
+
+p101  If we accept this argument and date the modern decrease in mortality from 1870, when it began in earnest in England and several other European countries, the link between economic growth and mortality becomes tenuous, because the timing of the beginnings of modern growth is far more dispersed across countries than is the onset of the modern mortality decline (Easterlin, 2004). Also, as we shall see, improvements in public health offer a more coherent explanation for mortality declines after 1870.
+
+p102 The preponderance of the evidence suggests that the lack of improvement in mortality between 1820 and 1870 was due in large part to the greater spread of disease in newly enlarged cities. Nutrition may or may not be the culprit here; debate about whether nutrition and real wages were rising or falling in the middle of the nineteenth century continues to rage. But the effect of unsanitary conditions was larger and the spread of disease was easier in bigger, more crowded cities.    
+p105 Some analysts would continue to give nutrition the primary role in reducing life expectancy {sic}, even after 1870 and well into the twentieth century, rather than public health and medical care.
+
+p116 Perhaps controversially, we tend to downplay the role of income. Over the broad sweep of history, improvements in health and income are both the consequence of new ideas and new technology, and one might or might not cause the other. Between rich and poor countries, health comes from institutional ability and political willingness to implement known technologies, neither of which is an automatic consequence of rising incomes. Within countries, the lower earnings of people who are sick explain much of the correlation between income and health, rather than a causal relationship from higher income to better health.
+
+
+Note Costa & Kahn 2015 AER-P&P for 1900-1930 reduction in NYC and Phil imr inequality
+
+
+### Massachusetts Mortality 
+
+<p>Alsan & Goldin (2019 JPE) 1880-1920 sse below for [MASSdem](#MASSdem) 
+<br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
+<br>	p627 IMR1  1880 urb 180  rur 130  1900 u 160  r 130 1910 u 135 r 118
+1920 u 100  r 080
+<br> So their urban tends to decline from 180 in 1880 to 173 in 1896 to 95 in 1920  Rural tends to rise 1880 130 to 150 1893, then decline to 90 in 1920 (with 1918 pandemic spikes)
+<br>Appendix A   
+<p>
+Alsan & Goldin (2019 JPE) 1880-1920 
+<br> BE CAREFUL about their choice to start the IMR graph with 1870 (start in 1880 and IMR is flat until 1901; start in 1860 and observe the rise of IMR from 1860-1870s, before it flattens). Their truncation helps create impression of IMR decline in 1880-1900 period.
+</p><p>Their note 1: "The historical literature on US infant mortality includes Cheney (1984), Preston and Haines (1991), Condran and Lentzner (2004), and Condran and Murphy (2008). 
+</p>
+<p>
+<br> IMR almost flat 1880-1896, then decline (graph)
+<br>	p627 IMR1  1880 urb 180  rur 130  1900 u 160  r 130 1910 u 135 r 118
+1920 u 100  r 080
+<br> So their urban tends to decline from 180 in 1880 to 173 in 1896 to 95 in 1920  Rural tends to rise 1880 130 to 150 1893, then decline to 90 in 1920 (with 1918 pandemic spikes)
+<br> p591 Infant death rate (per 1,000)  1896 163  1898 151  1920 91
+<br>Appendix A refers to Secretary of the Commonwealth of Massachusetts,
+Report on Births, Marriages, and Deaths  
+</p>
+<p>
+Leonard, Beemer, Anderton (2012 Cont & Change 433-59)    
+p433 For the United States, the evidence suggests that overall mortality may have declined in the third and early <p434> fourth quarters of the nineteenth century.[3 Costa & Steckel 1997, Ferrie 2003 (re:1850-60), Swedlund (1990); Hautaniemi, Swedlund, Anderton] However, in Massachusetts, mortality plateaued during the latter half of the nineteenth century, and not until the turn of the twentieth century did mortality begin a slow but sustained decline.[4 HSUS - no more detail?] In previous work, we have argued that high overall regional mortality was sustained by the strains of significant population growth within newly emerging urban–industrial communities.5 These strains were ultimately relieved as population growth stabilised and urban infrastructures developed, notably with the introduction of filtered water supplies and sewage systems.6 Although such improvements began after mid-century, their widespread penetration into emerging industrial cities as not completed until near the turn of the century or later, when regional mortality finally began to fall.
+</p>
+<p> Swedlund & Ball 1998 in Goodman & Leatherman. 
+p124 In the latter half of the nineteenth century, rates of infant mortality in American cities were a matter of grave
+concern. As many as 15 to 20 percent of newborns died within their first year, and in the worst neighborhoods or most afflicted cities, rates could go much higher (Phelps 1912; Woodbury 1926; Swedlund 1990; Meckel 1991).    
+
+Scan Received: Disease in Populations in Transition: Anthropological and Epidemiological Perspectives Swedlund (for A. C. Swedlund, "Infant Mortality in Massachusetts and United States in the Nineteenth Century," in Disease in Populations in Transition:  Anthropological and Epidemiological Perspectives, ed. A. C. Swedlund  and G. J. Armelagos (New York: Bergin and Garvey, 1990), 161-82)
+
+
+
+</p><p>Preston & Haines 1991 Fatal Years: 1900 Boston q(5)=25.4% (NY 23.7)  </p>
+
+Meckel (1985 JIH)
+
+Vinovskis (1981 AcadPr) "Fertility in Massachusetts from the Revolution to the Civil War". According to P&H p51 Vinovskis (1981: ch. 2) ... suggests that little change occurred in the mortality level in Massachusetts between 1790 and 1860
+
+<p>Condran & Crimmins (1980 JHiGeo) 
+<br>Table 1 for IMR (0q1) and childMR (1q4)
+urban IMR 1890 243 or 250   1900 184  (3/4 or less); urban 1q5 36 or 37   26 (72%)
+<br>NewYork about typical ...  1890 249/260 to 181
+<br>RURAL unadjusted INCREASES a little; adjustment raises the 1890 value from 121 to 154 or 27% -- but that seems to be an error, because none of the states has that sort of rise.  
+</p>
+<p> p186 table evaluating 1900 mortality coverage; cite Gutman for 1900 only 1-2% of MA deaths were unregistered.  Fulton saying 1900 Rhode Isle good. MICH 5% missed in 1900;  NY state exNYC 5%,  NYC 1% 
+</p>
+
+<p>
+Vinovskis 1978 JIH  on Jacobson Life Table
+cited in Preston & Haines Fatal YEars p50 for questioning assumption of Mass mortality representative of US. 
+
+Vinovskis (1972 JEH)    Mortality Rates and Trends in Mass before 1860:
+p186  The completeness of death registra-tion jumped from an estimated 65 percent in 1849 to 89 percent in  1855.3 <cites Gutman 1956 PhD Columbia>    
+Though the registered deaths provide us with relatively good  data after 1855, there are few reliable sources prior to that time
+
+
+
+Gutman (1956) 1956 UColumbia PhD "The Accuracy of Vital Statistics in Massachusetts, 1842-1901"
+
+Richards (1909) "A Study of New England Mortality"
+<br> p78 TabIII shows Age 0-1 death rate rising 1865 to 1875, then modest decline, but above 1865 level until after 1895  WHAT DO P&H HAVE?
+
+1865 205.28   1875 226.56   1885 212.49    1895 215.89  1900 190.1
+
+[Annual Reports 1898](https://books.google.ca/books?id=L2VBAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+1857 p162 Returns Incomplete
+  It is a moatter of regret, that more complete records and returns have not been secured during the whole history of registration in the State, which now covers a period of more than 16 years. A grdual improvement in some particulars, has been going on, it is true , but it is very slow. Generally speaking, the returns of marriages are the most complete of the three items, and births are more fully returned than deaths -- the most important of all.
+199/p179  have examined [records] of several different cities and States of teh Union, also Eng Fr Belg Sw Nr Russ Pruss Austr Sax and other foregn countries. The facts furnished us, cover upwards of one hundred million births, show 1,073 boys to every 1,000 girls born alive. Over one million of recorded births in the United States show 1,066 boys to 1,000 girls. Mass 1845-57  1,054 boys to 1,000 girls.  The proportion of sexes at birth differs in different countries as we have stated in the Tenth Report (1851).
+
+p163   There is evidence for believing that not very far from, but, perhaps, somewhat more than fifteen per cent of the deaths that occur annually in Mass, escape registration; and these are scattered through about half of the towns in the COmmonwealth.     ... The deficiencies in the working of the law occur chiefly in the country towns, ... 
+
+The returns from Berkshire manifest greater defects than those from any other county.
+
+p164  returns for the present Report are as complete as those of the last year, and we are inclined to believe they are somewhat more so.  ...   Those most likely to escpate registration are the stillbirths, and perhaps those who die at extreme infancy.
+
+p194   ....  The First Division embraces the metropolis, which, in density of population and other particulars, differs from any other section of the State.     
+
+p195 in the metropolis, the records are at least as complete as in any other section of the State.  ... the excellent system of registry of deaths in the city of Boston, is as complete as that of foreign countries, and that it does not appreciably fall short of the actual truth.
+
+
+### NY Mort
+
+Current views would have 1880 IMR high (200?) and low in 1940 --
+1880/1900/1940 SR2 
+prediction:  1880 101.1   1900 102.4  1940 104.6  ... 1940 census NY-NY 104.8 (n=160k) yes! 
+actuals      1880 101.5               1940 104.8 (published -- 1880 is PUMSfull)
+ 1880 is 101.7 if you add Brooklyn
+Duffy (1974)
+<br>Abramowicz & BarnettHL (1970 AMJDC) IMR 1900 on; starts at ~142 in 1900, by 1940 maybe <25, then flat
+
+
+Billings (1886?) via P&H NYC & Chicago see rise 1880 to 1900  NY 33 to 40+  Chi 38 to 46
+Billings 1880ish m e0=29.0 (wm 33.3 ) (Brooklyn higher)  
+Glover   1900 NYC m e0=40.6 
+
+Bolduan & Weiner [(1935 JPediatrics)](https://www.dropbox.com/s/tbi8su5emdyjng5/bolduan%26weiner1935JPediatrics.pdf?dl=0), "Infant mortality in New York City one hundred years ago." <br> They have peak IMR in 1870, at about 235; 200 or less in 1880; 140 in 1900; 115 in 1910  60 in 1930
+
+my simulator<br> SRB 105 pulled down to SR2 of  ... IMR:SR2
+IMR 236 SR2 100.3 / 101.1 by IMR 198 / 140 for 102.4 / 102.9 by IMR 115 / 103.9 by IMR 60 / 40:104.6
+
+[Web page re NYC Cholera 1849](https://virtualny.ashp.cuny.edu/cholera/1849/cholera_1849_set.html) Useful comment on crowding and bad conditions
+
+By the time cholera had run its course in 1849, it had killed 5,071 New Yorkers. Forty percent of the dead were Irish immigrants. Cholera was a constant presence in the city through 1854, when the disease again reached epidemic proportions, killing 2,509. It then disappeared for a dozen years.
+
+https://virtualny.ashp.cuny.edu/water/Water8.html
+Moreover, another cholera outbreak in 1834, coming fast on the heels of the epidemic two years before, further convinced the Common Council that potable water and cleaner streets were necessary to the health of the city.
+
+NYC sources to check: from [CUNY water page](https://virtualny.ashp.cuny.edu/water/Water10.html)  	
+SOURCES AND SUGGESTED READINGS:
+
+Augustyn, Robert T. Manhattan in Maps: 1527-1995. New York: Rizzoli, 1997.
+
+Burrows, Edwin G. and Mike Wallace. Gotham: A History of New York City to 1898. New York: Oxford University Press, 1999.
+
+Commissioners of the City of New York. Report of the Commissioners under an Act of this State passed May 2, 1834 Relative to Supplying the City of New York with Pure and Wholesome Water. New York: Townsend, 1835.
+
+Costello, A.E. Our Firemen. New York: A.E. Costello, 1887.
+
+Dunshee, Kenneth Holcomb. As You Pass By. New York: Hastings House, 1952.
+
+Galusha, Diane. Liquid Assets: A History of New York City's Water System. Purple Mountain Press, Limited, 2002.
+
+Jackson, Kenneth T., ed. The Encyclopedia of New York City. New Haven & London: Yale University Press, 1995.
+
+Kouwenhoven, John A. The Columbia Historical Portrait of New York. New York: Doubleday & Company, Inc., 1953.
+
+New York Times. 25 June 1871; 16 October 1898.
+
+Weidner, Charles. Water for a City: A History of New York's Problem from the Beginning to the Delaware River System. New Brunswick, NJ: Rutgers University Press, 1973.
+
+
+
+
+
+
+### Philad Mort 
+
+<p>Philadelphia Encyclopedia [Infectious Diseases and Epidemics](https://philadelphiaencyclopedia.org/archive/infectious-diseases-and-epidemics/) "By World War I, Phil filtered and chlorinated its water supply and watched as mortality from waterborne disease shrank to low background levels.  ... influenza epidemic that raged across the world and emerged in Phila in September 1918, the city's first major epidemic since cholera, killing between [13k and 19k] by March 1919. Philadelphia experienced the worst urban outbreak in the nation because the first appearance of the virus in the city coincided with a war bonds parade; the large crowds in attendance permitted the virus to infect thousands in one day, and tens of thousands within the next week. The large number of rapid deaths overwhelmed city services, with corpses languishing in apartments and mass burials the result.
+<br>Like the rest of the nation, however, Philadelphia entered the 1920s relatively free of infectious disease.
+</p>
+<p>Expect 1900-1910 improvement from Phil Board of Health data in Condran & Murphy (2008), but not from 3 diseases (scarlet fever, whooping cough, measles) in Condran (2008)  </p>
+<p>Condran (2008 JHMAS) Diptheria sees big drop 1895 to 1905.
+p520 We are left with the fact that diphtheria was nearly eliminated as a  cause of death among children by 1930 and that the reduction in diphtheria deaths mirrored that in the other childhood diseases, except for the more rapid decline in the decade 1895 to 1905
+<br>p521 Figure 5: three childhood diseases 1810-1930, shows 1850 nadir ~105 1858 ~175  1860 ~150   1870 100 1880 65  1890 50    1900 40   1910 35   1920 20   1930 5   <br>
+I see 1858-1898 linear decline in the 3disease line, 175 to 40, then gentler decline 1908 to 1930. 
+</p>
+<p>Condran & Murphy [(2008 SSH)](https://www.dropbox.com/s/2x6v6yhgfg08py0/Condran%26Murphy2008SSH.pdf?dl=0) Defining and Managing Infant Mortality A Case Study of Philadelphia, 1870–1920<br> 
+Figure 1 (p478) shows deaths under age 1, from Phila Board of Health annual reports. Looks like deaths rise from 1878 to 1893 (~4000 to ~6000; 1880, 1890 census U5 pop falls a little ) <br> 1900 5200ish   1910 5000ish   1920 3800ish (after 1918 jump to 5300 for flu)  
+<br> Philly U5 population   1890 103K   1900 132K    1910 135K    1920 180K
+<br>1910 to 1920? pop growth implies death rate fell to <60%  ... expect to see SR2 rise ... but SRs don't rise until 1930.
+</p>
+<p>Condran (1987 AnDemHi) uses Condran & Cheney (1982 Demography) for lifetable mortality probabilities at census benchmarks
+
+Condran, Williams, Cheney PA Mag Hi Bio. Philly & Municipal Services.
+
+<p>Cheney (1982 JIH) cited by Aslan & Goldin
+
+<p>Condran & Cheney (1982 Demography) seem to tell us the data for IMR are no good before 1920; they estimate IMR by extrapolating on mortality of 1to4 year olds. Their age 1-4 mortality rate in 1900 is 61% of the 1870 value; the 1930 value is 25% of the 1900 value.
+<br>Note that in 1930, Registration States, white male IMR is 62 and female is 50 (per 1,000).
+</p> 
+<p>
+p97 "The mortality decline which accompanied the process of industrialization in Europe and the United States has been the focus of historical demographic research aimed at pinpointing the factors underlying its inception."
+<br> Accompanied? or came painfully later? See *Easterlin* how beneficent the market?
+<br>Urban mortality rates, for example, remained high for some time after rural mortality rates had begun their decline (Condran and Crimmins, 1980; Higgs, 1973; Knodel, 1977 [Knodel is on Germany])
+<br> ... The trend in the crude death rates in Philadelphia from 1870 to 1930 is shown in Figure 1. ... The deaths are those reported in the annual reports of the Philadelphia Bureau of Health. Throughout the time period from 1870 to 1930, the mortality regime in Philadelphia was characterized by crude death rates which were high and fluctuating from year to year. Some of the fluctuation may have been due to the inadequacy of the extrapolated population figures or the death register, but much can probably be explained by genuine shifts in the levels of infectious disease from one year to the next. A decline in the crude death rates occurred between 1890 and 1900. The crude death rate of 23/1000 in 1892 was not surpassed again except during the influenza epidemic of 1918
+<br>p98 Figure 1 death rates Chicago low by 1897; 
+ highly variable, downwardish 1870-1915 (pandemic 1918)
+<br>p99 Estimating lqO from 1870 to 1930 presented a special problem because of the exceptionally poor quality of both the census enumeration of infants and the birth registration data available for Philadelphia.    ... Births in Philadelphia were estimated to be approximately 30 percent underenumerat- [p100] ed in 1880, and although the exact pattern of change over time is not known, a fairly large underregistration was probably the rule for much of the time period in our analysis (Cheney, 1981). Therefore, before 1920,the 1q0 values obtained using birth registration data are certainly higher than the true 1qovalues which we are trying to estimate.  ... two other estimates of 1q0 were made by fitting C&D W and S Model Life Tables to the 4q1 values. ...  The downward shift in childhood diarrheal deaths coupled with improvements in birth registration and in the census enumeration of infants in fact produce a convergence of all four estimates of lqO in 1920 and 1930." SUM UP -- they prefer C&D South Model (lower IMR), arguing Phil's 1-4 yr olds hit by diarhea that wouldn't affect U1 as much. 
+p100 Table 1 death probabilities 1-5 drops  <br>
+1870 142  1880 121 1890 111 1900 89  1910 68  1920 41  1930 23
+p100 claiming high deaths 1-4 create artifact of IMR via life table
+</p>
+
+### Baltimore
+Howard 1924
+
+### Chicago
+
+<p>Ferrie & Troesken (2008 EEH) CHICAGO 1850-1925<br> See also Cutler & Miller's cite to 2004 mimeo</p>
+<br>Death Rate per 1000: 1870s  21.2   1915-25 12.5 [exluding FLU pandemic]  
+<br>1870s figure is same as from annual data 1894
+<br> 1873-1930 Chicago Dept of Health Annual Reports (Ferrie & Troesken cite); I find Report for 1894 has table with annual death rates 1851 to 1894. 
+<br> Baltimore 1915 43% of infant deaths from diarrhea (Troesken 2004 27-8; Woodbury 1926)
+<br>1870s figure is same as from annual data 1894 annual report Chicago Dept of Health ranks 16 largest cities in 1894 in terms of CDR, ranging from 15-16 in Chic, Detr, Milw, Cleve,
+At end, gives death rates by year; 1885-93 just under 20; similar to 1877-1880; surge to 23 in 1882&1883; 1860s rise and fall; 1857-1862 slides down from 26.5 to 20.0; 1851,1852, 1854: 37 or higher.
+
+
+Cain 1972 1974 1977
+via P&H Chicago e0 rises 1880 to 1900  NY 33 to 40+  Chi 38 to 46
+
+### New Oreans
+Lentzner 1987
+
+### Michigan
+Births, Marriages, Deaths 1890. p98 u1 deaths 5508 m3114 f2329 u65 
+p1 births (reported/corrected) 1889 49272/65224 1890 52306/60555  
+p2 SRBs are silly high  108 109 109 109 117  p3 1890 SRB 27523/24687 = 111.5 SILLY HIGH
+<br>calculations are in Canada spreadsheet
+
+<a name="USdemog"></a>
+
+### Misc US demog 
+
+
+Hacker (2003 ) Rethinking early decline of marital fertility   -- my hunch is he has higher IMR helping explain lower kid/women counts which enables him to dispute lower fertility in marriage (but maybe reduced marriagr is enough?)
+
+p607 If mortality did increase between 1830 and 1880, as these studies have suggested, existing fertility estimates overstate the timing and extent of the nineteenth-century decline in fertility.
+
+Kunitz&Pesis-Katz (2005 Millbank Q)^[Mortality of White Americans, African Americans, and Canadians: The Causes
+and Consequences for Health of Welfare State Institutions and Policies]     
+Canadian e0 > US Whites from 1970 onward. Tangential interest for B/W IMR differentials 
+
+
+Ferrie (2001 EEH) 1850, 1860 mortality schedules for wealth:health     
+
+p36  ...  using the coefficients in panel B table 2.8 ... the mortality rate for male infants born and residing in Illinois in five-person families headed by  farmers was 97 per thousand in families that did not own any personal wealth; the mortality rate for otherwise identical infants was roughly half as great (53 per thousand) in families that possessed any personal wealth. {FN 23 lower IMRs of 88 vs 33 if use table 2A.9 }     
+p37    Large differences in mortality between those with and those without wealth in rural communities in the mid-nineteenth-century United States demonstrate the important role played by general living standards and the material conditions of day-to-day life in shaping mortality patterns.
+
+Haines & Avery (1980 JIH), "The American Life Table of 1830-1860: An Evaluation" (XI:1 73-95). 14 citeSteckel (1986abc) refers to p95 for white IMR, but that page has no IMR rates, it simply discusses life tables (which would have IMR values)  {Steckel 1986 SSH n39 "The avg of the  I M Rs (male and female) for the Brass logit and the Model West life tables in H and A (1980:95) is 179.1" MESS -- those are total pop, not white, and Logits qm/qf is implausibly low 106%}.          
+p94 By the standard of comparing estimated net to estimated gross migrants, the Meech table and those fitted to Model West and the Brass logit model -- assuming no undercount of deaths at ages 5-19 -- clearly yield the most reasonable results.   ... All exhibit the strange pattern of high net migration at ages 10-14 (at the end of a decade) and low migration at ages 15--19, ...  The Model West and Brass logit tables exhibit this in a less severe manner, however. ... Overall all three tables yield reasonable results, with the two model tables being somewhat more reasonable at the youngest ages.
+
+
+
+1978 Fogel, et al., Historical Methods ^[The economics of mortality in North America, 1650–1910: A description of a research project.]  
+Margo & Steckel 1983 JEH cite to say "Mortality rates in urban areas may have increased between 1820 and 1860"
+
+
+
+Meeker (1972 EEH)  --  e0 rose 1850-1915 from about 40 to about 50
+uses the e0 estimates of Jacobson (1957) for Mass & MD and Meech     
+says Jacobson uses "Greville short-cut method, a technique that uses age-specific death rates as its basic data input."  ... uses death registration for Mass and MD for 1850    Meech examined survival rates in the census 1830-1860  ... both get e0 male of 40-41
+
+p353 The period from 1850 to 1915 witnessed unprecedented improvements in the health of Americans. Male expectation of life at birth rose from approximately forty-one years in the 1850s to over fifty-three years by 1915.   ... I attempt to demonstrate that a fundamental transition in the state of health occurred in the decade of the eighties, that average mortality and life expectancy improved little, and very likely worsened, prior to 1880, but improved rapidly thereafter. 
+
+356 That expectation of life at birth increased during the second half of the nineteenth century is beyond dispute.   
+358 I believe, with Meech, that the expectation of life improved only very slowly before 1880; it then began to improve rapidly. This view is consistent with the Massachusetts data, and as shown below, Massachusetts data-despite surface appearances to the contrary appear to be fairly representative of the United States as a whole. 
+
+Jacobson 
+p197 Moreover, since Massachusetts was one of the most urbanized States in the country, the mortality from infectious diseases may have been higher there than in most other areas. In consequence, the expectation of life  was probably lower in Massachusetts than in the country as a whole    
+p198 The values of nmx for the white population in the United States were derived by taking the arithmetic average of the values for Maryland and Massachusetts.  MD from 1850 census volume (d)    
+1850 census of MD  5m0 males MA 7.105 MD 5.466   e0 males MA 38.3 MD 41.8 Eng 40.2
+p
+
+
+
+
+
+#### Alter's undercount issue
+
+<H3>George Alter's concern: infant undercounts</H3>
+
+<p>If under-enumeration of infants ...
+
+<p>We restrict attention to the US-born, and treat US-born children as a closed population in any 10-year period, assuming negligible out-migration. And we abstract from possible problems in the IPUMS coding of children as US- or foreign-born.</p>
+<p>The key issue for our findings on children's sex ratios over the period 1850-1920 is the possibility that improvements in the accuracy of enumeration of children's ages generate specious changes in observed sex ratios. We find child sex-ratios circa 1900 to be more tilted toward females, in comparison to the ratios observed in censuses from 1850 to 1880 (or 1890, but we dismiss the 1890 data as flawed). There is a Literature of US demographic research suggesting underenumeration of infants in the censuses of 1850 through 1880, with the 1900 census age question eliciting a much more accurate enumeration. The possible problem we need to consider is that the observed changes in child sex ratios could reflect changes in enumeration errors rather than changes in actual sex ratios. For example, suppose actual sex ratios were constant in the period 1850 to 1900. And suppose a relative under-enumeration of female vs male infants biased child sex-ratio values toward males in the 19th-century censuses, but improvements in enumeration resulted in more accurate sex-ratio values from 1900 on. If so, the  observed shift toward girls would be an artifact of changing measurement error and not a reflection of deteriorating maternal-infant health.</p>
+
+
+
+#### USA undercounting in census
+
+<p>Hogan (2019 Census Bureau) 
+
+    The fact that net undercoverage of young children has been relatively high in censuses compared with older children and adults is well documented (see Coale 1955, Siegel 1974, U.S. Census 2012a, Hogan et al. 2013, and U.S. Census Bureau 2014).
+
+Coale - does 1950; Siegel 1960 & 1970.
+</p>
+<p>Eriksson et al (2018 Demog) p2016 Figure 5
+        
+      p2009 Census counts suffer from underenumeration, which we adjust by the estimates of underenumeration contained in Land et al. (1984), Preston et al. (2003), and Hacker (2013).
+        
+        p2022 To resolve the bias from underenumeration [of births], when the census undercounts the number of children alive at the census date, we scale the count of children in the census by estimates of the extent of underenumeration (Hacker 2013; Land et al. 1984; Preston et al. 2003).
+<br>Hacker 2013 -- native white underenum 1850-1930; Land et al 1984  1940 & 1950;  Preston at al : Black pop       
+      
+        
+</p><p>2014 census bureau report. 
+Fig 2 1950-2000 undercounts from O’Hare, W.P. (2012) “The Undercount of Children in the 2010 Census and Its Implications,” Presentation at the Joint Statistical Meetings, San Diego, CA Aug. 2, 2012
+<BR>"There is a well-documented undercount of young children (defined here as ages 4 and under) in decennial censuses"   -- but cites unlikely of use for us: Robinson et al, 1993 -- prep for 2000; [O’Hare, 1999](https://files.eric.ed.gov/fulltext/ED437494.pdf) --re 1990; West & Robinson, 1999 -- cens Bureau WP; Edmonston, 2001 Oregon; Adlakha et al, 2003 -- re 2000 subnational; Daponte & Wolfson, 2003 re poor; Pitkin & Park, 2005 Calif ; Zeller, 2006 re 2000?; O’Hare, 2009 -- why missed?  ; Hernandez & Denton, no date -- re poverty?)                
+        
+</p><p>**Hacker (2013 SSH) ** "New Estimates of Census Coverage in the United States, 1850–1930"
+
+1850 female undercount 15.4% males 15.2%    -- but isn't that largely because he applies an IMR > 150 when the true value was < 100?     
+Adjusting for his undercounts would affect SR5 as follows:
+1850 .2% less male; 1860 .84% more male; 1870 .2% less male; 1880 .6% more male; 1890 0.1% less male
+
+
+Hacker's attempts to correct for undercount are too much of a production/construction ... layers of assumptions to try to uncover underenumeration. Much beyond scope of our research. Certainly we can dismiss the estimates based on the 1% PUMS samples (which we find highly erratic for sex-ratio values) and his life tables. Can we dismiss his 1900 estimates? 
+
+<br>He offers estimates of the census undercounts, via the PUMS samples for 1850 1860 1870  -- which are only 1% samples for 1850, 1860, 1870, 1910, 1920, 1940; with defaults for 1880 10%, 1900 5%, 1930 5%  ... 
+
+<br>For 1870 (and slavery project) .. 1870 census pop of 38.6 mill gets revised by 1890 census to 39.8 million; Hacker says 1890's is "preferred by most historians and is typically cited in official census populations" 
+
+
+
+<br>ABST  ... The 1870 census suffered a higher net rate of omission than any
+other census. The net undercount was especially high in the South, probably reflecting
+the unsettled conditions in the aftermath of the American Civil War. The net under-
+count was not nearly as great as nineteenth--century observers speculated and subsequent
+historians have long believed, however. The 1880 census appears to have achieved the
+most complete coverage of the native--born white population before 1940.
+
+<br>p72 This article estimates age- and sex-specific net census underenumera-tion of the native-born white population in the United States for the census years 1850–70 and revises existing estimates for the census years 1880–1930 (see Coale and Zelnik 1963). It relies on the 1850–70 IPUMS samples of the US census, published census data from the 1880–1940 censuses, new esti-mates of nineteenth-century mortality, and back-projection methods to esti-mate the “true” white population by age and sex at each census.
+<br>p81 The Census Bureau has produced demographic analysis estimates of census coverage since the 1960 census (Robinson et al. 1993). Kenneth C. Land, George C. Hough, and Marilyn M. McMillan (1984) have revised estimates of census coverage for the 1940 and 1950 censuses.
+    <br>
+
+          p82 This article relies on new sources and new estimates of nineteenth-century mortality to revise and extend Coale and Zelnik’s demographic analysis of census coverage in the United States. In addition to relying on published age distributions of native-born whites in the 1880–1940 censuses, it relies on age distributions generated from the 1850–70 IPUMS samples (Ruggles et al. 2010). The IPUMS has two major advantages over the published cen-sus tabulations used by Coale and Zelnik. First, native-born whites can be cross-tabulated by single years of age and sex in all IPUMS samples, includ-ing the 1850, 1860, and 1870 samples, allowing estimates of census coverage to be extended back to the 1850 census. Second, the IPUMS can be cross-tabulated by place of birth, allowing a proxy of regional census coverage to be constructed for the first time. 
+           With few exceptions, discussed below, the results are based on the method detailed by Coale and Zelnik (1963). 
+
+
+</p><p>p84 Figure 4 graphs net underenumeration by sex and census year, NOT BY AGE -- ignore ---  shows "census bureau, nonblack" male and female lines. Text refers to Robinson et al 1993 and Robinson et al 2002. The former does offer the undercount estimates for 1990
+</p><p>p85 Births were back-projected from the adjusted age distributions of native born white females aged 15–29 in the 1850–60 and 1880–1940 censuses and from native-born white males aged 5–54 in the 1850–60, 1880, 1900-1910, and 1930-40 censuses using my life tables through 1900 (Hacker 2010_ and DRA life tables for the white population for the 20th C (C&Z 1963 p184) n8. The exercise yields as many as eight estimates of births in a given year....  In the years in which they overlapped, estimates based on female age distributions exceeded estimates based on male distributions by 4.0 percent. Based on these results and Coale and Zelnik’s analysis of the 1950 postenumeration survey, which found a 1.4 percent net undercount of females aged 15–29, births back- <86> projected from the female age distributions were inflated by 1.4 percent and births back-projected from male distributions by 5.4 percent. n9 
+<br>n8 Inspection of the resulting series led Coale and Zelnik to reject the birth estimates derived from the 1890 and 1920 male distributions  ... and from 1870
+<br>n9 Coale and Zelnik’s (1963: 11) analysis of the 1880–1950 censuses found that estimates of the total number of births during the period 1851–1943 that were derived from the female distributions exceeded estimates based on the male distributions by 3.0 percent, and they adjusted their projected counts accordingly
+</p><p>p89 Figure 4 plots the average net undercount by sex and census year with Coale and Zelnik’s (1963) estimates for census years 1880–1940 and the Census Bureau’s estimates for census years 1950–2000 (Robinson et al. 1993; Robinson et al. 2002). 
+<br>
+<br>QUESTION: how would fullPUMS (1850-1870) change his story?
+
+</p><p>Robinson et al (2002 PopRPR) Demographic Analysis has served as a standard to assess coverage levels and changes in coverage in each census since 1960. In particular, DA provides an independent benchmark for assessing differences in coverage by age, sex, and race (see Siegel and Zelnik 1966; U.S. Bureau of the Census 1974, 1988; and Robinson et al. 1993 for the demographic evaluations of the 1960–1990 censuses).
+
+</p><p>Robinson et al (1993 JASA)  1990 undercount -- nonblack u5 fem undercount is more
+u = r * P and  r * P = P- C   so C = P - rP = (1-r)P and P = C / (1-r) 
+
+</p><p>LandKC et al (1984) for net undercounts in 1940 and 1950
+
+</p><p>Siegel (1974 Demography) offers various estimates of net undercount by age.
+<br>U5 white male/female
+<br>1970 2.6/2.2 2.4/2.0 2.6/2.2 2.3/2.0
+<br>1960 1.9/1.1 1.9/1.1
+<br>PREFERRED 1970 2.3/2.0  1960 1.9/1.1
+</p><p>Siegel & Zelnick 1966 on 1960 
+</p><p>**Coale and Zelnik** (1963)
+
+<br>Let's look at Coale & Zelnik values for 1900 ... pp 179-180 ... underenumeration rates of 7.6% male, 6.5% female -- for a 1.2%-point  SR-move toward male. 
+
+    The 1900 census ... the persons reported as age 15 were not the same cohort reported as age 5 in 1890. Rather, the 15 year olds in the 1900 census were born between June 1, 1884 and June 1, 1885, and were six months younger than those reported at age 5 in 1890.
+<br>So people counted in 1890 as age x were mean age x, but those in other census years were mean age x+0.5  -- so 1890s kids are actually 1/2 year younger ... and 1890age10 are 9.5 years older than 1880age0. And 1890 includes some kids not yet born in the 1880 count?
+</p><p>
+**Yasuba (1962)**  Birth rates of the white population in the United States, 1800-1860 (dL inet archive).  
+</p>
+<p>Fertility     
+pp27-28 Yasuba uses Thompson & Whelton's approach: u5 counts + 5% + implied deaths (Mass Life Table) for 5yrs ending in census year. Then the 5yrs til the next 5yrs gives increase per 4 years, 1/4 of the increase added to shift to centred on census year.
+ 
+</p>
+<p>Index entries for underenumeration of children 19, 23, 26, 29-30, 34-35, 70, 97, 142, 180; NY births 123
+<br>      
+p19  In Chapter III, mortality records are examined to see whether differentials and trends in child mortality largely accounted for the differentials and trends in the birth ratios. It will be found that a part, but only a small part, of the differentials in the birth ratios may have been due to differentials in mortality. The child mortality rate in the United States may have increased in the few decades preceding the Civil War but not so rapidly as to explain to a considerable extent the fall in the refined birth ratio. Other factors which may have affected the birth ratios such as the extent of underenumeration of young children and the rate of increase of yearly births tended to mask the differentials and trends in the birth ratios.     
+p23  In 1850 and thereafter, the number of children under 1 was also reported but, owing partly to heavy underenumeration in this age class and partly to the desire for comparability of the ratios throughout th/e nineteenth century, most demographers have preferred to use the number of children under 5 or under 10. <NO CITES FOR UNDERENUM>      
+p26 In estimating the number of births, the number of children under 5 given by, or estimated from, a census was first increased to allow for underenumeration.8 <n8 Grabill et al. refers to 1940 on; see below>     
+Yasuba assumes same 5% underenumeration of u5 for 1850-1920     
+
+pp29-30 5% underenumeration of u5  from Whelpton     
+pp34-35 Thompson & Whelpton / Grabill    
+p70 mention of underenum of kids    
+p97 U5 +5% for enum    
+p142 relatively large underenum in 1850    
+p180 pointed out before, a part of the large decline in the refined birth ratio may be attributed to a larger-than-usual underenumeration of children in 1850.     
+p123 (NY births?) relative / underenumeration of births likely larger in rural than urban counties  ...        
+p193 IM 79, 81   seems to suggest 1850 census mortality shows relative ranking of states in terms of u10 mortality (and therefore infant mortality?)
+
+<p>Yasuba Ch 3 Mortality pp73-101; mostly a waste of time for our project. His concern is extent to which birth-ratio patterns are from mortality (patterns are downward time-trend and regional differentials).     
+p73 1. Relative levels of Mortality in Different States and Territories    
+Blodgett, Seaman: mort higher in South (Seaman IMR higher in North)
+p74 sanitary conditions in cities in this country in the middle of the 19th C were bad. Numerous remarks by city officials and medical authorities on filthiness and overcrowding, deficient ventilation, improper drainage, scanty water supply and the resultant rage of infectious diseases and high mortality bear testimony to this.4 [n4 NOT CONVINCING -- see below NYC 1866 TENEMENTS; AMedA 1848 NO; Mass 1917 -- BOSTON urban penalty 1830-45;  generally, very vague allusions to hygiene and disease and mortality in these ...] <br>
+p74 life table constructed by Jaffe and Lourie  New Eng towns, NYC, Phil -- urban-rural mortality differential / Table III-1 "No mortality rate was computed for the age-class 0-4 but the extrapolation of the trend points to a still larger differential for it than for the age-class 5-9. <BUT: is that contradicted by English evidence (eg Reid & Hadish?) where early childhood mortality ECM is more sensitive to urban than is IMR?>
+<br> p75  J-L Life Table gives age 5-9 death rate in Bost-NY-Phil over twice that of rural Mass (12.5 vs 5.1) <br>
+census mortality evidence problematic because of random annual/geog variation (would want more observations to identify patterns). Underenumeration issues and debates. Kennedy -- census stats good for comprative mortality levels. p76 but DeBow 2 yrs later argues patterns reflect data quality rather than health (impossible to believe Mississippi a healthier State than Rhode Island, etc.)  ... <br>
+p80 white u10 death rates by state via census ... USA 20.5  Mass 38.5 RI 27.1  NY 25  MD 30.8  VA 14 NC 12 GA 11  Ohio 22 KT 18.4 TN 13.6  ALA 14.7     MS 16.1   ... he finds positive correlations with pop density, non-agric L, and urban (all simple correlations, not partial )
+<br> My view: we'd waste our time getting into the game of trying to discern meaning in census mortality data ... 
+<br>p87  2. Trend of Mortality, 1800-1860 
+p96 "it is likely that the death rate increased somewhat duirng the few decades preceding the Civil War." 
+</p>
+
+<p>**Okun**  p24 refers to Lee's use of life-tables and reverse survival ratios to estimate undercounts of 0-4 year olds. If life table says 15% of kids die, but only 5% die, then the undercounts are much overstated ... via life table, every 85 in 10-14 age group in t+10 census requires 100 kids age 0-4 in the t census ...  For 1870, Lee says 11.6% of kids (0-4) were missed.  Say Lee had 88% survivor rate and we think 94% is correct; 
+he sees 100  94  and thinks there should be 106.8; 100/106.8 is 93.6% -- he'd say undercount is 6.4% .  But that is all spurious ... <BR>
+If he has survivor rate of 84% and mortality is 1/3 that then we'd say no underenum. And isn't 10 year age overstated? And age 4 understated, by age-heaping?
+</p>
+
+
+Thompson & Whelpton (1958)  -- probably dominated by Coale & Zelnick (1963)
+
+Grabill et al (1958) p. 409 Some enumerators began the age count with 1 year according to the Compendium of the Seventh Census, so the 1850 Census may have had more misstatements of age of infants than usual.
+Jim *cannot find that point in the 1850 Compendium* (also *not* found in [Report of the Superintendent](https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-05.pdf))      
+       
+random 1850 MS census pages from NY  via surname Johnson NY-Kings i52-i60, list of u3 ages from those pages:   2 ] 2 1 ] 1 ] 1 ] 2 1 1 2/12 ] 1 ] 8/12 1 1 ] 1 1 1 8/12 ] 2 2 [60]     
+So we see 5 2-yr-olds, 11 1-yr-olds, 3 infants ... seems suspicious; let's update that?
+
+Butler county Ohio (via john wright, Ohio, born 1830) u3: i70 3/12 2 10/12 i71 2 1 2 7/12  i72  2 1 1/12 --  so that enumerator(A D Keay?) used <1 yr
+
+      
+p97 (Grabill or Yasuba?) To estimate the number of births, first, the number of children under 5 was increased by 5 per cent in order to allow for under¬enumeration ; the number of children aged 4-9 was left unchanged. ... In 1920 the census was less complete than usual at all ages, partly because of enumerator-recruitment problems.     
+p410 In some censuses it was noted that the number of children in the first 2 years of age was much less than the numbers at ages 2, 3, and 4 , al. though fragmentary birth statistics pointed to rapidly increasing annual numbers of births . Thus, the existence of an undercount of infants was " obvious" from data on population by single years of age in some censuses taken in a time of rapid population growth . Such an undercount was noted as early as 1850, when the first tabulations of population by single years of age were made for the United States.     
+Ji looks at 1900 census special report; there argument for improved age coverage in 1900, problem in 1890 due to "closest birthday", and suggestion that 1880 looks better. But all in all Ji continues to find that the key is the SR values and not the magnitudes ... (i.e. absent SR much different for the cohort 10 years on, we can relax)
+
+
+Whipple (1917), *State Sanitaton. A Review of the Work of the Massachusetts State Board of Health* (2 vols).  pdf16 TOC says Part II Report of the Mass Sanitary Commission of 1850 <pp241-370?> ; Appendix p350-367 interesting misc, with some from France and elsewhere 
+<p>p239   Part II Report of the Mass Sanitary Commission Lemuel Shattuck, Nathaniel P. Banks, Jr., Jehiel Abbot, 1850
+<br>pp -259  The Sanitary Movement Abroad
+<br> p260-  The Sanitary Movement at Home
+<br> p267-  Sanitary History of the State <covers 1618-
+<br> p276 Boston smallpox table 1721, 1730, 1752, ... 1778, 792  Mortality drops from 3+ per 100 population to 1 as innoculation takes charge
+<br>p280 1819 yellow fever in Boston; June 30 - Nov 1.  p282 1831-32 Boston Asiatic cholera, scarlatina, typhus. 
+<br> (still p282) For the last 40 years, ... less definite information ... than in previous periods
+<br>p283 To complete this general view of the sanitary condition of the state ... we have compiled from the Registration Reports, from the "Bills of Mortality" of Boston, and from other sources ...  p284 mortality by age-group for Boston and for Concord & Worcester (MA) & Amherst (NH) for 1826-1835 in comparison to census pops of 1830. records of those towns "supposed to be full; and though not the healthiest, may be considered, among the country towns, of about an average health."
+</p>
+<p>Tables present annual mortality rates (%) for age groups, U5 rate for "country towns" is 3.05% for 1830;  about 1/2 of 1830 Boston's 5.96%; 2/5 of 1840's 7% and 1/3 of the 1845 figure for Boston.
+<br>No SR for towns, but 1845 Boston's SR5 is 100.3 (n=14k 75% CI +/- 1.9).
+<br>Look ahead to 1860 Suffolk Co and SR5 is 99.7 (n=44k 75% CI +/- 1.5)
+<br>Do note that mid-19th-C Boston is small (1890s it reaches 1/2 million). 1850 to 1860 Philly jumps from 121k to 565k. 
+</p><p>Figure 8 graphs survival by age; roughly, the proportion who die by age 5 for groups is:
+<br>
+55% Boston Catholics; 35% Bostonians; 12% in Newton; 10% in England.
+</p><p>p287 claims mortality rising, "the average duration of life is not as great now as it was forty or fifty years ago" </p>
+p308 interesting remark about Boston's $5 million structure to bring water from Lake Cochituate, 19.5 miles away, "affords to every inhabitant an abundant supply of water of the best quality"
+p319 recommend institutions be formed to educate and qualify females to be nurses of the sick.
+**Looking for comments on registration quality* -- not found.
+<p>Annual Report of the Resident Physicians of the City of New York for 1865 (1866) p.7  "necessity of some legal enactment by which the construction of all tenement-houses, with special reference to limiting the number of inhabitants and the ventilation, shall be placed under the regulation and direction of some properly qualified sanitary inspector.
+<br> <new para> At present  most of the ten-hou in this city are absolutely unfit for occupation;   ventilation ... they are pest-holes that breed typhoid and typhus fever ...
+</p><p>Communication on Hygiene in Transactions of the AMA  "the more compact compact society becomes ... the more manifestly these causes develop themselves; hence densely populated cities present the greatest complication of these evils"  ... deficient ventilation, improper drainage, accumulation of filth, and a scanty supply of water, ... powerful predisposing causes of diseases, and that when conjoined, they cannot fail to produce a high rate of mortality. This is the theory; .. bad sewerage, a bad supply of water, ... accumulation of filth, ... wherever the commissioners of sewers have not been, there fever is prevalent;
+</p><p>SHattuck (1841).  pdf15-16 (p383-4) pdf15 increasing mortality ... nursing and feeding of children with improper food ... bad air in confined, badly located, and filthy houses, ... Epidemic diseases which are particularly prevalent among children have increased.  scarlet fever  13% of deaths ... Other infantile diseases have also increased. ... greater mortality in prevailed in certain localities, and in certain classes  pdf16 "families crowded into houses in Broad street, Ann street, and other densely populated parts of the city, render the air very impure, and expose the lives of infants, who are compelled to breathe it, to almost inevitable death.  ... epidemics are generated ...
+<br> pdf p10 (p368?) has decadal deaths by sex and single years of age. Maybe useful if combined with an assumption on SRB?
+<br> pdf11 table shows u5 %rate of mortality 1811-20 33.64%  1821-30 37.04%   1831-39 43.09%
+
+</p>
+
+###  to Mostly Ignore (even if we cite it) ###
+
+<p>Costa & Kahn (2015 AER-P&P) 1900-1930 p564 The urban mortality premium relative to rural areas in 1880 was ten years in Philadelphia (Haines 2001).  ... We will show that between 1900 and 1930 neighborhood convergence took place in New York City and Philadelphia such that infectious disease death rates in the highest baseline death rate areas declined by more than in the relatively safer areas </p>
+	<p>Cain & Hong [(2009 EEH)](https://doi.org/10.1016/j.eeh.2009.05.001)  "Survival in 19th century cities ..." 		Although it is widely known that, during the 19th century, life expectancy was substantially lower in cities than in rural areas, ... differences ... survival rates and proportional hazard ratios across urban sizes and rural environments are less well understood.1 <br>
+				n1 For example, Weber (1899) JIM? reported life expectancy at birth in the cities of Massachusetts was almost seven years less than that in the state as a whole. See also Condran and Crimmins (1980) RURAL/URBAN 1890-1900, Glover (1921) LIFE TABLES 1890-1910, Haines (1977), United Nations (1953) UNSURE, Vinovskis (1981) and Woods et al. (1988) ENG-WALES.
+				cites Woods et al (1988)  & UN 1952 <i>Oddly gloss over issue of whether urban penalty existed early?</i> Seems like it is simply
+	 ... survival rates for a large number of veterans .. compare the number of veterans alive in 1900 to those alive in 1866. The data reveal a hierarchical pattern of rates with the largest cities having the lowest rate.
+	<br> There is a well-developed literature on urban versus rural mortality rates. Vinokskis, correcting the earlier work of Jaff and Lourie, found that, in Massachusetts towns with an 1830 population of 10,000 or more, life expectancy at ages 10–14 was 46.7 years. In towns with less than 1000 inhabitants, it was 52.5 years ... <br>
+	Jim: a bunch of boring regressions showing that urban-born veterans died younger than rural-born.</p>
+
+
+<a name="ALMS></a>
+
+### Philadephia Almshouse 
+
+Goldin & Margo (1989 EEH) almshouse 4931 births   1848-1873
+  LEAD: Record Series 65.59, Archives of the City and County of Philadelphia
+p362 premature <37 weeks (<259 days)  males 100 g heavier or 3.5g
+
+low birth-weight for males vs females?
+eg male 3025 is 5th %tile  some 4% more than 5th %tile girls
+if use male <89 and girls <85  get 201/200 m/f
+if use male <93 and girls <89 get 233/246
+
+
+p365 Table 2 -- births with weight  
+All births 4703, which I confirm; with 451 lowBW, which I confirm
+
+PDF says 363 born live with low birthweight; if I deduct stillborn (Z) I am left with 365, which is two too many.  Of those 365, 4 have REMARK=7 for miscarriage; 1 has REMARK=O which is attempted abortion; 2 have REMARK=Y for die of delivery complications; 11 have REMARK=1 stillborn but resuc. I drop the two with Y ...  162 boys  199 girls   SRB 81.4 
+LiveNotLow 4108   2088/2003 104.2
+
+among 4471 livebirths (with birthweight)
+
+ICPSR data 4932 obs    
+PDF says 4705 valid weights ICPSR agrees
+PDF says 4471 live-births with valid weights -- I can get to 4469 in ICPSR, dropping Remarks with Z ;  
+LiveBorn<-Phil %>% filter(!grepl("[Z7YW]+",REMARKS))
+
+ICPSR 4577  
+drop Z=stillbirths  7=miscarriage  W craniotomoy and get 4477
+
+Y=dies of delivery complications: drops 4477 by 10 ... too many
+1=stillborn, resucitated: drops to 4428
+
+Checked, but too many to be the answer to missing nonlive births
+5=later n=49; Y=die from complic n=10; 1=still,resc n=49
+
+2390 female  2474 male SRB 103.51   fun to consider, but even 80% CI is a large 99.8 to 107.4
+Looking at ICPSR got SBR=80.2 for 382 boys & girls  But G&M say   
+Maybe look at "Small for dates" versus preemies
+
+####  US heights findings
+
+Komlos: Hence, the Antebellum Puzzle was over by the 1860s. 
+
+
+Zimran's (2019) work has smaller height decline 1832-46 (still the puzzle) and partial (1/3) recovery 1846 to 1860. 
+
+
+1832 68.83,  1846 67.89,  1860 68.19   Zimran fancy   {-0.94, -0.64}
+1832 68.27,  1846 67.03,  1860 66.98 Z on older adjustments  {-1.25, -1.29}
+
+Fogel 1830 68.31          1860 67.17   1880/85 66.50
+
+Komlos (2019 JEH)
+p1133 Their justification for the 1825–1890 periodization appeals to “Fogel’s (1986) account” of height trends, which they believe has “achieved nearly iconic status” (BGM 2017, p. 176).Fogel’s 30-year old “account” was a simple back-of-the-envelope guesstimate: it was not based on actual national data. 
+
+Zimran (2019 JEH) -- fancy adjustments for sample selection bias via shift from union army to regular army samples (latter shorter/poorer)
+
+p127
+height declines 1832-46 and 1832-60: 
+older approach: -1.24 and -1.29 inches (lesser fall 1846 to 1860)
+fancier way:  -0.94 and -0.64 (hence a rise from 1846 to 1860)
+
+The trend adjusting only for selection on observables represents the current methods of the historical heights literature and shows a decline in average stature from 68.27 inches to 66.98 inches. The trend incorporating the correction for selection on both observables and unobservables ...  shows a decline in average stature from 68.83 inches to 68.19 inches {-0.64}
+
+The first is that my estimated trend incorporating the correction for selection  on both observables and unobservables exhibits an Antebellum Puzzle.  ... the data do not support the view that the decline in average stature of the Antebellum Puzzle is an artifact of sample-selection bias. {even if no decline found still ask} why stature did not increase in the presence of rapid economic growth.     
+The second key insight, evident in Panel 2(a), is that incorporating the correction for selection on unobservables yields an estimated trend in average stature that is meaningfully different from the trend estimated according to the current literature’s techniques
+
+Zehetmayer 2011  less than 1/2" drop 1850ish to 1860ish   rising after 1875/79
+1847/54 ~67.75  55/59 ~67.3 ... 75/79 ~67.3  80/84 ~67.4 85/89 ~67.6  90/94 ~67.7
+p321 While Fogel finds a decline in heights that begins in  the early 1870s and bottoms out in the late 1880s, this study shows that  the nationwide trend followed a very different pattern. We find that height  was not declining but still stagnating in the 1870s and started to increase in  the early 1880s. In the most extreme case, Fogel underestimates true adult  heights by as much as 1.02 in. (2.6 cm) in 1890.
+
+
+**End of heights insert **
+
+
+
+
+
+
+
+
+[back to top](#TOC)

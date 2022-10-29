@@ -112,6 +112,9 @@ HSUS Series Ab9^[Haines, Michael R. , "Fertility and mortality, by race: 1800-20
     For the expectation of life at birth and the infant mortality rate, the values for 1900 and 1910 are from approximately 1895 and 1904, respectively.
 
 
+HSUS Ab31-37 shows BRA and DRA populations and % of US totals.       
+BRA 1924 76.2%, DRA 1918 76.6%; BRA 1928 94.3%, 1927 90.0% ;  
+
 Our key source is the web page [Vital Statistics for 1890-1938 ](https://www.cdc.gov/nchs/products/vsus/vsus_1890_1938.htm). These mostly annual volumes are Mortality Statistics for the DRA and Birth Statistics for the BRA.  But the Censuses before 1930 provide additional births data, in the context of their production of life tables.
 
 HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p1-chB.pdf). Vital Statistics (Series B 1-220). Series B 142-144 Infant mortality rate, by, race, 1915-1970. Source: U.S. Public Health Service, 1915-1939, Vital Statistics--Special Reports, vol. 45, No. 1, p7. ({I find it at Google via Hathi. Odd that they don't cite Linder & Grove, as in the 1957 edition}). 1940-70 from Vital Statistics of the US: 1940-67 in VSUS, 1967, vol. 11, Part A, p. 2-3; 1968-70 VSUS annual issues.    
@@ -971,22 +974,38 @@ Not odd:
 Eleventh Census - Volume 1. (Part I & Part II) Report on Population of the United States : 1890 rural/urban populations by state pdf36/51 p lvxiii of "Progress of the Nation" 
 
 
-**1880** 
+### 1880
 
 [census bureau site -- publications](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1880.html)
 
 
+Vol I, Statistics of the Population ... has single-year ages in Table XXI [Ala-Nevada](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NewHamp-Wyoming](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf)    
+Table XX US single year for all, white (native/forgn-born), colored; Table 21 by states;
 
-Vol I, Statistics of the Population ... has single-year ages in Table XXI [Ala-Nevada](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-15.pdf) and [NewHamp-Wyoming](https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-16.pdf) 
 <br>
 VA is pdf33 p636; With enough time, can compile U5 ages for cities,
 1880 city ages in [vol 12](https://www.census.gov/library/publications/1885/dec/vol-11-12-mortality.html) <br>
-Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf) 
+Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications/decennial/1880/vol-11-12-mortality/1880v12-05.pdf) THis has county and city detail (white/col/tot)
 
 
 
 
-**1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
+### 1870
+
+Age counts in 1870 Census: [Volume 2. The Vital Statistics of the United States](https://www.census.gov/library/publications/1872/dec/1870b.html)  
+Table XXII is US age/sex with nativity or race, 1850-70
+Table XXIII is US & states, Aggregate population, Age/sex, 1850-1870     
+Table XXIV Native Pop, Table XXV Foreign-born    
+Table XXVI white; t xxvi native white; T xxvii foreign-born white     
+Table XXIX US & states, colored pop age/sex, 1850-70      
+Table XXX US & states, chinese & indian age/sex, 1850-70. Tab XXXI ages 80+     
+ 
+ Ages with sex for each period of life ...    p563  /      Ninth census, volume 2, The Vital Statistics of the United States    1872 Wash GPO.
+link was down 220308
+
+
+
+
 
 [1870 census page](https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1870.html) lists volume 2 but the link is broken (March 8, 2022).
 
@@ -995,17 +1014,28 @@ Ages u1 & 1to5 [Vol 12, Table XIII](https://www2.census.gov/library/publications
 For 1870, published city-level data for SRs not found. V1 Tab XXV has school age counts.
 
 
+
+
+
 1860 has national and state-level ages u1 1-5 -- but nothing to add to 1870s presentation; and 1860 total includes "asiatics" of California (not in 1860 whites as reported in 1870)     
 1850 census volume's USA white u5 pops same as reported in 1870
 
 
-deletions from data appendix of dempap 
+
+
+**1840**   slave and frcol are u10.   Census site lists    
+1840 Census: Sixth Census or Enumeration of the Inhabitants of the US      
+1841 {pub date, I deem}     
+Aggregate amount of each description of persons within the United States and their territories, according to the Census of 1840.   {not in census digital collection}
+
+deletion from data appendix of dempap 
 Mass 1890 p 104 Table 3, Ages by periods of life  of Volume 1 Part II (see TOC in census data of 0SSSm in dig lib) [1880 Census: Volume 1. Statistics of the Population of the United States](https://www.census.gov/library/publications/1883/dec/vol-01-population.html)  MASS p592 in Table XXI  Table XXI. Population, by Specified Age, Sex, Race, and General Nativity of the Whites, by States and Territories: 1880 
    1870 Census: [Volume 2. The Vital Statistics of the United States](https://www.census.gov/library/publications/1872/dec/1870b.html)  LINK IS BROKEN MAR08 2022 Table XXIII. Ages with sex for each period of life ...    p563  /      Ninth census, volume 2, The Vital Statistics of the United States    1872 Wash GPO      -->
 
 
 
 ### US Census for the Black SR1 ###
+
 population volumes from 1850 and 1860 give U1, 1-u5, 5-u10 etc, for Whites, Free Colored Slaves.  Negro Population 1790-1915 Ch 4 provides SR1 for blacks 1850, 1860, 1870, 1900, 1910 and explains that 1880 and 1890 includes "indians, chinese, japanese" with blacks. So we need to extrapolate to fill in -- calculate non-white totals 
 
 1940 can't find negro age 2 -- just nonwhite for single yr
@@ -1024,7 +1054,13 @@ https://www.census.gov/programs-surveys/decennial-census/decade/decennial-public
 
 US census site lists [state censuses](https://www.census.gov/history/www/genealogy/other_resources/state_censuses.html)
 
-see above for Mass
+
+
+
+
+**1875** Mass state census  pdf p141 County of Barnstable       pdf541 occs
+
+and see above for Mass
 
 Michigan - 1837, 1845, 1854, 1864, 1874, 1884, 1888, 1894 ages, 1904 ages.    
 Mich [annual reports on births, deaths etc](https://catalog.hathitrust.org/Record/008616744?type%5B%5D=subject&lookfor%5B%5D=%22%20Michigan%20Statistics%2C%20Vital.%22&ft=)     
@@ -1068,5 +1104,11 @@ Wisconsin - 1836, 1838, 1842, 1846, 1847, 1855, 1865, 1875, 1885 -- no ages, 189
 <br>
 1850 compendium DeBow p 104 mentions age heaping at 10 15 20 ....
 
+
+### ICPSR data
+
+ICPSR 2896 :  Parts 1-43 are an update to HISTORICAL, DEMOGRAPHIC, ECONOMIC, AND SOCIAL DATA: THE UNITED STATES, 1790-1970 (ICPSR 0003).  Parts 1-41 contain data from the 1790-1970 censuses   .... Most of the published county data on population and housing were included up to the early 20th century. 
+
+Part 7 : 1850; Part 9 1860; part 46 1860 slh
 
 [back to top](#TOC)

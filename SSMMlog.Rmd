@@ -7,20 +7,40 @@ output: html_document
   
 <a name="TOP"></a>
 
-[dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
+#### loose ends?
 
-<!-- ## To do for submission Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;  -->
+2022.1024 family trees probably give accurate birth years, so use them to characterize 1860 census manuscripts enumeration of infants and young children. Ji's conjecture is that 11-mos olds are rounded up to one-year, and that 4.5 year olds are rounded up to 5yr olds. How does lower mortality of 4.5 yr olds vs infants affect undercount sorts of issues?
 
-#### alive RDS files    
+2022.1016  Sandberg & Steckel 1987 AnnHuBio and claim of mild subsistence crisis in Sweden in mid19C  ... something for us?
 
-1910 DS1910.RDS is u5g u5b & u1d   -- 19 solo with 100k kids; 
- * could add small PA cities for 1905 to fill in missing PA 1905 value 
- 
-
-u5CEAtots.RDS regions of US, and US, decenially 1840-1950
 
 
 ### current log ###
+
+
+2022.1028   rural/urb IMR -- Js uses 1890 Woods et al ... 
+
+2022.1026 Ji bogged down in English demography during start of JEH proofing
+
+2022.1024 sorting out census data for US slavery and post ... 1870 Hacker finds is worst undercount of native white, esp in South.
+
+2022.1021 1880 published volume includes chinese & indian in colored. Probably 1870 and 1900 can show us which states have large pops of chinese or indian ... 1870 u5 chinese US  Calif 331 185+146  "civilized indians" US 3154 1636+1518      4CO 816  22NV 754  7GA 231   16KS 136    33NC  146    44WA 123    46WI 162                  
+
+2022.1019 need to sketch out empirical content of slvpap --
+could include 1830, 1840 data for u10 pop ...  
+
+use ICPSR & 1850
+
+2022.1016  Ji decides to return to logging. 5 hours burnt digging into Steckels birth-weight from Lumi. No birthweight data for the Bundi ...    
+Ji notices Sandberg & Steckel 1987 AnnHuBio and claim of mild subsistence crisis in Sweden in mid19C  ... something for us?
+
+2022 from september     
+alive RDS files : 1910 DS1910.RDS is u5g u5b & u1d   -- 19 solo with 100k kids;  * could add small PA cities for 1905 to fill in missing PA 1905 value      
+u5CEAtots.RDS regions of US, and US, decenially 1840-1950    
+
+[dempap link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf) 
+
+<!-- ## To do for submission Js: England quinquennial 1926-1971 (not 1925-1970); drop NLD 1869;  -->
 
 
 2022.0907 emma Griffin's book Breadwinner looks promising -- re;henry George progress breeds poverty; also IMR in Engl ...

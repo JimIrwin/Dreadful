@@ -1319,7 +1319,6 @@ IMR [Estimation methods for child mortality](https://www.who.int/gho/child_healt
 Looking at UN? pop by age data: Ghana Cameroon   1-4 yrs
 https://population.un.org/wpp/Download/Standard/Interpolated/
 
-
 <a name="CANsect"></a>
 
 ### Canada sources
@@ -1407,6 +1406,15 @@ censuses up to 1871 in one volume [online](https://archive.org/stream/censusofca
 
 Statistics Canada pubs at Internet Archive [1941](https://archive.org/details/statisticscanada?&and[]=year%3A%221941%22)
 
+### other Americas ###
+
+RobertsGW 1957 The Population of Jamaica    
+p61 age pyramids u5 f & m  looks like  1881 6.55 6.45     1943  6.2  6.3  ?     
+p71 Table 17 sex ratios by age (males per 1000 females) u5 1881 991, 1891 998, 1911 994, 1921 1003, 1943 1003  Kingston looks much worse (857, 839, 998, 962, 977)
+p198 Life Table male IMR 1881 178, 1891 196,  1911 198, 1921 187, 1946 102, 1951 84.5
+Index     
+IMR 4, 184-192, 204-214
+Jamaica censuses for 1844, 1861, 1871, 1881, 1891, 1911, 1921, 1943   -- 1943 is search only at Hathi. No otherwise located ... (2022 Oct)
 
 
 
