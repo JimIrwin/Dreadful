@@ -13,7 +13,7 @@ output: html_document
 
 2022.1016  Sandberg & Steckel 1987 AnnHuBio and claim of mild subsistence crisis in Sweden in mid19C  ... something for us?
 
-
+2022 Ji wanted to follow up on South Africa data sources; and guy in Africa re:SRB?
 
 ### current log ###
 

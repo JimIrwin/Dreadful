@@ -590,7 +590,7 @@ Haines (1998:231) Unfortunately, collection of vital statistics was left to indi
 
 Abbott 1897:714 The period of forty years (1856–95) has been selected for consideration for the reason that it presents a definite portion of time in which the returns of vital statistics of the cities and towns may be deemed to be fairly accurate. The returns of the first few years following 1842 are more or less incomplete and untrustworthy, but those of the forty years under consideration must be considered as approximately correct.
 
-<br> Note: arguably, the rural data are perhaps not "deemed to be fairly accurate" ?
+<br> Ji had suggested: arguably, the rural data are perhaps not "deemed to be fairly accurate" ?   But that view overlooks the meaning of "town" in New England -- which unlike most of the US, doesn't use counties as basic unit, wikipedia useful here. 
 
 Haines (2006 HSUS essay) The Massachusetts data reach reasonable quality by about 1860 and are reproduced here in Tables Ab928 and Ab1048–1058.
 

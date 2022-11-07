@@ -1157,6 +1157,11 @@ Shaw-Taylor 2020 EHR
 In 2019 global life expectancy was approaching 73 years. In 1800 it was probably about 30.3 -- cites Davenport forthcoming -- 2021
 
 
+
+Weil (2015 JEL), "A review of angus deaton's the great escape: health, wealth, and the origins of inequality"  agrees with Deaton that now possible to get healthy population without it being rich (good institutions?); but I think leaves open possibility that poverty/malnutrition is unhealthy
+p104 Similarly, in the analysis of Oeppen and Vaupel (2002), life expectancy in the “best practice” countries (those with the highest life expectancy in the world) has increased linearly since 1840 at a pace of three months per annum, with no sign of a slowdown. {Goofball Science article with plot of Sweden? Netherlands etc}
+
+
 Floud, Fogel, Harris, Hong (2011), *The changing body: health, nutrition, and human development in the western world since 1700*     
 p296 Although there is a continuing debate over the impact
 of industrialization on the standard of living in the short to medium
@@ -2120,7 +2125,7 @@ Agnostic on SRB & maternal stress:  Møller
 
 Schacht, R., Tharp, D. & Smith, K.R. Sex ratios at birth vary with environmental harshness but not maternal condition. Sci Rep 9, 9066 (2019). FRAIL MALES yes; MATERNAL MISERY no.
 
-### social science research on SRB & stress etc
+### nonBio research on SRB & stress etc
 
 
 Grech & Scherb (2022 Med Pric Prac), "No Local Birth Sex Ratio Changes following the August 2019 Shootings in Montgomery County, Ohio, and in El Paso County, Texas."
@@ -2130,96 +2135,8 @@ Grech 2020 (EHuDev v143), The sex ratio at birth, the 10/17 Las Vegas shooting a
 Fukuda et al. 2020 EHuDev (v142 special issue) "Effects of earthquakes and other natural catastrophic events on the sex ratio of newborn infants,"      
 Fukuda et al. 2020 EHuDev (special issue) "The male to female ratio of newborn infants in Japan in relation to climate change, earthquakes, fetal deaths, and singleton male and female birth weights"
 
-Valente [2015](https://www.dropbox.com/s/y5g4p32v20rc0ov/valenteJHealthEc2015.pdf?dl=0), Civil conflict, gender-specific fetal loss, and selection: A new test of the Trivers–Willard hypothesis    p31 TW As predicted by this hypothesis, there is evidence that adverse maternal health shocks around conception or during pregnancy lead to a sex ratio skewed in favor of girls ...  This paper analyzes the effect of in utero exposure to a maternal stressor in the form of the recent civil conflict in Nepal, ... two novel contributions ... provide maternal fixed-effects estimates of the impact of an environmental stressor during pregnancy on fetal loss and on gender, so that findings are robust to changes in maternal composition correlated with the shock of interest. ... first to produce a test of the effect of a maternal stressor on (i) fetal loss, (ii) gender at birth and (iii) in utero selection on unobserved health in a unified setting, ... shed light on all dimensions of the TW hypothesis    
-p32 There is indeed evidence that adverse maternal health shocks around conception or later in pregnancy lead to a sex ratio skewed in favor of girls   earthquakes, terrorist attacks, unusually cold years, maternal fasting   ... A worsening of maternal condition during pregnancy can deteriorate fetal health,thus shifting the fetal health distribution to the left (“scarring” mechanism), or shift the survival threshold to the right (positive selection or “culling” mechanism), or both. Given that males are over-represented in the lower part of the fetal health distribution   ... both 
 
 
-
-
-[Almond & Edlund (2007 PrRSBio)](<https://doi.org/10.1098/rspb.2007.0524>) "Trivers–Willard at birth and one year: evidence from US natality data 1983–2001."  SRB mostly.
-
-ABSTRACT: "Our findings highlight the potential role of offspring sex ratio as an indicator of maternal status, and the role of infant mortality in shaping a TW pattern in the breeding population." p2495 "One way to assess magnitudes is to consider the implied mortality. A married mother who had some college education was approximately **0.80%** more likely to bear a son (or have a son survive to age 1) than an unmarried mother who did not complete high school."<br>
-SAY 51.15% vs 50.35%  m/f 104.7 down to 101.4 where 51.15 is 2001 white women probability of boy baby ... So a drop of 3.3 between married&college versus unwed-dropout ... marriage alone 0.1% effect implies a drop of 0.4 ... **smallish effects** ?<br>
-"Obviously, the closer to conception, the lower the replacement cost of terminated offspring. Mortality in utero would for this reason be more advantageous than mortality after birth and most studies have focused on the sex ratio at birth.3  However, barring pre-natal sex determination and elected abortions, the effects are small (see James 1987)."<br>
-So they cite JamesWH 1987 for small effects on SRB (of maternal conditions?)
-
-Polasek 2006 EuroJEpid  -- some war-time effect, boosting SRB
-
-
-Catalano & Bruckner (2006 PNAS) Sweden 1751-1912 as much as 3-point drop
-
-Catalano et al (2006 Hu Repro) NYC 9-11  SRB drops to 100.0   -- 5-point drop
-
-Catalano et al (2005 Hu Repro) California 9-11 2-point drop  SRB drops to 102.9 from 104.9  p1224 The antilog of the estimated parameter for December 2001 implies that the odds of a male live birth dropped by 2% in this month.  Via Table 1 final results 104.9 but Dec 2001 102.9 
-
-Catalano 2003 1991 East German economic collapse SRB falls to 104.4 from 105.9  1.5-point drop
-
-Navara 2004 Ji to check
-
-Kemkes, 2006 [Am Journal Hu Bio](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajhb.20562), "Secondary sex ratio variation during stressful times: The impact of the French Revolutionary Wars on a German parish (1787–1802)"  -- fem-tilt from malnutrition/stress?
-
-2020 ClarkAE, D'Ambrosio, Rohde, "Prenatal Economic Shocks and Birth Outcomes in UK Cohort Data," EcHuBio. Birth weights and head circumference. Regression models to estimate effect sizes. n=445    not shocked 108.8, shocked 93.4  m/f
- shocks take males; among live-born (their focus), males fragile weight-wise, not head-circumference-wise
-
-
-
-
-
-
-## SRB articles ##
-
-### Early research (before 1910) in ascending order
-
-DeBow 1850 Census compendium p. 101,    
-A writer in the American Journal of the Medical Sciences for July, 1854, remarks that nine months after the prevalence of cholera in Philadelphia there was a remarkable diminution in the proportion of male births, and that subsequent investigations lead to the conclusion that disease, exhausting labor, meagre diet, impure air, intemperance, and other social evils exert depressing influences upon the number of male births. [2021.11 Ji notices]     
-
-samuel Brown (1853 JInstActur)      
-
-July 1854 AMJMS [The American journal of the medical sciences. v.28 1854.](https://babel.hathitrust.org/cgi/pt?id=uva.x030533591&view=page&seq=167&skin=2021&q1=Philadelphia) ...
-KT discussion mention Phila https://babel.hathitrust.org/cgi/pt?id=uva.x030533591&view=page&seq=166&skin=2021&q1=Philadelphia
-p166 In a short paper published in July , 1848, upon the "Proportions of the Sexes at Birth" (1 See the American Journal of the Medical Sciences, vol. xxxi. p. 78) <p167> we endeavoured to assign the causes which operated in changing the ratios subsisting between the males and females . We were led to this inquiry by an accidental discovery made whilst examining the Phila delphia bills of mortality , namely , that nine months after the prevalence of Asiatic Cholera in the city , there was a remarkable diminution in the propor tion of male births — so much so as even to give a preponderance to the females . Subsequent investigations of the operation of this and other causes which we found operative in determining the proportions of the sexes at birth , led us to the conclusion that disease , exhausting labour , meagre diet , impure air , intem perance , and other social evils , exert depressing influences which manifest themselves in diminishing the proportion of male births , and favouring the preponderance of females ; whilst , on the contrary , every agency operating in a community to produce and maintain a high state of physical health and energy , leads to an increase in the proportion of male births . In many parts of Europe , where so many of the people are over - worked and under - fed , the excess of male births is very small . Throughout France and Prussia , it is usually about six per cent . , and in England about five per cent . for the whole population    ... In fact , we regard the increased proportion of males over females at birth , as a sure index of the physical ad vantages enjoyed by the population in which the births took place .    
-</p><p>They go on to point to SRBs of 112 or 114 as evidence of health! OUCH</p>
-
-Lewis, J., & Lewis, C. (1906). "The Variations in Masculinity under different conditions." [Journal of the Institute of Actuaries, 40(2), 154-188.](doi:10.1017/S002026810000874X)  MANY OLDER WORKS CITED   
-p155 the possession of a postivitve masculinity appears to be an integral necessity of a vigorous nationality.. The reason for this lies in the heavier mortality which the male suffers as compared with the female in the early years of life. Not only do male children perish in early years, but even in early months, at a greater rate than their sisters. The result of this higher death-rate is to neutralize positive masculinity    p156 rarely exceeds 1,100 or falls below 900.    usually between 1,020 and 1,070.     p162 SB very masculine    p167 rural life as a stimulus to masculinity Scotland cities (10K) 1049 rural 1055  p170 rich Swedes less masculinity  p171 Scots working class 1037  agric 1068  total 1049
-171-72 Dusing constrasts the high masc of the agriculural class with the low masc manifested by industrial occupations  p175 Hofacker-Sadler law  
-
-
-Heape 1909 "The proportion of the sexes produced by whites and coloured peoples in cuba"   Very fem/low for illegit Blacks: 97.91 (n=27k); legit blacks 107.7 (n=14k); white 109.0 (110k) & 105.95 (26k)   
-
-
-
-## SRB and/or Frail Males: Bio-oriented
-
-[Aoun et al.](doi: 10.1097/NT.0000000000000544) 2022 Nutrition Today  Odd little piece that quickly lists off studies and what they found with regard to possible effects on SRB of diet -- various treatments or observations; tends toward idea of people trying to choose/influence sex of child. Very inconclusive, but certainly nothing to reject a null hypothesis that malnutrition skews SRB toward female.
-p180 One strategy for influencing the sex ratio that has recently received attention is maternal diet during pregnancy, based on work with experimental animals. This review focuses on these influences, summarizing some of the relevant work in experimental animals and the few human studies that exist as well.     
-62 articles included 11 reviews and 51 original articles, mostly animal and human intervention studies    
-p181 . Several studies suggest that female mammals that have healthier diets and nutritional status may produce more sons than daughters.34 <34 is  Franzek EJ, Roozen HG. The effects of malnutrition in a human population on addictive behavior and sex ratio at birth. Eur Psychiatry. 2011;26(S2):2015 -- that is a bizarre 12 line abstract-like item, reporting prenatal famine link to substance abuse as adult. Nothing for us   > 
-... A study in female mice in 1995 found that, with intermittentfeeding and energy restriction, less male offspring were delivered from dams deprived of food every other day or every third day.33 However, other studies did not show similar effects.35   An earlier study on mice also found that the sex ratio skewed toward females, with less male births resulting from diets with reduced amounts of fat or reduced total energy intakes.42       
-
-
-Amanda L. Thompson (2021 Annals of Human Biology)](https://www.tandfonline.com/doi/full/10.1080/03014460.2021.1998622), "Greater male vulnerability to stunting? Evaluating sex differences ... "      
-
-These contrasting observations – boys are more biologically vulnerable and girls more socially vulnerable – suggest that rather than viewing one sex or the other at greater risk for stunting, understanding how the biological mechanisms contributing to vulnerability interact with social and cultural factors contributing to differential nutritional or environmental exposures is critical for identifying which children are most at risk for growth faltering.         
-
-Costa, Weber, et al.  [2021 Paediatr Perinat Epid](https://onlinelibrary.wiley.com/doi/10.1111/ppe.12763), " Levels and potential drivers of under-five mortality sex ratios in low- and middle-income countries."  Only 3 cites GS. 
-
-The study of gender bias in child health is affected by the greater biological vulnerability of boys compared to girls; in societies where there is no evidence of discrimination, boys show higher mortality rates than girls [4,5].     
-Under circumstances where boys and girls are equally valued and health care is evenly available to both sexes, boys have higher mortality rates than girls due to biological differences.1, 2, 5 The expected sex ratio in under-five mortality rates (U5MR), however, varies geographically according to the causes and overall levels of mortality.6, 7
-The survival advantage of girls becomes more evident as overall mortality falls because perinatal causes and malformations, which represent the leading causes of death when mortality is low, predominate among male infants.7-9 Nonetheless, in some countries and regions, girls are dying more often than expected and present similar or even higher mortality rates as their male counterparts, thus lowering the observed sex ratios.7 Where sex ratios in mortality deviate from the expected due to higher female mortality, gender bias must be considered as an underlying cause.
-
-
-2020 Early Human Development [Special Best Practice Guidelines Section: The Sex Ratio At Birth - 1](https://www.sciencedirect.com/journal/early-human-development/vol/140/suppl/C)  "This and the next series of Best Practise Guidelines will revisit the main theories that attempt to explain the influences on the sex ratio at birth (M/F), which was similarly reviewed in this journal in 2015. ... "     
-
-"The sex ratio at birth" (1), Victor Grech    
-[Grech (2020 Early Human Development) "The sex ratio at birth – Historical aspects"](https://www.sciencedirect.com/science/article/pii/S0378378219305092) Useful recap of literature ...     
-"What is the sex ratio at birth?" Victor Grech, Julian Mamo;     
-"Effects of earthquakes and other natural catastrophic events on the sex ratio of newborn infants," Misao Fukuda, Kiyomi Fukuda, Shawn Mason, Takashi Shimizu, Claus Yding Andersen;   
-The male to female ratio of newborn infants in Japan in relation to climate change, earthquakes, fetal deaths, and singleton male and female birth weights, Misao Fukuda, Kiyomi Fukuda;         
-"The human sex ratio at conception," William H. JamesWH, Victor Grech;       
-"Maternal RhD heterozygous genotype is associated with male biased secondary sex ratio," Šárka Kaňková, Jaroslav Flegr, Jan Toman, Pavel Calda; 
-
-WestL & Grech, A systematic search of the factors that influence the sex ratio at birth;    MATERNAL STRESS selects out boys
 
 Chacon-Puignau & JaffeK (2019 SocBio) "Sex ratio at birth deviations in modern Venezuela: the Trivers-Willard effect" PROs, BUT FIND MAGNITUDE
 
@@ -2238,14 +2155,6 @@ Bruckner & Catalano 2018  "Selection in utero and population health: Theory and 
 Kanninen & Karhula (2016 PloS one) **Bullshit** (pro see plot of SRB vs %change pcInc. See Figure 2, with tiny slope driven by 3 SRB of 1085 with pcInc +10% (extreme NorthEast of XY)
 
 2016 Najmi et al (2016 Shiraz E Medical J) The association between menarche age and first offspring sex ratio."IRAN?  "Women of younger menarche age will have younger first pregnancy ages and a greater chance of having a male first offspring"  Which Ji&Js would interpret as a result of better nutrition and health producing a younger menarche age, and higher SRB for healthier mums. Najmi, Z. and Haghighi, L. and Hashemi, N. and Barzegar, N. and Moradi, Y. (2016)  Shiraz E Medical Journal, 17 (1).
-
-Orzack, Stubblefield, et al. (2015 Proc NAS). The human sex ratio from conception to birth. Conception SR=1 then excess female mortality to give elevated SRB; increase in SR during first trimester. Seems no implication for our work? They dispute James's claims of estrogen effecting SRB ...
-
-
-2015 Wainstock et al Effects of exposure to rocket-attack alarms. <br> SRB Exposed 0.987 (1846)  Unexposed 1.066 (2967) (but 95% CI overlap). Found this via they cite 
-
-Pongou (2015 Demography), "Sex differences in early-age mortality: The preconception origins hypothesis".      
-In previously published research (Pongou 2013), I showed some limitations of this biological hypothesis and proposed the “pre-conception origins” hypothesis, which holds that some of the preconception and prenatal environmental factors that have been shown to determine the offspring sex ratio also explain the male–female difference in early-age mortality (see Fig. 1 for a graphical presentation of this hypothesis).
 
 
 2015 Early Human Development. [Special Issue: Male to Female Ratio at Birth;](https://www.sciencedirect.com/journal/early-human-development/vol/91/issue/12)  Guest Edited by Victor E Grech;     
@@ -2279,6 +2188,104 @@ Bethman & Kvasnicka (2014 ScanJE) Fem-Favoring marriage market boosts SRB by 1 p
 p360  Because pre-natal mortality rates for boys tend to be more sensitive to adverse environmental  conditions (see Teitelbaum 1970; JamesWH 1987), the sex ratio at birth should  have fallen rather than increased in belligerent countries
 
 Alkema et al. (2014 Lancet G H)[National, regional, and global sex ratios of infant, child, and under-5 mortality and identification of countries with outlying ratios: a systematic assessment](https://www.sciencedirect.com/science/article/pii/S2214109X14702803) For us, establishing usual range of excess male mortalities.
+
+
+
+2015 Wainstock et al Effects of exposure to rocket-attack alarms. <br> SRB Exposed 0.987 (1846)  Unexposed 1.066 (2967) (but 95% CI overlap). Found this via they cite 
+
+
+Valente [2015](https://www.dropbox.com/s/y5g4p32v20rc0ov/valenteJHealthEc2015.pdf?dl=0), Civil conflict, gender-specific fetal loss, and selection: A new test of the Trivers–Willard hypothesis    p31 TW As predicted by this hypothesis, there is evidence that adverse maternal health shocks around conception or during pregnancy lead to a sex ratio skewed in favor of girls ...  This paper analyzes the effect of in utero exposure to a maternal stressor in the form of the recent civil conflict in Nepal, ... two novel contributions ... provide maternal fixed-effects estimates of the impact of an environmental stressor during pregnancy on fetal loss and on gender, so that findings are robust to changes in maternal composition correlated with the shock of interest. ... first to produce a test of the effect of a maternal stressor on (i) fetal loss, (ii) gender at birth and (iii) in utero selection on unobserved health in a unified setting, ... shed light on all dimensions of the TW hypothesis    
+p32 There is indeed evidence that adverse maternal health shocks around conception or later in pregnancy lead to a sex ratio skewed in favor of girls   earthquakes, terrorist attacks, unusually cold years, maternal fasting   ... A worsening of maternal condition during pregnancy can deteriorate fetal health,thus shifting the fetal health distribution to the left (“scarring” mechanism), or shift the survival threshold to the right (positive selection or “culling” mechanism), or both. Given that males are over-represented in the lower part of the fetal health distribution   ... both 
+
+
+[Almond & Edlund (2007 PrRSBio)](<https://doi.org/10.1098/rspb.2007.0524>) "Trivers–Willard at birth and one year: evidence from US natality data 1983–2001."  SRB mostly.
+
+ABSTRACT: "Our findings highlight the potential role of offspring sex ratio as an indicator of maternal status, and the role of infant mortality in shaping a TW pattern in the breeding population." p2495 "One way to assess magnitudes is to consider the implied mortality. A married mother who had some college education was approximately **0.80%** more likely to bear a son (or have a son survive to age 1) than an unmarried mother who did not complete high school."<br>
+SAY 51.15% vs 50.35%  m/f 104.7 down to 101.4 where 51.15 is 2001 white women probability of boy baby ... So a drop of 3.3 between married&college versus unwed-dropout ... marriage alone 0.1% effect implies a drop of 0.4 ... **smallish effects** ?<br>
+"Obviously, the closer to conception, the lower the replacement cost of terminated offspring. Mortality in utero would for this reason be more advantageous than mortality after birth and most studies have focused on the sex ratio at birth.3  However, barring pre-natal sex determination and elected abortions, the effects are small (see James 1987)."<br>
+So they cite JamesWH 1987 for small effects on SRB (of maternal conditions?)
+
+Polasek 2006 EuroJEpid  -- some war-time effect, boosting SRB
+
+
+Catalano & Bruckner (2006 PNAS) Sweden 1751-1912 as much as 3-point drop
+
+Catalano et al (2006 Hu Repro) NYC 9-11  SRB drops to 100.0   -- 5-point drop
+
+Catalano et al (2005 Hu Repro) California 9-11 2-point drop  SRB drops to 102.9 from 104.9  p1224 The antilog of the estimated parameter for December 2001 implies that the odds of a male live birth dropped by 2% in this month.  Via Table 1 final results 104.9 but Dec 2001 102.9 
+
+Catalano 2003 1991 East German economic collapse SRB falls to 104.4 from 105.9  1.5-point drop
+
+Navara 2004 Ji to check
+
+Kemkes, 2006 [Am Journal Hu Bio](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajhb.20562), "Secondary sex ratio variation during stressful times: The impact of the French Revolutionary Wars on a German parish (1787–1802)"  -- fem-tilt from malnutrition/stress?
+
+2020 ClarkAE, D'Ambrosio, Rohde, "Prenatal Economic Shocks and Birth Outcomes in UK Cohort Data," EcHuBio. Birth weights and head circumference. Regression models to estimate effect sizes. n=445    not shocked 108.8, shocked 93.4  m/f
+ shocks take males; among live-born (their focus), males fragile weight-wise, not head-circumference-wise
+
+
+## SRB articles ##
+
+### Early research (before 1910) in ascending order
+
+DeBow 1850 Census compendium p. 101,    
+A writer in the American Journal of the Medical Sciences for July, 1854, remarks that nine months after the prevalence of cholera in Philadelphia there was a remarkable diminution in the proportion of male births, and that subsequent investigations lead to the conclusion that disease, exhausting labor, meagre diet, impure air, intemperance, and other social evils exert depressing influences upon the number of male births. [2021.11 Ji notices]     
+
+samuel Brown (1853 JInstActur)      
+
+July 1854 AMJMS [The American journal of the medical sciences. v.28 1854.](https://babel.hathitrust.org/cgi/pt?id=uva.x030533591&view=page&seq=167&skin=2021&q1=Philadelphia) ...
+KT discussion mention Phila https://babel.hathitrust.org/cgi/pt?id=uva.x030533591&view=page&seq=166&skin=2021&q1=Philadelphia
+p166 In a short paper published in July , 1848, upon the "Proportions of the Sexes at Birth" (1 See the American Journal of the Medical Sciences, vol. xxxi. p. 78) <p167> we endeavoured to assign the causes which operated in changing the ratios subsisting between the males and females . We were led to this inquiry by an accidental discovery made whilst examining the Phila delphia bills of mortality , namely , that nine months after the prevalence of Asiatic Cholera in the city , there was a remarkable diminution in the propor tion of male births — so much so as even to give a preponderance to the females . Subsequent investigations of the operation of this and other causes which we found operative in determining the proportions of the sexes at birth , led us to the conclusion that disease , exhausting labour , meagre diet , impure air , intem perance , and other social evils , exert depressing influences which manifest themselves in diminishing the proportion of male births , and favouring the preponderance of females ; whilst , on the contrary , every agency operating in a community to produce and maintain a high state of physical health and energy , leads to an increase in the proportion of male births . In many parts of Europe , where so many of the people are over - worked and under - fed , the excess of male births is very small . Throughout France and Prussia , it is usually about six per cent . , and in England about five per cent . for the whole population    ... In fact , we regard the increased proportion of males over females at birth , as a sure index of the physical ad vantages enjoyed by the population in which the births took place .    
+</p><p>They go on to point to SRBs of 112 or 114 as evidence of health! OUCH</p>
+
+Lewis, J., & Lewis, C. (1906). "The Variations in Masculinity under different conditions." [Journal of the Institute of Actuaries, 40(2), 154-188.](doi:10.1017/S002026810000874X)  MANY OLDER WORKS CITED   
+p155 the possession of a postivitve masculinity appears to be an integral necessity of a vigorous nationality.. The reason for this lies in the heavier mortality which the male suffers as compared with the female in the early years of life. Not only do male children perish in early years, but even in early months, at a greater rate than their sisters. The result of this higher death-rate is to neutralize positive masculinity    p156 rarely exceeds 1,100 or falls below 900.    usually between 1,020 and 1,070.     p162 SB very masculine    p167 rural life as a stimulus to masculinity Scotland cities (10K) 1049 rural 1055  p170 rich Swedes less masculinity  p171 Scots working class 1037  agric 1068  total 1049
+171-72 Dusing constrasts the high masc of the agriculural class with the low masc manifested by industrial occupations  p175 Hofacker-Sadler law  
+
+
+Heape 1909 "The proportion of the sexes produced by whites and coloured peoples in cuba"   Very fem/low for illegit Blacks: 97.91 (n=27k); legit blacks 107.7 (n=14k); white 109.0 (110k) & 105.95 (26k)   
+
+
+## SRB and/or Frail Males: Bio-oriented
+
+[Aoun et al.](doi: 10.1097/NT.0000000000000544) 2022 Nutrition Today  Odd little piece that quickly lists off studies and what they found with regard to possible effects on SRB of diet -- various treatments or observations; tends toward idea of people trying to choose/influence sex of child. Very inconclusive, but certainly **nothing to reject a null hypothesis that malnutrition skews SRB toward female.**
+p180 One strategy for influencing the sex ratio that has recently received attention is maternal diet during pregnancy, based on work with experimental animals. This review focuses on these influences, summarizing some of the relevant work in experimental animals and the few human studies that exist as well.     
+62 articles included 11 reviews and 51 original articles, mostly animal and human intervention studies    
+p181 . Several studies suggest that female mammals that have healthier diets and nutritional status may produce more sons than daughters.34 <34 is  Franzek EJ, Roozen HG. The effects of malnutrition in a human population on addictive behavior and sex ratio at birth. Eur Psychiatry. 2011;26(S2):2015 -- that is a bizarre 12 line abstract-like item, reporting prenatal famine link to substance abuse as adult. Nothing for us   > 
+... A study in female mice in 1995 found that, with intermittentfeeding and energy restriction, less male offspring were delivered from dams deprived of food every other day or every third day.33 However, other studies did not show similar effects.35   An earlier study on mice also found that the sex ratio skewed toward females, with less male births resulting from diets with reduced amounts of fat or reduced total energy intakes.42       
+
+
+Amanda L. Thompson (2021 Annals of Human Biology)](https://www.tandfonline.com/doi/full/10.1080/03014460.2021.1998622), "Greater male vulnerability to stunting? Evaluating sex differences ... "      
+
+These contrasting observations – boys are more biologically vulnerable and girls more socially vulnerable – suggest that rather than viewing one sex or the other at greater risk for stunting, understanding how the biological mechanisms contributing to vulnerability interact with social and cultural factors contributing to differential nutritional or environmental exposures is critical for identifying which children are most at risk for growth faltering.         
+
+Costa, Weber, et al.  [2021 Paediatr Perinat Epid](https://onlinelibrary.wiley.com/doi/10.1111/ppe.12763), " Levels and potential drivers of under-five mortality sex ratios in low- and middle-income countries."  Only 3 cites GS. 
+
+The study of gender bias in child health is affected by the greater biological vulnerability of boys compared to girls; in societies where there is no evidence of discrimination, boys show higher mortality rates than girls [4,5].     
+Under circumstances where boys and girls are equally valued and health care is evenly available to both sexes, boys have higher mortality rates than girls due to biological differences.1, 2, 5 The expected sex ratio in under-five mortality rates (U5MR), however, varies geographically according to the causes and overall levels of mortality.6, 7
+The survival advantage of girls becomes more evident as overall mortality falls because perinatal causes and malformations, which represent the leading causes of death when mortality is low, predominate among male infants.7-9 Nonetheless, in some countries and regions, girls are dying more often than expected and present similar or even higher mortality rates as their male counterparts, thus lowering the observed sex ratios.7 Where sex ratios in mortality deviate from the expected due to higher female mortality, gender bias must be considered as an underlying cause.
+
+
+2020 Early Human Development [Special Best Practice Guidelines Section: The Sex Ratio At Birth - 1](https://www.sciencedirect.com/journal/early-human-development/vol/140/suppl/C)  "This and the next series of Best Practise Guidelines will revisit the main theories that attempt to explain the influences on the sex ratio at birth (M/F), which was similarly reviewed in this journal in 2015. ... "     
+
+"The sex ratio at birth" (1), Victor Grech    
+[Grech (2020 Early Human Development) "The sex ratio at birth – Historical aspects"](https://www.sciencedirect.com/science/article/pii/S0378378219305092) Useful recap of literature ...     
+"What is the sex ratio at birth?" Victor Grech, Julian Mamo;     
+"Effects of earthquakes and other natural catastrophic events on the sex ratio of newborn infants," Misao Fukuda, Kiyomi Fukuda, Shawn Mason, Takashi Shimizu, Claus Yding Andersen;   
+The male to female ratio of newborn infants in Japan in relation to climate change, earthquakes, fetal deaths, and singleton male and female birth weights, Misao Fukuda, Kiyomi Fukuda;         
+"The human sex ratio at conception," William H. JamesWH, Victor Grech;       
+"Maternal RhD heterozygous genotype is associated with male biased secondary sex ratio," Šárka Kaňková, Jaroslav Flegr, Jan Toman, Pavel Calda; 
+
+WestL & Grech, A systematic search of the factors that influence the sex ratio at birth;    MATERNAL STRESS selects out boys
+
+Orzack, Stubblefield, et al. (2015 Proc NAS). The human sex ratio from conception to birth. Conception SR=1 then excess female mortality to give elevated SRB; increase in SR during first trimester. Seems no implication for our work? They dispute James's claims of estrogen effecting SRB ...
+
+
+Pongou (2015 Demography), "Sex differences in early-age mortality: The preconception origins hypothesis".      
+In previously published research (Pongou 2013), I showed some limitations of this biological hypothesis and proposed the “pre-conception origins” hypothesis, which holds that some of the preconception and prenatal environmental factors that have been shown to determine the offspring sex ratio also explain the male–female difference in early-age mortality (see Fig. 1 for a graphical presentation of this hypothesis).
+
+Pongou (2013 Demography) "Why is infant mortality higher in boys than in girls? A new hypothesis based on preconception environment and evidence from a large sample of twins"
+
 
 Navarra (2014 PLoS One). Less gestational weight gain lowers SRB. The reported range of SRB see Seems like very extreme results, Figure 1 plots %male vs weight gain   0:0.484  80:0.54 that is 94 to 117  -- for whites, the %male plateaus at 54% or more, and that 117% seems unlikely? <br>
 p3 Not diet affect XvsY sperm, nor differential implantation, nor pre-implantation mortality "Instead, a majority of studies on humans showing effects of adverse conditions on sex ratios suggest sex-specific fetal deaths as the mechanism (reviewed in [20]), and this mechanism is the focus of the current study." 20 is Navarra (2010 JCompPhysiol)  <br>
