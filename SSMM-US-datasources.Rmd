@@ -139,6 +139,9 @@ HSUS (1976) [Vital Statistics and Health and Medical Care](https://www2.census.g
 <p>CDC weekly [Achievements in Public Health, 1900-1999: Healthier Mothers and Babies](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4838a2.htm)
 </p>
 
+<p>Steckel uses for IMR from birthweight   [Weight at Birth and Survival of the Newborn By Geographic Divisions and Urban Rural Areas: United States, Early 1950. Unger, J. July 1965 (1957)](https://www.cdc.gov/nchs/data/series/sr_21/sr21_004acc.pdf)
+
+
 
 **later 20th C sources **
 
@@ -669,8 +672,8 @@ These may contain age/sex/race, but odd text files ...
 
 <p> Except for Mormon's 1850 & 1880, the full-count PUMS are from Ancestry.com  </p>
 
-ICPSR datasets with ages: 1800, 1810, 1820: 0-9;  0-4 (or better) are in 1830, 1840, 1850, 1860,  1930 (Part 27), 1940, 1950, 1960, 1970.  
-
+ICPSR datasets with ages: 2896 has .dta; 0003 has ascii 
+(study 0003?) 1800, 1810, 1820: 0-9;  0-4 (or better) are in 1830, 1840, 1850, 1860,  1930 (Part 27), 1940, 1950, 1960, 1970.  
 NOT 1870 5-18,18-44, 21+
 NOT 1880 -- can get u10 via 10-14, 15-20, 21+
 1890 get u5 via 5-20, 21+  nat-white, for-white, colored
@@ -679,7 +682,13 @@ NOT 1910 no age/sex
 NOT 1920 
 1930
 Ages NOT in 1870, 1880 (5-17, 10-14, 15-20, 18-44, 21+),
-02896-0005-Data.dta 
+02896-0005-Data.dta     
+
+study 2896
+DS11 1870 county & state;  -- lacks the age data
+DS15 1880 county & state; DS18 1890  DS20 1900
+
+
 
 
 <p>[2020 all races by age](https://www2.census.gov/programs-surveys/popest/tables/2020/2020-demographic-analysis-estimates/table-1.xlsx) U.S. Census Bureau, Population Division, 2020 Demographic Analysis (December 2020 release).
@@ -1110,5 +1119,28 @@ Wisconsin - 1836, 1838, 1842, 1846, 1847, 1855, 1865, 1875, 1885 -- no ages, 189
 ICPSR 2896 :  Parts 1-43 are an update to HISTORICAL, DEMOGRAPHIC, ECONOMIC, AND SOCIAL DATA: THE UNITED STATES, 1790-1970 (ICPSR 0003).  Parts 1-41 contain data from the 1790-1970 censuses   .... Most of the published county data on population and housing were included up to the early 20th century. 
 
 Part 7 : 1850; Part 9 1860; part 46 1860 slh
+
+? see also above on these? or in other page?
+
+### census manuscripts manuscript census
+
+[1880](https://www.familysearch.org/search/collection/1417683)
+roll 1 (Alabama, autauga) to roll 1454 (Wyoming, Uinta, Yellow Ck)
+
+[Full listing of reels](https://www.archives.gov/research/census/microfilm-catalog/1790-1890/part-07#wyoming)
+
+[1900](https://www.familysearch.org/search/collection/1325221)  [states' rolls 1-908](https://www.archives.gov/research/census/publications-microfilm-catalogs-census/1900/part-07.html#alabama) and 909-1854
+
+random: 234 	1528	126	949	598	959	1387	1477	131
+
+T623    PA 1354-1502
+
+1854 reels ... sample 1/5 implies 370 reels/counties ... 10 pages per is 3700
+
+
+manuscript slave schedules -- pseudo random picks,
+MS Kemper county, just 65 pages; 
+p1 age4 5 (3f,2m), age5 4 (2,2); p41 a4 1 (0,1); a5 1 (1,0); p33 a4 2 (1,1), a5 3 (1,2); p17 a4 6 (3,3), a5 3 (3,0). TOTAL a4 14 (7,7); a5 11 (7,4)  ... would need lots of time to judge even a single county -- and maybe it's how owners report more than how an enumerator works? RABBIT HOLE!
+
 
 [back to top](#TOC)

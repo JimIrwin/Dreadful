@@ -25,9 +25,9 @@ Steckel paper (maybe 1996 chapter in volume about AA women ?)
 
 ### Enslaved Americans/ Antebellum Southern Slaves  -- via Steckel and others
 
-Dreadful infancy: Steckel (various)
+Dreadful infancy: Steckel (various); Schneider (2017 EHR) postnatal only, *in utero* good. But what are Schneider's implications for IMR?
 
-Not dreadful infancy: Schneider (2017 EHR);  Steckel dissertation?  ?Carson  Coelho&McGuire
+Not dreadful infancy:   Steckel dissertation?  ?Carson  Coelho&McGuire
 
 Carson 2008 argues for vitamin D differences for geog difference is slave height
 
@@ -55,59 +55,124 @@ Steckel (1986 SSH) recaps previous IMR's:  Eblen (1972, 1974) 246-275; Farley (1
 p428 Thomas Afflick's remark "Of those born, one half die under one year"
 
 
-
+Unsourced claims from [Digital History 2021](http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=2&psid=3040).  Slaves suffered extremely high mortality. Half of all slave infants died during their first year of life, twice the rate of white babies. And while the death rate declined for those who survived their first year, it remained twice the white rate through age 14. As a result of this high infant and childhood death rate, the average life expectancy of a slave at birth was just 21 or 22 years, compared to 40 to 43 years for antebellum whites. Compared to whites, relatively few slaves lived into old age. 
  
-Digital History 2021  Slaves suffered extremely high mortality. Half of all slave infants died during their first year of life, twice the rate of white babies. And while the death rate declined for those who survived their first year, it remained twice the white rate through age 14. As a result of this high infant and childhood death rate, the average life expectancy of a slave at birth was just 21 or 22 years, compared to 40 to 43 years for antebellum whites. Compared to whites, relatively few slaves lived into old age. 
- 
-
-
-
-
-
 
 #### slave/Black demography
 
 #### Steckel & related work 
 
-2017 Schneider EHR    epigenetic: good conditions in utero -- foster catch-up growth after a dreadful childhood     
-p4  In essence, this article argues that the tremendous catch-up growth experienced by slaves is inconsistent with Steckel’s assertion that slave birth weights, a proxy for health in utero, were incredibly low. Adaptive theories of human growth suggest that poor conditions in utero have long-lasting effects on the growth pattern of children, especially in limiting catch-up growth. Thus, it is more likely that slave children experienced relatively good conditions in utero and had higher birth weights than Steckel argued.
 
 
 
+Schneider (2017 EHR)^[Children's  growth in an adaptive framework: explaining the growth patterns of American slaves and other historical populations]       
+via epigenetic: good conditions in utero -- foster catch-up growth after a dreadful childhood         
+**NOT** good article; a load of bullshit beyond pointing out the bio-theory point that Steckel's proposed catch-up growth (and terminal heights achieved) are inconsistent with Steckel's story of low birth weights and tough conditions *in utero* . For us: to what extent are relatively healthy adult heights a challenge to our findings of maternal-infant mortality? Is selection (vs scarring) the answer? Recalling Malthus's allusions to very-tall & hearty tribesman with high IMR?
 
 
 
+In terms of scholarship, super-light junky (if only for citing Schwartz 2000 as somehow "evidence" on materials conditions of slave life).The paper does point out that Steckel's birthweight results are not robust and easily could be much understated. But of course the paper accepts as US slaves catch-up growth as fact -- when really that is the question isn't it? Are we thinking the height measures of 3-4 year olds are valid? (scrunching/in arm?)
 
-Punchline: Steckel's work is very sloppy, and his IMR estimate is built from slim evidence ... so how do we handle that? 
+
+ 
+p3  Human biologists, anthropologists, economists, and anthropometric historians have tended
+to treat these inherited and environmental factors as intrinsically separate Because environmental factors explained more of the variation in mean heights than
+genetic differences within a like population, these scholars mostly ignored inherited          
+{p4} influences on height to focus on the effects of varying environmental conditions on nutritional status.      
+    Within an adaptive framework, it is possible to understand how environmental conditions trigger certain genetically and epigenetically encoded life strategies, which, in turn, affect final height, longevity, and morbidity throughout the life cycle. An adaptive framework for growth can also help historians to make sense of the varied patterns of growth in historical populations. For instance, it can help explain why the timing of the pubertal growth spurt varies widely across populations and why some groups of children experience catch-up growth when others do not.      
+    Steckel ... He imputed slave birth weights from other evidence, arguing that they were extremely low compared to modern populations. However, despite slave children’s low starting point, they experienced remarkable catch-up growth after entering the labour force around the age of 10, attaining final adult heights taller than many of their European working-class contemporaries.2 In essence, this article argues that the tremendous catch-up growth experienced by slaves is inconsistent with Steckel’s assertion that slave birth weights, a proxy for health in utero, were incredibly low. Adaptive theories of human growth suggest that poor conditions in utero have long-lasting effects on the growth pattern of children, especially in limiting catch-up growth. Thus, it is more likely that slave children experienced relatively good conditions in utero and had higher birth weights than Steckel argued. Terrible health conditions in infancy and early childhood led the children to become extremely stunted, but the combination of prenatal adaptations for a tall adult height and improvements in their diet and environment made their remarkable catch-up growth possible.  ...
+    I I   Before delving into the prenatal and postnatal adaptive models of children’s growth
+in detail ... first / explain the concept of adaptation from a biological perspective.  Functional adaptations  ...  improve an organism’s fitness or functional viability within a specific environment ... 
+
+p6   Predictive adaptive responses attempt to align the organism’s physiology with later environmental conditions, conferring long-term advantages, but not necessarily improving the immediate fitness of the organism.    ...   The adaptive mechanisms presented in this article increase a person’s chances of surviving to reproductive age and reproducing, but they also have some negative long-term consequences on health after the typical period of reproduction.        
+
+  Barker / ‘early origins hypothesis’ or ‘foetal programming’,     
+    In other words, if a foetus is undernourished in the womb, epigenetic and hormonal processes adapt it to be able to survive better in a postnatal environment with limited nutrients.      
+    
+p7  There are two sets of long-term consequences of predictive adaptive responses in utero: the first affects the child’s growth pattern during the growing years. Children exposed to poor conditions in utero have a slower metabolism, reach a shorter adult stature that requires fewer calories to maintain and experience faster maturation and an earlier age at menarche, so that the foetus reaches reproductive viability early and has a better chance of reproducing before death.11 The second set of long-term consequences of a prenatal predictive adaptive response influence children’s longterm health and productivity.  ... exposure to poor conditions in early life increased the prevalence of heart disease, stroke, and diabetes in later life.12  ... exposed to poor conditions in utero also experience non-adaptive scarring such as cognitive impairments and lower educational attainment and earnings.13     
+ ... three potential adaptive responses to environmental conditions in the postnatal period: an immediate adaptive response of limiting growth to minimize the basal metabolic rate, an immediate adaptive response of delaying the pubertal growth spurt and menarche in females in order to postpone sexual maturity, and catch-up growth when environmental conditions improve following a nutritional or disease insult. 
+8 The first postnatal immediate adaptive response is a slowing of growth during
+a nutritional or disease insult. ... the child limits increases to its basal metabolic rate that come with growth in order to conserve energy. However, there are costs to this response ... postnatal stunting is not healthy  ...  higher risk of disease because malnourishment weakens the immune system.17   ...  the stunted child has a higher relative level of fitness compared to a child who continued to grow normally despite poor environmental conditions.      
+       The second postnatal adaptive response is to delay the pubertal growth spurt and sexual maturity during times of hardship. Despite the fact that menarche would be programmed to arrive earlier by a poor prenatal nutritional environment,  ... menarche can be delayed during periods of poor nutrition in the postnatal environment. This was an immediate adaptive response to postpone reproduction until environmental conditions improved ... also have the unintended consequence of delaying or slowing the pubertal growth spurt, extending the length of the growing period, and lowering final adult height.     
+    The third postnatal adaptive response is catch-up growth that occurs when environmental conditions improve during the growing years.  ...  Type A catch-up growth is a period of rapid growth after a nutritional insult that attempts to bring the child back in line with its genetically and epigenetically defined growth curve. Type B catch-up / not / more rapid  ...  Instead, the growth period is extended longer than normal ... Type C catch-up growth includes both type A and type B ...  Catch-up growth occurs most commonly among children who are substantially below modern standards in terms of height-for-age and when the nutrition and the disease environment to which they are exposed improves during the growing years.     
+      Children with low birth weight, a proxy for health in utero, are less responsive to hormones signalling growth ...  , their catch-up growth happens more slowly and is smaller on an absolute scale than normal birth weight children.      ... { Swedish study feotal length & final heigth}
+      
+p9 Therefore, it appears that children facing growth retardation and predictive adaptive responses in utero have a different growth pattern than children exposed to healthy conditions  with earlier maturation, different responses to hormonal growth signalling, and a lower final height potential.  ...  improving nutrition and type A catch-up growth in children who
+suffered malnutrition in both the prenatal and postnatal periods may trigger earlier
+pubertal development, limiting the amount of type B catch-up growth  ... In any case, catch-up growth is also adaptive because it helps children attain their height potential and confers upon them the advantages of larger body size: greater productivity, health, and self-defence.   ... 
+
+  II The previous section set out an adaptive framework for understanding children’s growth and attempted to explain how some of these mechanisms might have worked.  next 3 sections / demonstrate the utility of this framework by using it to suggest a reinterpretation of the growth pattern of slaves in antebellum America and in the Caribbean.
+
+p14  ...  This new interpretation is built on four key assertions about slavery in antebellum America that have to be carefully justified: first, slave women had to be healthy and well fed relative to women in other historical populations; second, conditions for slave children had to be very bad in infancy and early childhood and improve thereafter; third, slave children’s birth weights could not have been as low as Steckel estimated; and finally, catch-up growth could not have occurred on the scale observed if the children experienced poor conditions in the prenatal period.      
+
+The first assertion ... that slave women had to have been healthy relative to other historical populations.  nutrition {F&E yes; Sutch no; Kiple & Kiple iron&calcium deficient; Gibbs et al. yes; Jasienska no; } US fem slaves 158.9cm       
+
+p15     ... the size of catch-up growth that slaves of both genders experienced is evidence that slaves were given more than enough nutrients to grow despite their high work requirements in adolescence.    
+
+FIRST ASSERTION -- NO BASIS TO PROVE OR DISPROVE.
+It is thus credible that aside from their heavy labour, adult female slaves experienced fairly good conditions relative to other historical populations.  ...  the conditions that pregnant slave women and their developing children experienced in utero were superior to the conditions  that slave children faced in the first few years of life.      
+
+SECOND ASSERTION -- NO BASIS TO PROVE OR DISPROVE. 
+The second key assertion is that the environmental and nutritional conditions that slave children faced in infancy had to be exceptionally bad and there had to be improvement over childhood and adolescence. There is substantial evidence to support this claim, though the evidence on slave children’s health and nutrition is sparse and fragmented at best. {speculation follows, which pretends to be evidence. Cites Schwartz 56-7: recovery time after giving birth, 60-64: breastfeeding}  ^[While mothers tried to breastfeed their children for at least a year, this could prove difficult, depending on owners’ labour requirements. Agricultural journals and plantation rule books generally suggest that slave mothers were given one month out of work following a birth, allowing them to recover and practise exclusive breastfeeding, but after this month and even during the first month in times of peak labour demand, it became more difficult to maintain an exclusive breast milk diet for their babies. On smaller plantations, infants might be brought with their mothers into the fields where they could be nursed regularly. However, on larger plantations using gang labour or where the slave owners wished to extract more productive labour, infants would be kept either in the slave quarters or in a nursery, with mothers returning two to three times during the day to breastfeed their children.49]     
+Slave children were fully weaned probably around one year, though mothers were given less time to breastfeed after eight months.52 {maybe yes, maybe no -- we just don't know, and there is so little sensible/representative evidence}      
+p16 After weaning ...   This poor diet was even less plentiful in the first two years of a child’s life, since slave holders often denied weekly food rations to children under the age of two, forcing parents to feed young children from their own rations.55      
+ section of ASSERTION TWO IS BULLSHIT, in the sense of wholly unsubstantiated ...
+       
+p17    According to agricultural journals and guides to plantation management, children working in the fields received substantially larger rations with more meat than children not working in the fields.       
+
+Third, it seems likely that Steckel significantly underestimated slaves’ birth weights. {est birthweight from age3-4 heights}  ... same growth trajectory from birth to {ages 3-4} / as the reference populations ... Growth faltering, or stunting in early life, is common in impoverished populations, and probably occurred in Steckel’s reference populations.64 However, the evidence presented above suggests that infancy and early childhood were periods of extremely poor nutrition and health for slave children, and probably poorer than Steckel’s reference populations. Thus, it seems plausible that slave children would have become severely stunted by the time they reached the age of three or four, especially since growth velocities are highest before the age of three.65    ...  Lumi 
+p18 {Lumi} mean birth weight around 2,400 grams, but at maturity women were only 147 cm tall, nearly 12 cm shorter than female slaves in the US South.68 Thus, while it is impossible to know the birth weights of slaves, this evidence suggests that Steckel’s predicted birth weights are  implausibly low and that slave birth weights were probably substantially higher.     
+     ... Analysing the potential causes of low slave birth weights also leads to suspicion of Steckel’s figures  { low-height/sickle cell/maternal malaria for -380gm, hard L during pregancy -680 gm } First / likely / pregnant women / given less physically demanding tasks ... Agricultural journals and a general attitude of paternalism among slaveholders suggest that this was a strong norm. **REALLY? "a general attitude?**  ...
+     Second, more recent historical and medical research has shown that early neonatal mortality (deaths in the first seven days) is a better predictor of foetal health than infant mortality or neonatal mortality (deaths in the first 28 days) {p19 refers to Steckels plantation sample}     
+     Third, a large percentage of stillbirths and early neonatal deaths historically were caused by complications during childbirth that had little to do with foetal health and thus predictive adaptive responses.    
+Fourthly, Campbell’s finding / work release {FINDING -- would we so describe?}       
+Finally, the magnitude of the catch-up growth that the slave children achieved is unprecedented and would seem implausible if slave children were exposed to such terrible conditions in utero. {WHAT? CIRCULAR -- you are looking for EVIDENCE that Steckel understates Bweights IN ORDER TO ARGUE THAT THE CATCH-UP IS IMPLAUSIBLE }   Modern studies have **mostly**? found catch-up growth of less than one standard deviation relative to the modern mean.79 Thus, it is clear that the catch-up growth of American slaves was truly remarkable, especially considering that the intervention sparking catch-up growth occurred in the first half of the nineteenth century when even the best nutritional and environmental conditions were far below modern levels YECH: first 1/2, nutrition/enviro **far below modern** 
+
+p20  ...  {Indian girls adopted in Sweden}   Thus, the low average birth weight of American slaves seems inconsistent with their remarkably high level of catch-up growth. Their unique pattern of growth would make more sense if slave children developed and set their metabolism and growth trajectory in a relatively good uterine environment, then faced severe deprivation in infancy before experiencing catch-up growth as conditions improved in late childhood and adolescence.
+
+IV  The adaptive framework seems plausible in explaining the growth pattern of American slaves, but explaining why Caribbean slaves would also experience substantial catch-up growth is more difficult.  In terms of maternal health, slave women in the Caribbean were substantially shorter than their American slave counterparts and shorter than or equal to women in England and Ireland.     Slave {p21} women born in St Lucia and Trinidad were 153.3 cm and 155.6 cm tall respectively,
+and slave women born in Africa were 1–2 cm shorter.85 {Higman?}  ...  slaves in the Caribbean achieved substantial catch-up growth because their material conditions did improve across their growing years. However, their potential for catch-up was limited by the prenatal predictive adaptive response, which set their growth trajectory and metabolism at a lower level. Although conditions were still probably worse in the postnatal period than the prenatal period, the mismatch was smaller, which meant that Caribbean slave children did not fall behind modern standards as quickly as American slave children. Their metabolism better matched their postnatal experience. 
+
+V      {THIS SECTION SEEMS LARGELY IRRELEVANT TO SSMM research}
+With the lessons of the previous case study in mind, we can now explore the implications of an adaptive framework of growth to changes in the growth pattern of human populations over the past 150 years.^[recall p4 "After discussing this case study {slaves}, this article draws on the secondary literature to develop four stylized facts about children’s growth patterns in the past and places these stylized facts within the adaptive framework of growth. The article concludes by offering some ideas about methods and topics ripe for future research.]  discussion / rather speculative ... However, a perusal {22} of the secondary literature does allow for the development of four preliminary stylized facts ...      
+ 
+p22     four preliminary stylized facts that could guide a more systematic and robust analysis. First, early life health conditions have been relatively stable over the past 150 years in the western world. {WHAT ??? 1870-2020 ... urbanization?}.  Second, there is considerable heterogeneity in early life health around the world today, with some developing countries experiencing very low average birth weights. Third, children in the past experienced the pubertal growth spurt at later ages than modern populations. Fourth, there has been a secular decrease in the age at menarche for girls in the west over the past 100 years.      
+    at least from the mid-nineteenth century onward, it appears that early life health conditions in the west were fairly good. *Where birth weight evidence is available*, mostly for working-class populations, it seems that in the second half of the nineteenth and early twentieth centuries, average birth weights in North America had already reached their modern levels (table 1).       
+p23 children in North America and Europe were never exposed to the worst intra-uterine conditions now present in the developing world. {does he mean *white* children?}         
+Despite relatively good early life health conditions, the delay in the timing of the pubertal growth spurt and later age at menarche in western populations in the past suggests that these children must have been making immediate adaptive responses to delay maturation in response to poor nutrition or  high levels of morbidity in the postnatal period. Thus, the secular increase in adult height over the past 150 years was probably caused by a reduction in postnatal stunting over time.99 {Hatton}
+
+
+STECKEL 1986 etc for IMR   -- Steckel's work is very loose/sloppy, and his IMR estimate is built from slim evidence ... so how do we handle that? 
 
 why does he not also use the Bundi?  Malcolm doesn't have birth weight for Bundi ...
 
 Tanner 1991 W Aus aborig n=340 p322 3.1kg birthwt    Manus 2.7 kg
 
-Steckel (1986 EEH)  goofy extrapolation from regression with n=8 which is dominated by the Lumi who are 12.6% below standard while other 7 are 4.8% and less (and slaves are 13.3%). And then a goofy extrapolation from pseudo-weight to neo-natal IMR 152 or 156 ...    
+Steckel (1986 EEH)  goofy extrapolation of birth-weight from child-height via regression with n=8 which is dominated by the Lumi who are 12.6% below standard while other 7 are 4.8% and less (and slaves are 13.3%). And then a goofy extrapolation from pseudo-weight to neo-natal IMR 152 or 156 ...    
 
 p180 modern standard 3.5 kg and 3.4 kg for males and fems, average 3.45  
 
-{ Basic idea is the tiny Lumi people give Steckel a birth weight ... but the  Wark article says the women are small 145-148 cm  42-46 kg;  US slv women 62.51" or 159  -- >4" taller! )
-
-Confirmed in Tanner et al 1966 p626 m 3.5y 50th 98.0, f 3.5y 96.8
-
-Note height or weight by age refer to +/- 6months while Steckels ages are 6mos more (via assumption of uniform age dist) ... 1976p15
-
-Eveleth & Tanner 1991 Many countries collected and analyzed new data in the 1970s and 1980s and only these are presented here in Table 2. Data from 1955-70 will be found in the first edition of this book. We use the older data for comparative purposes in some of the figures since secular trends in worldwide growth will be an important focus in this edition.
-
-Lumi 68.6% implies birthweight 2.3667  -- extrap on slv/Lumi heights gives 2348 grams, or 1.2% more than Steckel's  -- 
-Evel & Tanner 1976 p412 Lumi male 2.4 kg 68.6% ,  p406 male 3y 83.7cm  4yr 87.4cm, fem 84.2 88.9  m weights 3,4 are 10.7, 12.1  1966std 3.5y 15.6     
-
-Wark article, ages are +/- 6mos :  Lumi male 3 83.7, 4   Birthweight 2.4 kg is male & female,
-implying % of standard is 0.69565 or 69.6% and not 68.6%; age 4 males 12.1 kg (SD 1.4)
-
-}
+{ Basic idea is the tiny Lumi people give Steckel a birth weight ... but the  Wark article says the women are small 145-148 cm  42-46 kg;  US slv women 62.51" or 159  -- >4" taller!         
+Confirmed in Tanner et al 1966 p626 m 3.5y 50th 98.0, f 3.5y 96.8        
+Note height or weight by age refer to +/- 6months while Steckels ages are 6mos more (via assumption of uniform age dist) ... 1976p15       
+Eveleth & Tanner 1991 Many countries collected and analyzed new data in the 1970s and 1980s and only these are presented here in Table 2. Data from 1955-70 will be found in the first edition of this book. We use the older data for comparative purposes in some of the figures since secular trends in worldwide growth will be an important focus in this edition.      
+Lumi 68.6% implies birthweight 2.3667  -- extrap on slv/Lumi heights gives 2348 grams, or 1.2% more than Steckel's  --         
+Evel & Tanner 1976 p412 Lumi male 2.4 kg 68.6% ,  p406 male 3y 83.7cm  4yr 87.4cm, fem 84.2 88.9  m weights 3,4 are 10.7, 12.1  1966std 3.5y 15.6       
+Wark article, ages are +/- 6mos :  Lumi male 3 83.7, 4   Birthweight 2.4 kg is male & female, implying % of standard is 0.69565 or 69.6% and not 68.6%; age 4 males 12.1 kg (SD 1.4)    }
 
 p181 Lumi relative to standards: birth weight 0.686, age 3-4 height 0.874% ; slaves height 86.7% of modern standard, regression implies 2320 grams --   Table 3 has birth-weights and age 3-4 heights relative to standards -- cites, w/o pages, Eveleth&Tanner 1976 book, and Tanner et al 1966 articles
 
- 4yrold m slave 35.9" or 100.33 cm  3yo slave 84.7  Lumi  4yo m87.4 f88.9cm 3yo 83.7, 84.2
+4-yr-old m slave 35.9" or 100.33 cm  3yo slave 84.7  Lumi  4yo m87.4 f88.9cm 3yo 83.7, 84.2       
 standard male 4.5y 105.0 cm    3.5y 98.0 used by Steckel for 3yo slave
+
+2.320 kg (2250-2380g 80%) American slave newborns among the smallest documented for poor populations in developing countries of the mid-20th century (Meredith, 1970; WHO, 1980). 
+
+p 183 Table 5:  Jayant, shifted, for birth-weight distribution; US vital stats 1957 for NNMR by weight pp 211 215 218
+
+Nonwhite births delivered by nonphysicians outside of hospitals and institutions in
+metropolitan counties.  211    215   218
+kg,NNMR 2.5-3 24.7, 3-3.5	12.9   ... Steckel seems to assign that whole effect to birth weight, but clearly weight here proxies for wellness more generally?
+
 
 
 Steckel (1986 SSH)  IMR of 350 from 1986EEH  
@@ -117,21 +182,16 @@ n39 use Haines and Avery (1980:95), "The avg of the  I M Rs (male and female) fo
 
 
 Steckel (1986 JEH) "Peculiar Population ... "  
-  The stature of young slave children would trigger alarm in a modern pediatrician's office. At age 4.5 boys on average reached only centile 0.2 and girls attained only 0.5     
+  The stature of young slave children would trigger alarm in a modern pediatrician's office. At age 4.5 boys on average reached only centile 0.2 and girls attained only 0.5        
   p732  If the height data are credible, then why were young slave children so small? The origins of poor health can be traced to difficult periods of fetal and infant growth.24 Slave newborns probably weighed on average fewer than 5.5 pounds or 2,500 grams compared with modern standards of 3,450 grams
  p733 table with IMR, cites SSH 1986 (which cites EEH! -- oh, he is SLOPPY)
 
-Steckel (1992 WCC )  refers to the 1986 trio aEEH, bJEH, cSSH and 1987
- for white IMR, SSH-n39, which is a mess/BS. 
+Steckel (1992 WCC )  refers to the 1986 trio aEEH, bJEH, cSSH and 1987  for white IMR, SSH-n39, which is a mess/BS. 
 
 Steckel (1987 ann hu bio). Mostly on heights and catch-up growth, but some attention to issue of measurement of heights on ships; also discussion of breastfeeding and maternal work. This paper cites 1986 EEH SSH   for IMR ~350, with 4q1 ~ 201 on large plantations
 
-
 Steckel (1979, 1992reprintWCC)  11 plantations, not representative ... 
  
-
-
-
 
 Meeker (1976 EEH) "Mortality Trends of Southern Blacks, 1850-1910"    DRECK: via life-table e10 emancipation reduces health (recover by 1900)
 -- Implications from West Model life tables and census data
@@ -209,7 +269,7 @@ HolmesSJ (1937) *The Negro's Struggle for Survival; a study in human ecology* (i
 
 US Census 1918 *The Negro Population of the U S, 1790-1915.
 
-### Non-US Black Demography
+#### Non-US Black Demography
  
 Trinidad - a. meredith John, book and articles, using data from Fogel & Engerman. 
 
@@ -220,6 +280,22 @@ p180 "more than one-third of newborn plantation slaves in Trinidad died before t
 JohnAM (1988 book p194) Trinidad Plantations 1813 SR04 98.9 (828/837; 3/4 CI 93.5-104.7)  n too small 
 
 South Africa?   Evidence from other Black populations with high IMR??
+
+
+### high IMR populations?
+
+Mubiri et al.   big drop NNMR 1500-1999 78.9, 2000-2499 17.7, 2500-2999 6.5         
+
+
+Jayant (1964) *perinatal mortality*  3822 single births  1947-61 in private maternity hospital to upper social stratum; 2279 single births in charity hospital in 1962. Born dead or died within 7 days are non-survivors.
+p263  perinatal mortality % priv, charity: all 4.6, 9.7; 3.5-4.5 lbs 26.4%, 20.5%, 4.5-5.5 lbs 8.1, 6,0  {charity hospital has lower mortality at low birth weights, higher mort ar higher birthweight -- can we make sense of that? low-birth weight among the affluent are non-well babies; low-birth weight among the poor are regular babies with poor maternal nutrition? }  Private hospital 50% mortality at about 3.3 lbs (male mort<fem 4.6:4.0; charity 9.7:7.7); charity hospital 50% at about 3 lbs      
+Jayant has critical weights (avg morts 4.0 4.6) at f 5.2 and m 5.4 for private. Optimal weights 7.5f 7.4m for mort <2% .  Charity critical (avg morts 7.7, 9.7)  f 4.4, m 4.5      
+via private: 4.5 lb male 12%?     via charity: 4.5 lb male mort 9.7% 
+
+birthweight 4lb male pmr 184 (charity) or 225 (private)
+
+   the logarithm of the ratio of probability of survivors to non-survivors {BASE 10??}
+
 
 
 
@@ -416,13 +492,6 @@ p232 mean age at first birth 19 to 20 yrs, on 16 plantations
 
 
 
-
-
-
-
-
-
-
 <p> Hilde (2020) *Slavery, Fatherhood, and Paternal Duty in African American Communities over the Long Nineteenth Century*. [Buckner review](https://networks.h-net.org/node/4113/reviews/7222405/buckner-hilde-slavery-fatherhood-and-paternal-duty-african-american)  
 
 Probably not useful for SSMM -- IMR via secondary sources (including Steckel). Via review, my sense is it leans towards slaves creating meaning versus slaves being crushed.
@@ -464,30 +533,83 @@ Though enslaved mothers were likely to bear similar numbers of infants to white 
 
 
 
-marie jenkins Schwartz (2000 Harvard) *Born in Bondage: Growing Up Enslaved in the AB South"         
-p22  ...  Slaves found it difficult to persuade planters, as well as overseers, to release pregnant women from arduous chores. No planter could assume a happy outcome from pregnancy. A high infant mortality rate among slaves, combined with miscarriages and stillbirths, ... Only a foolish owner forfeited a woman's labor or assumed any extra expense associated with pregnancy before the pregenancy seemed likely to be carried to term; consequently, slaveholders withheld special accommodations for pregnant women until late in the gestation period. Even then, owners with good intentions might be dissuaded from excusing women from field work if market prices for staple crops soared, tempting them to push slaves toward greater levels of productivity in order to gain short-term profits. Rice planters ... proved particularly vulnerable to the lure of large profits, and they taxed the physical endurance of mother and child to such an extent that slaves growing rice experienced higher rates of mortality than those producing tobacco and cotton ... never reached catastrophic levels / sugar"   n6p219-20  Fogel 1989 pp 127-128; Steckel, "Slave Mortality: Analysis of Evidence from Plantation Records," in WCC: Conditions, TP V2, 407,410; Dusinberre, 410-416 & n82; Berlin&Morgan (1993) C&C, p21.      
-
-p67 {recommendations on breastfeeding}
-
-p104 is cited for IMR and/or births by race by Knight 2018 WHR. Wrong.
+Fett 2002 
 
 
+marie jenkins Schwartz (2000 Harvard) *Born in Bondage: Growing Up Enslaved in the AB South"    
+**seems unauthoritative** secondary sources combined in an uninteresting fashion**
+
+p22  ...  Slaves found it difficult to persuade planters, as well as overseers, to release pregnant women from arduous chores. No planter could assume a happy outcome from pregnancy. A high infant mortality rate among slaves, combined with miscarriages and stillbirths, ... Only a foolish owner forfeited a woman's labor or assumed any extra expense associated with pregnancy before the pregenancy seemed likely to be carried to term; consequently, slaveholders withheld special accommodations for pregnant women until late in the gestation period. Even then, owners with good intentions might be dissuaded from excusing women from field work if market prices for staple crops soared, tempting them to push slaves toward greater levels of productivity in order to gain short-term profits. Rice planters ... proved particularly vulnerable to the lure of large profits^[vulnerable b/c of the geography of rice?], and they taxed the physical endurance of mother and child to such an extent that slaves growing rice experienced higher rates of mortality than those producing tobacco and cotton ... never reached catastrophic levels / sugar"   n6p219-20  Fogel 1989 pp 127-128; Steckel, "Slave Mortality: Analysis of Evidence from Plantation Records," in WCC: Conditions, TP V2, 407,410; Dusinberre, 410-416 & n82; Berlin&Morgan (1993) C&C, p21.      
+
+p49 {lots of drivel, incl that slaveholders "recognized that infants had to survive if southern society were to continue."  ... 
+    
+     Tempering the owners’ willingness to designate time for infant care was their knowledge that many babies would not survive to adulthood, and those who did would require years of economic support before they began to pay a return on any investment in their care.^[OUCH: it would not take too many years before the child could be sold] support. Slave-holders knew they could not turn their backs on slave infants, however. Cruelty toward slaves’ sons and daughters, nieces and nephews—or any helpless infant for that matter—would alienate the work force and destroy any semblance of cooperation between owners and slaves. Consequently, most owners conceded the needs of infants but exercised caution in allocat-ing plantation resources for their benefit.
+
+     Slave parents did not allow the economics of child rearing to restrain their desire to care for children. They knew that not all infants survived childhood, but they did not believe this fact should diminish the emotional   and material support of the adults responsible for them. 
+
+The majority of {p50} slaves throughout the South eventually procured housing and HH furnsihings for growing families, even if their owners did not allocate them following the mother’s first birth.  ... the majority of slave children while young lived in homes with two
+parents.2 {FN to Gutman book OUCH}
+   
+
+
+p56-57 after giving birth
+
+
+60-64 (Schneider uses for breastfeeding claims)   notes 26-37: Rawick-Narratives; DeBow; Southern Planter; South Cultivator ... some archival papers; 
+65-69 also on breastfeeding etc notes 38-48 -- why doesn't Scheider cite?    
+p67 {recommendations on breastfeeding}           
+p68    Owners encouraged or acknowledged prolonged breastfeeding by denying infants under age two the weekly food rations they distributed to other members of slave families.{IS there any evidence to substantiate this claim -- "denying" infant the rations?? AARGH}  ... p69 n48 for the paragraph. But n48 is Klein & Engerman on comparative lactation US vs Carib
 
 
 
 
+p104 is cited for IMR and/or births by race by Knight 2018 WHR. Wrong.      
 
 
 
+Gaspar & Hine (1996) *More than Chattel: Black Women and Slavery in the Americas*       
+
+
+Bush barbara, "Hard Labor: Women, Childbirth, and Resistance in British Caribbean Slave Societies," 193–217.
+
+
+Bush (1990), Slave Women in Caribbean Society, 1650–1838. Bloomington: Indiana University Press, 1990.  {Somewhat useful for contemporary comment; mostly medical/imr via secondary Kiple, Higman, Dunn, Sheridam}
+
+p39-40 Before 1807 there is no indication that fertility increased the worth of women -- women of similar ages, with or without children, generally cost the {40} same. After the abolition of the slave trade, and able-bodied field slave cost approximately L 180 sterling and Stewart noted that a female slave with a healthy infant was 'at least 20% more valuable than she was before it was born.' n8^[]  The decline in slave numbers after 1807 encouraged a much greater interest in the childbearing potentialities of women slaves, in addition to raising the value of infant slaves to a fifth of a healthy adult {not quite correct -- childbearing potential increases woman's value so the 20% overstates the value of the infant}       
+ 
+p87  early West Indian commentators / Ligon / Sloane / were more favorable in their comments on slave marriages and morality than were later 18C writers.    ...  preindustrial Europe  / Phillipe Ariès / before the 17C in Europe, 'family' implied a far looser and flexible institution than it does today. The wider kinhip unit predominated over the conjugal marriage unit and communities were cohered by non-family age-group structures as in many West African societies.  ... little personal privacy was expected or attainable and hence the concept of modesty and the code of sexual morals differed considerably from those which prevailed in later industrial societies (Ariès 1962).        
+... 'Mothering' in the modern sense of the word did not exist, for women had vital work to do in the house and fields and could not devote all their time to their children. {*ever so*?} The high infant mortality rate {88-89 illustrations; p90} resulted in a certain degree of 'indifference to a too-fragile childhood' .    ... concept of childhood as a special phase in the life of the individual did not exist before the cultural, demographic and economic changes which resulted from industrialisation in the 19C.     
+p122   low fertility is now generally recognized as the prime reason W I slave pops did not naturally reproduce themselves.    ... To a minor degree, the adverse effects of African childbearing habits, such as the late weaning of infants, were also cited as influential in determining the childbearing potential of female slaves. {BUT late weaning reduces IMR?}     
+p126 {African taboo on sex for 2yrs after birth} Genovese (1974) and Gutman (1976) both cite evidence of prolonged nursing among nineteenth-century slave mothers in the American Old South where a healthy rate of natural increase existed. {PAGES FOR Geno & Gutm?}     
+p127 ... As modern West African fertility rates remain very high despite long periods of breast feeding, restrictions on intercourse, high foetal and infant mortality and early sterility of women, Kiple (1984) argues we must seek other reasons.  For him these are located in the high infant mortality and diet and disease patterns of Caribbean slavery, whilst Richard Dunn (1977), who also rejects the long suckling explanations, argues that ‘eccentric’ birth intervals are better explained by sexual abstinence, miscarriages and abortions, which suggests a more active role for slaves in determining fertility.   ...     
+Contemporary observers noted that women whose tasks were lightest had more and healthier children than their less fortunate sisters.     
+p131  Dunn (1977) / infant mortality rate was roughly equal for both plantations   {Jamaica & Virginia}
+p132 Karasch (1987) 19C Rio  dietary defiencies affected the ability of slave women to bear and raise healthy children.     
+p134  Dr Jonathan Troup noted that fewer black women died in childbirth than white women but slave infant mortality was much higher.9    
+p143  In the first nine days of life infants were particularly vulnerable and, according to Higman, contemporary estimates placed the mortality rate within this period at between 25 and 50 per cent of all live births (Higman, 1984)    ... tetanus ...      
+p146 n his biological history of the Caribbean, Kenneth Kiple (1984) places considerable emphasis on the link between nutrition and disease. Rates of death from infant tetanus, he argues, were fairly uniform in the nineteenth century, comprising betwen 5 and 10 per cent of infant deaths, but many alleged deaths were not neonatal tetanus. He suggests that slave doctors may have confused neonatal tetanus with tetany, a condition derived from maternal tetany (the deficiency of calcium and other vital minerals during pregnancy). This condition results in hypocalcaemic or hypomagnesaemic convulsions in infants. The symptoms of tetany and neonatal tetanus are thus identical but the former was medically unknown even in the latter half of the nineteenth century. Kiple attributes the high rate of tetany to the neglect of the diet of slave women, which resulted in calcium levels falling with each pregnancy. He thus explains the decline in infant deaths towards the end of slavery to better nutrition. However, there are flaws in this argument. Tetany is linked to vitamin D deficiency and this is less common in climates with ample sunshine. It is also generally not associated with mothers who breast feed.     
+
+The key to a fuller understanding of the crucial variables of infant mortality on slave plantations lies, perhaps, in the symbolic nature of the first nine days of an infant’s life in both African and Afro-Caribbean folk lore, a factor which contemporary observers were either ignorant of or chose to disregard, although they frequently alluded to this period as a significant feature of tetanus in infants. When ‘Monk’ Lewis discussed the problems of caring for slave infants with his slave midwife, she fatalistically replied, ‘Oh Massa, ’til nine days over, we no hope for them.’ Thus many planters believed that if more care were given to infants during this period, far fewer would be lost.      
+In West Africa a new-born infant is not regarded as part of this world until eight or nine days have passed, during which period it may be ritually neglected. The infant is regarded as no more than a ‘wandering ghost’, a capricious visitor from the underworld. Amongst the Akan of Ghana, for instance, a child remains within the spirit world until this period is over and it becomes a human being, recognised by its father. The hair of the infant is known as ‘ghost hair’, the infant’s excreta as ‘ghost’s excreta’ and the cooing of infants as ‘the language of ghosts’ (Rattray, 1927). If a child dies before this time it is considered never to have existed, which may explain the under-reporting of infant deaths. Similar traditions are found amongst the Ga people (Cutrufelli, 1983). The durability of West African practices relating to childbirth has already been observed and it may be argued that the nine-day period when slave midwives reputedly held ‘no hope’ for infants may have reflected the endurance of African beliefs rather than {p147} deliberate neglect and fatalism b/c of the high risk of tetanus, as Orlando Patterson (1969) suggests.
+p147 ... As yet, few scholars have seriously contemplated the possible relationship between the high neonatal mortality rate of slave populations and infanticide, although the latter has been practised, for a variety of reasons, in many diverse societies from ‘time immemorial’ (Langer, 1974). A number of strong motives for infanticide existed in slave society and slave women would almost certainly have known of suitable methods to use, as they did in the case of abortion and contraception.      
+p148  ... According to Sheridan, there was a decline in infant deaths from tetanus by 1830 and this cannot be explained solely by better conditions, as planters and doctors tended to be disappointed by their efforts to cut infant mortality rates. {ouch -- planter/Dr vs mothers/women}. It may be explained more satisfactorily by the creolisation of the population and greater impact of Christian beliefs which diluted the mystical justification of the nine-day period.     
+p149  ... Among non-Christian peoples in particular infanticide has always been an accepted procedure for the disposal, not only of the deformed or sickly, but of all such new-borns that might strain the resources of the individual family or larger community (Langer, 1974). In this context the practice of infanticide as a reason for the excessively high mortality rate in the first two weeks of life has plausibility.      
+The controversy 
 
 
 JonesJaq (1985) *Labor of Love*   -- see revision 2010
 
-Campbell (1984 JIH) 
+Kiple (1984/2002), The Caribbean Slave: A Biological History. Check also K&King 1981/2002 Bk, K&K 1980 JIH
 
+Campbell (1984 JIH)    
+GA plantations of Kollock george j.  
+p795 1837-61 24 yrs; 82 slaves "born", 29 die as infants; 29/82 is 353 per 1000
+p799 of 82, 9 births excluded (mother unknown or house servant or DOB unknown); of the 73 pregnancies, 51 with complete records; 181 of 219 trimesters had complete records.
+p800 Table 1  51 complete-record pregnancies: 33 infant survives, 18 infant dies
 
+p801 1837-4 die/live 31/27  1849-61 32/91 total 63/118   181 completed trimesters  
 
-
+p812 n28 5 of the 29 deaths had a specific cause cited -- lockjaw
 
 
 
@@ -545,8 +667,10 @@ p84{1837}My object in moving was to acquire a subsistence by some other business
 
 <a name="HEALTHsect"></a>  
 
-### Slave Health
+### Slave Health / Medicine
 
+
+Bankole (1998 Garland) *Slavery and Medicine: Enslavement and Medical Practices in Antebellum Louisiana*
 
 Kiple & Kiple (1977 J Soc Hi)
 

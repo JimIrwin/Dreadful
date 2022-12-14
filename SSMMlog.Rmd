@@ -9,7 +9,7 @@ output: html_document
 
 #### loose ends?
 
-2022.1024 family trees probably give accurate birth years, so use them to characterize 1860 census manuscripts enumeration of infants and young children. Ji's conjecture is that 11-mos olds are rounded up to one-year, and that 4.5 year olds are rounded up to 5yr olds. How does lower mortality of 4.5 yr olds vs infants affect undercount sorts of issues?
+2022.1210 Js & Ji suggest that leaving mothers alone, with "masters" choices much worse for infant mortality and producing kids; are there generalizations to pursue? Issue of "discounting" the future -- master's future profit? Issue of parent's discounting their kids' future less than an owner would?  (LeGuinn angle?)
 
 2022.1016  Sandberg & Steckel 1987 AnnHuBio and claim of mild subsistence crisis in Sweden in mid19C  ... something for us?
 
@@ -17,6 +17,52 @@ output: html_document
 
 ### current log ###
 
+
+
+
+
+
+2022.1209 cross-census tracking (1850 to 1860) suggest sex-biased age-heaping at 5, 10, 15, etc. The u5m cohort appears to grow 4% while the u5f declines 3% -- plausibly 1850's u5m cohort is missing 4-year-olds coded as age 5, while 1860's 10to14m includes some 9-year-olds. There are too many free parameters to make many strong inferences, but consider the simple issue of the CSR in 1850 in light of the 1860 data.
+For each 1850 CSR value, what is the 1860 proxy value?
+u5 +2.3%  10to14 -4.7%  
+u10 +1.4% 10to19 -0.9%
+u19 +0.6% 10to29 -0.3%  
+u29 -0.1% 10to29 -0.0%    BUT: 1860s 10-year-olds may well be biased via treatment of 9-yr-olds.   I suspect 15-24 more accurately measured than 10-19 -- 
+
+
+ OOPS -- raises concern that our result is an artifact of age-heaping of boys into age 5 (relative to girls).     
+
+
+Example: 0-4 to 10-14  m +4%  f -3%   but 5-9 to 15-19 m -8% f -5% pool ages and much less: u10 to 10-19 m -2%  vs f -4%          
+So for sex-ratios, if use 1860 5to9 as proxy for 1850 u5, SR shifts 7% toward boys, but if us 1860s 10to19 to proxy for 1850 u10, SR shifts just 2.3% toward boys (still unhealthy value)
+
+2022.1207 cumbersome code for Alter-like cross-census tracking (can't get summarize_all or across to work, so end up writing every silly var name {sm14=sum(sm14,na.rm=T),sf14=sum(sf14, ... )}        
+And after all that 1850 to 1860 survivals suggest fairly extreme age-heaping with some sex-bias ... more work needed (how much is just getting code wrong?)
+
+2022.12 used 1870 and 1900 census manuscripts to identify people age u5 in 1860; can't find any examples of 1860 u5 persons  not enumerated with their 1860 household; rather fairly frequent rounding up of ages (despite June 1 1860 census day, person with DOB July 1 1859 is enum as 1 and not as 11 months ); 0 to 1, 4 to 5 etc. CLAIM: oft-cited "underenumeration" of infants is simply mis-enumeration, counting them as 1; similarly u5 is too small but u6 includes all u5 ... to pursue for HSUS and "22.1024 loose end" that said:      
+ 
+        2022.1024 family trees probably give accurate birth years, so use them to characterize 1860 census manuscripts enumeration of infants and young children. Ji's conjecture is that 11-mos olds are rounded up to one-year, and that 4.5 year olds are rounded up to 5yr olds. How does lower mortality of 4.5 yr olds vs infants affect undercount sorts of issues?
+
+
+
+
+2022.1123 glitchy tiny populations of slaves with indeterminate SLH sizes ...e.g. Hancock VA 2 slaves ... no SLH returns for MS Washington, Sunflower, Hancock. 
+
+2022.1122   Ji grabbed 1860 LA sugar data: 23 counties with non-negligible sugar; but their total u5 pop is maybe 25k -- too small to feature ...
+
+* Jim to look at "black" SRB -- to what extent does a female-tilted CSR reflect "black" SRB    ... 5th Senegal/Chicago  2024-25 PostDoc
+* 1860 US census ICPSR: county-level women in mfg L 
+
+
+2022.1121  
+slv/pop > 40% 2.62m  2/3 of US slaves, CSR +3.2% ; <40% 1.31  +1.7%
+plantations 2.635 CSR +3.47%  nonplantation 1.25%    1860   -- look at same counties in 1850, if the slave populations are large enough? (large enough that plantations are plausible -- vs newly settled?)
+
+2022.1119 Ji finds 1850 & 1860 county-level census data. First step is confirm u5 slave populations      
+Wonder about church/religion data in cenvols -- of interest?  what about f labor in manuf?
+
+
+2022.1108 Ji will turn from LIT to empirical work ...
 
 2022.1028   rural/urb IMR -- Js uses 1890 Woods et al ... 
 

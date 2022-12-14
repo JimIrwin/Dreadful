@@ -139,7 +139,6 @@ K&F are used by Easterlin, for his story of e0 transition in England, France, Sw
 <br>Of note for me, compared to ONS, they seem to have more e0 rise 1871-1901 and less 1901-1911, and they have some gain in male q0 1871-1901 (178.5 to 173 -- maybe negligible?). p3 says "documentation ... turned out to be too bulky to print ... data comes from official national publications or through reliable secondary source constituted by the UN Demographic Yrbooks 1948-66" p670 for UK Mitchell 1962 Abstr of Brit Hist Stats; Reg-Gen annual reports; Annual Abstracts etc.
 </p>
 
-
 ### new stuff to review and then move (to the proper place in the page)
 
 Tavasolli et al    
@@ -197,6 +196,12 @@ McKeown (1967:123) draws on Beaver to argue for importance of milk quality for r
 Morse & Luke ( [2021 Pop Studies](https://www.tandfonline.com/doi/abs/10.1080/00324728.2021.1877793) )
 "Foetal loss and feminine sex ratios at birth in sub-Saharan Africa" . Published online 2021 Feb 18, we get via Jun28 George Alter sends Jun28 [N-IUSSP](https://www.niussp.org/fertility-and-reproduction/missing-boys-in-sub-saharan-africa-due-to-high-rates-of-foetal-loss/)
 blurb/article about the journal article
+
+ABSTR few studies have considered the role of foetal loss (spontaneous abortion), in producing feminine sex ratios.  ...   We use Demographic and Health Survey data on second births to women in 17 sub-Saharan African countries. Results show that longer second birth intervals are significantly related to lower odds of a male second birth and to feminine sex ratios at birth. These findings suggest that high levels of foetal loss, which could signal underlying poor maternal health in a population, have dramatic effects on the sex ratio at birth.
+
+ PUMS? -- 10% sample 
+
+
 
 
 Galloway [(1994 EuJPop)](https://link.springer.com/content/pdf/10.1007/BF01265303.pdf) "A reconstruction of the population of North Italy from 1650 to 1881 ...  annual inverse projection ... comparisons to England, France, and Sweden"

@@ -834,12 +834,6 @@ IHS has IMR starting 1866 -- very volatile (even w/o 1868's 392: 1877-80  161 19
 
 
 
-### Brazil
-
-Brazil's [IBGE](https://loja.ibge.gov.br/) has historical statistics for [download:](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=231573); e.g  [1822-89](https://loja.ibge.gov.br/historia-das-estatisticas-brasileiras-estatisticas-desejadas.html), 
-
-[Brazil 1872](https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&view=detalhes)  Some funny-looking sex-ratio values in mestizos and slave >10 yrs?
-
 <a name="AUSNZsect"></a>
 
 ### Australasia
@@ -1406,7 +1400,7 @@ censuses up to 1871 in one volume [online](https://archive.org/stream/censusofca
 
 Statistics Canada pubs at Internet Archive [1941](https://archive.org/details/statisticscanada?&and[]=year%3A%221941%22)
 
-### other Americas ###
+## other Americas ##
 
 RobertsGW 1957 The Population of Jamaica    
 p61 age pyramids u5 f & m  looks like  1881 6.55 6.45     1943  6.2  6.3  ?     
@@ -1415,6 +1409,18 @@ p198 Life Table male IMR 1881 178, 1891 196,  1911 198, 1921 187, 1946 102, 1951
 Index     
 IMR 4, 184-192, 204-214
 Jamaica censuses for 1844, 1861, 1871, 1881, 1891, 1911, 1921, 1943   -- 1943 is search only at Hathi. No otherwise located ... (2022 Oct)
+
+
+
+### Brazil
+
+Brazil's [IBGE](https://loja.ibge.gov.br/) has historical statistics for [download:](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=231573); e.g  [1822-89](https://loja.ibge.gov.br/historia-das-estatisticas-brasileiras-estatisticas-desejadas.html), 
+
+[Brazil 1872](https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=225477&view=detalhes)  Some funny-looking sex-ratio values in mestizos and slave >10 yrs?
+
+Censuses 1 1872, 1890 1900 1920 1940 1950 1960 1970 1980 1990 1996? 2000    12 2010  2022?
+2   3  4 5 6 7 8 9 10 11     12 2010   
+
 
 
 
